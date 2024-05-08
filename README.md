@@ -5,32 +5,32 @@
 
 ### Player's Guide
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/s1-playersguide-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/s1-playersguide-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/s1-playersguide-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/s1-playersguide-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/s1-playersguide-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-playersguide-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-playersguide-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/s1-playersguide-it.pdf)
 
 
 ## Game Rules and Documents
 
 ### Quickstart Rules
 
-- [ENGLISH](https://files.disneylorcana.com/S3_Quick_Start_Book_EN.pdf)
-- [DEUTSCH](https://files.disneylorcana.com/S3_Quick_Start_Book_DE.pdf)
-- [FRANÇAIS](https://files.disneylorcana.com/S3_Quick_Start_Book_FR.pdf)
-- [ITALIANO](https://files.disneylorcana.com/S3_Quick_Start_Book_IT.pdf)
-- [Español](https://files.disneylorcana.com/S3_Quick_Start_Book_ES01.pdf)
+- [ENGLISH](files_disneylorcana_com/S3_Quick_Start_Book_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/S3_Quick_Start_Book_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/S3_Quick_Start_Book_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/S3_Quick_Start_Book_IT.pdf)
+- [Español](files_disneylorcana_com/S3_Quick_Start_Book_ES01.pdf)
 
 ### Comprehensive Rules
 
-- [Download Disney Lorcana Comprehensive Rules](https://files.disneylorcana.com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf)
+- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf)
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/s1-set-notes-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/s1-set-notes-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/s1-set-notes-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/s1-set-notes-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/s1-set-notes-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-set-notes-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-set-notes-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/s1-set-notes-it.pdf)
 
 ### Disney Lorcana TCG FAQ
 
@@ -41,46 +41,46 @@
 
 ### Tournament Rules
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/tournament-rules)
-- [DEUSTCH](https://cdn.ravensburger.com/lorcana/tournament-rules-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/tournament-rules-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/tournament-rules-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf)
+- [DEUSTCH](cdn_ravensburger_com/lorcana/tournament-rules-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/tournament-rules-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/tournament-rules-it.pdf)
 
 ### Inklands Championship Tournament Rules
 
-- [English](https://files.disneylorcana.com/DLC_S3_OPChampionships_Event%20Instructions_EN.pdf)
-- [Deutsch](https://files.disneylorcana.com/DLC_S3_OPChampionships_Event%20Instructions_DE.pdf)
-- [FRANÇAIS](https://files.disneylorcana.com/DLC_S3_OPChampionships_Event%20Instructions_FR.pdf)
-- [Italiano](https://files.disneylorcana.com/DLC_S3_OPChampionships_Event%20Instructions_IT.pdf)
+- [English](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_IT.pdf)
 
 ### Play Correction Guidelines
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/play-correction-guidelines-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/play-correction-guidelines-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/play-correction-guidelines-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/play-correction-guidelines-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/play-correction-guidelines-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/play-correction-guidelines-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/play-correction-guidelines-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/play-correction-guidelines-it.pdf)
 
 ### Disney Lorcana TCG Deck Registration Sheet
 
-- [https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet](https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet)
+- [https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet](cdn_ravensburger_com/lorcana/op-constructed-decklist-registration-sheet.pdf)
 
 ### Disney Lorcana TCG: The First Chapter Decklist
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/s1-deck-checklist-en)
-- [ENGLISH (A4)](https://cdn.ravensburger.com/lorcana/s1-deck-checklist-a4-en)
+- [ENGLISH](cdn_ravensburger_com/lorcana/s1-deck-checklist-en.pdf)
+- [ENGLISH (A4)](cdn_ravensburger_com/lorcana/s1-deck-checklist-a4-en.pdf)
 
 ### Disney Lorcana TCG: Rise of the Floodborn Decklist
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/s2-decklist-a4-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/s2-decklist-a4-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/s2-decklist-a4-fr)
+- [ENGLISH](cdn_ravensburger_com/lorcana/s2-decklist-a4-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/s2-decklist-a4-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/s2-decklist-a4-fr.pdf)
 
 ### Disney Lorcana TCG: Into the Inklands Decklist
 
-- [English](https://files.disneylorcana.com/Set%203%20-%20Decklist%20-%20A4_EN.pdf)
-- [DEUTSCH](https://files.disneylorcana.com/Set%203%20-%20Decklist%20-%20A4_DE.pdf)
-- [FRANÇAIS](https://files.disneylorcana.com/Set%203%20-%20Decklist%20-%20A4_FR.pdf)
-- [Italiano](https://files.disneylorcana.com/Set%203%20-%20Decklist%20-%20A4_IT.pdf)
+- [English](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_FR.pdf)
+- [Italiano](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_IT.pdf)
 
 ### Melee Tournament Platform Documentation
 
@@ -88,36 +88,36 @@
 
 ### Set 2 OP Kit Instructions
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/op-kit2-instruction-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/op-kit2-instruction-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/op-kit2-instruction-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/op-kit2-instruction-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/op-kit2-instruction-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/op-kit2-instruction-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-kit2-instruction-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/op-kit2-instruction-it.pdf)
 
 ### OP Kit Set 2 League Poster
 
-- [https://cdn.ravensburger.com/lorcana/op-kit2-league-poster-en](https://cdn.ravensburger.com/lorcana/op-kit2-league-poster-en)
+- [https://cdn.ravensburger.com/lorcana/op-kit2-league-poster-en](cdn_ravensburger_com/lorcana/op-kit2-league-poster-en.pdf)
 
 ### Set 3 OP Kit Instructions
 
-- [English](https://cdn.ravensburger.com/lorcana/op-kit3-instruction-en)
-- [Deutsch](https://cdn.ravensburger.com/lorcana/op-kit3-instruction-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/op-kit3-instruction-fr)
-- [Italiano](https://cdn.ravensburger.com/lorcana/op-kit3-instruction-it)
-- [ESPAÑOL](https://files.disneylorcana.com/Into%20the%20Inklands_OrganizedPlay_Newsletter_ES.pdf)
+- [English](cdn_ravensburger_com/lorcana/op-kit3-instruction-en.pdf)
+- [Deutsch](cdn_ravensburger_com/lorcana/op-kit3-instruction-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-kit3-instruction-fr.pdf)
+- [Italiano](cdn_ravensburger_com/lorcana/op-kit3-instruction-it.pdf)
+- [ESPAÑOL](files_disneylorcana_com/Into%20the%20Inklands_OrganizedPlay_Newsletter_ES.pdf)
 
 ### OP Kit Set 3 League Poster
 
-- [https://files.disneylorcana.com/op-kit3-league-poster-en.pdf](https://files.disneylorcana.com/op-kit3-league-poster-en.pdf)
+- [https://files.disneylorcana.com/op-kit3-league-poster-en.pdf](files_disneylorcana_com/op-kit3-league-poster-en.pdf)
 
 
 ## Policies
 
 ### Hobby Store Requirements
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/store-requirements-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/store-requirements-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/store-requirements-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/store-requirements-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/store-requirements-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/store-requirements-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/store-requirements-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/store-requirements-it.pdf)
 
 ### Hobby Store Program Application Form
 
@@ -125,30 +125,30 @@
 
 ### Hobby Store Terms & Conditions
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/hsp-agreement-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/hsp-agreement-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/hsp-agreement-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/hsp-agreement-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/hsp-agreement-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/hsp-agreement-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/hsp-agreement-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/hsp-agreement-it.pdf)
 
 ### Diversity & Inclusion Policy
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/op-diversity-and-inclusion-policy-en)
-- [Deutsch](https://cdn.ravensburger.com/lorcana/op-diversity-and-inclusion-policy-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/op-diversity-and-inclusion-policy-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/op-diversity-and-inclusion-policy-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf)
+- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf)
 
 ### Community Code
 
-- [ENGLISH](https://cdn.ravensburger.com/lorcana/community-code-en)
-- [DEUTSCH](https://cdn.ravensburger.com/lorcana/community-code-de)
-- [FRANÇAIS](https://cdn.ravensburger.com/lorcana/community-code-fr)
-- [ITALIANO](https://cdn.ravensburger.com/lorcana/community-code-it)
+- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf)
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf)
+- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf)
 
 ### Replacement Policy
 
-- [English](https://cdn.ravensburger.com/lorcana/replacement-policy-en)
-- [Deutsch](https://cdn.ravensburger.com/lorcana/replacement-policy-de)
-- [Italiano](https://cdn.ravensburger.com/lorcana/replacement-policy-it)
+- [English](cdn_ravensburger_com/lorcana/replacement-policy-en.pdf)
+- [Deutsch](cdn_ravensburger_com/lorcana/replacement-policy-de.pdf)
+- [Italiano](cdn_ravensburger_com/lorcana/replacement-policy-it.pdf)
 
 
 ## Marketing Materials

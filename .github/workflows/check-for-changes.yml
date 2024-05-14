@@ -1,0 +1,11 @@
+on:
+  schedule:
+    - cron: "6 * * * *"
+
+jobs:
+  check-for-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: "actions/checkout@v4"
+      - run: "python3 sync.py"
+      - run: "git diff --exit-code"

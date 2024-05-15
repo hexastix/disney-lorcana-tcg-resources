@@ -1,4 +1,5 @@
 import os
+import pathlib
 import sys
 import urllib.parse
 import urllib.request
@@ -24,17 +25,18 @@ class ResourcesHTMLParser(HTMLParser):
         self.in_accordion_header = False
         self.href = None
 
-    def download_file(self, url):
+    def download_pdf_file(self, url):
         request = urllib.request.Request(url)
         request.add_header("User-Agent", "")
 
         result = urllib.parse.urlparse(url)
-        relative_url = f"{result.netloc.replace('.', '_')}{result.path}"
-        if not relative_url.endswith(".pdf"):
-            relative_url = f"{relative_url}.pdf"
 
-        file_path = os.path.join(self.output_dir, urllib.parse.unquote(relative_url))
-        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+        file_path = pathlib.Path(
+            self.output_dir,
+            f"{result.netloc.replace('.', '_')}{urllib.parse.unquote(result.path)}",
+        ).with_suffix(".pdf")
+
+        os.makedirs(file_path.parent, exist_ok=True)
 
         print(f"Downloading {url} to {file_path}")
 
@@ -42,7 +44,7 @@ class ResourcesHTMLParser(HTMLParser):
             with open(file_path, "wb") as w:
                 w.write(r.read())
 
-        return relative_url
+        return file_path
 
     def handle_starttag(self, tag, attrs):
         if self.in_faq_section:
@@ -63,7 +65,10 @@ class ResourcesHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.href is None
                         if attr_value.startswith(URL_PREFIXES):
-                            self.href = self.download_file(attr_value)
+                            pdf_file_path = self.download_pdf_file(attr_value)
+                            self.href = urllib.parse.quote(
+                                str(pdf_file_path.relative_to(self.output_dir))
+                            )
                         else:
                             self.href = attr_value
                         break

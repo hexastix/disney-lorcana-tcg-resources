@@ -23,7 +23,7 @@ class ResourcesHTMLParser(HTMLParser):
         self.in_faq_section = False
         self.in_faq_block_title = False
         self.in_accordion_header = False
-        self.href = None
+        self.list_item = None
 
     def download_pdf_file(self, url):
         request = urllib.request.Request(url)
@@ -63,14 +63,15 @@ class ResourcesHTMLParser(HTMLParser):
             elif tag == "a":
                 for attr_name, attr_value in attrs:
                     if attr_name == "href":
-                        assert self.href is None
+                        assert self.list_item is None
                         if attr_value.startswith(URL_PREFIXES):
                             pdf_file_path = self.download_pdf_file(attr_value)
-                            self.href = urllib.parse.quote(
+                            link_to_pdf_file = urllib.parse.quote(
                                 str(pdf_file_path.relative_to(self.output_dir))
                             )
+                            self.list_item = f"[{{data}}]({link_to_pdf_file})"
                         else:
-                            self.href = attr_value
+                            self.list_item = f"[{{data}}]({attr_value})"
                         break
 
         elif tag == "section":
@@ -86,8 +87,11 @@ class ResourcesHTMLParser(HTMLParser):
         elif self.in_accordion_header:
             print(f"\n### {data}\n", file=self.readme_file)
 
-        elif self.href is not None:
-            print(f"- [{data}]({self.href})", file=self.readme_file)
+        elif self.list_item is not None:
+            print(
+                f"- {self.list_item.format(data=data)}",
+                file=self.readme_file,
+            )
 
     def handle_endtag(self, tag):
         if tag == "section":
@@ -98,7 +102,7 @@ class ResourcesHTMLParser(HTMLParser):
             self.in_accordion_header = False
 
         elif tag == "a":
-            self.href = None
+            self.list_item = None
 
 
 def main():

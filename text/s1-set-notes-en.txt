@@ -1,0 +1,274 @@
+                                                TRADING CARD GAME
+
+
+                             Disney Lorcana TCG: The First Chapter Set Notes
+
+          GENERAL RULES
+
+          Challenges
+
+          Q: Are abilities on characters that occur when they’re banished in a challenge
+             considered to happen during the challenge?
+             A: Abilities on characters that occur when they are banished in a challenge happen during
+                that challenge.
+                  Example: Marshmallow – Persistent Guardian has an ability that reads, “When this
+                  character is banished in a challenge, you may return this card to your hand,” and
+                  Cheshire Cat – Not All There has an ability that reads, “When this character is challenged
+                  and banished, banish the challenging character.”
+                  If a player challenges and banishes Cheshire Cat with Marshmallow, the Cheshire Cat’s
+                  ability would banish Marshmallow during the challenge, allowing the challenging player to
+                  return Marshmallow to their hand.
+
+          Q: If I banish a shifted Floodborn card in a challenge while I have a card that lets me gain
+              1 lore when I banish a character, how much lore do I gain?
+             A: No matter how many cards are in a shifted character’s stack, they still count as a single
+                character. Only the top card of a shifted character’s stack is considered banished for the
+                purpose of effects like this.
+                  Example: If you banish a shifted character with Simba – Rightful Heir, you still gain only
+                  1 lore from his ability I Know What I Have to Do.
+
+          Costs
+
+          Q: If I have 2 copies of Mickey Mouse – Wayward Sorcerer in play, will my Magic Broom –
+              Bucket Brigade cost 1 {I} less or 2 {I} less?
+             A: Your Magic Broom will cost 2 {I} less, 1 {I} for each copy of Mickey Mouse – Wayward
+                Sorcerer.
+
+          Q: If I use Freeze and choose to exert my opponent’s The Queen – Wicked and Vain, will
+              The Queen’s exert ability I Summon Thee allow me to draw a card?
+             A: No. When an ability has a cost, the card’s player must pay that cost in order to use the
+                ability. If another effect exerts The Queen, you don’t get to draw the card from I Summon
+                Thee. Additionally, you won’t be able to use that ability until The Queen is readied.
+
+          Q: If one of my characters with a cost higher than 2 sings Be Our Guest while I have
+              Ursula’s Shell Necklace in play, can I apply the extra to pay the 1 {I} cost to use
+              Ursula’s Shell Necklace and draw a card?
+             A: No. The ink cost to use Ursula’s Shell Necklace must be paid independently from the cost
+                of playing the song.
+
+
+
+
+          August 28, 2023                                                                                      1
+
+©Disney
+                                             TRADING CARD GAME
+
+
+          Inkwell
+
+          Q: Can I look at the front of a card that’s already in my inkwell?
+             A. No player can look at the front of a card once it’s put into an inkwell.
+
+          Q: If a card from the top of the deck is put into my inkwell by an effect like Mickey Mouse
+              – Detective’s ability Got a Clue, can I check what that card is before it goes
+              facedown?
+             A: No. Cards put into an inkwell from any location where the card’s information isn’t known,
+                such as the top of a deck, can’t be looked at by either player.
+
+          Q: If I use the ability of Fishbone Quill to put a card from my hand into my inkwell, should
+              I show my opponent the card I choose?
+             A: No. If an ability lets you put any card into an inkwell (regardless of whether it has an
+                inkwell icon), you don’t show the card to opponents.
+
+          Timing
+
+          Q. When more than one effect happens at the same time, what order do they resolve in?
+             A. If multiple effects of yours happen at the same time during your turn, you choose the
+                order in which they occur, then resolve the effects in that order. After that, each other
+                player resolves their effects in turn, starting with the player to your left.
+                  Example: If you have Dr. Facilier – Agent Provocateur in play and your Gramma Tala –
+                  Storyteller is challenged and banished, you choose whether to return the Gramma Tala
+                  card to your hand or put it into your inkwell.
+
+          Q: If I play the action Friends on the Other Side while I have Dr. Facilier – Remarkable
+              Gentleman in play, will I draw the 2 cards from my deck before resolving his Dreams
+              Made Real ability?
+             A: Dr. Facilier’s effect will not occur until after you fully resolve the text on Friends on the
+                Other Side.
+
+          Other
+
+          Q: What happens if a card tells me to perform an action and I can’t do everything it tells
+             me to do?
+             A: If a card says to perform an action, do as much as you can to fulfill the requirements. This
+                does NOT apply to actions that are part of a cost.
+                  Example: Develop Your Brain says “Look at the top 2 cards of your deck. Put one into
+                  your hand and the other on the bottom of the deck.” If you only have one card left in your
+                  deck, you look at that card and then put it in your hand.
+
+          Q: Can a character’s Strength go below 0? What happens if an action or effect raises the
+             Strength on that character later in the turn?
+             A: When a character’s Strength would be reduced to 0 or below, the character is treated as
+                having 0 Strength. If an ability or effect later adds Strength to that character, all modifiers
+                to their Strength are applied at the same time to calculate their total Strength.
+
+
+          August 28, 2023                                                                                       2
+
+
+
+©Disney
+                                            TRADING CARD GAME
+
+
+
+          Q: Say I have an Elsa in play and I choose a ready character for Anna – Heir to
+             Arendelle’s ability Loving Heart. If that chosen character is exerted later in the turn,
+             will they stay exerted during the start of the next turn?
+             A: Yes, the chosen character will stay exerted by Anna’s effect.
+
+
+          KEYWORDS
+
+          Bodyguard (This character may enter play exerted. An opposing character who challenges one
+            of your characters must choose one with Bodyguard if able.)
+             o   If there are multiple opposing exerted characters with the keyword Bodyguard, you can
+                 choose which of those to challenge.
+
+          Challenger +N (While challenging, this character gets +N {S})
+             o   Challenger is additive, meaning you add up all numerical instances of it for a combined
+                 +N {S} gain.
+                 Example: If you have two of Tinker Bell – Peter Pan’s Ally in play, each of them gives
+                 your Peter Pan characters Challenger +1, giving him a total of Challenger +2.
+
+          Reckless (This character can’t quest and must challenge each turn if able.)
+             o   Cards with Reckless must challenge if able, but they can sing or be exerted for other
+                 reasons, making them no longer able to challenge.
+
+             o   If a character with Reckless is readied, it still needs to challenge if able—even if it
+                 already challenged this turn.
+
+          Rush (This character can challenge the turn they’re played.)
+             o   Characters with Rush may challenge the turn they’re played, ignoring the need for the
+                 ink to dry. They still can’t quest, sing a song, or use an exert ability the turn they’re
+                 played.
+
+          Shift (You may pay N {I} to play this on top of one of your characters named X.)
+
+          Q: Does an effect that lets me play a character for free or for less ink apply to playing a
+             Floodborn character using their Shift ability?
+             A: Yes. If a Floodborn character could be played for free, you can use their Shift ability to
+                play them onto a character of the same name without paying the ink cost of the ability.
+                Effects that allow you to pay less ink to play a card also allow you to pay less ink to pay
+                Floodborn characters using their Shift ability.
+
+          Q: Does shifting a character remove damage counters?
+             A: No, any damage remains.
+
+          Q: Can you shift a character, then challenge or quest with them?
+             A: If the character you shifted onto has been in play since the beginning of your turn and
+                could have challenged, the shifted character can challenge as well. If the former version
+
+
+          August 28, 2023                                                                                     3
+
+
+©Disney
+                                             TRADING CARD GAME
+
+
+                 couldn’t challenge for any reason, including an effect preventing that, the shifted
+                 character can’t challenge either. Shifting a character into a new version doesn’t end any
+                 effects that were on the former version.
+
+          Q: What happens to all the cards in a character’s stack if the shifted character is
+             banished or goes to your hand?
+             A: Whatever happens to the top card in the stack of a shifted character also happens to any
+                card under them. If the top card is put directly back into your hand, all cards in that stack
+                go back to your hand. If the top card is put directly into your inkwell, all cards in that stack
+                go along with it, each card counting as 1 ink. If the top card is banished, all cards in that
+                stack go to your discard pile. Only the top card in the stack is considered banished. The
+                stack separates once the cards are moved to another area.
+                 Banishing a card always moves it to your discard pile, so effects that move a card to your
+                 hand or inkwell when it’s banished move it (and any cards in its stack, if it’s a shifted
+                 character) to your discard pile first. Any cards in that stack become separate cards again
+                 at that point.
+
+          Support (Whenever this character quests, you may add their {S} to another chosen character’s
+             {S} this turn.)
+             o   The correct wording is “another chosen character’s {S}.”
+             o   You may choose any player’s character with your character’s Support ability.
+             o   A character can’t gain multiple instances of the Support keyword.
+
+
+          SPECIFIC CARDS
+
+          A Whole New World
+
+          Q: What happens if someone plays A Whole New World when all players have fewer than
+             7 cards left in their deck?
+             A: The active player resolves first, so that player would lose the game.
+
+          Belle – Strange but Special
+
+          Q: If I have multiple copies of Belle – Strange but Special in play, can I apply the effect of
+              her Read a Book ability multiple times in a turn?
+             A: Each copy of Belle can apply her ability once per turn.
+                 Example: If you have 2 copies of Belle – Strange but Special in play, you may put 2 extra
+                 cards into your inkwell each turn.
+
+          Q: When I use Belle – Strange but Special’s Read a Book ability, can I place any card into
+             my inkwell or does it need to have the inkwell icon?
+             A: Belle’s Read A Book ability only allows you to put another card into your inkwell; it doesn’t
+                override any other rules of the normal process of adding a card to your inkwell. The card
+                must have the inkwell icon and you must show it to all players before putting it in your
+                inkwell.
+
+
+          August 28, 2023                                                                                      4
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+          Dr. Facilier – Agent Provocateur
+
+          Q. If I control Dr. Facilier – Agent Provocateur and one of my Floodborn characters who
+              used their Shift ability to be played on top of another card is banished in a challenge,
+              do all cards in the stack go back to my hand?
+             A. No. Because the stack of cards all go to your discard pile first and become separate
+                cards, you could only return the top card of the stack to your hand.
+
+          Elsa – Spirit of Winter
+
+          Q: If I use Elsa – Spirit of Winter’s ability Deep Freeze to exert 2 characters, can those
+              characters be readied with an ability or effect such as Fan the Flames on their next
+              turn?
+             A: Characters exerted with the ability Deep Freeze can be readied by Fan the Flames and
+                similar abilities.
+
+          Moana – Of Motunui
+
+          Q: If Moana – Of Motunui quests, can I choose which princesses I ready? If I had
+              Princesses already readied or I ready them with other effects later in the turn, can
+              they quest that turn?
+             A: If you choose to use Moana’s We Can Fix It ability to ready your other Princess
+                characters, you must ready all of them. If you quest with Moana – Of Motunui, no other
+                Princesses can quest for the rest of your turn, regardless of whether you chose to ready
+                them with her ability or they are readied later in the turn.
+
+          Stitch – Rock Star
+
+          Q: If I have multiple copies of Stitch – Rock Star in play, can I use his ability Adoring
+              Fans multiple times on the same character?
+             A: The ability Adoring Fans requires you to exert the newly played character in order to draw
+                a card. Multiple instances of this ability won’t allow you to draw extra cards, because you
+                won’t be able to exert the same character multiple times.
+
+          Q: Say I have Stitch – Rock Star in play and a cost 3 character in my hand. If I use
+             Lantern so I can pay 1 {I} less to play that character, can I then exert them to draw a
+             card?
+             A: It’s not the cost of the character you play that’s reduced by Lantern; it’s the amount you
+                have to pay. The new character’s cost would still be 3, so they wouldn’t qualify to be a fan
+                of Stitch.
+
+
+
+
+          August 28, 2023                                                                                  5
+
+©Disney

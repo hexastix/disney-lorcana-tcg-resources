@@ -1,0 +1,564 @@
+Disney Lorcana TCG Tournament Rules
+Effective 10/3/2023
+
+   0. Purpose
+   1. Tournament Definitions
+          1.1 Tournament Types
+          1.2 Tournament Levels
+          1.3 Tournament Roles
+          1.4 Eligible Players and Tournament Officials
+   2. Tournament Roles
+          2.1 Tournament Organizer
+          2.2 Head Judge
+          2.3 Judge
+          2.4 Scorekeeper
+          2.5 Player
+          2.6 Spectator
+   3. Tournament Operations
+          3.1 Player Minimums
+          3.2 Round Minimums
+          3.3 Match Structure
+          3.4 Match Procedure
+          3.5 Concessions and Intentional Draws
+          3.6 Deck Registration
+          3.7 Deck Checks
+          3.8 Dropping from a Tournament
+   4. Information and Communication
+          4.1 Written Notes
+          4.2 Electronic Devices
+          4.3 In-Game Information
+          4.4 Inkwell
+   5. Constructed Tournament Formats
+          5.1 Constructed
+   6. Limited Tournament Formats
+          6.1 Limited
+          6.2 Sealed
+          6.3 Preconstructed
+          6.4 Draft
+
+
+
+                                                1
+    7. Time Limits
+          7.1 General Tournament Time Limits
+          7.2 Limited Tournament Time Limits
+
+Ravensburger and the Disney Lorcana Trading Card Game Organized Play Team work to provide a
+welcoming, open, supportive, and safe environment for all event participants. Part of this work includes
+setting rules and standards for tournament roles, processes, and game play procedures.
+
+All tournament participants agree to abide by the rules outlined in this document. Corrective action may
+be taken if these rules are not followed. Other applicable documents that participants must all adhere to
+include:
+• Disney Lorcana TCG Community Code
+• Disney Lorcana TCG Correction Guidelines
+• Disney Lorcana TCG Organized Play Diversity & Inclusion Policy
+
+Section 1: Tournament Definitions
+
+1.1 Tournament Types
+
+Disney Lorcana TCG tournaments are divided into two types:
+
+Limited tournaments are played with unopened Disney Lorcana TCG product that is provided by the
+Tournament Organizer. Players are not expected to bring any Disney Lorcana TCG cards with them to
+participate in a Limited tournament. Limited includes the Preconstructed, Sealed, and Draft variants.
+
+Constructed tournaments are played with decks that the players have built before the tournament
+begins. Each player is responsible for bringing a deck that is legal for the specific Constructed format
+being played at that tournament.
+
+1.2 Tournament Levels
+
+Disney Lorcana TCG tournaments are divided into two levels.
+
+Casual tournaments are played with more relaxed rules and fewer, if any, prizes. These tournaments are
+intended for less serious play; tournament officials are responsible for assuring that these events are
+welcoming to less-experienced players.
+
+Competitive tournaments are intended for more serious play, with stricter rules and higher expectations
+of players.
+
+1.3 Tournament Roles
+
+Tournaments may have multiple roles represented:
+
+    •   Tournament Organizer
+    •   Head Judge
+    •   Floor Judge
+    •   Scorekeeper
+    •   Player
+    •   Spectator
+
+
+                                                     2
+All of the above roles except Player and Spectator are considered Tournament Officials. For purposes of
+this document, “judge” refers to anyone acting as Head Judge or floor judge in that tournament.
+
+1.4 Eligible Players and Tournament Officials
+
+Anyone is eligible to play in any Disney Lorcana TCG tournament, with the following exceptions:
+
+    •   Anyone currently banned from playing in Disney Lorcana TCG events.
+    •   Any Tournament Official for that tournament.
+
+Anyone is eligible to serve as a Tournament Official for a Disney Lorcana TCG tournament, with the
+following exceptions:
+
+    •   Anyone currently banned from playing in Disney Lorcana TCG events.
+    •   Anyone who has played in that tournament, even if they have dropped.
+
+
+
+Section 2: Tournament Roles
+
+2.1 Tournament Organizer
+
+The Tournament Organizer for a Disney Lorcana TCG tournament is responsible for a number of tasks,
+including but not limited to:
+
+    •   Obtaining permission from Ravensburger to run the tournament.
+    •   Providing and furnishing a sufficient site to run the tournament.
+    •   Promoting the tournament to ensure sufficient attendance.
+    •   Advertising the tournament type and format for player preparation.
+    •   Acquiring sufficient staff for the tournament (e.g., judges and a scorekeeper).
+    •   Reporting the tournament results to Ravensburger.
+
+2.2 Head Judge
+
+Every Disney Lorcana TCG tournament must have a Tournament Official designated as the Head Judge for
+that event. This person must be physically present throughout the duration of the event. For Casual
+tournaments, the Tournament Organizer may serve as the Head Judge. For Competitive tournaments,
+they must be two separate individuals.
+
+The Head Judge is the final arbiter for any rules or tournament policy disputes at a Disney Lorcana TCG
+tournament. It is their responsibility to enforce the codes in this document, the Disney Lorcana TCG Full
+Rules, and the Disney Lorcana TCG Penalty Guidelines. All tournament participants are expected to abide
+by the Head Judge’s decisions.
+
+For smaller tournaments, the Head Judge should be the only judge needed. For larger tournaments, the
+Head Judge is expected to delegate tasks to other judges as necessary to facilitate smooth tournament
+function and timely responses to player questions.
+
+If a player is dissatisfied with a judge’s ruling, they may appeal the ruling to the Head Judge. The Head
+Judge’s ruling is final.
+
+
+
+                                                     3
+If any players must be disqualified or otherwise removed from a tournament, the Head Judge must write
+a report of the incident and submit it to Ravensburger.
+
+2.3 Judges
+
+Judges are charged with assisting players with rules questions and handling errors made during play.
+They are expected to be impartial and to avoid assisting players with in-game strategy. Judges should not
+prevent play mistakes from happening but should instead only pause a match if an illegal action is taken
+or if a situation requires de-escalation. Judges should hold themselves to a high standard of sporting
+behavior and should exemplify this to players and spectators whenever serving as a judge for a
+tournament.
+
+2.4 Scorekeeper
+
+The Scorekeeper is responsible for recording all tournament results and generating all tournament
+pairings. For smaller tournaments, this role may be served by the Tournament Organizer or a judge. This
+person should be familiar with the Melee software (www.melee.gg) so that any issues or errors can be
+corrected in a timely manner and with minimal disruption to the tournament. If any egregious
+tournament scorekeeping issues arise, the Head Judge is the final arbiter for determining the
+appropriate action.
+
+2.5 Player
+
+Players in Disney Lorcana TCG tournaments have several responsibilities:
+
+    •   Always being respectful and courteous toward Tournament Officials, other players, and
+        spectators.
+    •   Refraining from unsporting conduct at all times.
+    •   Arriving for the tournament and for all matches punctually.
+    •   Supplying all required tournament materials, including an appropriate deck for Constructed
+        tournaments. This can also include dice, a playmat, pen and paper, and non-marked card
+        sleeves.
+    •   For Competitive Constructed tournaments, submitting their deck list via Melee or on paper.
+    •   Verifying that their match results are reported promptly and accurately.
+    •   Properly communicating with their opponent to the best of their ability.
+    •   Bringing any and all issues to the attention of a judge as soon as they are noticed.
+    •   Abiding by the rules of this document, the Disney Lorcana TCG Full Rules, the Disney Lorcana
+        TCG Correction Guidelines, and all rulings made by judges.
+
+Any assistance given by a judge does not remove these responsibilities.
+
+2.6 Spectator
+
+Spectators are expected to allow Disney Lorcana TCG tournaments to proceed unaffected by their
+observation. Any person physically present at a Disney Lorcana TCG event who is not filling a designated
+tournament role is considered a spectator.
+
+Spectators are expected to remain silent and unobtrusive while matches proceed, with one exception. If
+a spectator observes a rule violation, they should ask the players to pause their game while the spectator
+
+
+                                                    4
+notifies a judge. The spectator should not reveal any details of the perceived violation to the players but
+should instead relay the information to the judge so that the situation can be addressed correctly.
+
+Players may always request that a spectator not observe their match. This request should involve a
+judge. Tournament Officials may always restrict the ability of spectators to observe matches.
+
+
+
+Section 3: Tournament Operations
+
+3.1 Player Minimums
+
+A tournament must have a minimum of eight players to be considered an official Disney Lorcana TCG
+tournament. If at least eight people are not present and ready to participate, the tournament is no
+longer officially sanctioned by Ravensburger and should be reported as Canceled.
+
+3.2 Round Minimums
+
+At least three rounds must be played for a tournament to be considered an official Disney Lorcana TCG
+tournament. If at least three rounds are not played, the tournament is no longer officially sanctioned by
+Ravensburger and should be reported as Canceled. For a better player experience, tournaments with
+more players have more rounds. The recommended number of rounds to be played based on the
+number of players in the first round are as follows:
+
+Players     Swiss Rounds                                           Playoff Format
+8          3 Single-Elimination Rounds                             None
+           4 for Limited tournament with Booster Draft Playoff Top 8 Booster Draft (if Limited)
+9-16
+           5 for Core Constructed                              Top 4 (if Core Constructed)
+17-32      5                                                       Top 8
+33-64      6                                                       Top 8
+65-128     7                                                       Top 8
+129-226    8                                                       Top 8
+
+
+3.3 Match Structure
+
+The Disney Lorcana TCG is played in a best-of-three format. In practice, this means that the players will
+play games until one player has won two games. Drawn games do not count as wins. If the match is
+concluded before one player has won two games, then the player who has won the most games is the
+winner of the match. If both players have the same number of wins at this point, the match is a draw.
+
+Before the match begins, the players must randomly decide which player has the choice of playing first
+or second. Any mutually agreed-upon method may be used, such as rolling dice or flipping a coin. The
+deciding player then chooses whether they will play first or second. The player who plays first does not
+draw a card at the start of their first turn.
+
+
+
+
+                                                     5
+For any games after the first in a match, the player who lost the most recent game chooses whether to
+play first or second in the next game. If the most recent game was a draw, then the same player who
+chose for that game chooses for the next game as well.
+
+The decision to play first or second must be made before the player sees their opening hand for that
+game. If the player fails to do so, they are assumed to be playing first.
+
+3.4 Match Procedure
+
+When beginning a game, players first decide which player is playing first as described in section 3.1. Each
+player shuffles their deck and offers their opponent the opportunity for additional shuffling and/or
+cutting. Then, each player draws their opening hand of seven cards.
+
+For every game of a match, each player has the opportunity to alter their hand. First, the first player
+chooses which cards from their hand they will alter and places those cards on the bottom of their deck in
+any order. Then the second player chooses which cards from their hand they will alter and places those
+cards on the bottom of their own deck in any order. Then both players draw cards until both have seven
+cards in their hand again. Finally, any player who placed cards on the bottom of their deck in this manner
+shuffles their deck and then offers their opponent the opportunity for additional shuffling and/or cutting.
+
+Once this process has been completed, the first player begins their first turn. They will not draw a card
+for this turn.
+
+Once time has been called in a round, no new games should begin. Any games still in progress will
+immediately proceed to the end-of-match procedure, as follows:
+
+    •   The active player finishes their turn.
+    •   After that turn, there are five turns total remaining in the game.
+    •   Each turn taken after the turn during which time was called will count toward the five-game
+        total, regardless of whose turn it is. Normally, this means that the active player when time was
+        called will get two turns and the non-active player will get three turns.
+    •   If the game ends during these turns, the match is reported normally.
+    •   If neither player has won the game at the end of turn five and one player has more game wins
+        than the other, that player wins the match. (The current game does not count toward the match
+        result.)
+    •   Swiss rounds: If neither player has won the game at the end of turn five and both players have
+        the same number of game wins, the match is a draw. (The current game does not count toward
+        the match result.)
+    •   Single-elimination rounds: If neither player has won the game at the end of turn five and both
+        players have the same number of game wins and the same lore, the match continues until one
+        player has more lore than the other. Once this happens, the player with the highest lore wins the
+        game immediately.
+
+3.5 Concessions and Intentional Draws
+
+A player may concede an incomplete game at any time. That player immediately loses the game and, if
+applicable, the match moves on to the next game.
+
+A player who refuses to play a match is considered to have conceded that match.
+
+                                                     6
+Players may not ask their opponents to concede a game. Players may not implicitly or explicitly, offer or
+accept any reward or consideration in exchange for a concession. Players provided such an offer are
+required to call a judge and report the offer.
+
+Prior to the end of a match, players may agree to draw the match. A player may only request an
+intentional draw once per match, and may not implicitly or explicitly offer any reward or consideration in
+exchange for a draw. Players provided such an offer are required to call a judge and report the offer.
+
+3.4 Deck Registration
+
+Players in Competitive Disney Lorcana TCG tournaments are required to register their decks.
+
+For a Constructed tournament, players must submit their deck list either via www.Melee.gg or on a
+paper deck list, per instructions from the Tournament Organizer or Head Judge. The Tournament
+Organizer will communicate the deck list submission deadline. If no such deadline is communicated, the
+deck lists will be due before the first round is created.
+
+For a Limited tournament, players will fill out a deck list as part of deck construction. These deck lists will
+be provided to a Tournament Official by the end of deck construction.
+
+Players may request to see their deck list between matches. These requests will be granted whenever
+feasible.
+
+Deck lists are considered the ultimate arbiter of which cards the player intended to play. Players must
+take care to use complete card names, since many character cards have similar names.
+
+3.6 Deck Checks
+
+Judges at Competitive tournaments will perform deck checks as much as is feasible. Decks should be
+checked after shuffling has completed but before opening hands are drawn. Deck checks are intended to
+verify that players are playing the correct deck as registered on their deck list.
+
+3.7 Dropping from a Tournament
+
+A player may drop from the tournament at any time. Players are responsible for either dropping
+themselves using Melee.gg or by informing a Judge or Scorekeeper. If the player is currently paired for
+any matches when the request to drop is made, that player is considered to have conceded all games in
+that match. Players who do not show up for their match will be dropped from the tournament unless
+they inform the Scorekeeper before that round ends.
+
+If a player drops during a Limited tournament, they keep all cards provided to them to by the
+tournament organizer to participate in the event. This includes opened and partially drafted booster
+packs.
+
+
+
+Section 4: Information and Communication
+
+4.1 Written Notes
+
+Players are encouraged to keep written track of lore totals, but no other written notes are permitted.
+Referring to outside notes during a match is considered Outside Assistance.
+
+                                                       7
+Players must not take notes during drafting.
+
+4.2 Electronic Devices
+
+At Casual tournaments, players may use the Disney Lorcana TCG Companion app for tracking lore and
+referring to the card catalog as long as any references are made in a timely manner.
+
+At Competitive tournaments, electronic devices capable of long-term data storage and/or internet access
+are not permitted.
+
+4.3 In-Game Information
+
+During games, players are expected to communicate openly with their opponents.
+
+When adding a card to their inkwell through the normal once-per-turn action, the player adding the card
+must ensure that their opponent has full knowledge of which card is being added, including by
+announcing the name of the card. The opponent must be allowed to verify that the card has the inkwell
+symbol around the cost.
+
+The current status of any card in play (exerted or ready, damage marked, whether the card’s ink is dry,
+etc.) must be completely and correctly communicated by that card’s player whenever requested by
+another player.
+
+When a player has multiple simultaneous actions to resolve, that player must announce the order of
+resolution before beginning to resolve the first one. The order cannot change once the first action has
+begun.
+
+Exerted cards should be rotated ninety degrees clockwise to indicate their status. Ready cards should be
+upright. A player may choose to exert their cards in the counterclockwise direction if they choose, but
+they should be consistent with all of their cards.
+
+Lore gains must always be announced and must include the new lore total after the lore increase for that
+player. This ensures that both players fully understand the current lore score and that any discrepancies
+can be found and remedied as soon as possible, likely with the help of a Judge.
+
+Players are expected to maintain a clear game state whenever possible. This includes pointing out
+mandatory effects whenever they occur, even if they are from an opponent’s card. For purposes of this
+rule, a “mandatory effect” is one that does not include the word “may” in its text. Failing to remind a
+player of a “may” effect is not against the rules, but players are encouraged to remind their opponents of
+these effects in order to foster the most positive play experience for all involved.
+
+4.4 Inkwell
+
+Players are required to keep their inkwell cards distinct and separate from any other facedown cards that
+may be on the table. If there is ever any confusion about which cards are in a player’s inkwell, the players
+should call a judge immediately so the error can be remedied. Additionally, all ready cards in a player’s
+inkwell must be oriented in the same direction as each other; the same must also be true for exerted
+cards in that player’s inkwell.
+
+
+
+Section 5: Constructed Tournament Formats
+
+                                                     8
+5.1 Constructed Overview
+
+“Constructed” describes any event where players are expected to build their decks ahead of time.
+Currently, there is only one Constructed format, Core, but more may be added in future updates.
+
+Constructed decks must contain at least 60 cards. There is no maximum deck size, but a player must be
+able to shuffle their deck in a timely manner without assistance.
+
+Constructed decks must not contain cards from more than two ink colors. For example, if a deck contains
+Amber and Amethyst cards, it must not contain any Emerald, Ruby, Sapphire, or Steel cards.
+
+Constructed decks must not contain more than four of a single card as identified by its full English card
+name. Character cards with different subtitles are considered different cards for purposes of this rule.
+For example, a deck may contain up to four copies of Ariel – On Human Legs as well as up to four copies
+of Ariel – Spectacular Singer.
+
+
+
+Section 6: Limited Tournament Formats
+
+6.1 Limited Overview
+
+“Limited” describes any event where players are provided with unopened Disney Lorcana TCG product
+and are expected to build their decks on site during the tournament. There are three Limited formats:
+Sealed, Preconstructed, and Draft.
+
+Limited decks in Sealed and Draft must contain at least 40 cards. There is no maximum deck size, except
+that decks are limited in size by the card pool they are built from.
+
+Limited decks are not restricted in how many ink types they may contain.
+
+Limited decks may contain any number of copies of any individual card. For example, if a player in a
+Sealed tournament opens six copies of Genie – The Ever Impressive, they may play all six in their deck.
+
+6.2 Sealed
+
+In a Sealed tournament, each player is provided with a set of unopened booster packs from which they
+will build their deck.
+
+The minimum number of boosters to be provided for Sealed tournaments is six packs per player, from
+the set(s) of the tournament organizer's choice. Each player begins with the same number of boosters
+from each set selected.
+
+6.3 Preconstructed
+
+In a Preconstructed tournament, players are provided with a random starter deck from the set chosen
+for the tournament. Players may add or exchange any number of cards between the preconstructed deck
+and the booster pack included in their starter deck product. Since the provided preconstructed deck
+starts at 60 cards, the deck must be a minimum of 60 cards after the deck construction period. Limited-
+format decks may contain cards of more than two inks.
+
+Preconstructed events are only Casual tournaments.
+
+
+                                                    9
+6.4 Draft
+
+In a Draft tournament, players take turns selecting, or “drafting,” cards from previously unopened
+booster packs to form their card pools.
+
+The minimum number of boosters to be provided for Draft tournaments is four packs per player, from
+the set(s) of the tournament organizer's choice. Each player begins with the same number of boosters
+from each set selected.
+
+Players are seated into random groups of people, these groups are called pods. The number of people in
+each pod is at the discretion of the head judge, although these guidelines should usually be followed:
+
+
+    •   Each pod should have as close to eight players as possible
+    •   No pod should have five or fewer players
+    •   There should be no more than one pod with an uneven number of players.
+
+    Following these guidelines, here are the recommended pod sizes for smaller tournaments:
+
+
+            # of Players    Pods
+            6-11            1 pod
+            12-14           1 pod of 6
+                            1 pod of 6 to 8
+            15-17           1 pod of 8
+            18              3 pods of 6
+            19-20           2 pods of 6
+                            1 pod of 7 or 8
+            21              Pod of 6
+                            Pod of 7
+                            Pod of 8
+            22              Pod of 6
+                            2 pods of 8
+            23              Pod of 7
+                            2 pods of 8
+
+
+
+For the first pack, each player opens the pack, selects one card to add to their card pool, then passes the
+remaining cards to their left. Then they collect the pack from their right, select a card, and pass the
+remaining cards to their left. Card selection continues in this manner until all cards from the pack have
+been drafted. The direction of passing reverses for each pack: the second pack is passed to the right, the
+third pack is passed to the left, and so on. Once all packs have been drafted, each player’s picks become
+their completed card pool for deck construction.
+
+In Casual Draft tournaments, players may be paired against any other player in the tournament.
+
+In Competitive Draft tournaments, players must be paired against players in their own pod.
+
+
+
+                                                    10
+Section 7: Time Limits
+
+7.1 General Tournament Time Limits
+
+The time limit for a Swiss round is 50 minutes.
+
+It is recommended that all matches in single-elimination rounds are untimed. If a time limit must be
+imposed due to venue availability constraints, the time limit should be at least 50 minutes and should be
+announced prior to the beginning of the single-elimination portion of the event.
+
+If all matches have finished before the time limit is up in a round, the Head Judge may choose to start
+the next round early. No players should be issued a Tardiness penalty if they arrive before the previous
+round would have ended.
+
+7.2 Limited Tournament Time Limits
+
+The time limit for Sealed deck construction is 30 minutes.
+
+The time limit for Sealed deck pool registration is 20 minutes.
+
+The time limit for Preconstructed deck construction is 10 minutes.
+
+The time limit for Draft deck construction and registration is 25 minutes.
+
+The timing for individual Draft picks, if being used, is as follows:
+
+    •   12 cards remaining: 30 seconds
+    •   11 cards remaining: 25 seconds
+    •   10 cards remaining: 25 seconds
+    •   9 cards remaining: 20 seconds
+    •   8 cards remaining: 20 seconds
+    •   7 cards remaining: 15 seconds
+    •   6 cards remaining: 10 seconds
+    •   5 cards remaining: 10 seconds
+    •   4 cards remaining: 5 seconds
+    •   3 cards remaining: 4 seconds
+    •   2 cards remaining: 3 seconds
+
+
+
+We welcome constructive feedback and suggestions regarding this document. Please contact us at
+LorcanaOP@ravensburger.com to provide yours.
+
+
+
+
+                                                       11

@@ -1,5 +1,6 @@
 import os
 import pathlib
+import subprocess
 import sys
 import urllib.parse
 import urllib.request
@@ -10,6 +11,15 @@ from html.parser import HTMLParser
 URL_PREFIXES = (
     "https://cdn.ravensburger.com/lorcana/",
     "https://files.disneylorcana.com/",
+)
+
+FILES_TO_CONVERT = (
+    "Disney Lorcana Comprehensive Rules - 04.13.24.pdf",
+    "community-code-en.pdf",
+    "op-diversity-and-inclusion-policy-en.pdf",
+    "play-correction-guidelines-en.pdf",
+    "s1-set-notes-en.pdf",
+    "tournament-rules.pdf",
 )
 
 
@@ -46,6 +56,16 @@ class ResourcesHTMLParser(HTMLParser):
 
         return file_path
 
+    def convert_pdf_to_text(self, pdf_file_path):
+        text_file_path = pathlib.Path(
+            self.output_dir, "text", pdf_file_path.with_suffix(".txt").name
+        )
+        print(f"Converting {pdf_file_path} to {text_file_path}")
+        subprocess.run(
+            ["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path]
+        )
+        return text_file_path
+
     def handle_starttag(self, tag, attrs):
         if self.in_faq_section:
             if tag == "h2":
@@ -70,6 +90,15 @@ class ResourcesHTMLParser(HTMLParser):
                                 str(pdf_file_path.relative_to(self.output_dir))
                             )
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
+                            if pdf_file_path.name in FILES_TO_CONVERT:
+                                text_file_path = self.convert_pdf_to_text(pdf_file_path)
+                                link_to_text_file = urllib.parse.quote(
+                                    str(text_file_path.relative_to(self.output_dir))
+                                )
+                                self.list_item = (
+                                    f"[{{data}}]({link_to_pdf_file})"
+                                    f" ([as text]({link_to_text_file}))"
+                                )
                         else:
                             self.list_item = f"[{{data}}]({attr_value})"
                         break
@@ -106,6 +135,8 @@ class ResourcesHTMLParser(HTMLParser):
 
 
 def main():
+    subprocess.run(["pdftotext", "-h"], capture_output=True, check=True)
+
     request = urllib.request.Request("https://www.disneylorcana.com/en-US/resources")
     request.add_header("User-Agent", "")
 

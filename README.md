@@ -23,11 +23,11 @@
 
 ### Comprehensive Rules
 
-- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf)
+- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.txt))
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/s1-set-notes-en.pdf)
+- [ENGLISH](cdn_ravensburger_com/lorcana/s1-set-notes-en.pdf) ([as text](text/s1-set-notes-en.txt))
 - [DEUTSCH](cdn_ravensburger_com/lorcana/s1-set-notes-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-set-notes-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/s1-set-notes-it.pdf)
@@ -41,7 +41,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf)
+- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf) ([as text](text/tournament-rules.txt))
 - [DEUSTCH](cdn_ravensburger_com/lorcana/tournament-rules-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/tournament-rules-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/tournament-rules-it.pdf)
@@ -55,7 +55,7 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/play-correction-guidelines-en.pdf)
+- [ENGLISH](cdn_ravensburger_com/lorcana/play-correction-guidelines-en.pdf) ([as text](text/play-correction-guidelines-en.txt))
 - [DEUTSCH](cdn_ravensburger_com/lorcana/play-correction-guidelines-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/play-correction-guidelines-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/play-correction-guidelines-it.pdf)
@@ -132,14 +132,14 @@
 
 ### Diversity & Inclusion Policy
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf)
+- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
 - [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf)
 
 ### Community Code
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf)
+- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf) ([as text](text/community-code-en.txt))
 - [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf)

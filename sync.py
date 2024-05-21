@@ -14,7 +14,7 @@ URL_PREFIXES = (
 )
 
 FILES_TO_CONVERT = (
-    "Disney Lorcana Comprehensive Rules - 04.13.24.pdf",
+    "Disney Lorcana Comprehensive Rules - 05.20.24 1.pdf",
     "community-code-en.pdf",
     "op-diversity-and-inclusion-policy-en.pdf",
     "play-correction-guidelines-en.pdf",

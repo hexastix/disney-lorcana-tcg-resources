@@ -23,7 +23,7 @@
 
 ### Comprehensive Rules
 
-- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2005.20.24%201.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules%20-%2005.20.24%201.txt))
+- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20EN%20-%2005.21.24.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules%20-%20EN%20-%2005.21.24.txt))
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 

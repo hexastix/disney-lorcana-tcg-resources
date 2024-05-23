@@ -43,12 +43,12 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224.pdf) ([as text](text/tournament-rules-en.txt))
 
-### Inklands Championship Tournament Rules
+### Ursula's Return Championship Tournament Rules
 
-- [English](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/DLC_S3_OPChampionships_Event%20Instructions_IT.pdf)
+- [English](files_disneylorcana_com/Ursulas-Return_OPChampionships_Event-Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Ursulas-Ruckkehr_Veranstaltungsanweisungen_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Le-retour-dUrsula_Instructions-pour-levenement%20_FR.pdf)
+- [Italiano](files_disneylorcana_com/Il-Ritorno-di-Ursula_Istruzioni-per-levento_IT.pdf)
 
 ### Play Correction Guidelines
 

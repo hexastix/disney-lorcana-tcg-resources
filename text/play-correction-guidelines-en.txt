@@ -1,348 +1,618 @@
-Disney Lorcana TCG Play Correction Guidelines
-Eﬀective 8/22/2023
-
-
-  0. PURPOSE
-
-  1. INTRODUCTION
-        1.0 Deﬁnition of Corrective actions
-        1.1 Rewinding a Game
-        1.2 Hidden Sets
-
-  2. RULE ERRORS
-       2.1 Inkwell Error
-       2.2 Card Count Error
-       2.3 General Rule Error
-
-  3. TOURNAMENT ERRORS
-       3.1 Tardiness
-       3.2 Slow Play
-       3.3 Deck Error – Minor
-       3.4 Deck Error – Major
-       3.5 Limited Error
-       3.6 Communication Error
-       3.7 Marked Cards
-
-  4. UNSPORTING CONDUCT
-       4.1 Unsporting – Minor
-       4.2 Unsporting – Major
-       4.3 Unsporting – Severe
-       4.4 Cheating
-       4.5 Improper Match Result
-Ravensburger and the Disney Lorcana TCG Organized Play Team work to provide a
-welcoming, open, supportive, and safe environment for all event participants. Part
-of this work includes setting guidelines and standards for corrective actions that
-tournament oﬃcials might take during a Disney Lorcana TCG Tournament; these
-rules are intended to provide an overview of those standards.
-
-All tournament participants agree to adhere to the rules outlined in this document.
-Corrective action may be taken if these rules are not followed.
-
-Other applicable documents that participants must all adhere to include:
-
-   •   Disney Lorcana TCG Community Code
-   •   Disney Lorcana TCG Tournament Rules
+                          Play Correction Guidelines
+                                                    Effective 5/21/2024
 
 
 
+INTRODUCTION
+Ravensburger and the Disney Lorcana TCG Organized Play Team work to provide a welcoming, open, supportive, and safe
+environment for all event participants. Part of this work includes setting guidelines and standards for corrective actions
+that tournament officials might take during a Disney Lorcana TCG tournament; these rules are intended to provide an
+overview of those standards.
+
+All tournament participants agree to adhere to the rules outlined in this document. Corrective action may be taken if these
+rules aren’t followed.
+
+Other applicable documents that participants must adhere to include:
+    • Disney Lorcana TCG Community Code here.
+    • Disney Lorcana TCG Tournament Rules here.
+    • Disney Lorcana TCG Comprehensive Rules here.
+
+We’ve used colored text to make it easier to spot updates made to this document since its last publication. Text that is new
+or changed is in red. Text that has been moved is in purple.
+
+We welcome constructive feedback and suggestions regarding this document. Please contact us at
+LorcanaOP@ravensburger.com to provide yours.
+
+
+
+
+©Disney                                                      1                                                disneylorcana.com
+                                            CONTENTS
+1. INTRODUCTION
+    1.1. Definition of Corrective Actions
+    1.2. Rewinding a Game
+    1.3. Hidden Sets
+
+2. RULE ERRORS
+    2.1. Missed Trigger
+    2.2. Hidden Information Error
+    2.3. Card Count Error
+    2.4. General Rule Error
+
+3. TOURNAMENT ERRORS
+    3.1. Tardiness
+    3.2. Slow Play
+    3.3. Deck/Registration Error – Minor
+    3.4. Deck/Registration Error – Major
+    3.5. Limited Error
+    3.6. Information and Communication Error
+    3.7. Marked Cards
+    3.8. Outside Assistance
+
+4. UNSPORTING CONDUCT
+    4.1. Unsporting – Minor
+    4.2. Unsporting – Major
+    4.3. Unsporting – Severe
+    4.4. Cheating
+    4.5. Improper Match Result
+    4.6. Wagering
+
+
+
+
+©Disney                                         2      disneylorcana.com
 SECTION 1: INTRODUCTION
+1.1    Definition of Corrective Actions
+Caution: This is the most basic level of corrective action. The player is cautioned that they should play more carefully to
+avoid making this error in the future. It isn’t tracked or recorded.
 
-1.1 Deﬁnition of Corrective Actions
+Warning: The player receives a verbal Warning that they have committed an error and should be more careful in the future.
+This Warning is recorded and tracked, and it may be upgraded if further errors are committed in the same tournament.
 
-Caution: This is the most basic level of corrective action. The player is cautioned
-that they should play more carefully to avoid making this error in the future. It is
-not tracked or recorded.
+Game Loss: The player immediately loses the game currently in progress. If this corrective action is applied between
+games, the player loses the next game they would play. If both players would receive a Game Loss for the same game,
+instead the corrective actions are recorded but the game is played as normal. These are known as “offsetting” corrective
+actions.
 
-Warning: The player receives a verbal Warning that they have committed an error
-and should be more careful in the future. This Warning is recorded and tracked, and
-it may be upgraded if further errors are committed in the same tournament.
+Match Loss: The player immediately loses the match currently in progress. If this corrective action is applied between
+rounds, the player loses the next match they would play. If both players would receive a Match Loss for the same match,
+these corrective actions don’t offset. Both players are given a loss for the match. If the Match Loss occurs during rounds
+with prizing, the player remains eligible for any prize support offered.
 
-Game Loss: The player immediately loses the game currently in progress. If this
-corrective action is applied between games, then the player loses the next game
-they would play. If both players would receive a Game Loss for the same game,
-instead the corrective actions are recorded but the game is played as normal. These
-are known as “oﬀsetting” corrective actions.
+Disqualification: The player immediately loses the match currently in progress (if any) and is dropped from the
+tournament. If a player is disqualified during rounds with prizing, the player forfeits any prizes they would normally be
+eligible for. They don’t have to forfeit any prizes already awarded to them (such as a door prize or promo card randomly
+distributed prior to the disqualification).
 
-Match Loss: The player immediately loses the match currently in progress. If this
-corrective action is applied between rounds, then the player loses the next match
-they would play. If both players would receive a Match Loss for the same match,
-these corrective actions do not oﬀset. Both players are given a loss for the match.
+Judges must take care when issuing corrective actions to players. They must explain the reason for the corrective action
+and why the particular infraction applies in that situation.
 
-Disqualiﬁcation: The player immediately loses the match currently in progress (if
-any) and is dropped from the tournament.
+Corrective actions can also be applied to spectators, if necessary. If the spectator was or is a player in the tournament, the
+corrective action should be added in Melee. Otherwise, for significant issues, a brief report should be filed at
+lorcanaop@ravensburger.com. Include key event, player and spectator information, and a brief description of the
+incident(s).
 
-Judges must take care when issuing corrective actions to players. They must
-explain the reason for the corrective action and why the particular infraction applies
-in that situation. Corrective actions can also be applied to spectators, if necessary.
-If the spectator was or is a player in the tournament, the corrective action can be
-added in Melee. Otherwise, for signiﬁcant issues, a brief report can be ﬁled at
-lorcanaop@ravensburger.com. Include key event, player and spectator information,
-and a brief description of the incident(s).
-Corrective actions must be applied in accordance with these Guidelines whenever
-possible. In signiﬁcant and exceptional circumstances, the Head Judge may choose
-to deviate from these Guidelines. When this happens, the Head Judge must take
-care to explain the reasoning behind the deviation, and emphasize that this ruling is
-an exception and should not be expected in future tournaments.
+Corrective actions must be applied in accordance with these Guidelines whenever possible. In significant and exceptional
+circumstances, the Head Judge may choose to deviate from these Guidelines. When this happens, the Head Judge must
+take care to explain the reasoning behind the deviation and emphasize that the ruling is an exception and shouldn’t be
+expected in future tournaments.
 
+
+
+
+©Disney                                                       3                                                 disneylorcana.com
 1.2 Rewinding a Game
+Several infraction remedies include the instruction to “rewind the game.” When rewinding a game, every action should be
+carefully reversed one at a time in order to reset the game to the point the error occurred. Judges should start from the
+most recent action and work backward to return the game to a previous state. If rewinding through a card draw and the
+identity of the drawn card wasn’t known to both players, a random card should be sent back to the deck.
 
-Several infraction remedies include the instruction of “rewind the game.” When
-rewinding a game, every action should be carefully reversed one at a time in order
-to reset the game back to the point where the error occurred. Judges should start
-from the most recent action and work backwards, returning the game to a previous
-state. If rewinding through a card draw, a random card should be sent back to the
-deck if the identity of the drawn card was not known to both players.
+Because of the amount of information that may have been exchanged from the time of the error to the present game
+state, rewinding should be considered only if leaving the game as is would be substantially worse.
 
-Not all errors should involve a rewind. If rewinding the game is likely to result in
-signiﬁcantly diﬀerent decisions being made (due to the introduction of new random
-elements), this is strong evidence that a rewind should not be performed.
-Generally, rewinding through more than two turns should be strongly discouraged
-unless every action taken was very simple. Since the determination of whether a
-rewind is justiﬁed is so sensitive, only the Head Judge may authorize a rewind.
+If rewinding the game is likely to result in significantly different decisions being made (such as the introduction of new
+random elements), this is strong evidence that a rewind shouldn’t be performed. Generally, rewinding through more than
+one full turn should be strongly discouraged unless every action taken was very simple. Because the determination of
+whether a rewind is justified is so sensitive, only the Head Judge may authorize a rewind.
+
+Missed mandatory game actions, such as drawing a card for the turn or gaining lore from a location, may also be
+considered for a rewind, with the same criteria. A good rewind should result in a game state where the gained information
+makes no difference and the play decisions won’t be impacted. It’s good practice to exercise a healthy amount of caution
+when approaching a rewind.
+
+          Example 1: Player A has a Flounder – Voice of Reason in play. Player B has a Peter Pan – Never Landing in play.
+          Flounder is declared as challenging Peter Pan, but Peter Pan has Evasive and Flounder doesn’t. At this point, a
+          simple rewind to before the challenge was declared is appropriate.
+
+          Example 2: Same as above, but the players put both character cards into their discards. Player A passes the turn,
+          and Player B draws. At this point, a rewind could still be appropriate, but consider what the game would look like if
+          corrected and if too much information has been gained.
+
+          Example 3: Same as above. Player B plays Pinocchio – On the Run and brings Peter Pan back to their hand. Then,
+          they pass the turn. Player A plays Lucifer – Cunning Cat, and Player B discards the Peter Pan and a Pua – Potbellied
+          Buddy. At this point, the players have made significant decisions based on the erroneous challenge. Rewinding
+          through two card draws as well as effects that directly impacted the hands and discards would likely result in
+          different decisions being made. Not rewinding is appropriate.
 
 1.3 Hidden Sets
+The Disney Lorcana TCG has a unique challenge when it comes to the existence of hidden sets. Each player’s inkwell is a
+facedown set of cards that should be mostly known to both players but can still be easily confused if a player sets another
+hidden set of cards (such as their hand) down on the table nearby. Players are required to treat this situation with care, but
+this won’t prevent errors from occurring.
 
-The Disney Lorcana TCG has a unique challenge when it comes to the existence of
-hidden sets. Each player’s inkwell is a facedown set of cards that should be mostly
-known to both players but can still be easily confused if a player sets another
-hidden set of cards (such as their hand) down on the table nearby. Players are
-required to treat this situation with care, but this will not prevent errors from
-occurring.
 
-Whenever handling a situation that involves a hidden set such as an inkwell, judges
-must investigate to determine as much information as possible about the hidden set
-in order to come to the best resolution. Players are required to announce and reveal
-every card they add to their inkwell using the once-per-turn action, so most (if not
-all) of a player’s inkwell should be known information, for example.
+
+©Disney                                                        4                                                 disneylorcana.com
+Whenever handling a situation that involves a hidden set such as an inkwell, judges must investigate to determine as much
+information as possible about the hidden set in order to come to the best resolution. For example, because players are
+required to announce and reveal every card they add to their inkwell using the once-per-turn action, most (if not all) of a
+player’s inkwell should be known information.
 
 
 
 SECTION 2: RULE ERRORS
-
-If a player receives a third Warning within a single category of Rule Error in a
-tournament, that third Warning should be upgraded to a Game Loss.
-
-For example, if a player has received two Card Count Error Warnings, their third
-Card Count Error Warning is upgraded to a Game Loss. In contrast, if a player has
-received two Card Count Error Warnings and then receives an Inkwell Error
-Warning, that third Warning would not be upgraded.
-2.1 Hidden Information Error
-
-Deﬁnition: A player sees a card they were not allowed to see, such as a card in
-their inkwell.
-
-Corrective action: Casual – Warning / Competitive – Warning
-
-Remedy: If the seen card was added to the inkwell through the normal once-per-
-turn action, reveal the card to the opponent, then return it to the inkwell. If the
-card was added by any other means, reveal it to the opponent, then shuﬄe it into
-the player’s deck and replace it with a random card from that deck. In either case,
-strongly reinforce that looking at cards in your inkwell is against the rules. Further
-violations should be handled as Unsporting – Cheating.
-
-If the seen card was not in an inkwell, shuﬄe it into the random portion of its
-owner’s library.
-
-2.2 Card Count Error
-
-Deﬁnition: A player has an incorrect number of cards in their hand or inkwell.
-
-Corrective action: Casual – Warning / Competitive – Warning
-
-Remedy: If a player has too few cards in their hand, instruct them to draw cards
-equal to the diﬀerence. If the player has too many cards, investigate to identify
-which cards deﬁnitely belong in that player’s hand. Once this is done, remove cards
-at random from the remaining cards until the hand is the correct size. Shuﬄe the
-removed cards into the random portion of the player’s deck.
-
-If a player’s inkwell contains too few cards, investigate to identify which card is
-missing, if possible. If the identity of the card is unknown, add a random card from
-the player’s deck facedown. The players do not get to learn the identity of the card.
-
-If a player’s inkwell contains too many cards, investigate to identify which cards
-deﬁnitely belong in the inkwell. Once this is done, remove random cards from the
-remaining inkwell cards until the inkwell contains the correct number of cards.
-Shuﬄe the removed cards into the random portion of the player’s deck.
-
-2.3 General Rule Error
-
-Deﬁnition: A player commits an in-game rule violation that does not fall under
-Inkwell Errors or Card Count Errors. A player missing an eﬀect that uses the word
-“may” has not committed this infraction.
-
-Corrective action: Casual – Caution / Competitive – Warning
-
-Remedy: Either rewind the game to the point of the error or leave the game as is.
-If choosing to rewind, this must be done with the approval of the Head Judge. If
-leaving the game as is, be sure to handle any game objects that are currently illegal
-(such as a character with damage equal to or greater than its Willpower that hasn’t
-been banished) before instructing the players to continue playing.
-SECTION 3: TOURNAMENT ERRORS
-
-If a player receives a second Warning within a single category of Tournament Error
-in a tournament, that second Warning should be upgraded to a Game Loss.
-
-3.1 Tardiness
-
-Deﬁnition: A player arrives up to 10 minutes late to their match or turns in their
-deck list after the deadline.
-
-Corrective action:
-
- If the player is late by:    0–2 minutes        2–10 minutes        Over 10 minutes
- Casual                         Caution            Warning          Match Loss + drop
- Competitive                    Warning           Game Loss         Match Loss + drop
-
-Remedy: Issue the aﬀected match a time extension equal to the time the player
-was late.
-
-If a player is more than 10 minutes late to their match, they should be issued a
-Match Loss and be dropped from the tournament. If the player shows up before the
-end of the round, they may be re-enrolled at the discretion of the Head Judge.
-
-3.2 Slow Play
-
-Deﬁnition: A player takes an inordinately long time to make a play decision. A
-player should be prompted to make a play if the judge believes they may be playing
-too slowly, and further delay should result in this corrective action.
-
-Corrective action: Casual – Caution / Competitive – Warning
-
-Remedy: If the match is still going when time is called in the round, the match
-should be an additional two extra turns for the end-of-match procedure.
-
-3.3 Deck Error – Minor
-
-Deﬁnition: A player has a deck that is illegal deck in a minor way. Examples include
-playing with a 39-card Limited deck or with more than 4 of a single card in a
-Constructed deck and catching it themselves. This also covers situations where a
-deck is illegal but the corresponding deck list is legal.
-
-Corrective action: Casual – Warning / Competitive – Warning
-
-Remedy: For a Limited deck that is under 40 cards, randomly add cards from the
-player’s remaining card pool until the deck minimum is achieved. For a Constructed
-deck that breaks the 4-card limit, remove the excess cards until the error is
-corrected. If this causes the deck to no longer be 60 cards, then the corrective
-action is Deck Error – Major. If a deck is illegal but has a legal list, alter the deck to
-match the list.
-3.4 Deck Error – Major
-
-Deﬁnition: A player has an illegal deck in a major way. Examples include playing a
-Constructed deck with 59 cards or more than two ink colors represented.
-
-Corrective action: Casual – Game Loss / Competitive – Match Loss
-
-Remedy: If the deck list and deck both contain too few cards, the player must
-obtain and add cards until the deck minimum is satisﬁed. If the deck contains too
-many ink types, the inks with the fewest cards must be removed and replaced with
-cards of the two ink types most represented. If there is a tie, randomly determine
-which ink is to be removed.
-
-3.5 Limited Error
-
-Deﬁnition: A player makes an error during a draft, such as looking at cards already
-drafted at Competitive Level.
-
-Corrective action: Casual – Caution / Competitive – Warning
-
-3.6 Communication Error
-
-Deﬁnition: A player incorrectly represents information in a game, and their
-opponent makes a gameplay decision based on the erroneous information.
-
-Corrective action: Casual – Caution / Competitive – Warning
-
-Remedy: With the approval of the Head Judge, the game may be rewound to the
-point of the decision made based on the incorrect information.
-
-3.7 Marked Cards
-
-Deﬁnition: A player has cards or card sleeves that can be visually distinguished
-from the rest of their deck.
-
-Corrective action: Casual – Warning / Competitive – Warning
-
-Remedy: The player should replace the sleeves or cards with unmarked versions at
-their earliest convenience.
-
-Upgrade: If the Head Judge determines that the marked cards are identiﬁable easily
-enough to be signiﬁcantly abused, the player should replace the sleeves or cards
-immediately. If the tournament is at Competitive, the corrective action should be
+If a player receives a third Warning within a single category of Rule Error in a tournament, that third Warning should be
 upgraded to a Game Loss.
 
+           Example: If a player has received two Card Count Error Warnings, their third Card Count Error Warning is upgraded
+           to a Game Loss. In contrast, if a player has received two Card Count Error Warnings and then receives an Inkwell
+           Error Warning, that third Warning would not be upgraded.
+
+2.1       Missed Trigger
+Definition: A player misses a triggered ability or fails to demonstrate awareness of the trigger before it affects the game
+state.
+
+           Examples:
+           • A player sings a song with Ursula – Deceiver of All, then challenges with another character.
+           • A player quests with Doc – Leader of the Seven Dwarfs but pays the full cost of the next character they play.
+           • A player plays an action while having Pete – Bad Guy in play, then challenges with him and says, “Deal 3
+               damage.”
+
+Corrective Action: Casual – Caution / Competitive – Caution
+
+Context: Triggered abilities are common and, unlike activated abilities, don’t have an actionable element. Players shouldn’t
+be punished harshly for forgetting one. Both players are responsible for maintaining a clear game state, and this includes
+pointing out mandatory triggers even if those triggers are from an opponent’s card. Players aren’t required to remind one
+another of triggers with the word “may” in the text, but they are strongly encouraged to point out such effects to make
+the play experience more fun and inclusive for all.
+
+Gaining lore from a location during the Set phase is a mandatory turn action, not a triggered ability.
+
+If the active player missed a trigger but caught it before their turn would end, perform the remedy but don’t issue the
+corrective action.
+
+Remedy: If the triggered ability was missed more than a turn cycle ago, do nothing and tell the players to continue playing.
+
+
+
+
+©Disney                                                       5                                                disneylorcana.com
+If the triggered ability has a duration (such as “until end of turn”) and the duration has passed, do nothing and tell the
+players to continue playing.
+
+In all other circumstances, the opponent chooses whether to add the trigger to the bag. If they add it to the bag, it
+resolves immediately. Any choices that couldn’t have been made when the trigger would’ve originally happened, such as
+for a character that wasn’t in play yet, can’t be made now.
+
+If the missed trigger had the word “may,” it is assumed that the choice was made not to perform the ability.
+
+Upgrade (Competitive Only): If the trigger would have a negative impact for the player, the corrective action is instead a
+Warning.
+
+2.2 Hidden Information Error
+Definition: A player sees a card they weren’t allowed to see, such as a card in their inkwell.
+
+          Examples:
+          • A player flips over a card in their inkwell.
+          • A player knocks off the top card of their deck while drawing.
+          • A player looks at the top 3 cards of their deck when resolving the triggered ability on Sisu – Divine Water
+              Dragon.
+
+Corrective Action: Casual – Caution / Competitive – Warning
+
+Context: Because the Disney Lorcana TCG is a card game, accidental dexterity errors or a simple misread can cause a
+player to accidentally gain information they wouldn’t normally be able to see. Players shouldn’t be harshly penalized for
+this, but extra emphasis should be placed on instructing the players to play more carefully.
+
+Remedy: If the seen card was added to the inkwell through the normal once-per-turn action, reveal the card to the
+opponent, then return it to the inkwell. If the card was added by any other means, reveal it to the opponent, then shuffle it
+into the player’s deck and replace it with a random card from that deck. In either case, strongly reinforce that looking at
+cards in your inkwell is against the rules. Further violations should be handled as Unsporting – Cheating.
+
+If the seen card wasn’t in an inkwell, shuffle it into the random portion of its player’s deck.
+
+If the seen card was a part of a set, randomly choose a number of extra cards equal to the number seen in the set and
+shuffle those into the random portion of its player’s deck.
+
+
+
+
+©Disney                                                         6                                               disneylorcana.com
+2.3 Card Count Error
+Definition: A player has an incorrect number of cards in their hand or inkwell.
+
+          Examples:
+          • A player draws 2 cards instead of 1 for their once-per-turn draw.
+          •    A player puts 2 cards into their inkwell from Fishbone Quill.
+          •    A player draws on their first turn as the starting player.
+
+Corrective Action: Casual – Caution / Competitive – Warning
+
+Context: These types of errors are common through player error or simple dexterity issues. Because the potential for
+abuse exists, however, we still want to enforce a corrective action to dissuade players from trying to game the system.
+
+There’s a fine line between a Hidden Information Error and a Card Count Error. Consider where the seen cards are and if
+they’re still a part of the same set. If they are, treat it as a Hidden Information Error. If the card(s) have moved from one
+hidden zone to another, it’s a Card Count Error.
+
+Remedy: If a player has too few cards in their hand, instruct them to draw cards equal to the difference.
+
+If the player has too many cards in their hand, investigate to identify which cards belong in their hand. Once this is done,
+remove cards at random from the remaining cards until the hand has the correct number. Shuffle the removed cards into
+the random portion of the player’s deck.
+
+If a player’s inkwell contains too few cards, investigate to identify which card is missing, if possible. If the identity of the
+card is unknown, add a random card from the player’s deck facedown. The players don’t get to learn the identity of the
+card. Do this for each missing card in the inkwell.
+
+If a player’s inkwell contains too many cards, investigate to identify which cards belong in their inkwell. Once this is done,
+remove random cards from the remaining inkwell cards until the inkwell contains the correct number. Shuffle the removed
+cards into the random portion of the player’s deck.
+
+2.4 General Rule Error
+Definition: A player commits an in-game rule violation that doesn’t fall under Hidden Information Errors or Card Count
+Errors. A player missing an effect that uses the word “may” hasn’t committed this infraction.
+
+          Examples:
+          • A player quests with a character with Reckless.
+          • A player plays Befuddle to return Ratigan – Criminal Mastermind to their opponent’s hand.
+          • A player resolves the triggered ability of Merlin – Squirrel but puts the card into their discard.
+          • A player pays 6 {I} to play Be Prepared.
+
+
+
+©Disney                                                         7                                                   disneylorcana.com
+Corrective Action: Casual – Caution / Competitive – Warning
+
+Context: If the root of the error isn’t one of the previous three corrective actions, then it falls into General Rule Error. This
+error is broad in definition and scope, and care should be taken to make sure the remedy and corrective actions are
+consistent.
+
+Remedy: Either rewind the game to the point of the error or leave the game as is (1.2 Rewinding a Game). Choosing to
+rewind must be done with the approval of the Head Judge. If leaving the game as is, be sure to handle anything that is
+currently illegal (such as a character with damage equal to or greater than its Willpower that hasn’t been banished) before
+instructing the players to continue playing.
+
+
+
+SECTION 3: TOURNAMENT ERRORS
+If a player receives a second Warning within a single category of Tournament Error in a tournament, that second Warning
+should be upgraded to a Game Loss.
+
+3.1       Tardiness
+Definition: A player arrives up to 10 minutes late to their match or turns in their deck list after the deadline. This doesn’t
+apply if the player checked in with a Tournament Official beforehand (such as for the bathroom, an important phone
+call, etc.).
+
+           Examples:
+           •   A player arrives at their seat after the round has started.
+           •   A player sits at the incorrect table when the round starts and plays the wrong opponent.
+           •   A player turns in a deck list after the Judges have called for them.
+
+Corrective Action:
+
+ If the player is late by:                     0–2 minutes                 3–9 minutes                10 minutes or more
+ Casual                                          Caution                     Warning                  Match Loss + drop
+ Competitive                                     Warning                    Game Loss                 Match Loss + drop
+
+
+Remedy: Issue the affected match a time extension equal to the time the player was late.
+
+Judges should base the corrective action on the number of minutes the player was late. For example, if a player arrives at
+their seat 2m30s into a Competitive round, they’ll receive a Warning. If they arrive 3m30s late, it’s a Game Loss.
+
+If a player is more than 10 minutes late to their match, they should be issued a Match Loss and be dropped from the
+tournament. If the player shows up before the end of the round, they may be re-enrolled at the discretion of the Head
+Judge.
+
+
+©Disney                                                         8                                                  disneylorcana.com
+3.2 Slow Play
+Definition: A player takes an inordinately long time to make a play decision.
+
+          Examples:
+          • A player checks their and/or their opponent’s discard zone multiple times without taking any action.
+          • A player gets up from their seat for any reason without checking in with a Tournament Official.
+
+Context: Players are expected to play at a reasonable pace to prevent any time disadvantage for one player over the other.
+Most players don’t even realize they’re playing slowly, so a simple nudge from the Judge is usually more than sufficient.
+Any further delays should result in corrective action.
+
+Corrective Action: Casual – Caution / Competitive – Warning
+
+Remedy: If the match is still going when time is called for the round, the match should go an additional two extra turns for
+the end-of-match procedure.
+
+If the match is already in extra turns, the corrective action is still applied but the remedy isn’t.
+
+3.3 Deck/Registration Error – Minor
+Definition: A player has a small error in their deck list or the composition of their deck. These types of errors are normally
+correctable with minimal impact to the tournament operation.
+
+          Examples:
+          • A player has a 39-card Limited deck.
+          • A player has a 59-card Constructed deck and the missing card is located inside the deck box.
+          • A player has more than 4 copies of a card in a deck and catches it themselves.
+          • A player’s deck and deck list are both legal but don’t match.
+
+Corrective Action: Casual – Warning / Competitive – Warning
+
+Context: Minor errors can occur from a simple counting or dexterity error and shouldn’t be harshly penalized. Because
+these common errors can be abused, however, a corrective action is warranted to disincentivize bad actors.
+
+Extra cards in the deck box should be included in the deck composition unless they’re promotional cards given out during
+the event or placeholder cards for the inkwell. Placeholder cards shouldn’t be Disney Lorcana cards.
+
+Remedy: For a Limited deck that is under 40 cards, randomly add cards from the player’s remaining card pool until the
+deck minimum is achieved.
+
+For a Constructed deck that breaks the 4-card limit, remove the excess cards until the error is corrected. If this causes the
+deck be fewer than 60 cards, the corrective action is Deck/Registration Error – Major.
+
+
+
+
+©Disney                                                         9                                                disneylorcana.com
+If a deck is illegal but has a legal list, alter the deck to match the list.
+
+If the deck list must be altered for any reason, the corrective action is Deck/Registration Error – Major.
+
+3.4 Deck/Registration Error – Major
+Definition: A player has a substantial error with their deck or deck list. These types of errors require more investigation or
+effort to fix, and the fix results in the composition changing from what was originally submitted.
+
+             Examples:
+             •   A player has a 59-card Constructed deck and is unable to locate the missing card.
+             •   A player has a Constructed deck with more than two ink colors.
+             •   A player has a deck list that needs to be altered to reflect the deck.
+
+Corrective Action: Casual – Game Loss / Competitive – Game Loss
+
+Context: Major issues with a deck or deck list can significantly impact the integrity of the tournament. If players aren’t
+held accountable for what they intend to play, a player could alter their deck for a match in order to make it more
+favorable. The Game Loss penalty serves as a strong deterrent against this kind of behavior and encourages players to be
+vigilant in their intentions of what they want to play.
+
+Remedy: If the deck contains too many ink types, the ink(s) with the fewest cards must be removed and replaced with
+cards of the two ink types most represented. If there’s a tie, randomly determine which ink is to be removed.
+
+If the deck list and deck both contain too few cards, the player must obtain and add cards until the deck minimum is
+satisfied.
+
+If cards can’t be obtained or added by the player, the Judge can issue an Ink Card Proxy for each card that needed to be
+replaced. An Ink Card Proxy only represents 1 {I}. It has no text and no characteristics (such as Strength or Willpower).
+
+If the replacement card(s) can be obtained later in the tournament, the player can revert the deck and deck list to the
+original submission without incurring another penalty.
+
+3.5 Limited Error
+Definition: A player makes an error during a draft.
+
+             Examples:
+             • A player looks at the cards they’ve already drafted during a Competitive draft.
+             • A player passes the pack the wrong direction.
+
+Corrective Action: Casual – Caution / Competitive – Warning
+
+
+
+
+©Disney                                                           10                                             disneylorcana.com
+Context: Errors during a draft can be disruptive and time consuming to fix. Care should be given during draft instructions
+to mitigate any potential issues as much as possible.
+
+3.6 Information and Communication Error
+Definition: A player incorrectly represents information in a game, and their opponent makes a gameplay decision based on
+the erroneous information. This also covers when a player takes notes outside of writing down lore totals.
+
+          Examples:
+          • A player challenges with a character that has Challenger and doesn’t announce the correct Strength. A few
+              moments later, they correct themselves.
+          • A player is asked how many cards they have in their inkwell and they miscount.
+          • A player looks at their opponent’s hand and writes down the contents on a piece of paper.
+
+Corrective Action: Casual – Caution / Competitive – Warning
+
+Context: It’s in all players’ best interests to play with clear communication. An error in how information is conveyed leads
+to confusion for both the players involved and the Tournament Officials attempting to correct the issue.
+
+Remedy: With the approval of the Head Judge, the game may be rewound to the point of the decision made based on the
+incorrect information.
+
+If the corrective action was for note taking, any notes should be removed.
+
+3.7 Marked Cards
+Definition: A player has cards or card sleeves that can be visually distinguished from the rest of their deck.
+
+          Examples:
+          • A player has small marks on three of their card sleeves. The cards are Maui’s Fish Hook, Mickey Mouse –
+              Detective, and Tamatoa – So Shiny!
+          • A player has 4 copies of a card that is warped such that it stands out from the rest of the deck.
+          • A player has a deck where all of the cards of a single ink type are in a slightly but noticeably different shade of
+              card sleeves.
+
+Corrective Action: Casual – Warning / Competitive – Warning
+
+Context: When playing a TCG, it’s normal for cards and sleeves to receive small marks and imperfections. The presence of
+these marks alone isn’t enough to warrant a corrective action; it’s only when those marks are enough to present the
+possibility of potential abuse that’s a problem.
+
+It’s important to note that, in the normal course of the event, nearly all cards and sleeves could be considered marked in
+some way. Judges should take note of this when determining whether to issue a corrective action.
+
+
+
+©Disney                                                       11                                                 disneylorcana.com
+Remedy: The player should replace the sleeves or cards with unmarked versions at their earliest convenience.
+
+Upgrade: If the Head Judge determines that the marked cards are identifiable easily enough to be significantly abused,
+the player should replace the sleeves or cards immediately. If the tournament is Competitive, the corrective action should
+be upgraded to a Game Loss.
+
 3.8 Outside Assistance
+Definition: A player or spectator gives or receives hidden information or play advice while playing a match, or a player
+consults notes made outside of the current match.
 
-Deﬁnition: A player or spectator gives or receives hidden information or play advice
-while currently playing a match, or a player consults notes made outside of the
-current match.
+          Examples:
+          • A player turns to a spectator and asks if a card in their hand is the right play.
+          • A spectator interrupts a match to provide advice on how to challenge the opponent.
+          • A player pulls out their phone and looks up advice on how to play against their opponent’s deck.
+          • During the game, a player checks notes made during the previous match by someone who scouted their
+              opponent.
 
-Corrective action: Casual – Game Loss / Competitive – Match Loss
-Remedy: If the person committing the infraction is a spectator, they should be
-asked to leave that match.
+Corrective Action: Casual – Game Loss / Competitive – Match Loss
+
+Context: Disney Lorcana games are played between the players themselves, not players plus help. Seeking assistance from
+outside the game immediately damages the integrity of the match and should be strongly discouraged from all sides.
+
+It’s important to note that not all things said to a player from a spectator would be Outside Assistance. For example,
+reminding your friend to quest is play advice and would receive a corrective action, but telling your friend that you won
+your match isn’t play advice so is acceptable.
+
+Remedy: If the person committing the infraction is a spectator, they should be asked to leave that match. In addition, a
+player who receives unsolicited play advice from a spectator will receive an Outside Assistance Warning corrective action.
 
 
 
 SECTION 4: UNSPORTING CONDUCT
+If a player receives a second Warning within a single category of Unsporting Conduct in a tournament, that second
+Warning should be upgraded to a Game Loss.
 
-If a player receives a second Warning within a single category of Unsporting
-Conduct in a tournament, that second Warning should be upgraded to a Game Loss.
 
-4.1 Unsporting – Minor
 
-Deﬁnition: A player takes an action that causes minor distress or discomfort to
-others.
 
-Corrective action: Casual – Warning / Competitive – Warning
+©Disney                                                      12                                                disneylorcana.com
+4.1       Unsporting – Minor
+Definition: A player takes an action that causes minor distress or discomfort to others.
 
-Remedy: Most Minor Unsporting infractions will be unintentional, so the player must
-be informed of why their behavior was distressing or discomforting and remedy the
-situation if possible.
+           Examples:
+           • A player uses vulgar or profane language.
+           • A player loudly complains about their opponent’s deck.
+           • A player demands a corrective action against their opponent or appeals a Judge before the ruling has been
+               fully given.
+           • A player leaves excessive trash in the play area.
+           • Roughhousing or engaging in physical activity in the play aisles (tag, running laps, etc.).
+           • A player repeatedly asks for a concession from their opponent.
+
+Corrective Action: Casual – Warning / Competitive – Warning
+
+Context: The Disney Lorcana TCG is a family-friendly and inclusive game for all. Players are expected to help foster this
+atmosphere by being kind and compassionate. In order to preserve a safe and fun environment for all, players should be
+educated as to why their behavior is unacceptable.
+
+Remedy: Most Minor Unsporting infractions will be unintentional, so the player must be informed of why their behavior
+was distressing or discomforting and remedy the situation if possible.
 
 4.2 Unsporting – Major
+Definition: A player takes an action that could reasonably be expected to cause major discomfort or alienation or to have a
+direct impact on tournament logistics.
 
-Deﬁnition: A player takes an action that could reasonably be expected to cause
-major discomfort or alienation, particularly with regard to discrimination based on a
-protected class (race, gender, ethnicity, etc.).
+           Examples:
+           • A player fails to comply with/ignores the instructions of a Tournament Official.
+           • A player uses items or paraphernalia deemed inappropriate by a Tournament Official.
+           • A player loudly complains about their opponent.
 
-Corrective action: Casual – Match Loss / Competitive – Match Loss
+Corrective Action: Casual – Match Loss / Competitive – Match Loss
 
-Remedy: The players should be separated immediately, and the oﬀending player
-must be educated as to why the behavior is unacceptable. If the player is
-unrepentant and refuses to acknowledge that their conduct was unacceptable, the
-Head Judge is strongly encouraged to upgrade this corrective action to Unsporting –
-Severe.
+Context: Players are expected to act in a respectful manner toward all others during any event. Making others feel
+uncomfortable or unaccepted goes against Disney Lorcana core values. The corrective action is a Match Loss, to reinforce
+our unwavering commitment to fostering a safe and fun play space for everyone.
 
+Remedy: The players should be separated immediately, and the offending player must be educated as to why the behavior
+is unacceptable. If the player is unrepentant and refuses to acknowledge that their conduct was unacceptable, the Head
+Judge is strongly encouraged to upgrade this corrective action to Unsporting – Severe.
+
+
+
+
+©Disney                                                      13                                               disneylorcana.com
 4.3 Unsporting – Severe
+Definition: A player takes an action that significantly disrupts the tournament and/or risks injury to another person. This
+includes actions that may make a player feel discriminated against based on a protected class.
 
-Deﬁnition: A player takes an action that signiﬁcantly disrupts the tournament
-and/or risks injury to another person.
+          Examples:
+          • Using a slur against another attendee.
+          • Intentionally misgendering another attendee.
+          • Defacing or destroying another person’s property or property of the Tournament Officials/Venue.
+          • Theft of any materials from another attendee and/or Tournament Officials/Venue.
+          • Making a threat of physical violence against anyone or intentionally causing physical harm to anyone.
 
-Corrective action: Casual – Disqualiﬁcation / Competitive – Disqualiﬁcation
+Corrective Action: Casual – Disqualification / Competitive – Disqualification
 
-Remedy: The player should be removed from the venue though any safe means
-available. The Tournament Organizer may choose to involve local authorities if they
-deem it necessary.
+Context: The safety and well-being of players is of the utmost importance and is taken extremely seriously. There is zero
+tolerance for any action that causes physical or emotional harm.
+
+Remedy: The player should be removed from the venue by any safe means available. The Tournament Organizer may
+choose to involve local authorities if they deem it necessary.
 
 4.4 Cheating
 
-Deﬁnition: A player intentionally breaks a game rule or tournament rule in order to
-gain an advantage. This infraction also includes lying to a Tournament Oﬃcial or
-intentionally playing slowly to take advantage of a time limit.
+Definition: A player intentionally breaks a game rule or tournament rule in order to gain an advantage. This includes lying
+to a Tournament Official or intentionally playing slowly to take advantage of a time limit.
 
-Corrective action: Casual – Disqualiﬁcation / Competitive – Disqualiﬁcation
+          Examples:
+          • A player notices their opponent put a character into discard that wasn’t supposed to and fails to say
+              anything.
+          • A player realizes they drew an extra card and fails to call a Judge.
+          • A player attempts to alter the match record in their favor without their opponent’s knowledge.
+          • A player realizes they added an extra card to their inkwell and doesn’t call a Judge.
+          • A player who won the first game of a match intentionally slows play in order to take advantage of the clock
+              and prevent their opponent from gaining any match points.
+
+Corrective Action: Casual – Disqualification / Competitive – Disqualification
+
+
+
+
+©Disney                                                      14                                                 disneylorcana.com
 4.5 Improper Match Result
+Definition: A player offers an incentive in exchange for a concession or accepts such an offer, or players determine a
+match result by an outside-the-game method such as flipping a coin or rolling a die. This also extends to offers made to
+Tournament Officials.
 
-Deﬁnition: A player oﬀers an incentive in exchange for a concession or accepts such
-an oﬀer, or players determine a match result by an outside-the-game method such
-as ﬂipping a coin or rolling a die.
+          Examples:
+          • A player offers their opponent their promotional card if they concede the game.
+          • A player attempts to influence a Judge’s ruling by offering to pay for their dinner.
+          • Two players agree to roll dice to determine if the match is a 2-0 victory or a 1-1 draw.
 
-Corrective action: Casual – Match Loss / Competitive – Disqualiﬁcation
+Corrective Action: Casual – Match Loss / Competitive – Disqualification
 
-Remedy: The Head judge is responsible for assuring that the players involved are
-educated as to why this behavior is unacceptable.
+Context: Improper Match Results compromise the integrity of the tournament. It’s unfair and disrespectful to the players
+who are playing fairly if others are allowed to use methods outside of the Disney Lorcana TCG to determine game and
+round winners.
+
+Remedy: The Head judge is responsible for assuring that the players involved are educated as to why this behavior is
+unacceptable.
+
+4.6 Wagering
+
+Definition: A player offers to make a bet on any part or portion of an event. The wager doesn’t need to be monetary.
+
+          Examples:
+          • Two players agree that whoever goes 2-0 will be allowed to pick a card from the other’s trade binder for keeps.
+          • Two players make a bet over who will win the Top 8.
+          • A player offers to start a betting pool on certain players making it to the playoff rounds.
+          • Two players bet on how much ink will be in a player’s inkwell at the end of the game.
+
+Corrective Action: Casual – Match Loss / Competitive – Disqualification
+
+Context: Wagering severely disrupts the integrity of the event. In many cases, betting may also run afoul to local laws and
+regulations. Any form of wagering is strictly forbidden.
+
+Remedy: The Head judge is responsible for assuring that the players involved are educated as to why this behavior is
+unacceptable.
 
 
 
-We welcome constructive feedback and suggestions regarding this document.
-Please contact us at LorcanaOP@ravensburger.com to provide yours.
+
+©Disney                                                      15                                               disneylorcana.com

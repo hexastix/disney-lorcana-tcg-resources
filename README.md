@@ -41,10 +41,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf) ([as text](text/tournament-rules-en.txt))
-- [DEUSTCH](cdn_ravensburger_com/lorcana/tournament-rules-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/tournament-rules-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/tournament-rules-it.pdf)
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224.pdf) ([as text](text/tournament-rules-en.txt))
 
 ### Inklands Championship Tournament Rules
 
@@ -55,10 +52,7 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/play-correction-guidelines-en.pdf) ([as text](text/play-correction-guidelines-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/play-correction-guidelines-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/play-correction-guidelines-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/play-correction-guidelines-it.pdf)
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124.pdf) ([as text](text/play-correction-guidelines-en.txt))
 
 ### Disney Lorcana TCG Deck Registration Sheet
 

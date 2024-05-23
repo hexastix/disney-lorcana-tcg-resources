@@ -15,16 +15,17 @@ URL_PREFIXES = (
 
 FILES_TO_CONVERT = (
     "Disney Lorcana Comprehensive Rules - EN - 05.21.24.pdf",
+    "Disney_Lorcana_Play_Correction_Guidelines_052124.pdf",
+    "Disney_Lorcana_Tournament_Rules_052224.pdf",
     "community-code-en.pdf",
     "op-diversity-and-inclusion-policy-en.pdf",
-    "play-correction-guidelines-en.pdf",
     "s1-set-notes-en.pdf",
-    "tournament-rules.pdf",
 )
 
 TEXT_FILE_NAMES = {
     "Disney Lorcana Comprehensive Rules - EN - 05.21.24.txt": "comprehensive-rules-en.txt",
-    "tournament-rules.txt": "tournament-rules-en.txt",
+    "Disney_Lorcana_Play_Correction_Guidelines_052124.txt": "play-correction-guidelines-en.txt",
+    "Disney_Lorcana_Tournament_Rules_052224.txt": "tournament-rules-en.txt",
 }
 
 

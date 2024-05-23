@@ -66,6 +66,7 @@ class ResourcesHTMLParser(HTMLParser):
         if text_file_name in TEXT_FILE_NAMES:
             text_file_name = TEXT_FILE_NAMES[text_file_name]
         text_file_path = pathlib.Path(self.output_dir, "text", text_file_name)
+        os.makedirs(text_file_path.parent, exist_ok=True)
         print(f"Converting {pdf_file_path} to {text_file_path}")
         subprocess.run(
             ["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path]

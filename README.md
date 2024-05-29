@@ -41,7 +41,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224.pdf) ([as text](text/tournament-rules-en.txt))
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
 ### Ursula's Return Championship Tournament Rules
 
@@ -52,7 +52,7 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124.pdf) ([as text](text/play-correction-guidelines-en.txt))
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))
 
 ### Disney Lorcana TCG Deck Registration Sheet
 

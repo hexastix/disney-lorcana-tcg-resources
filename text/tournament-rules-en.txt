@@ -1,5 +1,7 @@
-                                     Tournament Rules
-                                                    Effective 5/22/2024
+                                        Tournament Rules
+                                                      Effective 5/22/2024*
+
+*Note: Links to the Disney Lorcana TCG Comprehensive Rules and the Disney Lorcana TCG Play Correction Guidelines have been corrected.
 
 
 
@@ -7,10 +9,11 @@
 INTRODUCTION
 Ravensburger and the Disney Lorcana trading card game Organized Play Team work to provide a welcoming, open,
 supportive, and safe environment for all event participants. Part of this work includes setting rules and standards for
-tournament roles, processes, and game play procedures.
+tournament roles, processes, and gameplay procedures.
 
 All tournament participants agree to abide by the rules outlined in this document. Corrective action may be taken if these
-rules aren’t followed. Other applicable documents that participants must all adhere to include:
+rules aren’t followed. Other applicable documents that participants must all follow are available at the Disney Lorcana TCG
+Resources page, here. These documents include:
       • Disney Lorcana TCG Community Code
       • Disney Lorcana TCG Play Correction Guidelines
       • Disney Lorcana TCG Organized Play Diversity & Inclusion Policy
@@ -25,8 +28,8 @@ LorcanaOP@ravensburger.com to provide yours.
 
 
 
-                                                             1
-©Disney                                                                                                       disneylorcana.com
+                                                                 1
+©Disney                                                                                                             disneylorcana.com
                                               CONTENTS
 
 1. TOURNAMENT DEFINITIONS                                 4. INFORMATION AND COMMUNICATION
@@ -82,7 +85,7 @@ section 5, “Constructed Formats.”)
 
 1.2 Tournament Levels
 Disney Lorcana TCG tournaments are divided into two levels: Casual and Competitive. All tournaments handle in-game
-errors by using the Play Correction Guide found at: https://cdn.ravensburger.com/lorcana/play-correction-guidelines-en
+errors by using the Disney Lorcana TCG Play Correction Guidelines, available at the Disney Lorcana TCG Resources page.
 
 Casual tournaments are played with more relaxed rules and fewer, if any, prizes. These tournaments are intended for less
 serious play; tournament officials are responsible for assuring that these events are welcoming to less-experienced
@@ -109,7 +112,7 @@ All of the above roles except Player and Spectator are considered Tournament Off
 
 
                                                              3
-©Disney                                                                                                      disneylorcana.com
+©Disney                                                                                                        disneylorcana.com
 1.4 Eligible Players and Tournament Officials
 
 Anyone is eligible to play in any Disney Lorcana TCG tournament, with the following exceptions:
@@ -127,8 +130,7 @@ participating in Competitive-level events, including Set Championships.
 
 1.5 Set Legality
  Disney Lorcana sets are legal to play in Disney Lorcana Sanctioned Tournaments three weeks after release in hobby
-stores. Alternate and special versions of cards, including preview and promo cards, become legal when their respective set
-does, regardless of when they’re released.
+stores.
 
 
 
@@ -152,6 +154,8 @@ Organizer may serve as the Head Judge. For Competitive tournaments, they must be
 The Head Judge is the final arbiter for any rules or tournament policy disputes at a Disney Lorcana TCG tournament. It’s
 their responsibility to enforce the codes in this document, the Disney Lorcana TCG Comprehensive Rules, and the Disney
 Lorcana TCG Play Correction Guidelines. All tournament participants are expected to abide by the Head Judge’s decisions.
+
+
                                                               4
 ©Disney                                                                                                      disneylorcana.com
 For smaller tournaments, the Head Judge should be the only judge needed. For larger tournaments, the Head Judge is
@@ -231,8 +235,8 @@ of rounds to be played based on the number of players in the first round are as 
 
                                                               6
 ©Disney                                                                                                        disneylorcana.com
-           Players               Swiss Rounds         Playoff Format
-                     8                  3                  None
+                Players           Swiss Rounds        Playoff Format
+                   8                    3                  None
                  9-16                   4                  Top 4
                  17-32                  5                  Top 8
                 33-64                   6                  Top 8
@@ -266,11 +270,13 @@ When beginning a game, players first decide which player is playing first as des
 their deck and offers their opponent the opportunity for additional shuffling and/or cutting. Then, each player draws their
 opening hand of seven cards.
 
+
+
+                                                              7
+©Disney                                                                                                        disneylorcana.com
 For every game of a match, each player has the opportunity to alter their hand. First, the first player chooses which cards
 from their hand they will alter, if any, and places those cards on the bottom of their deck in any order. Then the second
 player chooses which cards from their hand they will alter and places those cards on the bottom of their own deck in any
-                                                              7
-©Disney                                                                                                        disneylorcana.com
 order. Then both players draw cards until both have seven cards in their hand again. Finally, any player who placed cards on
 the bottom of their deck this way shuffles their deck and then offers their opponent the opportunity for additional
 shuffling and/or cutting.
@@ -309,15 +315,12 @@ player may request a split only once per match and can’t implicitly or explici
 exchange for a split. Players provided such an offer are required to call a judge and report the offer. If players agree to a
 split, a random player is determined to win game 1, and the other player wins game 2.
 
-
-
-
                                                                8
 ©Disney                                                                                                          disneylorcana.com
 3.6 Deck Registration
 Players in Competitive Disney Lorcana TCG tournaments are required to register their decks.
 
-For a Constructed tournament, players must submit their deck list either via www.Melee.gg or on a paper deck list,
+For a Constructed tournament, players must submit their deck list either via www.melee.gg or on a paper deck list,
 following instructions from the Tournament Organizer or Head Judge. The Tournament Organizer should communicate the
 deck list submission deadline. If no such deadline is communicated, the deck lists will be due before the first round is
 created.
@@ -330,9 +333,8 @@ Players may request to see their deck list between matches. These requests will 
 Deck lists are considered the ultimate arbiter of which cards the player intended to play. Players must take care to use full
 card names, since many character cards have similar names.
 
-The use of official deck list forms is recommended for submitting a deck list but isn’t required. The official deck list forms
-can be found at:
- https://www.disneylorcana.com/en-US/resources
+The use of official deck list forms is recommended for submitting a deck list but isn’t required. The Disney Lorcana TCG
+Deck Registration Sheet can be found on the Disney Lorcana TCG Resources page, here.
 
 3.7 Deck Checks
 Judges at Competitive tournaments will perform deck checks as much as is feasible. Decks should be checked after
@@ -348,17 +350,17 @@ match will be dropped from the tournament unless they inform the Scorekeeper bef
 If a player drops during a Limited tournament, they keep all cards provided to them by the tournament organizer to
 participate in the event. This includes opened and partially drafted booster packs.
 
-
-
-
-                                                              9
-©Disney                                                                                                         disneylorcana.com
 3.9 Sleeves
 Players are allowed to use plastic card sleeves on their cards. These must be free of markings and wear. For official event
 and tournament play, sleeves must allow satisfy the following conditions:
 
     •     They must enclose one single card entirely.
     •     All sleeves must be identical.
+
+
+
+                                                              9
+©Disney                                                                                                        disneylorcana.com
     •     All sleeves must have fully opaque backs.
     •     Sleeves that feature suggestive, indecent, and/or offensive imagery or words are strictly prohibited.
 
@@ -392,10 +394,6 @@ referring to the card catalog as long as any references are made in a timely man
 At Competitive tournaments, electronic devices capable of long-term data storage and/or internet access aren’t
 permitted.
 
-
-
-                                                              10
-©Disney                                                                                                         disneylorcana.com
 4.3 In-Game Information
 During games, players are expected to communicate openly with their opponents.
 
@@ -403,6 +401,10 @@ There are two types of information in Disney Lorcana: public and hidden. Informa
 any facedown zone. Although the hand isn’t a facedown zone, it’s considered hidden information from your opponent.
 Information in any other zone is considered public.
 
+
+
+                                                              10
+©Disney                                                                                                         disneylorcana.com
 Players are allowed to know the status, characteristics, and contents of any public zone or of any card in a public zone.
 Players are allowed to know only the number of cards in a hidden zone.
 
@@ -438,9 +440,6 @@ table. If there is ever any confusion about which cards are in a player’s inkw
 so the error can be remedied. Additionally, all ready cards in a player’s inkwell must be oriented in the same direction as
 each other; the same must also be true for exerted cards in that player’s inkwell.
 
-
-                                                              11
-©Disney                                                                                                          disneylorcana.com
 A player is allowed to leave the last card they put into their inkwell faceup during the turn it was put there. Once that turn
 ends, the play should turn it facedown in the inkwell.
 
@@ -449,9 +448,8 @@ actual inkwell cards are kept distinct and separate from any other facedown card
 If there is any dispute involving placeholder cards, the actual inkwell cards will be used to determine the total ink.
 
 A placeholder card for the inkwell must not be a Disney Lorcana card.
-
-
-
+                                                              11
+©Disney                                                                                                          disneylorcana.com
 SECTION 5: CONSTRUCTED TOURNAMENT FORMATS
 5.1 Constructed Overview
 “Constructed” describes any event where players are expected to build their decks ahead of time. Currently, there is only
@@ -482,11 +480,6 @@ Limited decks aren’t restricted in how many ink types they may contain.
 Limited decks may contain any number of copies of any individual card. For example, if a player in a Sealed tournament
 opens six copies of Genie – The Ever Impressive, they may play all six in their deck.
 
-
-
-
-                                                              12
-©Disney                                                                                                         disneylorcana.com
 6.2 Sealed
 In a Sealed tournament, each player is provided with a set of unopened booster packs from which they will build their
 deck.
@@ -494,6 +487,11 @@ deck.
 The minimum number of booster packs to be provided for Sealed tournaments is six per player, from the set(s) of the
 tournament organizer's choice. Each player begins with the same number of booster packs from each set selected.
 
+
+
+
+                                                            12
+©Disney                                                                                                       disneylorcana.com
 6.3 Preconstructed
 In a Preconstructed tournament, players are provided with a random starter deck from the set chosen for the tournament.
 Players may add or exchange any number of cards between the preconstructed deck and the booster pack included in
@@ -516,30 +514,28 @@ Judge, although these guidelines should usually be followed:
     •     Each pod should have at least six players.
     •     There should be no more than one pod with an uneven number of players.
 
+Following these guidelines, here are the recommended pod sizes for smaller tournaments:
 
+            # of Players        Pods
+            6-11                1 pod
+            12-14               1 pod of 6
+                                1 pod of 6 to 8
+            15-16               1 pod of 8,
+                                1 pod of 7 to 8
+            18                  3 pods of 6
+            19-20               2 pods of 6
+                                1 pod of 7 to 8
+            21                  Pod of 6
+                                Pod of 7
+                                Pod of 8
+            22                  Pod of 6
+                                2 pods of 8
+            23                  Pod of 7
+                                2 pods of 8
 
 
                                                             13
 ©Disney                                                                                                      disneylorcana.com
-Following these guidelines, here are the recommended pod sizes for smaller tournaments:
-
-           # of Players          Pods
-           6-11                  1 pod
-           12-14                 1 pod of 6
-                                 1 pod of 6 to 8
-           15-16                 1 pod of 8,
-                                 1 pod of 7 to 8
-           18                    3 pods of 6
-           19-20                 2 pods of 6
-                                 1 pod of 7 to 8
-           21                    Pod of 6
-                                 Pod of 7
-                                 Pod of 8
-           22                    Pod of 6
-                                 2 pods of 8
-           23                    Pod of 7
-                                 2 pods of 8
-
 For the first booster pack, each player opens a pack, selects one card to add to their card pool, then passes the remaining
 cards to their left. Then they collect the cards passed from their right, select a card, and pass the remaining cards to their
 left. Card selection continues in this manner until all cards from the pack have been drafted.
@@ -562,10 +558,6 @@ It’s recommended that all matches in single-elimination rounds are untimed. If
 availability constraints, the time limit should be at least 70 minutes and should be announced prior to the beginning of the
 single-elimination portion of the event.
 
-
-
-                                                              14
-©Disney                                                                                                         disneylorcana.com
 If all matches have finished before the time limit is up in a round, the Head Judge may choose to start the next round
 early. No players should be issued a Tardiness penalty if they arrive before the previous round would have ended.
 
@@ -578,6 +570,11 @@ The time limit for Preconstructed deck construction is 10 minutes.
 
 The time limit for Draft deck construction and registration is 25 minutes.
 
+
+
+
+                                                              14
+©Disney                                                                                                         disneylorcana.com
 The time limits for individual Draft picks, if being used, are as follows:
 
      •    12 cards remaining: 30 seconds
@@ -596,4 +593,4 @@ The time limits for individual Draft picks, if being used, are as follows:
 
 
                                                                15
-©Disney                                                                                                      disneylorcana.com
+©Disney                                                                      disneylorcana.com

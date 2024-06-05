@@ -109,6 +109,7 @@
 - [DEUTSCH](files_disneylorcana_com/Ursulas%20R%C3%BCckkehr_OrganizedPlay_Kit_Instructions_DE.pdf)
 - [FRANÇAIS](files_disneylorcana_com/Le-retour-d%E2%80%99Ursula_Instrctions-Kit-Jeu-Org_FR.pdf)
 - [ITALIANO](files_disneylorcana_com/Il-Ritorno-di-Ursula_Istruzioni-Gioco-Org_IT.pdf)
+- [Español](files_disneylorcana_com/DCL_S4_OrganizedPlay_Newsletter_ES01-Digital.pdf)
 
 
 ## Policies

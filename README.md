@@ -49,6 +49,7 @@
 - [Deutsch](files_disneylorcana_com/Ursulas-Ruckkehr_Veranstaltungsanweisungen_DE.pdf)
 - [FRANÇAIS](files_disneylorcana_com/Le-retour-dUrsula_Instructions-pour-levenement%20_FR.pdf)
 - [Italiano](files_disneylorcana_com/Il-Ritorno-di-Ursula_Istruzioni-per-levento_IT.pdf)
+- [ESPAÑOL](files_disneylorcana_com/DCL_S4_OPChampionships_Event%20Instructions_ES.pdf)
 
 ### Play Correction Guidelines
 

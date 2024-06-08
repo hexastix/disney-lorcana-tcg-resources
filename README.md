@@ -19,7 +19,7 @@
 - [DEUTSCH](files_disneylorcana_com/Ursulas-Ruckkehr_SchnellStart-Regeln_DE.pdf)
 - [FRANÇAIS](files_disneylorcana_com/Le%20retour%20d%E2%80%99Ursula_Principe-du-jeu_FR.pdf)
 - [ITALIANO](files_disneylorcana_com/Il-Ritorno-di-Ursula_Regolo-Introduttive_IT.pdf)
-- [Español](files_disneylorcana_com/S3_Quick_Start_Book_ES01.pdf)
+- [Español](files_disneylorcana_com/Ursulas-Return_Regalas-de-Inicio-Rapido_ES.pdf)
 
 ### Comprehensive Rules
 

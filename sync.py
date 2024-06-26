@@ -119,7 +119,7 @@ class ResourcesHTMLParser(HTMLParser):
 
         elif self.list_item is not None:
             print(
-                f"- {self.list_item.format(data=data)}",
+                f"- {self.list_item.format(data=data.strip())}",
                 file=self.readme_file,
             )
 

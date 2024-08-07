@@ -43,6 +43,14 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/Disney_Lorcana_Tournament_Rules_052224update.txt))
 
+### Shimmering Skies OP Kit Instructions
+
+- [ENGLISH](files_disneylorcana_com/Shimmering-Skies_OrganizedPlay_Newsletter_EN01.pdf)
+- [DEUTSCH](files_disneylorcana_com/Himmels-Leuchten_OrganizedPlay_Newsletter_DE01.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Ciel-Scintillant_OrganizedPlay_Newsletter_FR01.pdf)
+- [ITALIANO](files_disneylorcana_com/Cieli-Scintillanti_OrganizedPlay_Newsletter_IT01.pdf)
+- [Español](files_disneylorcana_com/Shimmering-Skies_S5_OrganizedPlay_Newsletter_ES01.pdf)
+
 ### Ursula's Return Championship Tournament Rules
 
 - [English](files_disneylorcana_com/Ursulas-Return_OPChampionships_Event-Instructions_EN.pdf)

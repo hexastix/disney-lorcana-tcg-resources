@@ -81,37 +81,6 @@
 
 - [melee.gg](https://melee.gg/Documentation)
 
-### Rise of the Floodborn OP Kit Instructions
-
-- [ENGLISH](cdn_ravensburger_com/lorcana/op-kit2-instruction-en.pdf)
-- [DEUTSCH](cdn_ravensburger_com/lorcana/op-kit2-instruction-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-kit2-instruction-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/op-kit2-instruction-it.pdf)
-
-### OP Kit Rise of the Floodborn League Poster
-
-- [https://cdn.ravensburger.com/lorcana/op-kit2-league-poster-en](cdn_ravensburger_com/lorcana/op-kit2-league-poster-en.pdf)
-
-### Into the Inklands OP Kit Instructions
-
-- [English](cdn_ravensburger_com/lorcana/op-kit3-instruction-en.pdf)
-- [Deutsch](cdn_ravensburger_com/lorcana/op-kit3-instruction-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-kit3-instruction-fr.pdf)
-- [Italiano](cdn_ravensburger_com/lorcana/op-kit3-instruction-it.pdf)
-- [ESPAÑOL](files_disneylorcana_com/Into%20the%20Inklands_OrganizedPlay_Newsletter_ES.pdf)
-
-### Into the Inklands OP Kit League Poster
-
-- [https://files.disneylorcana.com/op-kit3-league-poster-en.pdf](files_disneylorcana_com/op-kit3-league-poster-en.pdf)
-
-### Ursula's Return OP Kit Instructions
-
-- [ENGLISH](files_disneylorcana_com/Ursulas-Return_OrganizedPlay_Kit_Instructions_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Ursulas%20R%C3%BCckkehr_OrganizedPlay_Kit_Instructions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Le-retour-d%E2%80%99Ursula_Instrctions-Kit-Jeu-Org_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Il-Ritorno-di-Ursula_Istruzioni-Gioco-Org_IT.pdf)
-- [Español](files_disneylorcana_com/DCL_S4_OrganizedPlay_Newsletter_ES01-Digital.pdf)
-
 
 ## Policies
 

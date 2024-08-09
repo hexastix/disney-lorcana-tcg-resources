@@ -15,11 +15,11 @@
 
 ### Quickstart Rules
 
-- [ENGLISH](files_disneylorcana_com/Ursulas-Return_Quick_Start_Book_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Ursulas-Ruckkehr_SchnellStart-Regeln_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Le%20retour%20d%E2%80%99Ursula_Principe-du-jeu_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Il-Ritorno-di-Ursula_Regolo-Introduttive_IT.pdf)
-- [Español](files_disneylorcana_com/Ursulas-Return_Regalas-de-Inicio-Rapido_ES.pdf)
+- [ENGLISH](files_disneylorcana_com/Shimmering-Skies_Quick_Start_Book_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/Himmel-Leuchten_Quick_Start_Rules_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Ciel-Scintillant_Quick_Start_Rules_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/Cieli-Scintillanti_Quick_Start_Rules_IT.pdf)
+- [Español](files_disneylorcana_com/Shimmering%20Skies_Quick_Start_Rules_ES.pdf)
 
 ### Comprehensive Rules
 

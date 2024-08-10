@@ -54,13 +54,13 @@
 - [ITALIANO](files_disneylorcana_com/Cieli-Scintillanti_OrganizedPlay_Newsletter_IT01.pdf)
 - [Español](files_disneylorcana_com/Shimmering-Skies_S5_OrganizedPlay_Newsletter_ES01.pdf)
 
-### Ursula's Return Championship Tournament Rules
+### Shimmering Skies Championship Tournament Rules
 
-- [English](files_disneylorcana_com/Ursulas-Return_OPChampionships_Event-Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Ursulas-Ruckkehr_Veranstaltungsanweisungen_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Le-retour-dUrsula_Instructions-pour-levenement%20_FR.pdf)
-- [Italiano](files_disneylorcana_com/Il-Ritorno-di-Ursula_Istruzioni-per-levento_IT.pdf)
-- [ESPAÑOL](files_disneylorcana_com/DCL_S4_OPChampionships-Event%20Instructions_ES.pdf)
+- [English](files_disneylorcana_com/Shimmering-Skies-Set-Championships_Event-Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Himmel-Leuchten-Verenstaltungsanweisungen_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Ciel-Scintillant-Instructions-pour-levenement_FR.pdf)
+- [Italiano](files_disneylorcana_com/Cieli-Scintillanti-Instruzioni-per-levento_IT.pdf)
+- [ESPAÑOL](files_disneylorcana_com/Shimmering-Skies-Championships_Event-Instructions_ES.pdf)
 
 ### Play Correction Guidelines
 

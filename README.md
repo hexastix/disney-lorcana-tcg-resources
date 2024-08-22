@@ -70,18 +70,18 @@
 
 - [https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet](cdn_ravensburger_com/lorcana/op-constructed-decklist-registration-sheet.pdf)
 
-### Disney Lorcana TCG: The First Chapter Decklist
+### Disney Lorcana TCG: The First Chapter Set Checklist
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/s1-deck-checklist-en.pdf)
 - [ENGLISH (A4)](cdn_ravensburger_com/lorcana/s1-deck-checklist-a4-en.pdf)
 
-### Disney Lorcana TCG: Rise of the Floodborn Decklist
+### Disney Lorcana TCG: Rise of the Floodborn Set Checklist
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/s2-decklist-a4-en.pdf)
 - [DEUTSCH](cdn_ravensburger_com/lorcana/s2-decklist-a4-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/s2-decklist-a4-fr.pdf)
 
-### Disney Lorcana TCG: Into the Inklands Decklist
+### Disney Lorcana TCG: Into the Inklands Set Checklist
 
 - [English](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_EN.pdf)
 - [DEUTSCH](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_DE.pdf)

@@ -129,9 +129,9 @@
 
 ### Replacement Policy
 
-- [English](cdn_ravensburger_com/lorcana/replacement-policy-en.pdf)
-- [Deutsch](cdn_ravensburger_com/lorcana/replacement-policy-de.pdf)
-- [Italiano](cdn_ravensburger_com/lorcana/replacement-policy-it.pdf)
+- [English](files_disneylorcana_com/DLC-replacement-policy-en_2024-9-9.pdf)
+- [Deutsch](files_disneylorcana_com/DLC-replacement-policy-de_2024-9-9.pdf)
+- [Italiano](files_disneylorcana_com/DLC-replacement-policy-it_2024-9-9.pdf)
 
 
 ## Marketing Materials

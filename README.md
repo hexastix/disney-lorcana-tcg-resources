@@ -20,6 +20,10 @@
 - [ITALIANO](files_disneylorcana_com/Cieli-Scintillanti_Quick_Start_Rules_IT.pdf)
 - [Español](files_disneylorcana_com/Shimmering%20Skies_Quick_Start_Rules_ES.pdf)
 
+### Pack Rush Rules
+
+- [English](files_disneylorcana_com/Pack_Rush_Quick_Start_Rules_29-08-24.pdf)
+
 ### Comprehensive Rules
 
 - [English](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules_EN_08.09.24.pdf) ([as text](text/comprehensive-rules-en.txt))

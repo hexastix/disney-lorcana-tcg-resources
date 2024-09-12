@@ -1,0 +1,327 @@
+                                             TRADING CARD GAME
+
+
+
+
+                            Disney Lorcana TCG: Das Erste Kapitel - FAQ
+
+          ALLGEMEINE REGELN
+
+          Herausforderungen
+
+          F: Gelten Fähigkeiten von Charakteren, die in einer Herausforderung verbannt werden,
+              als während der Herausforderung verbannt?
+             A: Fähigkeiten von Charakteren, die eintreten, wenn sie in einer Herausforderung verbannt
+                werden, treten noch während dieser Herausforderung in Kraft.
+                Beispiel: Marshmallow - Hartnäckiger Hüter die Fähigkeit: „Wenn dieser Charakter
+                durch eine Herausforderung verbannt wird, darfst du diese Karte zurück auf deine Hand
+                nehmen.“, und Grinsekatze - Nicht ganz da hat die Fähigkeit: „Wenn dieser Charakter
+                herausgefordert und verbannt wird, verbanne den herausfordernden Charakter.“
+                Wenn ein Spieler also die Grinsekatze herausfordert und sie mit Marshmallow verbannt,
+                würde die Fähigkeit der Grinsekatze Marshmallow während der Herausforderung
+                verbannen, so dass der herausfordernde Spieler Marshmallow auf seine Hand
+                zurückbringen kann.
+
+          F: Wenn ich eine Flutgestalt die bereits Gestaltwandel eingesetzt hat in einer
+             Herausforderung verbanne, während ich eine Karte im Spiel habe, durch die ich immer
+             1 Legende sammeln kann, wenn ich einen Charakter verbanne, wie viel Legenden
+             sammle ich dann?
+             A: Unabhängig davon, wie viele Karten sich unter einem Charakter mit Gestaltwandel
+                befinden, so zählt dieser immer noch als ein einzelner Charakter. Nur die oberste Karte des
+                Stapels gilt hier als verbannt, wenn es um Effekte wie diesen geht.
+                Beispiel: Wenn du eine Flutgestalt die bereits Gestaltwandel genutzt hat mit Simba -
+                Rechtmäßiger Thronfolger verbannst, sammelst du trotzdem nur 1 Legende mit seiner
+                Fähigkeit „Ich weiß, was meine Pflicht ist“.
+
+          Kosten
+
+          F: Wenn ich 2 Exemplare von „Micky Maus - Eigenwilliger Zauberer“ im Spiel habe, kostet
+             dann mein „Zauberbesen - Wasser marsch!“ 1 Tinte weniger oder 2 Tinte weniger?
+             A: Zauberbesen kostet dann 2 Tinte weniger, 1 Tinte für jede Kopie von Micky Maus -
+                Eigenwilliger Zauberer.
+
+          F: Wenn ich „Einfrieren“ benutze und die „Die Königin - Boshaft und eitel“ meines
+             Gegners auswähle, kann ich dann mit der Fähigkeit „Höre mich!“ der Königin eine
+             Karte ziehen?
+             A: Nein. Wenn eine Fähigkeit Kosten hat, dann muss der jeweilige Spieler der Karte diese
+                Kosten bezahlen, um die Fähigkeit zu nutzen. Wenn ein anderer Effekt Die Königin
+                erschöpft, darf man damit keine Karte ziehen. Und natürlich kann man die Fähigkeit auch
+                nur einsetzen, wenn Die Königin bereit ist.
+
+
+
+
+          August 28, 2023                                                                                1
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+          F: Wenn einer meiner Charaktere mit höheren Kosten als 2 „Sei hier Gast!“ singt,
+             während ich „Ursulas Muschel-Halskette“ im Spiel habe, kann ich durch das Singen
+             dann die zusätzlichen Kosten von 1 {I} bezahlen, um mit Ursulas Muschel-Halskette
+             eine Karte zu ziehen?
+             A: Nein. Die Tintenkosten für die Verwendung von Ursulas Muschel-Halskette müssen
+                unabhängig von den Kosten für das Ausspielen des Liedes bezahlt werden.
+
+
+          Tintenvorrat
+
+          F: Kann ich mir die Vorderseite einer Karte ansehen, die sich bereits in meinem
+          Tintenvorrat befindet?
+             A. Kein Spieler darf sich die Vorderseite einer Karte ansehen, sobald sie in den Tintenvorrat
+             gelegt wurde.
+
+          F: Wenn eine Karte von meinem Deck durch einen Effekt wie „Micky Maus – Detektiv“ in
+             meinen Tintenvorrat gelegt wird, kann ich dann überprüfen, um welche Karte es sich
+             handelt, bevor sie verdeckt abgelegt wird?
+             A: Nein. Wenn Karten in den Tintenvorrat gelegt werden, die nicht bekannt sind, wie z.B. vom
+                Deck, dann können diese Karten von keinem der Mitspielenden angesehen werden.
+
+          F: Wenn ich die Fähigkeit der Fischgrätenfeder nutze, um eine Karte aus meiner Hand in
+             meinen Tintenvorrat zu legen, muss ich dann die gewählte Karte vorzeigen?
+             A: Nein. Wenn eine Fähigkeit dich eine beliebige Karte in deinen Tintenvorrat legen lässt
+                (unabhängig davon, ob sie ein Tintenvorrat-Symbol hat oder nicht), dann muss man
+                diese Karte auch nicht vorzeigen.
+
+          Timing
+
+          Q. Wenn mehr als ein Effekt gleichzeitig eintritt, in welcher Reihenfolge werden sie
+          aufgelöst?
+             A. Wenn in deinem Zug mehrere deiner Effekte gleichzeitig auftreten, wählst du die
+                Reihenfolge, in der sie ausgeführt werden, und löst die Effekte in dieser Reihenfolge auf.
+                Danach löst jeder andere Spieler der Reihe nach seine Effekte auf, beginnend mit dem
+                Spieler zu deiner Linken.
+                Beispiel: Wenn du „Dr. Facilier - Agent Provocateur“ im Spiel hast und deine „Gramma
+                Tala – Geschichtenerzählerin“ herausgefordert und verbannt wird, kannst du wählen,
+                ob du Gramma Tala auf deine Hand zurück nimmst oder sie in deinen Tintenvorrat
+                legst.
+
+          F: Wenn ich die Aktion „Freunde im Schattenreich“ spiele, während ich „Dr. Facilier -
+             Bemerkenswerter Gentleman“ im Spiel habe, ziehe ich dann die 2 Karten, bevor ich
+             seine Fähigkeit „Träume werden wahr“ ausführe?
+             A: Ja. Der Effekt von Dr. Facilier tritt erst ein, nachdem du den Text von Freunde im
+                Schattenreich vollständig ausgeführt hast.
+
+
+
+
+          August 28, 2023                                                                                    2
+©Disney
+                                              TRADING CARD GAME
+
+
+
+          Anderes
+
+          F: Was passiert, wenn eine Karte mir eine Aktion vorschreibt und ich nicht alles tun
+             kann, was auf der Karte steht?
+             A: Wenn eine Karte dir vorschreibt, eine Aktion auszuführen, tue so viel wie möglich, um die
+                Anforderungen zu erfüllen. Dies gilt NICHT für Aktionen, die ein Teil der Kosten sind.
+                 Beispiel: „Entwickle dein Gehirn“ sagt: „Schaue dir die obersten 2 Karten deines Decks
+                 an. Nimm 1 davon auf deine Hand und lege die andere unter dein Deck.“ Wenn du nur
+                 noch eine Karte in deinem Deck hast, schaust du dir diese Karte an und nimmst sie dann
+                 auf die Hand.
+
+
+          F: Kann die Stärke eines Charakters unter 0 sinken? Und was passiert, wenn eine
+             Aktion oder ein Effekt die Stärke dieses Charakters später in der Runde wieder
+             erhöht?
+             A: Wenn die Stärke eines Charakters auf 0 oder weniger reduziert würde, dann wird der
+                Charakter so behandelt, als hätte er 0 Stärke. Wenn eine Fähigkeit oder ein Effekt dem
+                Charakter später wieder Stärke hinzufügt, dann werden alle Modifikatoren auf seine
+                Stärke gleichzeitig angewendet, um seine Gesamtstärke zu berechnen.
+
+
+          F: Angenommen, ich habe eine Elsa im Spiel und wähle einen bereiten Charakter für die
+              Fähigkeit „Liebevolles Herz“ von „Anna - Thronfolgerin von Arendelle“. Wenn der
+              gewählte Charakter später im Zug dann erschöpft wird, bleibt dieser dann zu Beginn
+              der nächsten Runde erschöpft?
+             A: Ja, der gewählte Charakter bleibt von Annas Effekt bis zum Ende des Zuges betroffen und
+             muss dafür nicht vorher schon erschöpft sein.
+
+
+          KEYWORDS
+
+          Beschützen (Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere müssen
+             beim Herausfordern zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)
+             o   Wenn es mehrere gegnerische Charaktere mit der Beschützen-Fähigkeit gibt, so
+                 kannst du wählen, welchen von ihnen du herausfordern möchtest.
+
+          Herausfordern +N (Während dieser Charakter herausfordert, erhält er +N Stärke.)
+             o   Herausfordern ist additiv, d. h. man addiert alle Instanzen des Begriffs, um eine
+                 kombinierte +N Stärke zu erhalten.
+                 Beispiel: Wenn du zwei Exemplare von „Naseweis - Peter Pans Verbündete“ im Spiel
+                 hast, gibt jede von ihnen deinem Peter Pan-Charakter Herausfordern +1, was ihm also
+                 insgesamt Herausfordern +2 gibt.
+
+
+
+
+          Impulsiv (Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern, wenn
+          August 28, 2023                                                                               3
+©Disney
+                                              TRADING CARD GAME
+
+
+
+          möglich.)
+             o   Karten mit Impulsiv müssen herausfordern, wenn sie dazu in der Lage sind, aber
+                 sie können auch singen oder aus anderen Gründen erschöpft werden, wodurch
+                 sie dann nicht mehr herausfordern können.
+
+             o   Wenn ein Charakter mit Impulsiv bereit ist, muss er herausfordern (sofern
+                 möglich), auch wenn er in diesem Zug bereits herausgefordert hat.
+
+          Rasant (Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)
+             o   Charaktere mit Rasant können in dem Zug, in dem sie gespielt werden,
+                 herausfordern, ohne dass ihre Tinte trocknen muss. Sie können allerdings in dem
+                 Zug, in dem sie ausgespielt werden, immer noch nicht erkunden, ein Lied singen
+                 oder eine Fähigkeit einsetzen, die sie erschöpft.
+
+          Gestaltwandel (Du kannst N Tinte zahlen, um diesen Charakter auf einen deiner X-Charaktere
+          auszuspielen.)
+
+          F: Gilt ein Effekt, der es mir ermöglicht, einen Charakter umsonst oder für weniger Tinte
+              auszuspielen, auch für das Spielen einer Flutgestalt, die ihre Fähigkeit
+              „Gestaltwandel“ einsetzt?
+             A: Ja. Wenn eine Flutgestalt umsonst gespielt werden kann, so kannst du seine Fähigkeit
+                „Gestaltwandel“ benutzen, um ihn auf einen Charakter mit dem gleichen Namen zu
+                spielen, ohne die Tintenkosten der Fähigkeit zu bezahlen. Effekte, die es erlauben,
+                weniger Tinte zu bezahlen, um eine Karte auszuspielen, erlauben es auch, weniger Tinte
+                zu bezahlen, um „Gestaltwandel“ von Flutgestalten zu bezahlen.
+
+          F: Wenn ich Gestaltwandel eines Charakter verwende, wird dann der Schaden auf ihm
+          entfernt?
+             A: Nein, jeglicher Schaden bleibt bestehen.
+
+          F: Kann man Gestaltwandel eines Charakters verwenden und dann direkt mit ihm
+          herausfordern oder erkunden?
+             A: Wenn der Charakter, auf den du Gestaltwandel verwendest, seit Beginn deines Zuges
+                im Spiel war und herausfordern könnte, so kann der neue Charakter ebenfalls
+                herausfordern. Wenn allerdings die vorherige Version aus irgendeinem Grund nicht
+                herausfordern konnte, einschließlich Effekte, die dies verhindern, so kann auch die
+                neue Version des Charakter nicht herausfordern. Gestaltwandel hebt keine Effekte auf,
+                die für die vorherige Version der karte galten.
+
+
+
+
+          F: Was passiert mit allen Karten unter einem Charakter mit Gestaltwandel, wenn die
+             oberste Version verbannt wird oder auf die Hand zurück geschickt wird?
+          August 28, 2023                                                                               4
+
+©Disney
+                                               TRADING CARD GAME
+
+
+
+              A: Was auch immer mit der obersten Karte im Stapel einer Flutgestalt passiert, passiert
+                 auch mit jeder Karte darunter. Wird die oberste Karte auf die Hand zurück geschickt,
+                 dann kommen alle Karten darunter auch zurück auf die Hand. Wenn die oberste Karte in
+                 den Tintenvorrat gelegt wird, dann gehen alle Karten in diesem Stapel mit, wobei jede
+                 Karte als 1 Tinte zählt. Wird die oberste Karte verbannt, dann wandern alle Karten
+                 dieses Stapels auf deinen Ablagestapel. Nur die oberste Karte des Stapels gilt allerdings
+                 als verbannt. Der Stapel wird „aufgelöst“, sobald die Karten in einen anderen Bereich
+                 verschoben werden.
+                  Wenn du eine Karte verbannst, wird sie immer auf deinen Ablagestapel verschoben. Bei
+                  Effekten, die eine Karte auf deine Hand zurück bringt oder sie in deinen Tintenvorrat
+                  legt, wenn sie verbannt wird, dann verschiebe sie (und alle Karten in ihrem Stapel, falls
+                  vorhanden) zuerst auf deinen Ablagestapel. Alle Karten in diesem Stapel werden zu
+                  diesem Zeitpunkt wieder zu separaten Karten bevor der weitere Effekt ausgeführt wird.
+
+           Unterstützen (Jedes Mal, wenn dieser Charakter erkundet, darfst du seine {S} in diesem Zug zur
+           {S} eines anderen Charakters deiner Wahl addieren.)
+              o   Du darfst einen beliebigen Charakter mit Unterstützen wählen. Auch Charaktere
+                  der anderen Mitspielenden.
+              o   Ein Charakter kann nicht mehrere Instanzen von „Unterstützen“ erhalten.
+
+
+           SPEZIFISCHE KARTEN
+          Ein Traum wird wahr
+           F: Was passiert, wenn jemand „Ein Traum wird wahr“ spielt und alle Mitspielenden weniger
+              als 7 Karten im Deck haben?
+              A: Der aktive Spieler führt den Effekt zuerst aus, also würde dieser Spieler das Spiel verlieren.
+
+           Belle - Eine ganz besondere Mademoiselle
+
+           F: Wenn ich mehrere Exemplare von „Belle - Eine ganz besondere Mademoiselle“ im
+              Spiel habe, kann ich dann den Effekt ihrer Fähigkeit „Lies ein Buch!“ mehrmals in
+              einer Runde anwenden?
+              A: Jedes Exemplar von Belle kann ihre Fähigkeit einmal pro Zug anwenden.
+                  Beispiel: Wenn du 2 Exemplare von „Belle - Eine ganz besondere Mademoiselle“ im Spiel
+                  hast, darfst du in jedem Zug 2 zusätzliche Karten in deinen Tintenvorrat legen.
+
+           F: Wenn ich die Fähigkeit „Lies ein Buch!“ von „Belle - Eine ganz besondere
+           Mademoiselle“ benutze, kann ich dann eine beliebige Karte in meinen Tintenvorrat legen
+           oder muss sie das Tintenvorrat-Symbol haben?
+              A: Belles Fähigkeit „Lies ein Buch!“ erlaubt dir nur, eine weitere Karte in deinen Tintenvorrat zu
+                 legen; sie setzt keine anderen Regeln außer Kraft. Die Karte muss das Tintenvorrat-Symbol
+                 haben und du musst sie allen Mitspielenden zeigen, bevor du sie in deinen Tintenvorrat
+                 legst.
+
+
+
+
+           August 28, 2023                                                                                    5
+
+©Disney
+                                             TRADING CARD GAME
+
+
+
+          Dr. Facilier - Agent Provocateur
+
+          Q. Wenn ich Dr. Facilier - Agent Provocateur kontrolliere und eine meiner Flutgestalten
+             die Gestaltwandel benutzt hat, in einer Herausforderung verbannt wird, gehen dann
+             alle Karten darunter auch zurück auf meine Hand?
+             A. Nein. Da alle Karten des Stapels zuerst auf den Ablagestapel kommen und dort zu
+                separaten Karten werden, kann man nur die oberste Karte des Stapels wieder auf die
+                Hand nehmen.
+
+          Elsa - Magie des Winters
+
+          F: Wenn ich die Fähigkeit "Eiseskälte" von „Elsa - Magie des Winters“ einsetze, um 2
+             Charaktere zu erschöpfen, können diese Charaktere in ihrem nächsten Zug mit einer
+             Fähigkeit oder einem Effekt wie „Entfacht das Feuer!“ wieder bereit gemacht werden?
+             A: Charaktere, die von der Fähigkeit "Eiseskälte" betroffen sind, können durch „Entfacht das
+                Feuer!“ und ähnliche Fähigkeiten wieder bereit gemacht werden.
+
+          Vaiana - Von Motunui
+
+          F: Wenn „Vaiana - Von Motunui“ erkundet, kann ich dann auswählen, welche
+             Prinzessinnen ich bereit mache? Wenn eine Prinzessin bereits bereit war oder sie
+             mit anderen Effekten später im selben Zug nochmals bereit mache, könnte diese
+             dann in diesem Zug noch erkunden?
+             A: Wenn du dich entscheidest, Vaianas Fähigkeit „Wir kriegen das hin“ zu nutzen, um deine
+                anderen Prinzessinnen-Charaktere bereit zu machen, dann musst du sie alle bereit
+                machen. Wenn du so mit „Vaiana - Von Motunui“ erkundest, dann können für den Rest
+                deines Zuges keine anderen Prinzessinnen mehr erkunden, unabhängig davon, ob du
+                sie mit ihrer Fähigkeit bereit gemacht hast oder ob sie später in deinem Zug nochmals
+                bereit gemacht werden.
+
+          Stitch - Rockstar
+
+          F: Wenn ich mehrere Exemplare von „Stitch – Rockstar“ im Spiel habe, kann ich dann
+             seine Fähigkeit „Begeisterte Fans“ mehrmals auf denselben Charakter anwenden?
+             A: Die Fähigkeit „Begeisterte Fans“ erfordert, dass man den neu gespielten Charakter
+                erschöpft, um eine Karte zu ziehen. Mehrere Instanzen dieser Fähigkeit ermöglichen es
+                daher nicht, mehrere Karten zu ziehen, da man nicht in der Lage ist, den selben Charakter
+                mehrmals zu erschöpfen.
+
+          F: Angenommen, ich habe „Stitch – Rockstar“ im Spiel und einen Charakter mit Kosten
+              von 3 auf der Hand. Wenn ich die Himmelslaterne benutze, um 1 Tinte weniger zu
+              zahlen, um diesen Charakter zu spielen, kann ich sie dann erschöpfen, um eine Karte
+              mit Stitch zu ziehen?
+             A: Es werden nicht die Kosten des Charakters durch die Himmelslaterne reduziert, sondern
+                der Betrag an Tinte, den man zahlen muss. Die Kosten des neuen Charakters würden
+                immer noch 3 betragen, so dass er sich nicht als Fan von Stitch qualifizieren würde.
+
+
+
+
+          August 28, 2023                                                                               6
+
+
+©Disney

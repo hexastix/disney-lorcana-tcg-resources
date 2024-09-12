@@ -13,16 +13,13 @@ URL_PREFIXES = (
     "https://files.disneylorcana.com/",
 )
 
-FILES_TO_CONVERT = (
-    "Disney Lorcana Comprehensive Rules_EN_08.09.24.pdf",
-    "Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.pdf",
-    "Disney Lorcana Comprehensive Rules_FR_08.09.24.pdf",
-    "Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.pdf",
-    "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf",
-    "Disney_Lorcana_Tournament_Rules_052224update.pdf",
-    "community-code-en.pdf",
-    "op-diversity-and-inclusion-policy-en.pdf",
-    "s1-set-notes-en.pdf",
+DOCUMENTS_TO_CONVERT_TO_TXT = (
+    "Community Code",
+    "Comprehensive Rules",
+    "Disney Lorcana TCG: The First Chapter Set Notes",
+    "Diversity & Inclusion Policy",
+    "Play Correction Guidelines",
+    "Tournament Rules",
 )
 
 
@@ -36,6 +33,7 @@ class ResourcesHTMLParser(HTMLParser):
         self.in_faq_section = False
         self.in_faq_block_title = False
         self.in_accordion_header = False
+        self.document_name = None
         self.list_item = None
 
     def download_pdf_file(self, url):
@@ -94,7 +92,7 @@ class ResourcesHTMLParser(HTMLParser):
                                 str(pdf_file_path.relative_to(self.output_dir))
                             )
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
-                            if pdf_file_path.name in FILES_TO_CONVERT:
+                            if self.document_name in DOCUMENTS_TO_CONVERT_TO_TXT:
                                 text_file_path = self.convert_pdf_to_text(pdf_file_path)
                                 link_to_text_file = urllib.parse.quote(
                                     str(text_file_path.relative_to(self.output_dir))
@@ -118,6 +116,7 @@ class ResourcesHTMLParser(HTMLParser):
             print(f"\n\n## {data}", file=self.readme_file)
 
         elif self.in_accordion_header:
+            self.document_name = data
             print(f"\n### {data}\n", file=self.readme_file)
 
         elif self.list_item is not None:

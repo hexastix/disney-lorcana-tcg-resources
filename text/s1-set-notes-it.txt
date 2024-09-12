@@ -1,0 +1,321 @@
+                                               TRADING CARD GAME
+
+
+
+
+                             Disney Lorcana TCG: Capitolo Primo, note sul set
+
+          REGOLE GENERALI
+
+          Sfide (Challenges)
+
+          Q: Le abilità di un personaggio che hanno luogo quando questo viene esiliato
+             (banished) durante una sfida contano come se avvenissero durante la
+             sfida?
+             A: Le abilità di un personaggio che hanno luogo quando questo viene esiliato durante una
+                sfida vanno considerate come parte della sfida.
+                  Esempio: Marshmallow – Persistent Guardian ha un’abilità che dice, “When this
+                  character is banished in a challenge, you may return this card to your hand,” (“Quando
+                  questo personaggio viene esiliato durante una sfida, puoi riprendere in mano questa
+                  carta.”) e Cheshire Cat – Not All There ha un’abilità che dice, “When this character is
+                  challenged and banished, banish the challenging character.” (“Quando questo
+                  personaggio viene sfidato ed esiliato, esilia il personaggio sfidante.”)
+                  Se un personaggio sfida ed esilia Cheshire Cat con Marshmallow, l’abilità di Cheshire
+                  Cat esilierebbe Marshmallow durante la sfida, permettendo al giocatore sfidante di
+                  riprendere in mano Marshmallow.
+
+          Q: Se durante una sfida esilio un personaggio Imbevuto (Floodborn) trasformato mentre
+             possiedo un’altra carta che mi fa guadagnare 1 leggenda (lore) quando esilio un
+             personaggio, quanta leggenda guadagno?
+             A: A prescindere da quante carte si trovano nella pila di un personaggio trasformato,
+                contano comunque come un personaggio singolo. Ai fini di carte come questa, solo il
+                personaggio in cima alla pila di trasformazione conta come esiliato.
+                  Esempio: Se esili un personaggio trasformato con Simba – Rightful Heir, ottieni
+                  comunque 1 leggenda dalla sua abilità I Know What I Have to Do.
+
+          Costi
+
+          Q: Se ho in gioco 2 copie di Mickey Mouse – Wayward Sorcerer, le mie carte Magic
+             Broom – Bucket Brigade costano 1 {I} o 2 {I} in meno?
+             A: Le tue Magic Broom costeranno 2 {I} in meno, 1 {I} per ogni copia di Mickey Mouse –
+                Wayward Sorcerer.
+
+          Q: Se uso Freeze e scelgo di impegnare (exert) la carta The Queen – Wicked and Vain
+             del mio avversario, l’abilità I Summon Thee che richiede di impegnare The Queen mi
+             permette di p escare una carta?
+             A: No. Quando un’abilità ha un costo, il giocatore che possiede quella carta deve essere
+                quello che paga il costo per poter usare l’abilità. Se un altro effetto fa impegnare The
+                Queen, non puoi pescare una carta con I Summon Thee. Oltretutto, non potrai usare
+                quell’abilità finché The Queen non verrà preparata (ready).
+
+          Q: Se uno dei miei personaggi con costo superiore a 2 canta Be Our Guest mentre
+             ho Ursula’s Shell Necklace in gioco, posso usare l’eccesso per pagare 1 {I} e
+          August 28, 2023                                                                                   1
+
+
+
+
+©Disney
+                                               TRADING CARD GAME
+
+
+
+
+             usare l’abilità di Ursula’s Shell Necklace per pescare una carta?
+             A: No. Il costo in inchiostro per usare Ursula’s Shell Necklace deve essere pagato a parte
+                rispetto al costo per giocare la canzone.
+          Calamaio (Inkwell)
+
+          Q: Posso guardare il fronte di una carta che si trova già nel mio calamaio?
+             A. Nessun giocatore può guardare il fronte di una carta dopo che è stata aggiunta al
+             calamaio.
+
+          Q: Se una carta in cima al mazzo viene aggiunta al mio calamaio tramite un effetto come
+          quello dell’abilità Got a Clue di Mickey Mouse – Detective, posso guardare che carta è
+          prima di aggiungerla?
+             A: No. Qualsiasi carta aggiunta al calamaio da una locazione in cui le informazioni sulla
+                carta sono ignote, come la cima del mazzo, non può essere guardata da nessun
+                giocatore.
+
+          Q: Se uso l’abilità di Fishbone Quill per aggiungere una carta dalla mia mano al mio
+             calamaio, devo mostrargli che carta scelgo?
+             A: No. Se un’abilità ti consente di aggiungere una qualsiasi carta al tuo calamaio (a
+                prescindere dalla presenza o meno dell’icona calamaio), non sei tenuto a mostrarla
+                al tuo avversario.
+
+          Sequenze temporali
+
+          Q. Quando più di un effetto va applicato nello stesso momento, in quale ordine
+          dovrebbero essere risolti?
+             A. Se più di un effetto di tue carte avviene nello stesso momento durante il tuo turno,
+                sei tu a scegliere l’ordine in cui risolverli. Dopodiché, ogni altro giocatore risolve i
+                propri effetti a turno se necessario, a partire dal giocatore alla tua sinistra.
+                  Esempio: Se hai in gioco Dr. Facilier – Agent Provocateur e la tua Gramma Tala –
+                  Storyteller viene sfidata ed esiliata, sei tu a scegliere se riprendere in mano o se
+                  aggiungere al calamaio la carta di Gramma Tala.
+
+          Q: Se gioco l’azione Friends on the Other Side mentre ho in gioco Dr. Facilier –
+             Remarkable Gentleman, pesco prima le 2 carte dal mio mazzo o risolvo la sua abilità
+             Dreams Made Real?
+             A: L’effetto di Dr. Facilier non avrà luogo finché non avrai risolto completamente il testo
+                di Friends on the Other Side.
+
+          Varie
+
+          Q: Cosa succede se una carta mi richiede di fare alcune azioni e non sono in grado di
+             svolgere tutto quello che mi viene chiesto?
+             A: Se una carta dice di svolgere un’azione, risolvila parzialmente, al massimo delle tue
+                possibilità. Questo però NON si applica alle azioni che fanno parte di un costo.
+                  Esempio: Develop Your Brain dice “Look at the top 2 cards of your deck. Put one into
+                  your hand and the other on the bottom of the deck.” (“Guarda le prime 2 carte del tuo
+                  mazzo. Aggiungine una alla tua mano e metti l’altra in fondo al tuo mazzo”.) Se hai una
+          August 28, 2023                                                                                   2
+
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+
+                 sola carta rimasta nel mazzo, la devi guardare e aggiungere alla tua mano.
+
+          Q: La Forza (Strength) di un personaggio può scendere sotto lo 0? E cosa succede se
+             un effetto incrementa la forza di quel personaggio più tardi durante il turno?
+             A: Quando la Forza di un personaggio scende sotto lo 0, il personaggio conta come se
+                avesse Forza 0. Se più tardi un’abilità o un effetto incrementano la Forza di quel
+                personaggio, tutti i modificatori vanno applicati insieme per calcolare la nuova Forza
+                totale.
+
+          Q: Diciamo che ho un’Elsa in gioco e che scelgo un personaggio preparato seguendo
+             l’abilità Loving Heart di Anna – Heir to Arendelle. Se quel personaggio che ho
+             scelto viene poi impegnato più tardi nel turno, resterà impegnato anche durante
+             l’inizio del prossimo turno?
+             A: Sì, il personaggio scelto resterà impegnato secondo l’effetto di Anna.
+
+
+          PAROLE CHIAVE
+
+          Guardiano / Bodyguard (Questo personaggio può entrare in gioco impegnato. Un personaggio
+            avversario che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se
+            possibile.) / (This character may enter play exerted. An opposing character who challenges
+            one of your characters must choose one with Bodyguard if able.)
+             o   Se più di un personaggio avversario e impegnato ha la parola chiave Guardiano, puoi
+                 scegliere quale sfidare.
+
+          Sfidante / Challenger +N (Mentre sta sfidando, questo personaggio riceve +N {S}.) / (While
+          challenging, this character gets +N {S})
+             o   Sfidante è cumulativo, il che significa che devi sommare tutte le cifre dei vari bonus per
+                 ottenere un +N {S} totale.
+                 Esempio: Se hai due copie di Tinker Bell – Peter Pan’s Ally in gioco, ognuna di loro
+                 conferisce ai tuoi personaggi Peter Pan Sfidante +1, per un totale di Sfidante +2.
+
+          Attaccabrighe / Reckless (Questo personaggio non può andare all’avventura e deve sfidare
+          ogni turno, se possibile.) / (This character can’t quest and must challenge each turn if able.)
+             o   Le carte con Attaccabrighe devono sfidare se possibile, ma possono comunque
+                 cantare o essere impegnate per altri motivi, diventando quindi impossibilitate a
+                 sfidare.
+
+             o   Se un personaggio con Attaccabrighe viene preparato, deve comunque sfidare
+                 se possibile – persino se aveva già sfidato in quel turno.
+
+          Lesto / Rush (Questo personaggio può sfidare nel turno in cui è stato giocato.) / (This character
+          can challenge the turn they’re played.)
+             o   I personaggi con Lesto possono sfidare nel turno in cui vengono giocati, ignorando la
+                 regola dell’asciugatura dell’inchiostro. Non possono comunque cantare (sing), andare
+                 all’avventura (quest) o usare abilità che richiedano di impegnarsi nel turno in cui
+                 vengono giocati.
+
+          Trasformazione / Shift (Puoi pagare N {I} per giocare questa carta sopra a uno dei tuoi
+          personaggi chiamato X.) / (You may pay N {I} to play this on top of one of your characters named
+          August 28, 2023                                                                                     3
+
+
+
+
+©Disney
+                                                  TRADING CARD GAME
+
+
+
+          X.)
+
+          Q: Gli effetti che mi permettono di giocare un personaggio gratis o con sconto di
+             inchiostro si applicano anche al giocare personaggi Imbevuti tramite la
+             trasformazione?
+                A: Sì. Se un personaggio Imbevuto può essere giocato gratis, puoi decidere di usare la
+                   sua abilità di Trasformazione per giocarlo sopra a un personaggio già in gioco che
+                   abbia lo stesso nome senza pagare il costo in inchiostro dell’abilità. Gli effetti che ti
+                   permettono di pagare meno inchiostro per giocare un personaggio ti permettono anche
+                   di pagare meno inchiostro per usare l’abilità Trasformazione di un personaggio
+                   Imbevuto.
+
+          Q: Trasformare un personaggio ne rimuove i segnalini danno?
+                A: No, qualsiasi danno rimane sul personaggio.
+
+          Q: Puoi trasformare un personaggio e poi sfidare o andare all’avventura con esso?
+                A: Se il personaggio che hai trasformato era in gioco sin dall’inizio del tuo turno e se
+                   questo poteva sfidare, allora anche il personaggio trasformato potrà farlo. Se la
+                   versione precedente non può sfidare per qualsiasi motivo, incluso un effetto che glielo
+                   impedisce, allora anche il personaggio trasformato non potrà farlo. Trasformare un
+                   personaggio in una sua nuova versione non termina gli effetti che influenzavano la
+                   versione precedente,.
+
+          Q: Cosa succede a tutte le carte nella pila di un personaggio trasformato se
+             questo viene esiliato o torna nella tua mano?
+                A: Qualsiasi cosa accada alla carta in cima alla pila di un personaggio trasformato, accade
+                   anche alle carte al di sotto. Se la carta in cima viene rimandata direttamente nella tua
+                   mano, tutte le carte nella pila tornano anch’esse nella tua mano. Se la carta in cima
+                   viene aggiunta al tuo calamaio, anche tutte le carte nella pila la seguono, e ognuna di
+                   esse conta come 1 inchiostro. Se la prima carta viene esiliata, anche tutte le carte nella
+                   pila vanno esiliate con lei. Tuttavia, solo la carta in cima conta come esiliata ai fini di
+                   effetti e abilità. Quando la pila viene spostata in un’area di gioco diversa, le carte al suo
+                   interno si separano.
+                    Esiliare una carta la manda sempre nella pila degli scarti; quindi, gli effetti che spostano
+                    una carta nella tua mano o nel tuo calamaio quando questa viene esiliata, spostano la
+                    carta (e qualsiasi altra carta nella sua pila se si tratta di un personaggio trasformato)
+                    prima nella pila degli scarti. A quel punto, prima di risolvere il secondo spostamento,
+                    qualsiasi carta nella pila va separata (e quindi non rientra nel secondo effetto).
+
+          Aiutante / Support (Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua
+          {S} alla {S} di un altro personaggio a tua scelta per questo turno.) / (Whenever this character
+          quests, you may add their {S} to another chosen character’s {S} this turn.)
+                o   Ricorda che il testo dice “alla {S} di un altro personaggio a tua scelta.”
+                o   Puoi scegliere un personaggio di qualsiasi giocatore con l’abilità Aiutante di un tuo
+                    personaggio.
+                o   Un personaggio non può ricevere più volte l’abilità con parola chiave Aiutante.
+
+
+
+          August 28, 2023                                                                                          4
+
+
+
+
+©Disney
+                                                TRADING CARD GAME
+
+
+
+
+          CARTE SPECIFICHE
+
+          A Whole New World
+
+          Q: Cosa succede se qualcuno gioca A Whole New World quando tutti i giocatori hanno
+             meno di 7 carte nel loro mazzo?
+             A: Il giocatore attivo risolverebbe per primo l’effetto, perdendo quindi la partita.
+
+          Belle – Strange but Special
+
+          Q: Se ho in gioco più copie di Belle – Strange but Special, posso applicare l’effetto della
+             sua abilità Read a Book più volte nello stesso turno?
+             A: Ogni copia di Belle può usare la sua abilità una volta per turno.
+                Esempio: Se hai in gioco 2 copie di Belle – Strange but Special, puoi aggiungere 2 carte
+                extra al tuo calamaio ogni turno.
+
+          Q: Quando uso l’abilità Read a Book di Belle – Strange but Special, posso aggiungere
+             qualsiasi carta al mio calamaio o devo aggiungere una carta con l’icona calamaio?
+             A: L’abilità Read A Book di Belle ti permette soltanto di aggiungere una carta extra al tuo
+                calamaio; non sovrascrive alcuna regola al normale processo di aggiungere una carta al
+                calamaio. Perciò, la carta deve avere l’icona calamaio e la devi mostrare ai tuoi avversari
+                prima di aggiungerla al calamaio.
+          Dr. Facilier – Agent Provocateur
+
+          Q. Se controllo Dr. Facilier – Agent Provocateur e uno dei miei personaggi Imbevuti che
+             ha usato la sua abilità Trasformazione per essere giocato sopra a un’altra carta viene
+             esiliato durante una sfida, cosa succede alle carte nella pila? Tornano tutte nella mia
+             mano?
+             A. No. Questo perché la pila di carte va nella pila degli scarti come primo passaggio,
+                separandosi. Puoi quindi riprendere in mano solo la carta in cima alla pila.
+
+          Elsa – Spirit of Winter
+
+          Q: Se uso l’abilità Deep Freeze di Elsa – Spirit of Winter per impegnare 2 personaggi,
+             è possibile preparare quei personaggi con un’abilità o un effetto come Fan the
+             Flames nel loro prossimo turno?
+             A: I personaggi impegnati con l’abilità Deep Freeze possono essere preparati da Fan the
+                Flames e da altre abilità simili.
+
+          Moana – Of Motunui
+
+          Q: Se Moana – Of Motunui va all’avventura, posso scegliere quale Principesse
+             preparare? Se ho delle Principesse già preparate o le preparo con altri effetti più
+             tardi durante il turno, possono andare all’avventura?
+             A: Se scegli di usare l’abilità We Can Fix It di Moana per preparare i tuoi altri personaggi
+                Principessa, sei obbligato a prepararle tutte. Se vai all’avventura con Moana – Of
+                Motunui, nessun’altra Principessa potrà andare all’avventura per il resto di quel turno, a
+                prescindere che tu decida di prepararle con la sua abilità o che vengano preparate più
+          August 28, 2023                                                                                    5
+
+
+
+
+©Disney
+                                               TRADING CARD GAME
+
+
+                tardi durante quel turno.
+          Stitch – Rock Star
+
+          Q: Se ho in gioco più copie di Stitch – Rock Star, posso usare la sua abilità Adoring
+             Fans più volte sullo stesso personaggio?
+             A: L’abilità Adoring Fans richiede che tu impegni il personaggio appena giocato per pescare
+                una carta. Più istanze della stessa abilità non ti permetteranno di pescare altre carte,
+                perché non puoi impegnare lo stesso personaggio più volte senza prima prepararlo.
+
+          Q: Diciamo che ho Stitch – Rock Star in gioco e un personaggio con costo 3 in mano.
+             Se uso Lantern per pagare 1 {I} in meno per giocare quel personaggio, posso a
+             quel punto impegnarlo per pescare una carta?
+             A: Lantern non riduce il costo del personaggio che giochi; riduce la quantità di inchiostro da
+                pagare. Il costo del nuovo personaggio rimane 3, quindi non ha i requisiti per essere un
+                fan di Stitch.
+
+
+
+
+          August 28, 2023                                                                                     6
+
+©Disney

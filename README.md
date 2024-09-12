@@ -35,9 +35,9 @@
 ### Disney Lorcana TCG: The First Chapter Set Notes
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/s1-set-notes-en.pdf) ([as text](text/s1-set-notes-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-set-notes-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-set-notes-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/s1-set-notes-it.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-set-notes-de.pdf) ([as text](text/s1-set-notes-de.txt))
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-set-notes-fr.pdf) ([as text](text/s1-set-notes-fr.txt))
+- [ITALIANO](cdn_ravensburger_com/lorcana/s1-set-notes-it.pdf) ([as text](text/s1-set-notes-it.txt))
 
 ### Disney Lorcana TCG FAQ
 
@@ -120,16 +120,16 @@
 ### Diversity & Inclusion Policy
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
-- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf)
+- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf) ([as text](text/op-diversity-and-inclusion-policy-de.txt))
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
+- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
 
 ### Community Code
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf) ([as text](text/community-code-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf)
+- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf) ([as text](text/community-code-de.txt))
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf) ([as text](text/community-code-fr.txt))
+- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf) ([as text](text/community-code-it.txt))
 
 ### Replacement Policy
 

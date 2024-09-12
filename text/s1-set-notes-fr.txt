@@ -1,0 +1,309 @@
+                                              TRADING CARD GAME
+
+
+
+
+             Notes sur le set Disney Lorcana TCG :
+                        Premier Chapitre
+          Règles générales
+
+          Défis
+             -    Est-ce que les capacités d’un personnage qui se déclenchent lorsque ce
+                  personnage est banni via un défi sont considérées comme se déclenchant
+                  durant un défi ?
+          Oui, les capacités de personnage qui se déclenchent lorsque ce dernier est banni via un
+          défi font partie du défi.
+          Exemple :
+          Prenons l’exemple d’un défi entre Guimauve – Gardien tenace, qui a la capacité
+          « Lorsque ce personnage est banni via un défi, vous pouvez reprendre cette carte en
+          main. », et Chat du Cheshire – n’a pas toujours toute sa tête, qui a la capacité « Si ce
+          personnage est défié et banni, bannissez le personnage qui l’a défié. ».
+          Si je défie et bannis Chat du Cheshire avec ma carte Guimauve, la capacité du Chat du
+          Cheshire bannis Guimauve durant ce même défi, me permettant de le reprendre en main
+          via sa capacité.
+             -    J’ai un personnage Floodborn (donc avec la capacité Alter) en jeu et
+                  une carte me permettant de gagner 1 éclat de Lore lorsque je bannis un
+                  personnage via un défi. Combien d’éclats de Lore gagnerai-je si je bannis ce
+                  personnage, en sachant qu’il est entré en jeu en transformant un personnage
+                  du même nom ?
+          Seulement 1 : quel que soit le nombre de cartes placées sous un personnage Floodborn,
+          l’ensemble de la pile ne constitue qu’un seul et même personnage (les autres cartes étant
+          d’anciennes versions de ce dernier). Ainsi, seule la carte au sommet de la pile est prise
+          en compte pour la résolution de capacités ou d’effets de ce type.
+          Exemple :
+          Si je bannis un personnage précédemment transformé en Floodborn à l’aide de Simba –
+          Héritier légitime, je ne gagne qu’1 éclat de Lore avec sa capacité « Je sais ce que je dois
+          faire ».
+
+          Coûts
+             •    Si j’ai 2 cartes Mickey Mouse – Sorcier renégat en jeu, de combien est réduit
+                  le coût de mes personnages Balais magiques – Armés de seaux ?
+          Le coût de mes Balais magiques est réduit de 2{I}, soit 1{I} par carte Mickey Mouse –
+
+
+
+
+©Disney
+                                                TRADING CARD GAME
+
+
+
+
+          Sorcier renégat que j’ai en jeu.
+             •   Si j’utilise l’effet de la carte Gel pour épuiser La Reine – Vaniteuse et
+                 malfaisante de mon adversaire, est-ce que je peux utiliser sa capacité « Je te
+                 l’ordonne », me permettant ainsi de piocher une carte ?
+          Non, si la capacité d’une carte a un coût, son propriétaire doit la payer pour pouvoir en
+          bénéficier et il est le seul à pouvoir le faire. Ainsi, si j’ai La Reine en jeu et qu’un effet ou
+          une capacité l’épuise, je ne pioche pas de carte via sa capacité « Je te l’ordonne ». Je
+          dois attendre que La Reine soit de nouveau redressée pour pouvoir utiliser cette capacité
+          durant mon tour.
+             •   Si j’ai la carte Pendentif en coquillage d’Ursula en jeu et que j’épuise un de
+                 mes personnages ayant un coût de 3{I} ou plus pour chanter C’est la fête,
+                 puis-je utiliser les {I} excédentaires pour utiliser la capacité « Maintenant,
+                 chante ! » du Pendentif en coquillage d’Ursula afin de piocher une carte ?
+          Non, l’encre utilisée pour piocher une carte grâce au Pendentif en coquillage d’Ursula doit
+          être payée depuis la réserve d’encre et ne dépend pas de la façon de jouer la Chanson.
+
+          Réserve d’encre
+             •   Est-ce que je peux consulter ou vérifier une carte qui se trouve déjà dans ma
+                 réserve d’encre ?
+          Non, aucun joueur ne peut consulter une carte une fois cette dernière transmutée en
+          encre.
+             -   Si j’utilise la capacité Un indice de Mickey Mouse – Détective me demandant
+                 de placer la première carte de ma pioche dans ma réserve d’encre, puis-je
+                 regarder cette carte avant de la placer dans ma réserve face cachée ?
+          Non, si un effet et une capacité vous demande de placer dans une réserve d’encre
+          une carte provenant d’un endroit en particulier, ni vous, ni vos adversaires ne peuvent
+          consulter ou révéler cette carte, sauf si cela est précisé dans l’effet ou la capacité.
+             •   Si j’utilise la capacité « Signe ! » de Plume en forme d’Arête pour placer
+                 une carte de ma main dans ma réserve d’encre, dois-je la montrer à mes
+                 adversaires ?
+          Non, si vous devez placer une carte dans votre réserve d’encre via un effet ou une
+          capacité (qui ne précise pas que cette carte doit posséder une icône d’encre), vous ne
+          devez pas révéler cette carte à vos adversaires.
+
+          Timing
+             •   Si plusieurs effets ou capacités se déclenchent au même moment durant
+                 mon tour, dans quel ordre dois-je les résoudre ?
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+
+          Si plusieurs effets ou capacités se déclenchent au même moment durant votre tour,
+          commencez par appliquer ceux de vos cartes et choisissez dans quel ordre les résoudre.
+          Puis passez au joueur suivant dans l’ordre du tour qui fait de même, et ainsi de suite.
+          Exemple :
+          Si vous avez à la fois Dr. Facilier – Agent provocateur et Grand-mère Tala – Conteuse
+          en jeu, et que votre adversaire défie et bannit cette dernière, vous choisissez si vous
+          reprenez Grand-mère Tala en main ou si vous la placez dans votre réserve d’encre.
+             -   Si j’ai Dr. Facilier – Étrange gentleman en jeu et que je joue la chanson Mes
+                 amis de l’Au-delà, est-ce que je peux résoudre la capacité « Rêves réalisés »
+                 du Dr. Facilier avant de piocher mes deux cartes ?
+          Non, je ne peux utiliser la capacité du Dr. Facilier qu’une fois l’ensemble des effets de la
+          Chanson résolus, car celle-ci se déclenche avant la capacité de Dr. Facilier.
+
+          Divers
+             •   Que se passe-t-il si l’effet ou la capacité d’une carte m’impose de réaliser
+                 certaines actions mais que je ne peux pas effectuer certaines d’entre elles ?
+          Vous devez respecter au mieux les effets et capacités des cartes jouées. Bien sûr, cela
+          ne s’applique pas aux coûts et aux actions à réaliser pour pouvoir utiliser une capacité.
+          Exemple :
+          L’effet de la carte Développe ton cerveau indique « Regardez les 2 premières cartes de
+          votre pioche. Ajoutez-en une à votre main et remettez l’autre sous votre pioche. ». S’il ne
+          vous reste qu’une seule carte dans votre deck, piochez-la et ajoutez-la à votre main.
+             •   Est-ce que la force d’un personnage peut descendre en dessous de 0 ?
+                 Et que se passe-t-il si un effet ou une capacité augmente la force de ce
+                 personnage par la suite ?
+          Quand la force d’un personnage est réduite en dessous de 0, il est considéré comme
+          étant un personnage avec une force égale à 0. Si un effet ou une capacité augmente la
+          force de ce personnage, prenez en compte tous les modificateurs de force s’appliquant à
+          ce personnage (positif comme négatif) pour calculer sa force totale.
+             •   J’ai une version d’Elsa en jeu et je joue Anna – Héritière d’Arendelle. Si je
+                 choisis d’appliquer sa capacité « Amour sincère » à un personnage adverse
+                 redressé et que plus tard ce personnage se retrouve épuisé, est-ce que ce
+                 dernier restera bien épuisé durant le tour de son propriétaire ?
+          Oui, le personnage adverse que vous avez choisi restera épuisé suite à la capacité
+          d’Anna.
+
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+
+          Mots-clés
+          Rempart (Ce personnage peut entrer en jeu épuisé. Lorsqu’il vous défie, un personnage
+          adverse doit, si possible, choisir l’un de vos personnages avec Rempart.)
+             •   Si votre adversaire a plusieurs personnages avec la capacité Rempart épuisés,
+                 vous pouvez choisir lequel défier.
+          Offensif +N (Lorsqu’il défie, ce personnage gagne +N {S}.)
+             •   Un personnage peut avoir plusieurs fois la capacité Offensif. Dans ce cas, cumulez
+                 le gain de {S} de chacune de ses capacités.
+          Exemple :
+          Si vous avez deux fois La Fée Clochette – Alliée de Peter Pan en jeu, chacune d’entre
+          elles donne Offensif +1 à Peter Pan, ce qui revient à lui donner Offensif +2.
+          Combattant (Ce personnage ne peut pas être envoyé à l’aventure et doit défier à chaque
+          tour s’il le peut.)
+             •   Les personnages avec la capacité Combattant peuvent toujours être épuisés pour
+                 chanter ou pour toute raison autre qu’être envoyé à l’aventure. Dans ce cas, ils
+                 n’ont plus la possibilité de défier un personnage adverse ce tour-ci.
+             •   Si je redresse un de mes personnages avec Combattant, il doit toujours défier s’il
+                 le peut, et ce même s’il a déjà défié un personnage adverse ce tour.
+          Charge (Ce personnage peut défier le tour où il est joué.)
+             •   Les personnages avec la capacité Charge peuvent défier le tour où ils sont joués,
+                 mais pour le reste, vous devez attendre que l’encre sèche : ils ne peuvent ni
+                 être envoyés à l’aventure, ni chanter, ni être épuisés pour utiliser un effet ou une
+                 capacité.
+          Alter N (Vous pouvez payer N {I} pour jouer ce personnage sur l’un de vos personnages
+          [du même nom].)
+             •   Est-ce qu’une capacité ou un effet me permettant de jouer un personnage
+                 gratuitement ou en réduisant son coût en encre peut être utilisé pour
+                 transformer un personnage en un autre du même nom avec la capacité
+                 Alter ?
+          Oui, si un effet ou une capacité vous permet de jouer gratuitement un personnage
+          Floodborn, vous pouvez utiliser sa capacité Alter pour le jouer directement en
+          transformant un personnage du même nom, sans payer le coût de la capacité Alter.
+          De même, le coût de cette capacité peut être réduit comme si c’était le coût de votre
+          personnage. Attention : si une capacité indique une condition de coût, vous devrez
+          prendre en compte le coût normal de la carte et pas le coût Alter.
+
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+
+          Exemple :
+          J’ai Aurore – Rose en jeu et je souhaite la transformer en Aurore – Gardienne rêveuse
+          grâce à la capacité Alter de cette dernière. Je peux utiliser la carte Juste à temps pour
+          l’altérer gratuitement.
+             •   Est-ce qu’altérer un personnage permet d’en retirer les jetons Dommage ?
+          Non, tous les dommages sont conservés.
+             •   Lorsque j’altère un personnage qui a déjà séché, est-ce que je peux l’envoyer
+                 à l’aventure ou défier un personnage adverse avec ?
+          Oui, si j’altère un personnage qui était déjà en jeu au début de mon tour en une version
+          Floodborn du même nom, ce nouveau personnage peut être épuisé, tout comme sa
+          version précédente : il n’a pas besoin de sécher. Si, suite à l‘effet ou la capacité d’une
+          autre carte, la version d’origine ne pouvait plus défier ou être envoyé à l’aventure ce tour-
+          ci, alors sa version Floodborn une fois altéré ne peut plus le faire non plus : altérer un
+          personnage ne retire pas les effets qui lui ont été appliqués.
+             •   Que deviennent les cartes placées sous un personnage Floodborn lorsqu’il
+                 est banni, renvoyé dans la main ou transformé en encre ?
+          Si un personnage Floodborn doit être déplacé, l’ensemble de la pile est déplacé
+          également avant d’être séparé du personnage au sommet. Ainsi, si ce personnage est
+          renvoyé dans votre main, l’ensemble de la pile est également renvoyé. De même, s’il est
+          transmuté en encre, l’ensemble de la pile rejoint la réserve d’encre et chacune de ces
+          cartes est transmutée. Si ce personnage Floodborn est banni, l’ensemble de la pile est
+          placé dans la défausse, mais seule la carte au sommet est considérée comme bannie.
+          Attention : lorsqu’un personnage est banni, il est toujours envoyé dans la défausse. Aussi,
+          si un effet ou une capacité placent l’un de vos personnages dans votre main ou votre
+          réserve d’encre après l’avoir banni, ce dernier rejoint d’abord votre défausse avant d’être
+          déplacé. Du coup, si ce personnage est un Floodborn, les éventuelles cartes placées en-
+          dessous vont et restent dans votre défausse.
+          Soutien (Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa {S} à
+          celle d’un autre personnage au choix pour le reste de ce tour.)
+             •   Vous pouvez choisir le personnage de n’importe quel joueur pour appliquer l’effet
+                 de cette capacité.
+             -   Si un personnage obtient plusieurs fois la capacité Soutien, leur effet ne se cumule
+                 pas : il n’ajoute sa {S} à un autre personnage qu’une seule fois.
+
+
+
+
+©Disney
+                                               TRADING CARD GAME
+
+
+
+
+          Précisions sur les cartes
+
+          Ce rêve bleu
+             •   Que se passe-t-il si je joue Ce rêve bleu alors que tous les joueurs ont moins
+                 de 7 cartes dans leur deck ?
+          Vous perdez la partie. En effet, les effets de la carte sont résolus dans l’ordre du tour.
+
+          Belle – Étrange Demoiselle
+             •   Si j’ai plusieurs cartes Belle – Étrange Demoiselle en jeu, est-ce que je peux
+                 utiliser sa capacité Lire un livre autant de fois que j’ai d’exemplaires de la
+                 carte dans le même tour ?
+          Oui, chaque Belle vous autorise à utiliser sa capacité une fois par tour.
+          Exemple :
+          Si vous avez 2 Belle – Étrange Demoiselle en jeu, vous pouvez placer 2 cartes
+          supplémentaires de votre main dans votre réserve d’encre à chaque tour.
+             •   Quand j’utilise la capacité Lire un livre de Belle – Étrange Demoiselle, est-ce
+                 que je peux transmuter n’importe quelle carte de ma main même si elle n’a
+                 pas le symbole d’encre ?
+          Non, la capacité Lire un livre de Belle vous permet de transmuter une carte
+          supplémentaire en encre mais pas d’ignorer la règle précisant que la carte choisie doit
+          avoir un symbole d’encre autour de son coût. Vous devez donc révéler à vos adversaires
+          votre carte avant de la placer dans votre réserve d’encre, afin de leur montrer que cette
+          dernière est bien transmutable selon les règles habituelles.
+
+          Dr. Facilier – Agent provocateur
+             •   Si j’ai Dr. Facilier – Agent provocateur en jeu et que l’un de mes personnages
+                 Floodborn (donc avec la capacité Alter) est banni via un défi, est-ce que
+                 je dois aussi reprendre en main les éventuelles cartes placées sous ce
+                 Floodborn ?
+          Non, une fois le personnage banni, la pile de cartes est d’abord placée dans la défausse,
+          puis le personnage Floodborn au sommet de la pile est placé dans ma main.
+
+          Elsa – Esprit de l’hiver
+             •   Si j’utilise la capacité Gel intense d’Elsa – Esprit de l’hiver pour épuiser deux
+                 personnages, est-ce que leur propriétaire peut les redresser lors de son tour
+                 via l’effet ou la capacité d’une carte comme Attiser les flammes ?
+
+
+
+
+©Disney
+                                              TRADING CARD GAME
+
+
+
+
+          Oui, la capacité Gel intense les empêche de se redresser au début du tour selon les
+          règles habituelles, mais n’interdit pas d’utiliser un effet ou une capacité permettant de le
+          faire.
+
+          Vaiana – de Motunui
+              •   Si Vaiana – de Motonui est envoyée à l’aventure, puis-je choisir les
+                  personnages Princesse que je souhaite redresser ? Et si un personnage
+                  Princesse est déjà redressé ou si je le redresse plus tard dans le tour grâce
+                  à l’effet ou la capacité d’une autre carte, est-ce que je peux l’envoyer à
+                  l’aventure ?
+          Non, si vous envoyez Vaiana – de Motunui à l’aventure, vous devez redresser l’ensemble
+          de vos autres personnages Princesse, même ceux déjà redressés. Du coup, aucun
+          d’entre eux ne peut être envoyé à l’aventure ce tour-ci, même si un autre effet ou capacité
+          permet de les redresser.
+
+          Stitch – Rock Star
+             •    Si j’ai plusieurs Stitch – Rock Star en jeu, puis-je utiliser autant de fois
+                  sa capacité Fans déchaînés lorsque je joue un personnage coûtant 2 ou
+                  moins ?
+          Non, car la capacité Fans déchaînés nécessite d’épuiser le personnage pour piocher
+          une carte. Du coup, vous ne pouvez pas l’épuiser de nouveau pour piocher des cartes
+          supplémentaires.
+             •    Si j’ai Stitch – Rock Star et une Lanterne en jeu et que j’épuise cette dernière
+                  pour jouer un personnage coûtant 3 {I} en payant 1 {I} de moins, puis-je
+                  épuiser ce personnage pour piocher une carte grâce à la capacité de Stitch ?
+          Non, ce n’est pas le coût du personnage qui est réduit grâce à la Lanterne, mais la
+          quantité d’encre à épuiser pour pouvoir le jouer. Le coût de ce personnage reste de 3 et il
+          ne peut donc être épuisé via la capacité Fans déchaînés.
+
+
+
+
+©Disney

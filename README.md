@@ -5,6 +5,7 @@
 
 ### Player's Guide
 
+- [English](cdn_ravensburger_com/lorcana/s1-playersguide-en.pdf)
 - [DEUTSCH](cdn_ravensburger_com/lorcana/s1-playersguide-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-playersguide-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/s1-playersguide-it.pdf)

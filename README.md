@@ -23,7 +23,7 @@
 
 ### Comprehensive Rules
 
-- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.txt))
+- [Download Disney Lorcana Comprehensive Rules](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%2004.13.24.pdf) ([as text](text/comprehensive-rules-en.txt))
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 
@@ -41,7 +41,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf) ([as text](text/tournament-rules.txt))
+- [ENGLISH](cdn_ravensburger_com/lorcana/tournament-rules.pdf) ([as text](text/tournament-rules-en.txt))
 - [DEUSTCH](cdn_ravensburger_com/lorcana/tournament-rules-de.pdf)
 - [FRANÇAIS](cdn_ravensburger_com/lorcana/tournament-rules-fr.pdf)
 - [ITALIANO](cdn_ravensburger_com/lorcana/tournament-rules-it.pdf)

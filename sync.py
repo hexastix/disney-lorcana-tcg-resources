@@ -22,6 +22,11 @@ FILES_TO_CONVERT = (
     "tournament-rules.pdf",
 )
 
+TEXT_FILE_NAMES = {
+    "Disney Lorcana Comprehensive Rules - 04.13.24.txt": "comprehensive-rules-en.txt",
+    "tournament-rules.txt": "tournament-rules-en.txt",
+}
+
 
 class ResourcesHTMLParser(HTMLParser):
     def __init__(self, readme_file, output_dir):
@@ -57,9 +62,10 @@ class ResourcesHTMLParser(HTMLParser):
         return file_path
 
     def convert_pdf_to_text(self, pdf_file_path):
-        text_file_path = pathlib.Path(
-            self.output_dir, "text", pdf_file_path.with_suffix(".txt").name
-        )
+        text_file_name = pdf_file_path.with_suffix(".txt").name
+        if text_file_name in TEXT_FILE_NAMES:
+            text_file_name = TEXT_FILE_NAMES[text_file_name]
+        text_file_path = pathlib.Path(self.output_dir, "text", text_file_name)
         print(f"Converting {pdf_file_path} to {text_file_path}")
         subprocess.run(
             ["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path]

@@ -22,6 +22,15 @@ DOCUMENTS_TO_CONVERT_TO_TXT = (
     "Tournament Rules",
 )
 
+TEXT_FILE_NAMES = {
+    "Disney Lorcana Comprehensive Rules_EN_08.09.24.txt": "comprehensive-rules-en.txt",
+    "Disney Lorcana Comprehensive Rules_FR_08.09.24.txt": "comprehensive-rules-fr.txt",
+    "Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.txt": "comprehensive-rules-it.txt",
+    "Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.txt": "comprehensive-rules-de.txt",
+    "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
+    "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
+}
+
 
 class ResourcesHTMLParser(HTMLParser):
     def __init__(self, readme_file, output_dir):
@@ -58,9 +67,10 @@ class ResourcesHTMLParser(HTMLParser):
         return file_path
 
     def convert_pdf_to_text(self, pdf_file_path):
-        text_file_path = pathlib.Path(
-            self.output_dir, "text", pdf_file_path.with_suffix(".txt").name
-        )
+        text_file_name = pdf_file_path.with_suffix(".txt").name
+        if text_file_name in TEXT_FILE_NAMES:
+            text_file_name = TEXT_FILE_NAMES[text_file_name]
+        text_file_path = pathlib.Path(self.output_dir, "text", text_file_name)
         os.makedirs(text_file_path.parent, exist_ok=True)
         print(f"Converting {pdf_file_path} to {text_file_path}")
         subprocess.run(

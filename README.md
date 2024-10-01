@@ -27,10 +27,10 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules_EN_08.09.24.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules_EN_08.09.24.txt))
-- [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.pdf) ([as text](text/Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.txt))
-- [FRANÇAIS](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules_FR_08.09.24.pdf) ([as text](text/Disney%20Lorcana%20Comprehensive%20Rules_FR_08.09.24.txt))
-- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.pdf) ([as text](text/Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.txt))
+- [English](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules_EN_08.09.24.pdf) ([as text](text/comprehensive-rules-en.txt))
+- [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.pdf) ([as text](text/comprehensive-rules-de.txt))
+- [FRANÇAIS](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules_FR_08.09.24.pdf) ([as text](text/comprehensive-rules-fr.txt))
+- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.pdf) ([as text](text/comprehensive-rules-it.txt))
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 
@@ -48,7 +48,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/Disney_Lorcana_Tournament_Rules_052224update.txt))
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
 ### Shimmering Skies OP Kit Instructions
 
@@ -68,7 +68,7 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/Disney_Lorcana_Play_Correction_Guidelines_052124update.txt))
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))
 
 ### Disney Lorcana TCG Deck Registration Sheet
 

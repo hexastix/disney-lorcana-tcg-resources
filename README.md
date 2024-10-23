@@ -92,6 +92,20 @@
 - [FRANÇAIS](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_FR.pdf)
 - [Italiano](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_IT.pdf)
 
+### Disney Lorcana TCG: Ursula's Return Set Checklist
+
+- [English](files_disneylorcana_com/Ursulas-Return_Checklist_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Ursulas-Ruckkehr_Checklist_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Le-retour-dUrsula_Checklist_FR.pdf)
+- [Italiano](files_disneylorcana_com/Il-Ritorno-Di-Ursula_Checklist_IT.pdf)
+
+### Disney Lorcana TCG: Shimmering Skies Set Checklist
+
+- [English](files_disneylorcana_com/Shimmering-Skies_Checklist_EN-US.pdf)
+- [Deutsch](files_disneylorcana_com/Himmels-Leuchten_Checklist_DE.pdf)
+- [Français](files_disneylorcana_com/Ciel-Scintillant_Checklist_FR.pdf)
+- [Italiano](files_disneylorcana_com/Cieli-Scintillanti_Checklist_IT.pdf)
+
 ### Melee Tournament Platform Documentation
 
 - [melee.gg](https://melee.gg/Documentation)

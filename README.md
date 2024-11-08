@@ -50,6 +50,14 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
+### Azurite Sea OP Kit Instructions
+
+- [English](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_DE.pdf)
+- [Français](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_IT.pdf)
+- [español](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_ES.pdf)
+
 ### Shimmering Skies OP Kit Instructions
 
 - [ENGLISH](files_disneylorcana_com/Shimmering-Skies_OrganizedPlay_Newsletter_EN01.pdf)

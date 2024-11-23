@@ -58,14 +58,6 @@
 - [Italiano](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_IT.pdf)
 - [español](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_ES.pdf)
 
-### Shimmering Skies Championship Tournament Rules
-
-- [English](files_disneylorcana_com/Shimmering-Skies-Set-Championships_Event-Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Himmel-Leuchten-Verenstaltungsanweisungen_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Ciel-Scintillant-Instructions-pour-levenement_FR.pdf)
-- [Italiano](files_disneylorcana_com/Cieli-Scintillanti-Instruzioni-per-levento_IT.pdf)
-- [ESPAÑOL](files_disneylorcana_com/Shimmering-Skies-Championships_Event-Instructions_ES.pdf)
-
 ### Play Correction Guidelines
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))

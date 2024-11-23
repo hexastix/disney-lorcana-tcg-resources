@@ -24,6 +24,10 @@
 ### Pack Rush Rules
 
 - [English](files_disneylorcana_com/OPPack_Rush_QuickRules_EN.pdf)
+- [Deutsch](files_disneylorcana_com/OPPack_Rush_QuickRules_DE.pdf)
+- [Français](files_disneylorcana_com/OPPack_Rush_QuickRules_FR.pdf)
+- [Italiano](files_disneylorcana_com/OPPack_Rush_QuickRules_IT.pdf)
+- [Español](files_disneylorcana_com/OPPack_Rush_QuickRules_ES.pdf)
 
 ### Comprehensive Rules
 

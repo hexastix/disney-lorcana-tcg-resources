@@ -23,10 +23,10 @@ DOCUMENTS_TO_CONVERT_TO_TXT = (
 )
 
 TEXT_FILE_NAMES = {
-    "Disney Lorcana Comprehensive Rules_EN_08.09.24.txt": "comprehensive-rules-en.txt",
-    "Disney Lorcana Comprehensive Rules_FR_08.09.24.txt": "comprehensive-rules-fr.txt",
-    "Disney-Lorcana-Comprehensive-Rules-IT_08.09.24.txt": "comprehensive-rules-it.txt",
-    "Disney-Lorcana-Comprehensive-Rules_DE_08.09.24.txt": "comprehensive-rules-de.txt",
+    "Disney-Lorcana-Comprehensive-Rules_EN.txt": "comprehensive-rules-en.txt",
+    "Disney-Lorcana-Comprehensive-Rules_FR.txt": "comprehensive-rules-fr.txt",
+    "Disney-Lorcana-Comprehensive-Rules_IT.txt": "comprehensive-rules-it.txt",
+    "Disney-Lorcana-Comprehensive-Rules_DE.txt": "comprehensive-rules-de.txt",
     "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
     "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
 }

@@ -623,10 +623,10 @@ disneylorcana.com
         6.1.2. Charakterkarten führen in ihrer Klassifizierungszeile nicht den Begriff „Charakter“ auf. Eine Karte muss beide Merkmale, die
                in 6.1.2.1 und 6.1.2.2 gelistet sind, aufweisen, um ein Charakter zu sein. Wenn nicht, ist die Karte kein Charakter.
                 6.1.2.1.   Eine Charakterkarte hat einen {S}-Wert und einen {W}-Wert.
-                6.1.2.2.   Ein Charakter hat mindestens eine der folgenden Klassifizierungen* in der Klassifizierungszeile: Alien, Verbündeter,
-                           Besen, Kapitän, Gottheit, Detektiv, Drache, Traumgestalt, Verstrickt, Fee, Flutgestalt, Held, Hyäne, Erfinder, König,
-                           Ritter, Madrigal, Mentor, Musketier, Pirat, Prinz, Prinzessin, Welpe, Königin, Rennfahrer, Sieben Zwerge, Magier,
-                           Sagengestalt, Tigger, Titan, Schurke.
+                6.1.2.2.   Ein Charakter hat mindestens eine der folgenden Klassifizierungen* in der Klassifizierungszeile: Alien, Besen,
+                           Detektiv, Drache, Erfinder, Fee, Flutgestalt, Gottheit, Held, Hyäne, Kapitän, König, Königin, Madrigal, Magier,
+                           Mentor, Musketier, Pirat, Prinz, Prinzessin, Rennfahrer, Ritter, Roboter, Sagengestalt, Schurke, Sieben Zwerge,
+                           Tigger, Titan, Traumgestalt, Verbündeter, Verstrickt, Welpe.
                            *Einige Klassifizierungen auf älteren deutschen Karten verwenden mal die weibliche und mal die männliche Form
                            des Wortes, je nach Geschlecht des dargestellten Charakters. Aus Gründen der Übersichtlichkeit wurden diese
                            zur männlichen Form des Wortes zusammengefasst. Eine Karte mit der weiblichen Form eines Wortes in der

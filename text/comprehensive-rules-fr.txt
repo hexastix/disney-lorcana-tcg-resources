@@ -609,10 +609,10 @@ disneylorcana.com
         6.1.2. Le trait “personnage” n’apparait pas dans la ligne de classification des cartes Personnage. Pour être un personnage, une carte doit
                présenter les deux caractéristiques décrites aux points 6.1.2.1 et 6.1.2.2. Si ce n’est pas le cas, la carte n’est pas un personnage.
                 6.1.2.1.   Un personnage possède une valeur de {S} et une valeur de {W}.
-                6.1.2.2.   Un personnage possède au moins l’un de ces termes dans la ligne de classification de sa carte : Extra-terrestre,
-                           Allié, Balais, Capitaine, Dieu, Détective, Dragon, Dreamborn, Envouté, Fée, Floodborn, Héros, Hyène, Inventeur,
-                           Roi, Chevalier, Madrigal, Mentor, Mousquetaire, Pirate, Prince, Princesse, Chiot, Reine, Pilote, Sept Nains, Sorcier,
-                           Storyborn, Tigre, Titan, Méchant.
+                6.1.2.2.   Un personnage possède au moins l’un de ces termes dans la ligne de classification de sa carte : Allié, Balais,
+                           Capitaine, Chevalier, Chiot, Détective, Dieu, Dragon, Dreamborn, Envouté, Extra-terrestre, Fée, Floodborn, Héros,
+                           Hyène, Inventeur, Madrigal, Méchant, Mentor, Mousquetaire, Prince, Princesse, Pilote, Pirate, Reine, Robot, Roi,
+                           Sept Nains, Sorcier, Storyborn, Tigre, Titan.
         6.1.3. Seuls les personnages peuvent partir à l’aventure et défier.
         6.1.4. Un personnage doit avoir été en jeu au début de l’étape de Vérification du tour de son joueur pour pouvoir partir à l’aventure,
                 défier ou {E} pour payer un coût (voir 4.2.2, “Mise en place”).

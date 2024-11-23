@@ -571,7 +571,8 @@ disneylorcana.com
                 6.1.2.1.   A character has a {S} value and a {W} value.
                 6.1.2.2.   A character has at least one of the following listed on the classification line: Alien, Ally, Broom, Captain, Deity,
                            Detective, Dragon, Dreamborn, Entangled, Fairy, Floodborn, Hero, Hyena, Inventor, King, Knight, Madrigal, Mentor,
-                           Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Seven Dwarfs, Sorcerer, Storyborn, Tigger, Titan, Villain
+                           Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Robot, Seven Dwarfs, Sorcerer, Storyborn, Tigger, Titan,
+                           Villain.
         6.1.3. Only characters can quest or challenge.
         6.1.4. A character must have been in play at the beginning of the Set step of their player’s turn in order to quest, challenge, or {E} as
                 part of a cost (see 4.2.2, “Set”).

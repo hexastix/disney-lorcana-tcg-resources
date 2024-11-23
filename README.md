@@ -23,7 +23,7 @@
 
 ### Pack Rush Rules
 
-- [English](files_disneylorcana_com/Pack_Rush_Quick_Start_Rules_29-08-24.pdf)
+- [English](files_disneylorcana_com/OPPack_Rush_QuickRules_EN.pdf)
 
 ### Comprehensive Rules
 

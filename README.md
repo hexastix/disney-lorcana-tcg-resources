@@ -62,6 +62,14 @@
 - [Italiano](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_IT.pdf)
 - [español](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_ES.pdf)
 
+### Azurite Sea Set Championship Instructions
+
+- [English](files_disneylorcana_com/Azurite-Sea_OPChampionships_Event%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Azurblaues-Meer_OPChampionships_Event%20Instructions_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/La-Mer-Azurite_OPChampionships_Event%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/Mare-di-Azzurrite_OPChampionships_Event%20Instructions_IT.pdf)
+- [Español](files_disneylorcana_com/Azurite-Sea_OPChampionships_Event%20Instructions_ES.pdf)
+
 ### Play Correction Guidelines
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))

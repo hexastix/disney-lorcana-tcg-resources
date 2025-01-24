@@ -43,6 +43,10 @@ def convert_pdf_to_text(pdf_file_path, output_dir, file_names):
     return text_file_path
 
 
+def md_link(file_path, md_file_dir):
+    return urllib.parse.quote(str(file_path.relative_to(md_file_dir)))
+
+
 class ResourcesHTMLParser(HTMLParser):
     URL_PREFIXES = (
         "https://cdn.ravensburger.com/lorcana/",
@@ -99,16 +103,14 @@ class ResourcesHTMLParser(HTMLParser):
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
                             pdf_file_path = download_pdf_file(attr_value, self.output_dir)
-                            link_to_pdf_file = urllib.parse.quote(
-                                str(pdf_file_path.relative_to(self.output_dir))
-                            )
+                            link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
                             if self.document_name in self.DOCUMENTS_TO_CONVERT_TO_TXT:
                                 text_file_path = convert_pdf_to_text(
                                     pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
                                 )
-                                link_to_text_file = urllib.parse.quote(
-                                    str(text_file_path.relative_to(self.output_dir))
+                                link_to_text_file = md_link(
+                                    text_file_path, self.output_dir
                                 )
                                 self.list_item = (
                                     f"[{{data}}]({link_to_pdf_file})"

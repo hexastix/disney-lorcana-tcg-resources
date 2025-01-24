@@ -164,3 +164,28 @@
 ### Digital Assets and Use Policy
 
 - [https://brand.ravensburger-group.com/d/e1vhRSQ7WeNy](https://brand.ravensburger-group.com/d/e1vhRSQ7WeNy)
+
+
+------
+
+
+*from https://www.takaratomy.co.jp/products/disneylorcana/rule-faq/*
+
+
+## ルール＆ダウンロード
+
+### 総合ルール
+
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/comprehensive_rules.pdf) ([as text](text/comprehensive-rules-jp.txt))
+
+### 「THE FIRST CHAPTER 物語のはじまり」 セットノート
+
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/s1_set_notes.pdf) ([as text](text/s1-set-notes-jp.txt))
+
+### プレイ修正指針
+
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Play_Correction_Guidelines_JP.pdf) ([as text](text/play-correction-guidelines-jp.txt))
+
+### 日本語版イベントルール
+
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Tournament_Rules_JP.pdf) ([as text](text/tournament-rules-jp.txt))

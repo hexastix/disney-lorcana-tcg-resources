@@ -152,6 +152,94 @@ class ResourcesHTMLParser(HTMLParser):
             self.list_item = None
 
 
+class RuleFaqHTMLParser(HTMLParser):
+    TEXT_FILE_NAMES = {
+        "comprehensive_rules.txt": "comprehensive-rules-jp.txt",
+        "Disney_Lorcana_Play_Correction_Guidelines_JP.txt": "play-correction-guidelines-jp.txt",
+        "Disney_Lorcana_Tournament_Rules_JP.txt": "tournament-rules-jp.txt",
+        "s1_set_notes.txt": "s1-set-notes-jp.txt",
+    }
+
+    def __init__(self, readme_file, output_dir):
+        super().__init__()
+
+        self.readme_file = readme_file
+        self.output_dir = output_dir
+
+        self.rule_div = False
+        self.in_heading_2 = False
+        self.in_heading_3 = False
+        self.in_heading_3_main = False
+        self.item = None
+
+    def handle_starttag(self, tag, attrs):
+        if self.rule_div:
+            if tag == "h2":
+                assert not self.in_heading_2
+                self.in_heading_2 = True
+
+            elif tag == "h3":
+                assert not self.in_heading_3
+                self.in_heading_3 = True
+                print(f"\n### ", end='', file=self.readme_file)
+
+            elif tag == "span":
+                for attr_name, attr_value in attrs:
+                    if attr_name == "class" and "heading-3-main" in attr_value:
+                        assert not self.in_heading_3_main
+                        self.in_heading_3_main = True
+                        break
+
+            elif tag == "a":
+                for attr_name, attr_value in attrs:
+                    if attr_name == "href":
+                        assert self.item is None
+                        pdf_file_path = download_pdf_file(
+                            f"https://takaratomy.co.jp{attr_value}", self.output_dir
+                        )
+                        text_file_path = convert_pdf_to_text(
+                            pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
+                        )
+                        self.item = (
+                            f"[{{data}}]({md_link(pdf_file_path, self.output_dir)})"
+                            f" ([as text]({md_link(text_file_path, self.output_dir)}))"
+                        )
+                        break
+
+        elif tag == "div":
+            for attr_name, attr_value in attrs:
+                if attr_name == "id" and attr_value == "rule":
+                    self.rule_div = True
+                    break
+
+    def handle_data(self, data):
+        if self.in_heading_2:
+            print(f"\n\n## {data}", file=self.readme_file)
+
+        elif self.in_heading_3_main:
+            print(data, end='', file=self.readme_file)
+
+        elif self.item is not None:
+            print(f"\n{self.item.format(data=data)}", file=self.readme_file)
+
+    def handle_endtag(self, tag):
+        if tag == "div":
+            self.rule_div = False
+
+        elif tag == "h2":
+            self.in_heading_2 = False
+
+        elif tag == "h3":
+            print("", file=self.readme_file)
+            self.in_heading_3 = False
+
+        elif tag == "span":
+            self.in_heading_3_main = False
+
+        elif tag == "a":
+            self.item = None
+
+
 def main():
     subprocess.run(["pdftotext", "-h"], capture_output=True, check=True)
 
@@ -170,6 +258,20 @@ def main():
             contents = f.read().decode("utf-8")
 
         parser = ResourcesHTMLParser(readme_file, output_dir)
+        parser.feed(contents)
+
+        print("\n\n------", file=readme_file)
+
+        url = "https://www.takaratomy.co.jp/products/disneylorcana/rule-faq/"
+        request = urllib.request.Request(url)
+        request.add_header("User-Agent", "")
+
+        print(f"\n\n*from {url}*", file=readme_file)
+
+        with urllib.request.urlopen(request) as f:
+            contents = f.read().decode("utf-8")
+
+        parser = RuleFaqHTMLParser(readme_file, output_dir)
         parser.feed(contents)
 
 

@@ -155,16 +155,19 @@ class ResourcesHTMLParser(HTMLParser):
 def main():
     subprocess.run(["pdftotext", "-h"], capture_output=True, check=True)
 
-    request = urllib.request.Request("https://www.disneylorcana.com/en-US/resources")
-    request.add_header("User-Agent", "")
-
-    with urllib.request.urlopen(request) as f:
-        contents = f.read().decode("utf-8")
-
     output_dir = os.path.dirname(os.path.abspath(__file__))
 
     with open(os.path.join(output_dir, "README.md"), "w") as readme_file:
         print("# Disney Lorcana TCG Resources", file=readme_file)
+
+        url = "https://www.disneylorcana.com/en-US/resources"
+        request = urllib.request.Request(url)
+        request.add_header("User-Agent", "")
+
+        print(f"\n\n*from {url}*", file=readme_file)
+
+        with urllib.request.urlopen(request) as f:
+            contents = f.read().decode("utf-8")
 
         parser = ResourcesHTMLParser(readme_file, output_dir)
         parser.feed(contents)

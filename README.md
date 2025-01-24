@@ -1,6 +1,9 @@
 # Disney Lorcana TCG Resources
 
 
+*from https://www.disneylorcana.com/en-US/resources*
+
+
 ## Player's Guide
 
 ### Player's Guide

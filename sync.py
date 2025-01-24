@@ -8,6 +8,28 @@ import urllib.request
 from html.parser import HTMLParser
 
 
+def download_pdf_file(url, output_dir):
+    request = urllib.request.Request(url)
+    request.add_header("User-Agent", "")
+
+    result = urllib.parse.urlparse(url)
+
+    file_path = pathlib.Path(
+        output_dir,
+        f"{result.netloc.replace('.', '_')}{urllib.parse.unquote(result.path)}",
+    ).with_suffix(".pdf")
+
+    os.makedirs(file_path.parent, exist_ok=True)
+
+    print(f"Downloading {url} to {file_path}")
+
+    with urllib.request.urlopen(request) as r:
+        with open(file_path, "wb") as w:
+            w.write(r.read())
+
+    return file_path
+
+
 class ResourcesHTMLParser(HTMLParser):
     URL_PREFIXES = (
         "https://cdn.ravensburger.com/lorcana/",
@@ -44,27 +66,6 @@ class ResourcesHTMLParser(HTMLParser):
         self.document_name = None
         self.list_item = None
 
-    def download_pdf_file(self, url):
-        request = urllib.request.Request(url)
-        request.add_header("User-Agent", "")
-
-        result = urllib.parse.urlparse(url)
-
-        file_path = pathlib.Path(
-            self.output_dir,
-            f"{result.netloc.replace('.', '_')}{urllib.parse.unquote(result.path)}",
-        ).with_suffix(".pdf")
-
-        os.makedirs(file_path.parent, exist_ok=True)
-
-        print(f"Downloading {url} to {file_path}")
-
-        with urllib.request.urlopen(request) as r:
-            with open(file_path, "wb") as w:
-                w.write(r.read())
-
-        return file_path
-
     def convert_pdf_to_text(self, pdf_file_path):
         text_file_name = pdf_file_path.with_suffix(".txt").name
         if text_file_name in self.TEXT_FILE_NAMES:
@@ -96,7 +97,7 @@ class ResourcesHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
-                            pdf_file_path = self.download_pdf_file(attr_value)
+                            pdf_file_path = download_pdf_file(attr_value, self.output_dir)
                             link_to_pdf_file = urllib.parse.quote(
                                 str(pdf_file_path.relative_to(self.output_dir))
                             )

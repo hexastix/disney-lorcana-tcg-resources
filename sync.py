@@ -8,31 +8,30 @@ import urllib.request
 from html.parser import HTMLParser
 
 
-URL_PREFIXES = (
-    "https://cdn.ravensburger.com/lorcana/",
-    "https://files.disneylorcana.com/",
-)
-
-DOCUMENTS_TO_CONVERT_TO_TXT = (
-    "Community Code",
-    "Comprehensive Rules",
-    "Disney Lorcana TCG: The First Chapter Set Notes",
-    "Diversity & Inclusion Policy",
-    "Play Correction Guidelines",
-    "Tournament Rules",
-)
-
-TEXT_FILE_NAMES = {
-    "Disney-Lorcana-Comprehensive-Rules_DE.txt": "comprehensive-rules-de.txt",
-    "Disney-Lorcana-Comprehensive-Rules_EN.txt": "comprehensive-rules-en.txt",
-    "Disney-Lorcana-Comprehensive-Rules_FR.txt": "comprehensive-rules-fr.txt",
-    "Disney-Lorcana-Comprehensive-Rules_IT.txt": "comprehensive-rules-it.txt",
-    "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
-    "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
-}
-
-
 class ResourcesHTMLParser(HTMLParser):
+    URL_PREFIXES = (
+        "https://cdn.ravensburger.com/lorcana/",
+        "https://files.disneylorcana.com/",
+    )
+
+    DOCUMENTS_TO_CONVERT_TO_TXT = (
+        "Community Code",
+        "Comprehensive Rules",
+        "Disney Lorcana TCG: The First Chapter Set Notes",
+        "Diversity & Inclusion Policy",
+        "Play Correction Guidelines",
+        "Tournament Rules",
+    )
+
+    TEXT_FILE_NAMES = {
+        "Disney-Lorcana-Comprehensive-Rules_DE.txt": "comprehensive-rules-de.txt",
+        "Disney-Lorcana-Comprehensive-Rules_EN.txt": "comprehensive-rules-en.txt",
+        "Disney-Lorcana-Comprehensive-Rules_FR.txt": "comprehensive-rules-fr.txt",
+        "Disney-Lorcana-Comprehensive-Rules_IT.txt": "comprehensive-rules-it.txt",
+        "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
+        "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
+    }
+
     def __init__(self, readme_file, output_dir):
         super().__init__()
 
@@ -68,8 +67,8 @@ class ResourcesHTMLParser(HTMLParser):
 
     def convert_pdf_to_text(self, pdf_file_path):
         text_file_name = pdf_file_path.with_suffix(".txt").name
-        if text_file_name in TEXT_FILE_NAMES:
-            text_file_name = TEXT_FILE_NAMES[text_file_name]
+        if text_file_name in self.TEXT_FILE_NAMES:
+            text_file_name = self.TEXT_FILE_NAMES[text_file_name]
         text_file_path = pathlib.Path(self.output_dir, "text", text_file_name)
         os.makedirs(text_file_path.parent, exist_ok=True)
         print(f"Converting {pdf_file_path} to {text_file_path}")
@@ -96,13 +95,13 @@ class ResourcesHTMLParser(HTMLParser):
                 for attr_name, attr_value in attrs:
                     if attr_name == "href":
                         assert self.list_item is None
-                        if attr_value.startswith(URL_PREFIXES):
+                        if attr_value.startswith(self.URL_PREFIXES):
                             pdf_file_path = self.download_pdf_file(attr_value)
                             link_to_pdf_file = urllib.parse.quote(
                                 str(pdf_file_path.relative_to(self.output_dir))
                             )
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
-                            if self.document_name in DOCUMENTS_TO_CONVERT_TO_TXT:
+                            if self.document_name in self.DOCUMENTS_TO_CONVERT_TO_TXT:
                                 text_file_path = self.convert_pdf_to_text(pdf_file_path)
                                 link_to_text_file = urllib.parse.quote(
                                     str(text_file_path.relative_to(self.output_dir))

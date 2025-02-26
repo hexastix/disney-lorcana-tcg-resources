@@ -57,13 +57,13 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
-### Azurite Sea OP Kit Instructions
+### Archazia's Island OP Kit Instructions
 
-- [English](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_DE.pdf)
-- [Français](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_IT.pdf)
-- [español](files_disneylorcana_com/DCL_S6_OrganizedPlay_Instructions_ES.pdf)
+- [English](files_disneylorcana_com/Archazias-Island_OP%20Kit%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Archazias-Insel_OP%20Kit%20Instructions_DE.pdf)
+- [Français](files_disneylorcana_com/l%E2%80%99%C3%AEle-D%27Archazia_OP%20Kit%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/L%27isola-di-Archazia_OP%20Kit%20Instructions_IT.pdf)
+- [español](files_disneylorcana_com/Archazias-Island_OP%20Kit%20Instructions_ES.pdf)
 
 ### Azurite Sea Set Championship Instructions
 

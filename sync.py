@@ -226,18 +226,19 @@ class RuleFaqHTMLParser(HTMLParser):
         if tag == "div":
             self.rule_div = False
 
-        elif tag == "h2":
-            self.in_heading_2 = False
+        elif self.rule_div:
+            if tag == "h2":
+                self.in_heading_2 = False
 
-        elif tag == "h3":
-            print("", file=self.readme_file)
-            self.in_heading_3 = False
+            elif tag == "h3":
+                print("", file=self.readme_file)
+                self.in_heading_3 = False
 
-        elif tag == "span":
-            self.in_heading_3_main = False
+            elif tag == "span":
+                self.in_heading_3_main = False
 
-        elif tag == "a":
-            self.item = None
+            elif tag == "a":
+                self.item = None
 
 
 def main():

@@ -65,13 +65,13 @@
 - [Italiano](files_disneylorcana_com/L%27isola-di-Archazia_OP%20Kit%20Instructions_IT.pdf)
 - [español](files_disneylorcana_com/Archazias-Island_OP%20Kit%20Instructions_ES.pdf)
 
-### Azurite Sea Set Championship Instructions
+### Archazia's Island Set Championship Instructions
 
-- [English](files_disneylorcana_com/Azurite-Sea_OPChampionships_Event%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Azurblaues-Meer_OPChampionships_Event%20Instructions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/La-Mer-Azurite_OPChampionships_Event%20Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/Mare-di-Azzurrite_OPChampionships_Event%20Instructions_IT.pdf)
-- [Español](files_disneylorcana_com/Azurite-Sea_OPChampionships_Event%20Instructions_ES.pdf)
+- [English](files_disneylorcana_com/Archazia_SetChampionship_Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Archazia_SetChampionship_Instructions_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Archazia_SetChampionship_Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/Archazia_SetChampionship_Instructions_IT.pdf)
+- [Español](files_disneylorcana_com/Archazia_SetChampionship_Instructions_ES.pdf)
 
 ### Play Correction Guidelines
 

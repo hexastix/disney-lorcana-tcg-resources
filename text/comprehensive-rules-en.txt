@@ -1,5 +1,5 @@
                               COMPREHENSIVE RULES
-                                                           Effective August 9, 2024
+                                                         Effective February 28, 2025
 
 
 
@@ -31,73 +31,66 @@ Sapphire. Text that has been moved is in Amber. For a list of revisions, see the
 disneylorcana.com
 ©Disney                                                                i
 CONTENTS
-1. CONCEPTS                                                                     5. CARDS
-
-   1.1.    General                                                                5.1.   Conditions
-               Languages, Official Text, Updates, Tournament Rules                           Ready, Exerted, Damaged, Undamaged
-   1.2.    Golden Rules                                                         6. CARD TYPES
-               Choices
-   1.3.    Active Player                                                          6.1.   Characters
-                                                                                             Requirements to Be a Character
-   1.4.    Opponent
-                                                                                  6.2.   Parts of a Card
-   1.5.    Playing Cards                                                                     Ink Key, Rarity Key, Characters with Two Names
-   1.6.    Types of Abilities                                                     6.3.   Actions
-   1.7.    The Bag                                                                           General, Songs
-   1.8.    Players’ Cards                                                         6.4.   Items
-   1.9.    Game State Check                                                       6.5.   Locations
-               Game State Conditions, Required Actions, Order of                             Parts of a Card
-               Completion
-                                                                                7. ABILITIES
-   1.10.   Multiplayer Games
-                                                                                  7.1.   General
-2. BEFORE THE GAME
-                                                                                             Clauses, Multiple Effects in a Clause, “May,” “Put into
-   2.1.    Deck Rules                                                                        Hand,” “Other/Another,” Playing Cards while Resolving
-                                                                                             Abilities, Loops, “Up to,” “That,” Revealing Cards
-3. GAMEPLAY
-                                                                                  7.2.   Action Cards
-   3.1.    Starting a Game                                                        7.3.   Keywords
-               Starting Player, Randomize, Track Lore, Draw, Alter                           General, Reminder Text
-               Hands
-                                                                                  7.4.   Triggered Abilities
-   3.2.    Ending a Game                                                                     Abilities with Two Trigger Conditions, Floating
-               Lore, Empty Deck, Last Player                                                 Triggered Abilities
-4. TURN STRUCTURE                                                                 7.5.   Activated Abilities
-                                                                                             Paying Costs, Steps to Use
-   4.1.    Phases
-   4.2.    Beginning Phase                                                        7.6.   Static Abilities
-                                                                                             Duration, Timing, Outside of Play
-               Ready, Set, Draw
-   4.3.    Main Phase                                                             7.7.   Replacement Effects
-               Turn Actions, Inkwell, Play a Card, Play for Free, Quest,          7.8.   Ability Modifiers
-               Challenge, Move a Character, Use Activated Abilities
-   4.4.    End of Turn Phase
-
+ 1. CONCEPTS                                                                   5. CARDS
+     1.1.    General                                                             5.1.   Conditions
+                    Languages, Official Text, Updates, Tournament Rules                     Ready, Exerted, Damaged, Undamaged, Under,
+     1.2.    Golden Rules                                                                   On Top, In a Stack
+                    Choices
+                                                                               6. CARD TYPES
+     1.3.    Active Player
+                                                                                 6.1.   Characters
+     1.4.    Opponent                                                                       Requirements to Be a Character
+     1.5.    Playing Cards                                                       6.2.   Parts of a Card
+     1.6.    Types of Abilities                                                             Ink Key, Rarity Key, Characters with Two Names
+     1.7.    The Bag                                                             6.3.   Actions
+     1.8.    Players’ Cards                                                                 General, Songs
+     1.9.    Game State Check                                                    6.4.   Items
+                    Game State Conditions, Required Actions, Order of            6.5.   Locations
+                    Completion                                                              Parts of a Card
+     1.10.   Multiplayer Games
+                                                                               7. ABILITIES
+ 2. BEFORE THE GAME                                                              7.1.   General
+     2.1.    Deck Rules                                                                     Clauses, Multiple Effects in a Clause, “May,” “Put into
+                                                                                            Hand,” “Other/Another,” Playing Cards while Resolving
+ 3. GAMEPLAY                                                                                Abilities, Loops, “Up to,” “That,” Revealing Cards
+     3.1.    Starting a Game                                                     7.2.   Action Cards
+                    Starting Player, Randomize, Track Lore, Draw, Alter          7.3.   Keywords
+                    Hands                                                                   General, Reminder Text
+     3.2.    Ending a Game                                                       7.4.   Triggered Abilities
+                    Lore, Empty Deck, Last Player                                           Abilities with Two Trigger Conditions, Floating
+                                                                                            Triggered Abilities
+ 4. TURN STRUCTURE
+     4.1.    Phases                                                              7.5.   Activated Abilities
+                                                                                            Paying Costs, Steps to Use
+     4.2.    Beginning Phase
+                    Ready, Set, Draw                                             7.6.   Static Abilities
+                                                                                            Duration, Timing, Outside of Play
+     4.3.    Main Phase
+                    Turn Actions, Inkwell, Play a Card, Play for Free,           7.7.   Replacement Effects
+                    Quest, Challenge, Move a Character, Use Activated            7.8.   Ability Modifiers
+                    Abilities
+     4.4.    End of Turn Phase
 
 disneylorcana.com
-©Disney                                                                    ii
-8. ZONES                                                                10.9. Singer
-
-   8.1.    General                                                      10.10. Sing Together
-               Public, Private, Fail to Find                                     Alternate Cost, Resolving Triggered Abilities
-   8.2.    Deck                                                         10.11. Support
-               Private Zone, Adding Cards to Top or Bottom              10.12. Ward
-   8.3. Hand                                                          GLOSSARY
-   8.4. Play                                                          UPDATE SUMMARY
-               In Play, Public Zone, Leaving Play
-                                                                      PREVIOUS UPDATE SUMMARY
-   8.5.    Inkwell
+©Disney                                                                   ii
+8. ZONES                                                                        10.10. Sing Together
+   8.1.    General                                                                       Alternate Cost, Resolving Triggered Abilities
+               Public, Private, Fail to Find                                    10.11. Support
+   8.2.    Deck                                                                 10.12. Vanish
+               Private Zone, Adding Cards to Top or Bottom                      10.13. Ward
+   8.3. Hand
+   8.4. Play
+                                                                              GLOSSARY
+               In Play, Public Zone, Leaving Play                             UPDATE SUMMARY
+   8.5.    Inkwell                                                            PREVIOUS UPDATE SUMMARY
    8.6.    Discard
    8.7.    Bag
 9. DAMAGE
-
    9.1.    Representation of Damage
    9.2.    “Put”
    9.3.    Moving Damage Counters
    9.4.    Leaving Play
 10. KEYWORDS
-
    10.1.   General
                Stacking, Technical Definitions, Reminder Text
    10.2. Bodyguard
@@ -109,13 +102,14 @@ disneylorcana.com
                Stacking, 0 Damage
    10.7. Rush
    10.8. Shift
-               Alternate Cost, State, Damaged, Leaving Play
+               Alternate Cost, State, Damaged, Leaving Play, Variants
+   10.9. Singer
 
 
 
 
 disneylorcana.com
-©Disney                                                         iii
+©Disney                                                                 iii
 1. CONCEPTS
    1.1. General
 
@@ -179,8 +173,7 @@ disneylorcana.com
                              current keywords.
                  1.6.1.2.    Triggered abilities continuously look for a specific condition and have an effect when that condition is met.
                              Triggered abilities follow the rules in section 7.4.
-                 1.6.1.3.    Activated abilities have a cost and an effect that occurs if that cost is paid. Activated abilities follow the rules in section
-                             7.5.
+                 1.6.1.3.    Activated abilities have a cost and an effect that occurs if that cost is paid. Activated abilities follow the rules in section 7.5.
                  1.6.1.4.    Static abilities are effects that are continuously active, either for a fixed length of time or for as long as the card
                              generating the effect is in play. Static abilities follow the rules in section 7.6.
                  1.6.1.5.    Replacement effects are generated by some static abilities. These replace one effect with another. Replacement
@@ -193,17 +186,16 @@ disneylorcana.com
                  respective parts of the effect, it has fully resolved and the game continues.
    1.7. The Bag
 
-        1.7.1.   The bag is the zone where triggered abilities wait to resolve. It’s not a physical zone but a way to picture the process of
-                 resolving triggered abilities. Think of each triggered ability as a marble and the bag as a place to put them until they’re
-                 resolved. Every marble is separate from every other marble, and a player can look through the bag of marbles to select the
-                 one they wish to resolve next.
-
+        1.7.1. The bag is the zone where triggered abilities wait to resolve. It’s not a physical zone but a way to picture the process of
+               resolving triggered abilities. Think of each triggered ability as a marble and the bag as a place to put them until they’re
+               resolved. Every marble is separate from every other marble, and a player can look through the bag of marbles to select the
+               one they wish to resolve next.
+        1.7.2. It’s possible for both the active player and their opponent(s) to add triggered abilities to the bag at the same time. Resolving
+               these abilities follows the rules in section 8.7, “Bag.”
 
 
 disneylorcana.com
-©Disney                                                                       2
-        1.7.2. It’s possible for both the active player and their opponent(s) to add triggered abilities to the bag at the same time. Resolving
-                 these abilities follows the rules in section 8.7, “Bag.”
+©Disney                                                                         2
    1.8. Players’ Cards
 
         1.8.1. Cards a player brings to the table in their deck are their cards, and that player makes any decisions necessary for the card and
@@ -238,16 +230,15 @@ disneylorcana.com
    1.10. Multiplayer Games
 
         1.10.1. Multiplayer games are played with three or more players. Team games are a subset of multiplayer play that are not covered in
-                 this document.
+                this document.
+        1.10.2. Multiplayer games follow the same rules as two-player games, with the following exceptions.
 
+                 1.10.2.1. At the end of each player’s turn, play proceeds to the player on their left rather than going back and forth across the
+                            table.
 
 
 disneylorcana.com
-©Disney                                                                     3
-        1.10.2. Multiplayer games follow the same rules as two-player games, with the following exceptions.
-
-                1.10.2.1. At the end of each player’s turn, play proceeds to the player on their left rather than going back and forth across the
-                          table.
+©Disney                                                                  3
                 1.10.2.2. If an ability requires more than one player to do something at the same time, the active player does it first. Then
                           proceed to the left, one player at a time, until all players are done.
                 1.10.2.3. If a player must draw a card and their deck has run out, they lose and must immediately leave the game. All of that
@@ -262,10 +253,9 @@ disneylorcana.com
                           abilities or effects are added to the bag by the team as a whole, and the order in which they are resolved is chosen
                           by the team. Otherwise, resolving follows the same rules found in section 8.7, “Bag.”
                            Example: Three players are members of the same team taking a simultaneous turn. During the Ready step of the
-                           Beginning Phase, all three players ready their cards at the same time. During the Set step, all three players gain lore
-                           from locations they have in play with a {L} characteristic and then add any effects or abilities that triggered during the
-                           Ready step to the bag at the same time. In the Draw step, all three players draw a card from their decks at the same
-                           time.
+                           Beginning Phase, all three players ready their cards at the same time. During the Set step, all three players gain lore from
+                           locations they have in play with a {L} characteristic and then add any effects or abilities that triggered during the Ready
+                           step to the bag at the same time. In the Draw step, all three players draw a card from their decks at the same time.
                            After the game moves into the Main Phase, the players take a simultaneous turn together. The first player wants to
                            put a card into their inkwell. The second wants to quest, and the third has decided to have one of their characters
                            challenge an opposing character. The players can decide the order of these turn actions, but each turn action must be
@@ -280,27 +270,25 @@ disneylorcana.com
         2.1.1. Each player’s Disney Lorcana deck must meet the following requirements. Alternate play formats may have different
                 requirements.
                 2.1.1.1.   The deck must contain at least 60 cards. There’s no upper limit to the number of cards in a deck.
-                2.1.1.2.   The deck can contain cards of up to two ink types.
-                2.1.1.3.   The deck can contain up to 4 cards with the same full name (see 6.2.5).
+                2.1.1.2.   The deck can’t contain more than two ink types.
+                2.1.1.3.   The deck can’t contain more than 4 cards with the same full name (see 6.2.4).
                 2.1.1.4.   The deck can’t contain any banned cards.
 
 
-
-
-disneylorcana.com
-©Disney                                                                   4
 3. GAMEPLAY
    3.1. Starting a Game
 
         3.1.1. Starting a game involves several steps that all players follow. Once these steps are completed, the game is considered to be
-                 started.
-        3.1.2.   First, use a method for randomly determining who chooses who is the starting player and takes the first turn of the game. This
+                started.
+
+disneylorcana.com
+©Disney                                                                    4
+        3.1.2. First, use a method for randomly determining who chooses who is the starting player and takes the first turn of the game. This
                  can include rolling dice, flipping a coin, or other methods. If this game is next in a best-of series (such as a best-of-three), the
                  losing player of the previous game chooses the starting player.
         3.1.3.   Second, each player randomizes (shuffles) their deck. Players may use any form of randomization they find convenient and
-                 comfortable, but the method chosen must sufficiently randomize the deck. Each player must offer an opposing player a
-                 chance to cut their deck after it’s shuffled. Once these steps are complete, the deck is ready to play and is placed in the play
-                 area.
+                 comfortable, but the method chosen must sufficiently randomize the deck. Each player must offer an opposing player a chance
+                 to cut their deck after it’s shuffled. Once these steps are complete, the deck is ready to play and is placed in the play area.
         3.1.4.   Third, each player begins the game with 0 lore. Players may use any method for tracking their lore, such as pen and paper,
                  lore trackers, or the official Disney Lorcana Trading Card Game Companion app.
         3.1.5.   Fourth, each player draws 7 cards.
@@ -329,17 +317,16 @@ disneylorcana.com
                  3.2.1.3. If a player is the last person left in a game, they win the game.
 
 
-
-
-disneylorcana.com
-©Disney                                                                   5
 4. TURN STRUCTURE
    4.1. Phases
 
         4.1.1. A turn has three phases, which occur in this order: Beginning Phase, Main Phase, and End of Turn Phase.
         4.1.2. The Beginning Phase is where a player resets their cards as appropriate for their new turn. This is where all effects that end at
-               the start of the player’s turn end and where effects that occur or begin at the start of their turn happen. The Beginning Phase
-               has three steps: Ready, Set, and Draw. (See 4.2, “Beginning Phase.”)
+                 the start of the player’s turn end and where effects that occur or begin at the start of their turn happen. The Beginning Phase
+                 has three steps: Ready, Set, and Draw. (See 4.2, “Beginning Phase.”)
+
+disneylorcana.com
+©Disney                                                                   5
         4.1.3. The Main Phase is where a player can act on their turn, choosing to perform any of the Main Phase turn actions. (See 4.3,
                “Main Phase.”)
         4.1.4. The End of Turn Phase is where all effects that end at the current turn end. If effects would be added to the bag as a result of
@@ -349,34 +336,30 @@ disneylorcana.com
 
         4.2.1. Ready
 
-                 4.2.1.1.   The active player readies all their cards in play and in their inkwell.
-                 4.2.1.2.   Effects that apply “During your turn” start applying.
-                 4.2.1.3.   Effects that end “at the start of your turn” or “at the start of your next turn” end.
-                 4.2.1.4.   Effects that trigger “at the start of your turn” and “at the beginning of your turn” trigger but do not yet resolve (see 4.2.2.3).
+                4.2.1.1.   The active player readies all their cards in play and in their inkwell.
+                4.2.1.2.   Effects that apply “During your turn” start applying.
+                4.2.1.3.   Effects that end “at the start of your turn” or “at the start of your next turn” end.
+                4.2.1.4.   Effects that trigger “at the start of your turn” and “at the beginning of your turn” trigger but do not yet resolve (see 4.2.2.3).
         4.2.2. Set
 
-                 4.2.2.1. Characters that are in play are no longer “drying” and will be able to quest, challenge, or {E} to pay costs for
-                          activated abilities or song cards.
-                 4.2.2.2. The active player gains lore from locations they have in play with a {L} characteristic. This isn’t a triggered ability and
-                          doesn’t use the bag.
-                 4.2.2.3. Effects that would occur “At the start of your turn” or “At the beginning of your turn” and abilities that triggered
-                          during the Ready step are added to the bag. Then, all triggers are resolved.
+                4.2.2.1. Characters that are in play are no longer “drying” and will be able to quest, challenge, or {E} to pay costs for
+                         activated abilities or song cards.
+                4.2.2.2. The active player gains lore from locations they have in play with a {L} characteristic. This isn’t a triggered ability and
+                         doesn’t use the bag.
+                4.2.2.3. Effects that would occur “At the start of your turn” or “At the beginning of your turn” and abilities that triggered
+                         during the Ready step are added to the bag. Then, all triggers are resolved.
         4.2.3. Draw
 
-                 4.2.3.1. Drawing is when a player takes the top card of their deck and puts that card into their hand. A player can draw only
-                          from their deck. Putting a card into a hand from any zone besides the deck isn’t considered drawing.
-                 4.2.3.2. First, the active player draws a card from their deck. If this turn is the first turn of the game, the active player skips
-                          this step.
-                 4.2.3.3. Once all effects have been resolved and there are no more waiting to be added, the game moves into the Main
-                          Phase.
+                4.2.3.1. Drawing is when a player takes the top card of their deck and puts that card into their hand. A player can draw only
+                         from their deck. Putting a card into a hand from any zone besides the deck isn’t considered drawing.
+                4.2.3.2. First, the active player draws a card from their deck. If this turn is the first turn of the game, the active player skips
+                         this step.
+                4.2.3.3. Once all effects have been resolved and there are no more waiting to be added, the game moves into the Main Phase.
+
    4.3. Main Phase
 
         4.3.1. Turn actions are the actions that the game allows a player to take during their turn. No effect or other card is needed in order
-                 to take these turn actions.
-
-
-disneylorcana.com
-©Disney                                                                       6
+               to take these turn actions.
         4.3.2. The active player may take turn actions in any order during the Main Phase of their turn. Unless otherwise noted, they may
                take each action any number of times, provided they have the necessary resources to pay any associated costs and complete
                the turn actions.
@@ -387,6 +370,8 @@ disneylorcana.com
                 4.3.3.2. The player places the revealed card in their inkwell facedown and ready.
                 4.3.3.3. Effects that would occur as a result of a card being put into the inkwell are added to the bag (see 8.7, “Bag”).
 
+disneylorcana.com
+©Disney                                                                      6
         4.3.4. Play a card.
 
                 4.3.4.1. The active player can take a turn action to play a card from their hand by announcing the card and paying its cost.
@@ -418,18 +403,19 @@ disneylorcana.com
 
                 4.3.5.1. Sending a character on a quest is a turn action. Only characters can quest.
                 4.3.5.2. A character chosen to quest is the questing character. The player who declares a questing character is the questing
-                          player.
+                           player.
+                4.3.5.3.   To quest, the active player takes the following steps in order.
+                4.3.5.4.   First, the player declares that they’re going to have one of their characters quest.
+                4.3.5.5.   Second, the player identifies the questing character and checks for any restrictions that prevent them from
+                           questing (e.g., they aren’t dry yet, they have Reckless, etc.).
+                4.3.5.6.   If an effect prevents the identified character from questing, that quest is illegal.
+                4.3.5.7.   Third, the player exerts the questing character.
+                4.3.5.8.   If no effect prevents the character from questing, the quest is complete and the questing player gains lore equal to
+                           the {L} of the questing character.
+
 
 disneylorcana.com
 ©Disney                                                                  7
-                4.3.5.3. To quest, the active player takes the following steps in order.
-                4.3.5.4. First, the player declares that they’re going to have one of their characters quest.
-                4.3.5.5. Second, the player identifies the questing character and checks for any restrictions that prevent them from
-                          questing (e.g., they aren’t dry yet, they have Reckless, etc.).
-                4.3.5.6. If an effect prevents the identified character from questing, that quest is illegal.
-                4.3.5.7. Third, the player exerts the questing character.
-                4.3.5.8. If no effect prevents the character from questing, the quest is complete and the questing player gains lore equal to
-                          the {L} of the questing character.
                 4.3.5.9. Effects that would occur as a result of the quest are added to the bag (see 8.7, “Bag”).
                 4.3.5.10. Once all effects have been resolved, the quest is over.
 
@@ -462,9 +448,6 @@ disneylorcana.com
                           and resolve.
                 4.3.6.17. Once all effects have been resolved and there are no more waiting to be added, effects that apply “while
                           challenging” or “while being challenged” end, and the challenge is over.
-
-disneylorcana.com
-©Disney                                                                8
                 4.3.6.18. Players can choose to have a character challenge a location. This follows all of the normal rules and steps of
                           challenging with the following exceptions.
                 4.3.6.19. When a challenger is declared, the player chooses an opposing location to challenge instead of a character.
@@ -473,6 +456,9 @@ disneylorcana.com
                 4.3.6.22. If a character in a challenge is removed from the challenge for any reason, that challenge ends. First, resolve any
                           remaining triggered abilities in the bag. Then, all “while challenging” effects end and the game proceeds to the
                           Main Phase (see 4.3).
+
+disneylorcana.com
+©Disney                                                                8
              Example A: The active player has a ready Stitch – New Dog in play, and an opponent has an exerted Milo Thatch – Clever
              Cartographer in play. The active player announces Stitch is challenging and chooses Milo Thatch as the character being
              challenged. There are no restrictions or requirements to satisfy. No effects trigger as a result of these declarations. The active
@@ -545,8 +531,8 @@ disneylorcana.com
                  4.4.1.4. The turn ends for the active player, and the next player begins their turn.
 
 
-5. CARDS
 
+5. CARDS
    5.1.    Conditions
 
 
@@ -561,6 +547,13 @@ disneylorcana.com
 
 disneylorcana.com
 ©Disney                                                                    12
+        5.1.5. Under – A card that has one or more cards on top of it is considered to be under the top card in a stack (see 5.1.7). A player
+               can’t choose any card that’s under the top card (see 5.1.6) in a stack.
+        5.1.6. On Top – A card that has one or more cards under it is considered to be on top of all cards under it. A card that’s on top of one
+               or more cards doesn’t gain the text of any card under it. The card that’s on top of all other cards in a stack is called the top card.
+        5.1.7. In a Stack – When a card is placed on top of one or more other cards in play, it and all cards under it are considered to be in a
+               stack. These cards are considered to be in a stack only while in play. If the top card in a stack leaves play, all cards in the stack
+               move to the same zone as the top card, and these cards are no longer considered to be in a stack.
 6. CARD TYPES
    6.1. Characters
 
@@ -570,9 +563,9 @@ disneylorcana.com
                6.1.2.2 to be a character. If not, the card isn’t a character.
                 6.1.2.1.   A character has a {S} value and a {W} value.
                 6.1.2.2.   A character has at least one of the following listed on the classification line: Alien, Ally, Broom, Captain, Deity,
-                           Detective, Dragon, Dreamborn, Entangled, Fairy, Floodborn, Hero, Hyena, Inventor, King, Knight, Madrigal, Mentor,
-                           Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Robot, Seven Dwarfs, Sorcerer, Storyborn, Tigger, Titan,
-                           Villain.
+                           Detective, Dragon, Dreamborn, Entangled, Fairy, Floodborn, Hero, Hyena, Illusion, Inventor, King, Knight, Madrigal,
+                           Mentor, Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Robot, Seven Dwarfs, Sorcerer, Storyborn,
+                           Tigger, Titan, Villain.
         6.1.3. Only characters can quest or challenge.
         6.1.4. A character must have been in play at the beginning of the Set step of their player’s turn in order to quest, challenge, or {E} as
                 part of a cost (see 4.2.2, “Set”).
@@ -581,16 +574,13 @@ disneylorcana.com
 
 
 
-        6.2.1. Most parts of a card appear on all card types. Specific differences are noted in the entry for the relevant card type.
-        6.2.2. Art – The art isn’t used for gameplay.
-
-
-
-
 disneylorcana.com
 ©Disney                                                                  13
+        6.2.1. Most parts of a card appear on all card types. Specific differences are noted in the entry for the relevant card type.
+        6.2.2. Art – The art isn’t used for gameplay.
         6.2.3. Ink Type – The ink type of the card, identified by the ink type symbol. The colored bar behind the card’s name reflects the
                 associated color. A card’s ink type is important for building a deck and may be referenced in card rules.
+                6.2.3.1.   Some cards have more than one ink type. Cards with two ink types have two ink type symbols.
 
 
 
@@ -618,12 +608,10 @@ disneylorcana.com
                diagram under 6.2, “Parts of a Card.”)
                 Example: Hades – King of Olympus has an ability that references cards with the Villain classification. It reads, “This character
                 gets +1 {L} for each other Villain character you have in play.”
-        6.2.7. Card Cost – The amount of ink needed to play the card. (See #1 in the diagram under 6.2, “Parts of a Card.”)
-
-
 
 disneylorcana.com
 ©Disney                                                                 14
+        6.2.7. Card Cost – The amount of ink needed to play the card. (See #1 in the diagram under 6.2, “Parts of a Card.”)
         6.2.8. Inkwell Symbol – If this swirl icon, {C}, is present around the card’s cost, the card can be put into its player’s inkwell. Cards in
                 the inkwell are referred to as ink. Each card counts as 1 {I}. (See #1 in the diagram under 6.2, “Parts of a Card.”)
         6.2.9. Strength – Primarily, how much damage this character deals in a challenge, though card effects can also reference this
@@ -832,16 +820,13 @@ disneylorcana.com
                 Because the two effects are both tied to the trigger condition, if Scar doesn’t challenge he can quest this turn as normal.
         7.4.6. Some triggered abilities are written as, “[Trigger Condition] and [Trigger Condition], [Effect].” These abilities function as
                 having two triggered abilities that are independent of each other but both resolve for the same effect.
-
-
-
-
-disneylorcana.com
-©Disney                                                                  20
                 Example: John Silver – Alien Pirate has an ability called Pick Your Fights that reads, “When you play this character and whenever
                 he quests, chosen opposing character gains Reckless during their next turn.” The triggered ability occurs when John Silver is
                 played and also when the active player quests with this character. The triggered ability doesn’t need both trigger conditions to
                 be true at the same time for it to occur, only one or the other.
+
+disneylorcana.com
+©Disney                                                                  20
         7.4.7. Some abilities and effects create a trigger condition that lasts a duration of time where they exist and can occur. These are
                 usually created as the result of a resolving action. They are functional only for the stated duration. Once that duration has
                 passed, the trigger condition ceases to exist. These are known as floating triggered abilities.
@@ -876,15 +861,15 @@ disneylorcana.com
                or effect is resolved aren’t affected by the static effect.
         7.6.4. Some static abilities are part of the characteristics of a card. These static abilities remain “on” as long as the card generating
                the effect is in play. If a card generating a static ability leaves play, the effect ends as soon as the card is removed from the
+               Play zone. There’s no point at which an affected card will still have the ability and then lose it.
+        7.6.5. Some static effects apply outside of the Play zone. These specify the aspect and time they apply to.
+                Example: An effect that reads “For each character card in your discard, you pay 1 {I} less to play this character” would apply
+                outside of play.
 
 
 
 disneylorcana.com
 ©Disney                                                                   21
-               Play zone. There’s no point at which an affected card will still have the ability and then lose it.
-        7.6.5. Some static effects apply outside of the Play zone. These specify the aspect and time they apply to.
-                 Example: An effect that reads “For each character card in your discard, you pay 1 {I} less to play this character” would apply
-                 outside of play.
    7.7. Replacement Effects
 
         7.7.1. Some effects are considered replacement effects. These effects wait for the stated condition to occur and then partially or
@@ -900,30 +885,58 @@ disneylorcana.com
                effect, the player who played the card that generated the effect being replaced chooses which effect replaces it.
    7.8. Ability Modifiers
 
-        7.8.1. Some abilities and effects can modify the characteristics of a character.
+        7.8.1. Some abilities and effects can modify the characteristic of a character or location in play, such as {S} or {L}.
 
-                 7.8.1.1.   Whenever a new modifier is applied to a card, a calculation is made for that card’s current characteristics, taking
-                            into account previous modifying effects that were applied to the character.
-        7.8.2. If a character has a negative {S}, it deals 0 damage during challenges.
-        7.8.3. If a character or location has a negative Lore value {L}, it counts as having a Lore value of 0 for the purpose of determining lore
-                 while in play.
-                 Example: The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn
-                 has 4 {L} and the ability One Last, Big Score that reads, “This character gets -1 {L} for each card in your opponents’ hands.”
-                 Because the opponent has 5 cards in their hand, Flynn has a Lore value of -1. If the player exerts Flynn to quest, they gain 0 lore.
+                 7.8.1.1.   A modifier applies to a card continuously, either for a fixed length of time or for as long as the card generating the
+                            modifier is in play. Whenever a modifier applies to a card’s characteristic, that characteristic changes immediately.
+                            This process doesn’t use the bag (see 8.7, “Bag”).
+                 7.8.1.2.   When multiple modifiers apply to a card’s characteristic, they don’t apply in any specific order but all combine to
+                            apply together. If a new modifier would apply to a card’s characteristic, it combines with all other modifiers that
+                            apply to it.
+                            Example A: The active player plays Grand Duke – Advisor to the King. He has an ability called Yes, Your Majesty that
+                            reads, “Your Prince, Princess, King, and Queen characters get +1 {S}.” The +1 {S} modifier generated by the ability’s
+                            effect applies immediately to the {S} of all characters the active player has in play with the Prince, Princess, King, and
+                            Queen classifications. If that player plays another character with one of these classifications while their Grand Duke is
+                            still in play, the new character enters play with the +1 {S} modifier applied and keeps that modification until the Grand
+                            Duke leaves play.
+                            Example B: The active player has a Heihei – Rambling Rooster in play with 2 {S} and 2 {W}. Heihei gets +1 {S} from an
+                            effect. Heihei now has 3 {S} and 2 {W}. Later in the turn, an additional effect gives Heihei -5 {S}. Heihei’s {S} is modified
+                            to be -2 {S}. A later effect gives Heihei +1 {S}, bringing him to -1 {S}. Each time a modifier applies to Heihei, all other
+                            modifiers that apply to him combine with it at the same time.
+        7.8.2. If a character has a negative {S}, it deals no damage during challenges and counts as having a Strength of 0 except for the
+                 purpose of applying modifiers to determine its {S} (see 7.8.1.1 and 7.8.1.2).
+                 Example: The active player has a Yokai – Scientific Supervillain and a Microbots in play. Yokai has a triggered ability called
+                 Technical Gain that reads, “Whenever this character quests, draw a card for each opposing character with 0 {S}.” Microbots has
+                 a triggered ability called Inspired Tech that reads, “When you play this item, chosen character gets -1 {S} this turn for each item
+
+
+
+
+disneylorcana.com
+©Disney                                                                    22
+                named Microbots you have in play.” The opponent has a character with 1 {S} and 1 {W} in play. The active player plays a second
+                Microbots. When resolving the triggered ability, the active player chooses the opponent’s character. It gets -2 {S} and, after
+                this modifier is applied immediately to its {S}, now has -1 {S} and 1 {W}. The active player then quests with Yokai. Because the
+                opposing character’s {S} is negative, the opposing character counts as having a {S} of 0 when resolving Yokai’s triggered ability,
+                and the active player draws 1 card. Even though the character’s {S} counts as 0 for the purpose of resolving Yokai’s effect, it isn’t
+                changed to 0 and still has a {S} of -1.
+        7.8.3. If a character or location has a negative Lore value {L}, it counts as having a Lore value of 0 except for the purpose of applying
+                modifiers to determine its {L} (see 7.8.1.1 and 7.8.1.2).
+                Example: The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn
+                has 4 {L} and an ability called One Last, Big Score that reads, “This character gets -1 {L} for each card in your opponents’ hands.”
+                Because the opponent has 5 cards in their hand, a modifier of -5 applies to Flynn’s Lore value of 4 (-1 for each of the 5 cards).
+                Flynn now has a new Lore value of -1. Because Flynn’s Lore value is negative, if the player exerts him to quest, Flynn counts as
+                having a Lore value of 0 and the player gains 0 lore. This doesn’t change Flynn’s actual Lore value to 0, however. Flynn still has a
+                Lore value of -1 until the number of cards in the opponent’s hand changes or another modifier is applied to his Lore value.
 
 
 8. ZONES
    8.1. General
 
         8.1.1. All zones are considered separate from one another. Some zones may physically be present within the same space but are still
-                 separate zones for gameplay purposes.
-                 Example: The table represents the game area of the players. Although the players’ decks, inkwells, and discard piles physically
-                 occupy that space, they’re not in play, as they’re all separate zones.
-
-
-
-disneylorcana.com
-©Disney                                                                   22
+                separate zones for gameplay purposes.
+                Example: The table represents the game area of the players. Although the players’ decks, inkwells, and discard piles physically
+                occupy that space, they’re not in play, as they’re all separate zones.
         8.1.2. Cards in a public zone are publicly known. Players can look at or count the cards in any public zone at any time.
         8.1.3. Cards in a private zone aren’t publicly known. Players can’t look at them unless directed by a game rule (e.g., drawing a card)
                or an effect. Players can count the number of cards in a private zone at any time. While a private zone is revealed, it’s not
@@ -941,6 +954,9 @@ disneylorcana.com
         8.2.3. Whenever a card or game state instructs a player to draw a card follow the rules outlined in 4.2.3, “Draw.”
         8.2.4. If cards are added to the top or bottom of a deck in any order and the cards were publicly known to all players, the order in
                which the cards are added to the deck must be known by all players.
+
+disneylorcana.com
+©Disney                                                                     23
    8.3. Hand
 
         8.3.1. A player’s hand is where drawn cards are held. Cards can be added to the hand by other effects as well. Players start the game
@@ -961,12 +977,6 @@ disneylorcana.com
                of cards any player has in play at any time.
         8.4.4. Whenever 1 or more cards would leave play, they first check whether any abilities would trigger from them or others leaving
                play.
-
-
-
-
-disneylorcana.com
-©Disney                                                                  23
    8.5. Inkwell
 
         8.5.1. A player’s inkwell is where they put the cards they will use as ink throughout the game. These cards are ink cards. Each ink
@@ -983,6 +993,12 @@ disneylorcana.com
                follow the normal steps of putting a card into their inkwell.
         8.5.6. Whenever an effect puts a card from another zone into the inkwell, the card isn’t revealed and isn’t required to have the
                inkwell symbol. It enters the inkwell facedown as ink.
+
+
+
+
+disneylorcana.com
+©Disney                                                                 24
    8.6. Discard
 
         8.6.1. A player’s discard pile is where their cards that have left play are held.
@@ -1007,11 +1023,6 @@ disneylorcana.com
                including any that were added as a result of resolving abilities.
         8.7.6. The next player resolves all of their abilities following the guidelines in 8.7.5. If this causes new triggers, regardless of whose
                abilities triggered, the current resolving player keeps resolving their triggers.
-
-
-
-disneylorcana.com
-©Disney                                                                 24
         8.7.7. Continue around the table in turn order as described in 8.7.5–8.7.6 until there are no more triggers to resolve.
         8.7.8. Once the bag is empty and all players have no more abilities to resolve or turn actions to take, the players proceed to the next
                step or phase of the game.
@@ -1027,15 +1038,21 @@ disneylorcana.com
 
         9.2.1. If an effect puts a damage counter onto a character or location, that doesn’t count as dealing damage to that character or
                  location and isn’t affected by modifications to damage that is dealt (e.g., Resist).
+
+
+
+
+disneylorcana.com
+©Disney                                                                  25
    9.3. Moving Damage Counters
 
         9.3.1. Moving damage counters has the effect of removing a specified number of counters from a chosen character and putting the
-                 same number of damage counters on.
-                 Example: The active player has Simba – Protective Cub in play with 1 damage counter on him. The opponent has The Prince –
-                 Never Gives Up (which has Resist +1) in play. The active player plays the action Bestow a Gift which reads, “Move 1 damage
-                 counter from chosen character to chosen opposing character.” The player then chooses to move 1 damage counter from Simba
-                 to The Prince. The player removes 1 damage counter and puts it on The Prince. The Prince’s Resist keyword ability doesn’t affect
-                 this damage as it isn’t damage dealt.
+                same number of damage counters on.
+                Example: The active player has Simba – Protective Cub in play with 1 damage counter on him. The opponent has The Prince –
+                Never Gives Up (which has Resist +1) in play. The active player plays the action Bestow a Gift which reads, “Move 1 damage
+                counter from chosen character to chosen opposing character.” The player then chooses to move 1 damage counter from Simba
+                to The Prince. The player removes 1 damage counter and puts it on The Prince. The Prince’s Resist keyword ability doesn’t affect
+                this damage as it isn’t damage dealt.
    9.4. Leaving Play
 
         9.4.1. When a card with damage leaves play, when game states are checked all damage counters on it cease to exist.
@@ -1045,17 +1062,13 @@ disneylorcana.com
    10.1. General
 
         10.1.1. Keyword abilities provide an ability to the character based on that word. Some abilities stack, or combine; these abilities are
-                 followed by “+[N].” A keyword ability that doesn’t have a +[N] doesn’t stack with other effects that provide that keyword.
-                 Example: If you have a character with Support and an effect gives that character Support, only the first instance of the keyword
-                 applies. However, if the keywords were Resist +1 and Resist +2, the abilities would stack, and that character would have Resist +3.
+                followed by “+[N].” A keyword ability that doesn’t have a +[N] doesn’t stack with other effects that provide that keyword.
+                Example: If you have a character with Support and an effect gives that character Support, only the first instance of the keyword
+                applies. However, if the keywords were Resist +1 and Resist +2, the abilities would stack, and that character would have Resist +3.
         10.1.2. The following entries include the technical definitions of keyword abilities. For a more generalized description of keyword
                 abilities see section 7.3, “Keywords.”
         10.1.3. The standard reminder text for each keyword is included here for reference. Reminder text isn’t rules text. It’s only a memory
                 aid and may vary without changing the meaning of keyword rules.
-
-
-disneylorcana.com
-©Disney                                                                   25
    10.2. Bodyguard
 
         10.2.1. The Bodyguard keyword represents two abilities.
@@ -1072,6 +1085,9 @@ disneylorcana.com
         10.3.2. The standard reminder text for Challenger is “(While challenging, this character gets +N {S}.)”
         10.3.3. A character with Challenger doesn’t gain +N {S} if they are being challenged.
 
+
+disneylorcana.com
+©Disney                                                                 26
    10.4. Evasive
 
         10.4.1. The Evasive keyword represents a static ability that creates a challenging restriction. Evasive means “This character can’t be
@@ -1096,11 +1112,6 @@ disneylorcana.com
                 reminder text for a location with Resist is “(Damage dealt to this location is reduced by N.)”
         10.6.3. If damage dealt to this character or location is reduced to 0, no damage is considered to have been dealt.
 
-
-
-
-disneylorcana.com
-©Disney                                                                 26
    10.7. Rush
 
         10.7.1. The Rush keyword represents a static ability. Rush means “This character can challenge as though they were in play at the
@@ -1113,14 +1124,29 @@ disneylorcana.com
                 means “If you have a character in play with the same name as this card, you may play this character by paying their Shift cost
                 instead of their ink cost. If you do, put this card on top of another character you have in play with the same name.” This is
                 called shifting.
-        10.8.2. The standard reminder text for Shift is “(You may [Pay Cost] to play this on top of one of your characters named [Character Name].)”
+        10.8.2. The standard reminder text for Shift is “(You may [Pay Cost] to play this on top of one of your characters named [Character
+                Name].)”
         10.8.3. A shifted character takes on the state of the character it was placed on (e.g., it’s dry if the character it was placed on was dry,
                 it’s exerted if the character it was placed on was exerted).
         10.8.4. If an effect on a shifted character causes it to enter play exerted, it becomes exerted as it enters play.
-        10.8.5. A shifted character retains whatever damage was on the character it was placed on. It loses all text of the character it was
-                placed on but keeps any effects that applied to that character when the shifted character enters play.
-        10.8.6. When a shifted character leaves play, all cards in its stack (i.e., the card it was played on and any other cards beneath that one)
-                go to the same zone as the shifted character card does, and the cards are no longer considered to be in a stack.
+        10.8.5. A shifted character retains whatever damage is on the character it’s put on top of. It doesn’t gain the text of the character it’s
+                placed on but keeps any effects that apply to that character when the shifted character enters play.
+
+
+
+disneylorcana.com
+©Disney                                                                 27
+        10.8.6. When a shifted character leaves play, all cards in its stack (i.e., any cards under it) move to the same zone as the shifted
+                character card does, and the cards are no longer considered to be in a stack (see 5.1.7).
+        10.8.7. The Shift keyword has two variants: [Classification] Shift and Universal Shift. These variant keyword abilities are Shift
+                abilities, meaning they follow all rules for the Shift keyword with the following exceptions.
+                   10.8.7.1. [Classification] Shift means “If you have a character in play with the [Classification] specified by this ability, you
+                             may play this character by paying their Shift cost instead of their ink cost. If you do, put this card on top of another
+                             character you have in play with the specified classification.” The standard reminder text for [Classification] Shift is
+                             “(You may [Pay Cost] to play this on top of one of your [Classification] characters.)”
+                   10.8.7.2. Universal Shift means “If you have a character in play, you may play this character by paying their Shift cost instead
+                             of their ink cost. If you do, put this card on top of a character you have in play.” The standard reminder text for
+                             Universal Shift is “(You may [Pay Cost] to play this on top of one of your characters.)”
    10.9. Singer
 
         10.9.1. The Singer keyword represents a static ability that allows a player to pay a lower alternate cost to sing a song. Singer N means
@@ -1139,29 +1165,35 @@ disneylorcana.com
                  meets or exceeds the cost listed for Sing Together, the character or characters can sing the song.
         10.10.4. When a character sings a song with Sing Together, any triggered abilities on it that have the condition “Whenever this
                  character sings a song” occur when the trigger condition is met.
-
-
-
-
-disneylorcana.com
-©Disney                                                                 27
-   10.11.Support
+   10.11. Support
 
         10.11.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this
                  character’s {S} to another chosen character’s {S} this turn.”
         10.11.2. The standard reminder text for Support is “(Whenever this character quests, you may add their {S} to another chosen
                  character’s {S} this turn.)”
-   10.12. Ward
+   10.12. Vanish
 
-        10.12.1. The Ward keyword represents a static ability. Ward means “Your opponents can’t choose this card when resolving an effect.”
-        10.12.2. The standard reminder text for Ward is “(Opponents can’t choose this character except to challenge.)”
-        10.12.3. Effects that don’t require the player to choose still affect this character.
+        10.12.1. The Vanish keyword represents a triggered ability. Vanish means “When this character is chosen by an opponent as part of
+                  resolving an action’s effect, banish this character.”
+
+
+
+disneylorcana.com
+©Disney                                                                     28
+        10.12.2. The standard reminder text for Vanish is “(When an opponent chooses this character for an action, banish them.)”
+        10.12.3. The Vanish triggered ability resolves after the action’s effect resolves. If the character has moved to a different zone before
+                 the triggered ability resolves, it resolves with no effect.
+   10.13. Ward
+
+        10.13.1. The Ward keyword represents a static ability. Ward means “Your opponents can’t choose this card when resolving an effect.”
+        10.13.2. The standard reminder text for Ward is “(Opponents can’t choose this character except to challenge.)”
+        10.13.3. Effects that don’t require the player to choose still affect a character with Ward.
 
 
 
 
 disneylorcana.com
-©Disney                                                              28
+©Disney                                                                    29
 GLOSSARY
 ability
 Special rules explaining what the card can do that differs from the game rules, such as an effect that resolves as a result of the card being played.
@@ -1176,17 +1208,17 @@ used during the turn the item is played.
 active player
 The player who has started their turn. When a player ends their turn, they’re no longer the active player.
 alter a starting hand
-An optional choice made at the beginning of the game after each player has drawn their starting hand. Each player may take any number of
-those cards, put them on the bottom of their deck without revealing them, draw until they have 7 cards in their hand, and reshuffle their deck.
+An optional choice made at the beginning of the game after each player has drawn their starting hand. Each player may take any number of those
+cards, put them on the bottom of their deck without revealing them, draw until they have 7 cards in their hand, and reshuffle their deck.
 bag
-A nonphysical zone where triggered abilities wait before determining how their effects resolve. Whenever a triggered ability’s condition is met,
-the ability is added to the bag.
+A nonphysical zone where triggered abilities wait before determining how their effects resolve. Whenever a triggered ability’s condition is met, the
+ability is added to the bag.
 banished
-A card that is put into a player’s discard pile after it’s banished. A card can be banished as a result of abilities or effects or if it has damage equal
-to or greater than its Willpower {W}.
+A card that is put into a player’s discard pile after it’s banished. A card can be banished as a result of abilities or effects or if it has damage equal to
+or greater than its Willpower {W}.
 Beginning Phase
-The first phase of the turn, where a player resets their cards for the turn. This is where all effects that end at the start of the player’s turn end
-and where effects that occur or begin at the start of their turn happen. The Beginning Phase has three steps: Ready, Set, and Draw.
+The first phase of the turn, where a player resets their cards for the turn. This is where all effects that end at the start of the player’s turn end and
+where effects that occur or begin at the start of their turn happen. The Beginning Phase has three steps: Ready, Set, and Draw.
 card type
 The type that each card used in the game has, such as character, action, item, or location. A card’s type determines the rules for how to play it.
 challenge
@@ -1203,7 +1235,7 @@ copies of a character with the same name in their deck but can’t have more tha
 
 
 disneylorcana.com
-©Disney                                                                     29
+©Disney                                                                      30
 classification
 A category that identifies some characteristics of the card and may be referenced in rules of other cards. A card’s classification is located to the
 right of a character’s ink type symbol.
@@ -1225,8 +1257,8 @@ A set of cards a player uses in the game. The parameters of the deck are defined
 deck consists of 60 or more cards, up to two ink types, and up to 4 cards with the same name and version (together known as a full name). Other
 formats may have different construction rules. There’s no upper limit to the number of cards in a deck. The deck is considered a private zone.
 discard
-noun. The single faceup pile where actions are put after they’ve finished resolving and where other cards are put after being banished from play
-or discarded. When a player puts a card from their hand into their discard, they’re discarding that card. The discard is considered a public zone.
+noun. The single faceup pile where actions are put after they’ve finished resolving and where other cards are put after being banished from play or
+discarded. When a player puts a card from their hand into their discard, they’re discarding that card. The discard is considered a public zone.
 verb. When a player chooses 1 or more cards from their hand and puts them into their discard pile. A player can discard only from their hand.
 discard pile
 Another name for the discard.
@@ -1239,14 +1271,14 @@ skips this step.
 dry
 A character that was in play at the start of its player’s current turn is considered to be dry.
 drying
-A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or
-{E} to pay any cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect
-while the character is drying. Drying characters may still be affected by card effects.
+A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or {E}
+to pay any cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect while
+the character is drying. Drying characters may still be affected by card effects.
 effect
 What happens as a result of resolving an action or ability.
 
 disneylorcana.com
-©Disney                                                                    30
+©Disney                                                                     31
 End of Turn Phase
 The third phase of the turn structure that begins when the active player declares the end of their turn.
 exert
@@ -1255,8 +1287,8 @@ must be exerted as part of the ability’s cost. While a card is exerted, its pl
 exerted
 A card that has been turned sideways.
 “for free”
-An effect that allows a player to play a card or use an activated ability without having to pay its listed ink cost. A player who plays a card or uses
-an activated ability for free must still pay any other costs.
+An effect that allows a player to play a card or use an activated ability without having to pay its listed ink cost. A player who plays a card or uses an
+activated ability for free must still pay any other costs.
 full name
 For cards that have a version in addition to a name, the combination of the two.
 game state check
@@ -1268,18 +1300,19 @@ The zone where cards drawn by a player are held.
 in play
 A term used to describe a card that has been put into the Play zone.
 ink
-The resource that players use to pay the cost of playing cards and using certain abilities. A player’s ink is represented by the cards they’ve put
-into their inkwell.
+The resource that players use to pay the cost of playing cards and using certain abilities. A player’s ink is represented by the cards they’ve put into
+their inkwell.
 ink type
 The ink type of a card as shown by the ink type symbol at the left edge of the card, just above the text box. The six ink types are Amber,
-Amethyst, Emerald, Ruby, Sapphire, and Steel, and each has its own symbol on the cards. A deck can have up to two ink types.
+Amethyst, Emerald, Ruby, Sapphire, and Steel, and each has its own symbol on the cards. A card can have one or two ink types. A deck can’t
+contain more than two ink types.
 inkwell
-The private zone where a player puts their ink cards, facedown. Each card in a player’s inkwell represents 1 {I}, no matter what’s on the front of
-the card, and players can’t look at the front of the cards in any inkwell.
+The private zone where a player puts their ink cards, facedown. Each card in a player’s inkwell represents 1 {I}, no matter what’s on the front of the
+card, and players can’t look at the front of the cards in any inkwell.
 inkwell symbol {C}
 A circular symbol that’s present around a card’s cost if that card can be put into its player’s inkwell and used as ink.
-is damaged
-Is dealt damage.
+is/was damaged
+Is/was dealt damage.
 item
 A card that lists “Item” on its classification line. When a player plays an item, they put it in their Play zone, where it remains until it’s banished or
 removed from play by a game effect. Items can be exerted during the turn they’re played. A player can’t have more than 4 copies of an item with
@@ -1287,9 +1320,8 @@ the same name in their deck.
 
 
 
-
 disneylorcana.com
-©Disney                                                                    31
+©Disney                                                                     32
 keyword ability
 An ability or abilities represented by a short, bolded name that is the same wherever the ability appears. Examples of keyword abilities include
 Bodyguard, Challenger, Evasive, Reckless, and Rush.
@@ -1302,8 +1334,8 @@ have multiple copies of a location with the same name in their deck but can’t 
 lore
 The resource players race to gain as they play. The first player to reach 20 lore wins the game.
 Lore value {L}
-A card characteristic that indicates the amount of lore its player can gain from it each turn. If it’s a character, the lore is gained by questing. If it’s
-a location, the lore is gained at the start of its player’s turn during the Set step.
+A card characteristic that indicates the amount of lore its player can gain from it each turn. If it’s a character, the lore is gained by questing. If it’s a
+location, the lore is gained at the start of its player’s turn during the Set step.
 Main Phase
 The second phase of the turn structure, where a player can perform any of the Main Phase turn actions (see 4.3, “Main Phase”).
 move cost {M}
@@ -1311,9 +1343,9 @@ The cost to move one of your characters to one of your locations.
 multiplayer game
 A game played with three or more players.
 name
-A card’s name appears in large text above its classification line. On actions, items, and locations, the name is located in the center of the card.
-On characters, the name is located on the left of the card, across from its {S} and {W}. A character’s or location’s name and version together make
-up the card’s full name.
+A card’s name appears in large text above its classification line. On actions, items, and locations, the name is located in the center of the card. On
+characters, the name is located on the left of the card, across from its {S} and {W}. A character’s or location’s name and version together make up
+the card’s full name.
 opponent
 Anyone a player is playing against. Also known as opposing player.
 opposing character
@@ -1324,25 +1356,26 @@ phase
 One of the three main parts of a turn. The phases of a player’s turn are the Beginning Phase, Main Phase, and End of Turn Phase.
 play
 The act of playing a card. A card can only be played from a player’s hand. If the card played is an action, the player reveals the card, pays its cost,
-resolves its effects, and then discards it. If the card played is a character, item, or location, the player reveals the card, pays its cost, and puts
-that card into play.
+resolves its effects, and then discards it. If the card played is a character, item, or location, the player reveals the card, pays its cost, and puts that
+card into play.
 player
 Anyone playing the game.
 
 
 
+
 disneylorcana.com
-©Disney                                                                    32
+©Disney                                                                      33
 private zone
-A zone where the cards aren’t publicly known. Players can’t look at them unless directed by a game rule (e.g., drawing a card) or an effect.
-Players can count the number of cards in a private zone at any time. While a private zone is revealed, it’s not considered private.
+A zone where the cards aren’t publicly known. Players can’t look at them unless directed by a game rule (e.g., drawing a card) or an effect. Players
+can count the number of cards in a private zone at any time. While a private zone is revealed, it’s not considered private.
 public zone
 A zone where the cards are publicly known. Players can look at or count the cards in any public zone at any time.
 quest
 When a player exerts a character to gain lore equal to that character’s Lore value {L}. A character can’t quest the same turn it’s played.
 ready
-A card that has been put in the ready position (upright) or the act of putting a card in the ready position. A player readies all of their exerted
-cards in the Ready step of their turn.
+A card that has been put in the ready position (upright) or the act of putting a card in the ready position. A player readies all of their exerted cards
+in the Ready step of their turn.
 Ready step
 The first step of the Beginning Phase of a player’s turn where effects that apply “during your turn” start applying and the active player readies all
 their cards in play. Effects that would end “at the start of your turn” and “at the start of your next turn” end. Effects that trigger at the start of
@@ -1366,34 +1399,39 @@ Triggered abilities and effects are added to the bag by the team as a whole, and
 song
 A type of action that can be played by exerting characters or by paying the song’s ink cost.
 stack
-noun. A number of cards set on top of each other, such as a character with Shift and the character it was played onto. When cards in a stack leave
-play, they all go to the same zone as the top card and are no longer considered to be in a stack.
+noun. A grouping of cards created when a card is placed on top of one or more other cards in play. Such cards are considered to be in a stack only
+while in play. If the top card in a stack leaves play, all cards in the stack move to the same zone as the top card, and these cards are no longer
+considered to be in a stack. A card that’s on top of one or more cards doesn’t gain the text of any card under it, but it retains all damage counters
+placed on any card under it as well as all abilities that it gained from resolved effects.
 verb. When multiple effects combine. Keyword abilities that stack are followed by “+[N].”
-starting hand
-The initial 7 cards that a player draws at the start of the game, before they choose whether to alter their hand.
+
 
 
 
 disneylorcana.com
-©Disney                                                                   33
+©Disney                                                                    34
+starting hand
+The initial 7 cards that a player draws at the start of the game, before they choose whether to alter their hand.
 starting player
 The player who takes the first turn of the game, determined randomly before the game begins. The starting player doesn’t draw on that turn.
 static ability
-An effect that could alter characteristics of a card, game rule, or game state. A static ability is continuously active, either for a fixed length of
-time or for as long as the card generating the effect is in play.
+An effect that could alter characteristics of a card, game rule, or game state. A static ability is continuously active, either for a fixed length of time
+or for as long as the card generating the effect is in play.
 Strength {S}
 The amount of damage a character deals in a challenge. A character’s Strength {S} may be referenced in abilities or effects.
+top card
+A card that’s on top of all other cards in a stack.
 triggered ability
 An ability that causes an effect to be added to the bag when a particular condition is met. Triggered abilities start with “When,” “Whenever,” “At
 the start of,” or “At the end of” and describe the game state that causes the abilities to trigger and the effects of the abilities. When an ability
 triggers, its effect is placed into the bag to be resolved.
 turn
-The unit of time each player takes to complete the following three phases: Beginning Phase, Main Phase, and End of Turn phase. Each player
-takes their turn before passing the turn to the next player.
+The unit of time each player takes to complete the following three phases: Beginning Phase, Main Phase, and End of Turn phase. Each player takes
+their turn before passing the turn to the next player.
 turn action
-An action that the game allows a player to take during the Main Phase of their turn. A player may take any number of turn actions on their turn,
-in any order. Turn actions include putting a card into the inkwell, playing a card, questing, challenging, moving a character to a location, and
-using activated abilities.
+An action that the game allows a player to take during the Main Phase of their turn. A player may take any number of turn actions on their turn, in
+any order. Turn actions include putting a card into the inkwell, playing a card, questing, challenging, moving a character to a location, and using
+activated abilities.
 version
 A descriptor that can differentiate cards with the same name for purposes of building a deck. A character’s or location’s name and version
 together constitute the card’s full name.
@@ -1407,8 +1445,76 @@ about the cards there. Each player’s zones are: deck, hand, play, inkwell, dis
 
 
 disneylorcana.com
-©Disney                                                                   34
+©Disney                                                                     35
 UPDATE SUMMARY
+February 28, 2025
+To prepare for the release of Archazia’s Island, the following updates were made to the Disney Lorcana Comprehensive Rules.
+    ◊ New Rules and Technical Definitions: Under, On Top, In a Stack
+    ◊    New Rule: Cards with Multiple Ink Types
+    ◊    New Rules: Shift Variants
+    ◊    New Rule: Vanish keyword ability
+
+Under, On Top, In a Stack
+Added the following language and technical definitions to section 5.1.
+     5.1.5. Under – A card that has one or more cards on top of it is considered to be under the top card in a stack (see 5.1.7). A player can’t choose any
+            card that’s under the top card (see 5.1.6) in a stack.
+     5.1.6. On Top – A card that has one or more cards under it is considered to be on top of all cards under it. A card that’s on top of one or more cards
+            doesn’t gain the text of any card under it. The card that’s on top of all other cards in a stack is called the top card.
+     5.1.7. In a Stack – When a card is placed on top of one or more other cards in play, it and all cards under it are considered to be in a stack. These
+            cards are considered to be in a stack only while in play. If the top card in a stack leaves play, all cards in the stack move to the same zone as
+            the top card, and these cards are no longer considered to be in a stack.
+
+Cards with Multiple Ink Types
+Added the following language to address cards with more than one ink type.
+     6.2.3.1. Some cards have more than one ink type. Cards with two ink types have two ink type symbols.
+
+Shift Variants
+Added technical definitions for [Classification] Shift and Universal Shift.
+     10.8.7. The Shift keyword has two variants: [Classification] Shift and Universal Shift. These variant keyword abilities are Shift abilities, meaning they
+             follow all rules for the Shift keyword with the following exceptions.
+             10.8.7.1. [Classification] Shift means “If you have a character in play with the [Classification] specified by this ability, you may play this
+                       character by paying their Shift cost instead of their ink cost. If you do, put this card on top of another character you have in play
+                       with the specified classification.” The standard reminder text for [Classification] Shift is “(You may [Pay Cost] to play this on top of
+                       one of your [Classification] characters.)”
+             10.8.7.2. Universal Shift means “If you have a character in play, you may play this character by paying their Shift cost instead of their ink cost.
+                       If you do, put this card on top of a character you have in play.” The standard reminder text for Universal Shift is “(You may [Pay Cost]
+                       to play this on top of one of your characters.)”
+
+
+
+
+disneylorcana.com
+©Disney                                                                        36
+Vanish Keyword Ability
+Added a technical definition for the Vanish keyword ability.
+     10.12. Vanish
+             10.12.1. The Vanish keyword represents a triggered ability. Vanish means “When this character is chosen by an opponent as part of resolving
+                      an action’s effect, banish this character.”
+             10.12.2. The standard reminder text for Vanish is “(When an opponent chooses this character for an action, banish them.)”
+             10.12.3. The Vanish triggered ability resolves after the action’s effect resolves. If the character has moved to a different zone before the
+                      triggered ability resolves, it resolves with no effect.
+
+General Updates
+   ◊ 2.1.1.2.–2.1.1.3. Updated the language for clarity.
+   ◊     6.1.2.2. Added the Illusion classification.
+   ◊     7.8.1–7.8.3. Updated the language for clarity so that abilities or effects that reference 0 {S} or 0 {L} apply to characters or locations with negative
+         characteristic values as intended.
+   ◊     10.8.5–10.8.6. Updated the language for clarity and to match the technical definitions of under and on top.
+   ◊     10.13.3. Added language for clarity.
+
+Glossary Updates
+   ◊ ink type: Added language for clarity and to address cards with more than one ink type.
+   ◊     is/was damaged: Added language to clarify that “was damaged” in card text means “was dealt damage,” similar to how “is damaged” means “is
+         dealt damage.”
+   ◊     stack: Updated the language for clarity and to match the technical definitions of under, on top, and in a stack.
+   ◊     top card: Added.
+
+
+
+
+disneylorcana.com
+©Disney                                                                        37
+PREVIOUS UPDATE SUMMARY
 August 9, 2024
 To prepare for the release of Shimmering Skies, the following updates were made to the Disney Lorcana Comprehensive Rules.
    ◊     New Technical Definitions: Keyword Abilities
@@ -1448,7 +1554,7 @@ Added the following introductory language to section 10.1 and added technical de
 
 
 disneylorcana.com
-©Disney                                                                    35
+©Disney                                                                    38
      10.5. Reckless
 		 10.5.1. The Reckless keyword represents two static abilities.
 		 10.5.2. The first ability means “This character can’t quest.”
@@ -1490,7 +1596,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    36
+©Disney                                                                    39
      10.10. Sing Together
 		 10.10.1. The Sing Together keyword represents a static ability that allows a player to pay an alternate cost to sing a song with 1 or more of
             their characters. Sing Together N means “Instead of paying the ink cost of this card, you can {E} a number of your or your teammates’
@@ -1532,7 +1638,7 @@ Added the following language to sections 1.9.1 and 1.9.2 to clarify how a game s
 
 
 disneylorcana.com
-©Disney                                                                     37
+©Disney                                                                     40
 Reveal
 Added rules text and an example to clarify effects that cause a player to reveal a card or cards:
      7.1.10. Some effects instruct the active player to reveal a card or cards. To reveal a card, the player shows the face of the card to all other players in
@@ -1579,7 +1685,7 @@ Added clarifying language to better simplify and explain this rules construction
 
 
 disneylorcana.com
-©Disney                                                                          38
+©Disney                                                                          41
 General Updates
    ◊ 1.1.6. Added language to clarify the purpose of reminder text.
    ◊    1.2.4. Clarified timing related to choices made as part of an effect.
@@ -1616,7 +1722,7 @@ Glossary Updates
 
 
 disneylorcana.com
-©Disney                                                                         39
+©Disney                                                                         42
 PREVIOUS UPDATE SUMMARY
 May 20, 2024
 To prepare for the release of Ursula’s Return, the following updates were made to the Disney Lorcana Comprehensive Rules.
@@ -1659,7 +1765,7 @@ Added the following rules text and example:
 
 
 disneylorcana.com
-©Disney                                                                      40
+©Disney                                                                      43
 Loops
 Added the following rules text:
      7.1.7. Sometimes a combination of abilities can be repeated indefinitely, called a “loop.” If all players are aware of and understand the actions of
@@ -1700,7 +1806,7 @@ Quality-of-Life Updates
 
 
 disneylorcana.com
-©Disney                                                                          41
+©Disney                                                                          44
 Glossary Updates
    ◊ damaged: Added the definition of “undamaged” to the entry.
    ◊    “for free”: Added language to include using activated abilities for free. Renamed from “play for free” and moved in the glossary.
@@ -1719,4 +1825,4 @@ Glossary Updates
 
 
 disneylorcana.com
-©Disney                                                                        42
+©Disney                                                                        45

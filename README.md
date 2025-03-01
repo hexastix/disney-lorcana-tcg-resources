@@ -34,10 +34,10 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_EN.pdf) ([as text](text/comprehensive-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_DE.pdf) ([as text](text/comprehensive-rules-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
-- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules_IT.pdf) ([as text](text/comprehensive-rules-it.txt))
+- [English](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20022825%20-%20EN.pdf) ([as text](text/comprehensive-rules-en.txt))
+- [DEUTSCH](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20022825%20-%20DE.pdf) ([as text](text/comprehensive-rules-de.txt))
+- [FRANÇAIS](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20022825%20-%20FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
+- [ITALIANO](files_disneylorcana_com/Disney%20Lorcana%20Comprehensive%20Rules%20-%20022825%20-%20IT.pdf) ([as text](text/comprehensive-rules-it.txt))
 
 ### Disney Lorcana TCG: The First Chapter Set Notes
 

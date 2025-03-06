@@ -81,6 +81,15 @@
 
 - [https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet](cdn_ravensburger_com/lorcana/op-constructed-decklist-registration-sheet.pdf)
 
+### Results Slip
+
+- [English](files_disneylorcana_com/RAV_ResultsSlip_8.5x11_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/RAV_ResultsSlip_A4_DE.pdf)
+- [Français](files_disneylorcana_com/RAV_ResultsSlip_A4_FR.pdf)
+- [Italiano](files_disneylorcana_com/RAV_ResultsSlip_A4_IT.pdf)
+- [Español](files_disneylorcana_com/RAV_ResultsSlip_A4_ES.pdf)
+- [English A4 Size](files_disneylorcana_com/RAV_ResultsSlip_A4_EN.pdf)
+
 ### Disney Lorcana TCG: The First Chapter Set Checklist
 
 - [ENGLISH](cdn_ravensburger_com/lorcana/s1-deck-checklist-en.pdf)

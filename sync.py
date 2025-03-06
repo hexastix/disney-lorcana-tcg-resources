@@ -250,11 +250,9 @@ def main():
         print("# Disney Lorcana TCG Resources", file=readme_file)
 
         url = "https://www.disneylorcana.com/en-US/resources"
-        request = urllib.request.Request(url)
-        request.add_header("User-Agent", "")
-
         print(f"\n\n*from {url}*", file=readme_file)
 
+        request = urllib.request.Request(url, headers={"User-Agent": ""})
         with urllib.request.urlopen(request) as f:
             contents = f.read().decode("utf-8")
 
@@ -264,11 +262,9 @@ def main():
         print("\n\n------", file=readme_file)
 
         url = "https://www.takaratomy.co.jp/products/disneylorcana/rule-faq/"
-        request = urllib.request.Request(url)
-        request.add_header("User-Agent", "")
-
         print(f"\n\n*from {url}*", file=readme_file)
 
+        request = urllib.request.Request(url, headers={"User-Agent": ""})
         with urllib.request.urlopen(request) as f:
             contents = f.read().decode("utf-8")
 

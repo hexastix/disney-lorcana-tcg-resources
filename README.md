@@ -169,6 +169,49 @@
 ------
 
 
+*from https://www.disneylorcana.com/zh-CN/resources*
+
+
+## 游戏规则和文档
+
+### 规则快速入门
+
+- [点击这里](files_disneylorcana_com/%E8%A7%84%E5%88%99%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8.pdf)
+
+### 包包速探规则
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E5%8C%85%E5%8C%85%E9%80%9F%E6%8E%A2%E8%A7%84%E5%88%99v20241230b.pdf)
+
+### 迪士尼洛卡纳：《泼墨第一章》常见问题
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf) ([as text](text/s1-set-notes-zh.txt))
+
+
+## 赛事规则和文档
+
+### 比赛规则
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/tournament-rules-zh))
+
+### 活动奖品盒规则
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E6%B4%BB%E5%8A%A8%E5%A5%96%E5%93%81%E7%9B%92%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99.pdf)
+
+
+## 政策
+
+### 多样性和包容性方针
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%BB%84%E7%BB%87%E6%B8%B8%E6%88%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E5%92%8C%E5%8C%85%E5%AE%B9%E6%80%A7%E6%96%B9%E9%92%88v20241225.pdf) ([as text](text/op-diversity-and-inclusion-policy-zh.txt))
+
+### 社群规则
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%A4%BE%E7%BE%A4%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/community-code-zh.txt))
+
+
+------
+
+
 *from https://www.takaratomy.co.jp/products/disneylorcana/rule-faq/*
 
 

@@ -60,6 +60,10 @@ class ResourcesHTMLParser(HTMLParser):
         "Diversity & Inclusion Policy",
         "Play Correction Guidelines",
         "Tournament Rules",
+        "多样性和包容性方针",
+        "比赛规则",
+        "社群规则",
+        "迪士尼洛卡纳：《泼墨第一章》常见问题",
     )
 
     TEXT_FILE_NAMES = {
@@ -69,6 +73,10 @@ class ResourcesHTMLParser(HTMLParser):
         "Disney Lorcana Comprehensive Rules - 022825 - IT.txt": "comprehensive-rules-it.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
         "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
+        "迪士尼洛卡纳中国区比赛规则v20241230.txt": "tournament-rules-zh",
+        "迪士尼洛卡纳集换式卡牌游戏社群规则v20241230.txt": "community-code-zh.txt",
+        "迪士尼洛卡纳集换式卡牌游戏组织游戏多样性和包容性方针v20241225.txt": "op-diversity-and-inclusion-policy-zh.txt",
+        "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.txt": "s1-set-notes-zh.txt",
     }
 
     def __init__(self, readme_file, output_dir):
@@ -250,6 +258,18 @@ def main():
         print("# Disney Lorcana TCG Resources", file=readme_file)
 
         url = "https://www.disneylorcana.com/en-US/resources"
+        print(f"\n\n*from {url}*", file=readme_file)
+
+        request = urllib.request.Request(url, headers={"User-Agent": ""})
+        with urllib.request.urlopen(request) as f:
+            contents = f.read().decode("utf-8")
+
+        parser = ResourcesHTMLParser(readme_file, output_dir)
+        parser.feed(contents)
+
+        print("\n\n------", file=readme_file)
+
+        url = "https://www.disneylorcana.com/zh-CN/resources"
         print(f"\n\n*from {url}*", file=readme_file)
 
         request = urllib.request.Request(url, headers={"User-Agent": ""})

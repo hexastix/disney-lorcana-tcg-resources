@@ -200,7 +200,7 @@
 
 ### 比赛规则
 
-- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/tournament-rules-zh))
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/tournament-rules-zh.txt))
 
 ### 活动奖品盒规则
 

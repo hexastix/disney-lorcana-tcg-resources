@@ -61,8 +61,10 @@ class ResourcesHTMLParser(HTMLParser):
         "Play Correction Guidelines",
         "Tournament Rules",
         "多样性和包容性方针",
+        "完整规则",
         "比赛规则",
         "社群规则",
+        "纠正指南",
         "迪士尼洛卡纳：《泼墨第一章》常见问题",
     )
 
@@ -73,6 +75,8 @@ class ResourcesHTMLParser(HTMLParser):
         "Disney Lorcana Comprehensive Rules - 022825 - IT.txt": "comprehensive-rules-it.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
         "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
+        "完整规则.txt": "comprehensive-rules-zh.txt",
+        "纠正指南.txt": "play-correction-guidelines-zh.txt",
         "迪士尼洛卡纳中国区比赛规则v20241230.txt": "tournament-rules-zh.txt",
         "迪士尼洛卡纳集换式卡牌游戏社群规则v20241230.txt": "community-code-zh.txt",
         "迪士尼洛卡纳集换式卡牌游戏组织游戏多样性和包容性方针v20241225.txt": "op-diversity-and-inclusion-policy-zh.txt",

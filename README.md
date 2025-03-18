@@ -195,6 +195,14 @@
 
 - [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf) ([as text](text/s1-set-notes-zh.txt))
 
+### 迪士尼洛卡纳集换式卡牌游戏：《洪源大涌现》常见问题
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B4%AA%E6%BA%90%E5%A4%A7%E6%B6%8C%E7%8E%B0%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf)
+
+### 完整规则
+
+- [点击这里](files_disneylorcana_com/%E5%AE%8C%E6%95%B4%E8%A7%84%E5%88%99.pdf) ([as text](text/comprehensive-rules-zh.txt))
+
 
 ## 赛事规则和文档
 
@@ -216,6 +224,10 @@
 ### 社群规则
 
 - [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%A4%BE%E7%BE%A4%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/community-code-zh.txt))
+
+### 纠正指南
+
+- [点击这里](files_disneylorcana_com/%E7%BA%A0%E6%AD%A3%E6%8C%87%E5%8D%97.pdf) ([as text](text/play-correction-guidelines-zh.txt))
 
 
 ------

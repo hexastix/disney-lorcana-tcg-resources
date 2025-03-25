@@ -122,10 +122,6 @@
 - [Français](files_disneylorcana_com/Ciel-Scintillant_Checklist_FR.pdf)
 - [Italiano](files_disneylorcana_com/Cieli-Scintillanti_Checklist_IT.pdf)
 
-### Melee Tournament Platform Documentation
-
-- [melee.gg](https://melee.gg/Documentation)
-
 
 ## Policies
 
@@ -138,7 +134,7 @@
 
 ### Hobby Store Program Application Form
 
-- [melee.gg](https://melee.gg/Lorcana)
+- [Ravensburger Play Hub](https://www.ravensburgerplay.com)
 
 ### Hobby Store Terms & Conditions
 

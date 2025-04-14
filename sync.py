@@ -39,8 +39,8 @@ def convert_pdf_to_text(pdf_file_path, text_file_path):
     subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
 
 
-def md_link(file_path, md_file_dir):
-    return urllib.parse.quote(str(file_path.relative_to(md_file_dir)))
+def md_link(path):
+    return urllib.parse.quote(str(path))
 
 
 class ResourcesHTMLParser(HTMLParser):
@@ -108,22 +108,22 @@ class ResourcesHTMLParser(HTMLParser):
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
                             url = attr_value
+                            pdf_file_sub_path = url_to_path(url).with_suffix(".pdf")
                             pdf_file_path = pathlib.Path(
-                                self.output_dir, url_to_path(url).with_suffix(".pdf")
+                                self.output_dir, pdf_file_sub_path
                             )
                             download_file(url, pdf_file_path)
-                            link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
+                            link_to_pdf_file = md_link(pdf_file_sub_path)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
-                            if pdf_file_path.name in self.TEXT_FILE_NAMES:
+                            if pdf_file_sub_path.name in self.TEXT_FILE_NAMES:
+                                text_file_sub_path = pathlib.Path(
+                                    "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
+                                )
                                 text_file_path = pathlib.Path(
-                                    self.output_dir,
-                                    "text",
-                                    self.TEXT_FILE_NAMES[pdf_file_path.name],
+                                    self.output_dir, text_file_sub_path
                                 )
                                 convert_pdf_to_text(pdf_file_path, text_file_path)
-                                link_to_text_file = md_link(
-                                    text_file_path, self.output_dir
-                                )
+                                link_to_text_file = md_link(text_file_sub_path)
                                 self.list_item = (
                                     f"[{{data}}]({link_to_pdf_file})"
                                     f" ([as text]({link_to_text_file}))"
@@ -207,19 +207,19 @@ class RuleFaqHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.item is None
                         url = f"https://takaratomy.co.jp{attr_value}"
-                        pdf_file_path = pathlib.Path(
-                            self.output_dir, url_to_path(url).with_suffix(".pdf")
-                        )
+                        pdf_file_sub_path = url_to_path(url).with_suffix(".pdf")
+                        pdf_file_path = pathlib.Path(self.output_dir, pdf_file_sub_path)
                         download_file(url, pdf_file_path)
+                        text_file_sub_path = pathlib.Path(
+                            "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
+                        )
                         text_file_path = pathlib.Path(
-                            self.output_dir,
-                            "text",
-                            self.TEXT_FILE_NAMES[pdf_file_path.name],
+                            self.output_dir, text_file_sub_path
                         )
                         convert_pdf_to_text(pdf_file_path, text_file_path)
                         self.item = (
-                            f"[{{data}}]({md_link(pdf_file_path, self.output_dir)})"
-                            f" ([as text]({md_link(text_file_path, self.output_dir)}))"
+                            f"[{{data}}]({md_link(pdf_file_sub_path)})"
+                            f" ([as text]({md_link(text_file_sub_path)}))"
                         )
                         break
 

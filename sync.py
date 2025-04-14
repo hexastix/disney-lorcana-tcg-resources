@@ -13,16 +13,18 @@ def fetch_html_contents(url):
         return f.read().decode("utf-8")
 
 
+def url_to_path(url):
+    result = urllib.parse.urlparse(url)
+    return pathlib.Path(
+        f"{result.netloc.replace('.', '_')}{urllib.parse.unquote(result.path)}"
+    )
+
+
 def download_pdf_file(url, output_dir):
     request = urllib.request.Request(url)
     request.add_header("User-Agent", "")
 
-    result = urllib.parse.urlparse(url)
-
-    file_path = pathlib.Path(
-        output_dir,
-        f"{result.netloc.replace('.', '_')}{urllib.parse.unquote(result.path)}",
-    ).with_suffix(".pdf")
+    file_path = pathlib.Path(output_dir, url_to_path(url).with_suffix(".pdf"))
 
     os.makedirs(file_path.parent, exist_ok=True)
 

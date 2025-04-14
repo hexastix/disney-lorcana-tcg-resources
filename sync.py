@@ -34,10 +34,7 @@ def download_file(url, file_path):
 
 
 def convert_pdf_to_text(pdf_file_path, output_dir, file_names):
-    text_file_name = pdf_file_path.with_suffix(".txt").name
-    if text_file_name in file_names:
-        text_file_name = file_names[text_file_name]
-    text_file_path = pathlib.Path(output_dir, "text", text_file_name)
+    text_file_path = pathlib.Path(output_dir, "text", file_names[pdf_file_path.name])
     os.makedirs(text_file_path.parent, exist_ok=True)
     print(f"Converting {pdf_file_path} to {text_file_path}")
     subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
@@ -54,34 +51,31 @@ class ResourcesHTMLParser(HTMLParser):
         "https://files.disneylorcana.com/",
     )
 
-    DOCUMENTS_TO_CONVERT_TO_TXT = (
-        "Community Code",
-        "Comprehensive Rules",
-        "Disney Lorcana TCG: The First Chapter Set Notes",
-        "Diversity & Inclusion Policy",
-        "Play Correction Guidelines",
-        "Tournament Rules",
-        "《泼墨第一章》常见问题",
-        "多样性和包容性方针",
-        "完整规则",
-        "比赛规则",
-        "社群规则",
-        "纠正指南",
-    )
-
     TEXT_FILE_NAMES = {
-        "Disney Lorcana Comprehensive Rules - 022825 - DE.txt": "comprehensive-rules-de.txt",
-        "Disney Lorcana Comprehensive Rules - 022825 - EN.txt": "comprehensive-rules-en.txt",
-        "Disney Lorcana Comprehensive Rules - 022825 - FR.txt": "comprehensive-rules-fr.txt",
-        "Disney Lorcana Comprehensive Rules - 022825 - IT.txt": "comprehensive-rules-it.txt",
-        "Disney_Lorcana_Play_Correction_Guidelines_052124update.txt": "play-correction-guidelines-en.txt",
-        "Disney_Lorcana_Tournament_Rules_052224update.txt": "tournament-rules-en.txt",
-        "完整规则.txt": "comprehensive-rules-zh.txt",
-        "纠正指南.txt": "play-correction-guidelines-zh.txt",
-        "迪士尼洛卡纳中国区比赛规则v20241230.txt": "tournament-rules-zh.txt",
-        "迪士尼洛卡纳集换式卡牌游戏社群规则v20241230.txt": "community-code-zh.txt",
-        "迪士尼洛卡纳集换式卡牌游戏组织游戏多样性和包容性方针v20241225.txt": "op-diversity-and-inclusion-policy-zh.txt",
-        "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.txt": "s1-set-notes-zh.txt",
+        "Disney Lorcana Comprehensive Rules - 022825 - DE.pdf": "comprehensive-rules-de.txt",
+        "Disney Lorcana Comprehensive Rules - 022825 - EN.pdf": "comprehensive-rules-en.txt",
+        "Disney Lorcana Comprehensive Rules - 022825 - FR.pdf": "comprehensive-rules-fr.txt",
+        "Disney Lorcana Comprehensive Rules - 022825 - IT.pdf": "comprehensive-rules-it.txt",
+        "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "play-correction-guidelines-en.txt",
+        "Disney_Lorcana_Tournament_Rules_052224update.pdf": "tournament-rules-en.txt",
+        "community-code-de.pdf": "community-code-de.txt",
+        "community-code-en.pdf": "community-code-en.txt",
+        "community-code-fr.pdf": "community-code-fr.txt",
+        "community-code-it.pdf": "community-code-it.txt",
+        "op-diversity-and-inclusion-policy-de.pdf": "op-diversity-and-inclusion-policy-de.txt",
+        "op-diversity-and-inclusion-policy-en.pdf": "op-diversity-and-inclusion-policy-en.txt",
+        "op-diversity-and-inclusion-policy-fr.pdf": "op-diversity-and-inclusion-policy-fr.txt",
+        "op-diversity-and-inclusion-policy-it.pdf": "op-diversity-and-inclusion-policy-it.txt",
+        "s1-set-notes-de.pdf": "s1-set-notes-de.txt",
+        "s1-set-notes-en.pdf": "s1-set-notes-en.txt",
+        "s1-set-notes-fr.pdf": "s1-set-notes-fr.txt",
+        "s1-set-notes-it.pdf": "s1-set-notes-it.txt",
+        "完整规则.pdf": "comprehensive-rules-zh.txt",
+        "纠正指南.pdf": "play-correction-guidelines-zh.txt",
+        "迪士尼洛卡纳中国区比赛规则v20241230.pdf": "tournament-rules-zh.txt",
+        "迪士尼洛卡纳集换式卡牌游戏社群规则v20241230.pdf": "community-code-zh.txt",
+        "迪士尼洛卡纳集换式卡牌游戏组织游戏多样性和包容性方针v20241225.pdf": "op-diversity-and-inclusion-policy-zh.txt",
+        "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.pdf": "s1-set-notes-zh.txt",
     }
 
     def __init__(self, readme_file, output_dir):
@@ -122,7 +116,7 @@ class ResourcesHTMLParser(HTMLParser):
                             download_file(url, pdf_file_path)
                             link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
-                            if self.document_name in self.DOCUMENTS_TO_CONVERT_TO_TXT:
+                            if pdf_file_path.name in self.TEXT_FILE_NAMES:
                                 text_file_path = convert_pdf_to_text(
                                     pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
                                 )
@@ -171,10 +165,10 @@ class ResourcesHTMLParser(HTMLParser):
 
 class RuleFaqHTMLParser(HTMLParser):
     TEXT_FILE_NAMES = {
-        "comprehensive_rules.txt": "comprehensive-rules-jp.txt",
-        "Disney_Lorcana_Play_Correction_Guidelines_JP.txt": "play-correction-guidelines-jp.txt",
-        "Disney_Lorcana_Tournament_Rules_JP.txt": "tournament-rules-jp.txt",
-        "s1_set_notes.txt": "s1-set-notes-jp.txt",
+        "comprehensive_rules.pdf": "comprehensive-rules-jp.txt",
+        "Disney_Lorcana_Play_Correction_Guidelines_JP.pdf": "play-correction-guidelines-jp.txt",
+        "Disney_Lorcana_Tournament_Rules_JP.pdf": "tournament-rules-jp.txt",
+        "s1_set_notes.pdf": "s1-set-notes-jp.txt",
     }
 
     def __init__(self, readme_file, output_dir):

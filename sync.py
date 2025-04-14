@@ -20,11 +20,9 @@ def url_to_path(url):
     )
 
 
-def download_pdf_file(url, output_dir):
+def download_file(url, file_path):
     request = urllib.request.Request(url)
     request.add_header("User-Agent", "")
-
-    file_path = pathlib.Path(output_dir, url_to_path(url).with_suffix(".pdf"))
 
     os.makedirs(file_path.parent, exist_ok=True)
 
@@ -33,8 +31,6 @@ def download_pdf_file(url, output_dir):
     with urllib.request.urlopen(request) as r:
         with open(file_path, "wb") as w:
             w.write(r.read())
-
-    return file_path
 
 
 def convert_pdf_to_text(pdf_file_path, output_dir, file_names):
@@ -119,9 +115,11 @@ class ResourcesHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
-                            pdf_file_path = download_pdf_file(
-                                attr_value, self.output_dir
+                            url = attr_value
+                            pdf_file_path = pathlib.Path(
+                                self.output_dir, url_to_path(url).with_suffix(".pdf")
                             )
+                            download_file(url, pdf_file_path)
                             link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
                             if self.document_name in self.DOCUMENTS_TO_CONVERT_TO_TXT:
@@ -213,9 +211,11 @@ class RuleFaqHTMLParser(HTMLParser):
                 for attr_name, attr_value in attrs:
                     if attr_name == "href":
                         assert self.item is None
-                        pdf_file_path = download_pdf_file(
-                            f"https://takaratomy.co.jp{attr_value}", self.output_dir
+                        url = f"https://takaratomy.co.jp{attr_value}"
+                        pdf_file_path = pathlib.Path(
+                            self.output_dir, url_to_path(url).with_suffix(".pdf")
                         )
+                        download_file(url, pdf_file_path)
                         text_file_path = convert_pdf_to_text(
                             pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
                         )

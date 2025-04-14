@@ -7,6 +7,12 @@ import urllib.request
 from html.parser import HTMLParser
 
 
+def fetch_html_contents(url):
+    request = urllib.request.Request(url, headers={"User-Agent": ""})
+    with urllib.request.urlopen(request) as f:
+        return f.read().decode("utf-8")
+
+
 def download_pdf_file(url, output_dir):
     request = urllib.request.Request(url)
     request.add_header("User-Agent", "")
@@ -263,9 +269,7 @@ def main():
         url = "https://www.disneylorcana.com/en-US/resources"
         print(f"\n\n*from {url}*", file=readme_file)
 
-        request = urllib.request.Request(url, headers={"User-Agent": ""})
-        with urllib.request.urlopen(request) as f:
-            contents = f.read().decode("utf-8")
+        contents = fetch_html_contents(url)
 
         parser = ResourcesHTMLParser(readme_file, output_dir)
         parser.feed(contents)
@@ -275,9 +279,7 @@ def main():
         url = "https://www.disneylorcana.com/zh-CN/resources"
         print(f"\n\n*from {url}*", file=readme_file)
 
-        request = urllib.request.Request(url, headers={"User-Agent": ""})
-        with urllib.request.urlopen(request) as f:
-            contents = f.read().decode("utf-8")
+        contents = fetch_html_contents(url)
 
         parser = ResourcesHTMLParser(readme_file, output_dir)
         parser.feed(contents)
@@ -287,9 +289,7 @@ def main():
         url = "https://www.takaratomy.co.jp/products/disneylorcana/rule-faq/"
         print(f"\n\n*from {url}*", file=readme_file)
 
-        request = urllib.request.Request(url, headers={"User-Agent": ""})
-        with urllib.request.urlopen(request) as f:
-            contents = f.read().decode("utf-8")
+        contents = fetch_html_contents(url)
 
         parser = RuleFaqHTMLParser(readme_file, output_dir)
         parser.feed(contents)

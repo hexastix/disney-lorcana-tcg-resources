@@ -113,8 +113,7 @@ class ResourcesHTMLParser(HTMLParser):
                                 self.output_dir, pdf_file_sub_path
                             )
                             download_file(url, pdf_file_path)
-                            link_to_pdf_file = md_link(pdf_file_sub_path)
-                            self.list_item = f"[{{data}}]({link_to_pdf_file})"
+                            self.list_item = f"[{{data}}]({md_link(pdf_file_sub_path)})"
                             if pdf_file_sub_path.name in self.TEXT_FILE_NAMES:
                                 text_file_sub_path = pathlib.Path(
                                     "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
@@ -123,10 +122,9 @@ class ResourcesHTMLParser(HTMLParser):
                                     self.output_dir, text_file_sub_path
                                 )
                                 convert_pdf_to_text(pdf_file_path, text_file_path)
-                                link_to_text_file = md_link(text_file_sub_path)
                                 self.list_item = (
-                                    f"[{{data}}]({link_to_pdf_file})"
-                                    f" ([as text]({link_to_text_file}))"
+                                    f"[{{data}}]({md_link(pdf_file_sub_path)})"
+                                    f" ([as text]({md_link(text_file_sub_path)}))"
                                 )
                         else:
                             self.list_item = f"[{{data}}]({attr_value})"

@@ -33,12 +33,10 @@ def download_file(url, file_path):
             w.write(r.read())
 
 
-def convert_pdf_to_text(pdf_file_path, output_dir, file_names):
-    text_file_path = pathlib.Path(output_dir, "text", file_names[pdf_file_path.name])
+def convert_pdf_to_text(pdf_file_path, text_file_path):
     os.makedirs(text_file_path.parent, exist_ok=True)
     print(f"Converting {pdf_file_path} to {text_file_path}")
     subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
-    return text_file_path
 
 
 def md_link(file_path, md_file_dir):
@@ -117,9 +115,12 @@ class ResourcesHTMLParser(HTMLParser):
                             link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
                             if pdf_file_path.name in self.TEXT_FILE_NAMES:
-                                text_file_path = convert_pdf_to_text(
-                                    pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
+                                text_file_path = pathlib.Path(
+                                    self.output_dir,
+                                    "text",
+                                    self.TEXT_FILE_NAMES[pdf_file_path.name],
                                 )
+                                convert_pdf_to_text(pdf_file_path, text_file_path)
                                 link_to_text_file = md_link(
                                     text_file_path, self.output_dir
                                 )
@@ -210,9 +211,12 @@ class RuleFaqHTMLParser(HTMLParser):
                             self.output_dir, url_to_path(url).with_suffix(".pdf")
                         )
                         download_file(url, pdf_file_path)
-                        text_file_path = convert_pdf_to_text(
-                            pdf_file_path, self.output_dir, self.TEXT_FILE_NAMES
+                        text_file_path = pathlib.Path(
+                            self.output_dir,
+                            "text",
+                            self.TEXT_FILE_NAMES[pdf_file_path.name],
                         )
+                        convert_pdf_to_text(pdf_file_path, text_file_path)
                         self.item = (
                             f"[{{data}}]({md_link(pdf_file_path, self.output_dir)})"
                             f" ([as text]({md_link(text_file_path, self.output_dir)}))"

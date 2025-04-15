@@ -57,11 +57,10 @@ class ResourcesHTMLParser(HTMLParser):
         "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.pdf": "s1-set-notes-zh.txt",
     }
 
-    def __init__(self, readme_file, output_dir, pdf_files):
+    def __init__(self, readme_file, pdf_files):
         super().__init__()
 
         self.readme_file = readme_file
-        self.output_dir = output_dir
         self.pdf_files = pdf_files
 
         self.in_faq_section = False
@@ -90,28 +89,20 @@ class ResourcesHTMLParser(HTMLParser):
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
                             url = attr_value
-                            pdf_file_sub_path = url_to_path(url).with_suffix(".pdf")
-                            pdf_file_path = pathlib.Path(
-                                self.output_dir, pdf_file_sub_path
-                            )
-                            if pdf_file_sub_path.name in self.TEXT_FILE_NAMES:
-                                text_file_sub_path = pathlib.Path(
-                                    "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
-                                )
+                            pdf_file_path = url_to_path(url).with_suffix(".pdf")
+                            if pdf_file_path.name in self.TEXT_FILE_NAMES:
                                 text_file_path = pathlib.Path(
-                                    self.output_dir, text_file_sub_path
+                                    "text", self.TEXT_FILE_NAMES[pdf_file_path.name]
                                 )
                                 self.list_item = (
-                                    f"[{{data}}]({md_link(pdf_file_sub_path)})"
-                                    f" ([as text]({md_link(text_file_sub_path)}))"
+                                    f"[{{data}}]({md_link(pdf_file_path)})"
+                                    f" ([as text]({md_link(text_file_path)}))"
                                 )
                                 self.pdf_files.append(
                                     (url, pdf_file_path, text_file_path)
                                 )
                             else:
-                                self.list_item = (
-                                    f"[{{data}}]({md_link(pdf_file_sub_path)})"
-                                )
+                                self.list_item = f"[{{data}}]({md_link(pdf_file_path)})"
                                 self.pdf_files.append((url, pdf_file_path, None))
                         else:
                             self.list_item = f"[{{data}}]({attr_value})"
@@ -157,11 +148,10 @@ class RuleFaqHTMLParser(HTMLParser):
         "s1_set_notes.pdf": "s1-set-notes-jp.txt",
     }
 
-    def __init__(self, readme_file, output_dir, pdf_files):
+    def __init__(self, readme_file, pdf_files):
         super().__init__()
 
         self.readme_file = readme_file
-        self.output_dir = output_dir
         self.pdf_files = pdf_files
 
         self.rule_div = False
@@ -193,17 +183,13 @@ class RuleFaqHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.item is None
                         url = f"https://takaratomy.co.jp{attr_value}"
-                        pdf_file_sub_path = url_to_path(url).with_suffix(".pdf")
-                        pdf_file_path = pathlib.Path(self.output_dir, pdf_file_sub_path)
-                        text_file_sub_path = pathlib.Path(
-                            "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
-                        )
+                        pdf_file_path = url_to_path(url).with_suffix(".pdf")
                         text_file_path = pathlib.Path(
-                            self.output_dir, text_file_sub_path
+                            "text", self.TEXT_FILE_NAMES[pdf_file_path.name]
                         )
                         self.item = (
-                            f"[{{data}}]({md_link(pdf_file_sub_path)})"
-                            f" ([as text]({md_link(text_file_sub_path)}))"
+                            f"[{{data}}]({md_link(pdf_file_path)})"
+                            f" ([as text]({md_link(text_file_path)}))"
                         )
                         self.pdf_files.append((url, pdf_file_path, text_file_path))
                         break
@@ -277,7 +263,7 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = ResourcesHTMLParser(readme_file, output_dir, pdf_files)
+        parser = ResourcesHTMLParser(readme_file, pdf_files)
         parser.feed(contents)
 
         print("\n\n------", file=readme_file)
@@ -287,7 +273,7 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = ResourcesHTMLParser(readme_file, output_dir, pdf_files)
+        parser = ResourcesHTMLParser(readme_file, pdf_files)
         parser.feed(contents)
 
         print("\n\n------", file=readme_file)
@@ -297,13 +283,16 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = RuleFaqHTMLParser(readme_file, output_dir, pdf_files)
+        parser = RuleFaqHTMLParser(readme_file, pdf_files)
         parser.feed(contents)
 
     for url, pdf_file_path, text_file_path in pdf_files:
-        download_file(url, pdf_file_path)
+        download_file(url, pathlib.Path(output_dir, pdf_file_path))
         if text_file_path:
-            convert_pdf_to_text(pdf_file_path, text_file_path)
+            convert_pdf_to_text(
+                pathlib.Path(output_dir, pdf_file_path),
+                pathlib.Path(output_dir, text_file_path),
+            )
 
 
 if __name__ == "__main__":

@@ -20,25 +20,6 @@ def url_to_path(url):
     )
 
 
-def download_file(url, file_path):
-    request = urllib.request.Request(url)
-    request.add_header("User-Agent", "")
-
-    os.makedirs(file_path.parent, exist_ok=True)
-
-    print(f"Downloading {url} to {file_path}")
-
-    with urllib.request.urlopen(request) as r:
-        with open(file_path, "wb") as w:
-            w.write(r.read())
-
-
-def convert_pdf_to_text(pdf_file_path, text_file_path):
-    os.makedirs(text_file_path.parent, exist_ok=True)
-    print(f"Converting {pdf_file_path} to {text_file_path}")
-    subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
-
-
 def md_link(path):
     return urllib.parse.quote(str(path))
 
@@ -76,11 +57,12 @@ class ResourcesHTMLParser(HTMLParser):
         "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.pdf": "s1-set-notes-zh.txt",
     }
 
-    def __init__(self, readme_file, output_dir):
+    def __init__(self, readme_file, output_dir, pdf_files):
         super().__init__()
 
         self.readme_file = readme_file
         self.output_dir = output_dir
+        self.pdf_files = pdf_files
 
         self.in_faq_section = False
         self.in_faq_block_title = False
@@ -112,8 +94,6 @@ class ResourcesHTMLParser(HTMLParser):
                             pdf_file_path = pathlib.Path(
                                 self.output_dir, pdf_file_sub_path
                             )
-                            download_file(url, pdf_file_path)
-                            self.list_item = f"[{{data}}]({md_link(pdf_file_sub_path)})"
                             if pdf_file_sub_path.name in self.TEXT_FILE_NAMES:
                                 text_file_sub_path = pathlib.Path(
                                     "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
@@ -121,11 +101,18 @@ class ResourcesHTMLParser(HTMLParser):
                                 text_file_path = pathlib.Path(
                                     self.output_dir, text_file_sub_path
                                 )
-                                convert_pdf_to_text(pdf_file_path, text_file_path)
                                 self.list_item = (
                                     f"[{{data}}]({md_link(pdf_file_sub_path)})"
                                     f" ([as text]({md_link(text_file_sub_path)}))"
                                 )
+                                self.pdf_files.append(
+                                    (url, pdf_file_path, text_file_path)
+                                )
+                            else:
+                                self.list_item = (
+                                    f"[{{data}}]({md_link(pdf_file_sub_path)})"
+                                )
+                                self.pdf_files.append((url, pdf_file_path, None))
                         else:
                             self.list_item = f"[{{data}}]({attr_value})"
                         break
@@ -170,11 +157,12 @@ class RuleFaqHTMLParser(HTMLParser):
         "s1_set_notes.pdf": "s1-set-notes-jp.txt",
     }
 
-    def __init__(self, readme_file, output_dir):
+    def __init__(self, readme_file, output_dir, pdf_files):
         super().__init__()
 
         self.readme_file = readme_file
         self.output_dir = output_dir
+        self.pdf_files = pdf_files
 
         self.rule_div = False
         self.in_heading_2 = False
@@ -207,18 +195,17 @@ class RuleFaqHTMLParser(HTMLParser):
                         url = f"https://takaratomy.co.jp{attr_value}"
                         pdf_file_sub_path = url_to_path(url).with_suffix(".pdf")
                         pdf_file_path = pathlib.Path(self.output_dir, pdf_file_sub_path)
-                        download_file(url, pdf_file_path)
                         text_file_sub_path = pathlib.Path(
                             "text", self.TEXT_FILE_NAMES[pdf_file_sub_path.name]
                         )
                         text_file_path = pathlib.Path(
                             self.output_dir, text_file_sub_path
                         )
-                        convert_pdf_to_text(pdf_file_path, text_file_path)
                         self.item = (
                             f"[{{data}}]({md_link(pdf_file_sub_path)})"
                             f" ([as text]({md_link(text_file_sub_path)}))"
                         )
+                        self.pdf_files.append((url, pdf_file_path, text_file_path))
                         break
 
         elif tag == "div":
@@ -256,10 +243,31 @@ class RuleFaqHTMLParser(HTMLParser):
                 self.item = None
 
 
+def download_file(url, file_path):
+    request = urllib.request.Request(url)
+    request.add_header("User-Agent", "")
+
+    os.makedirs(file_path.parent, exist_ok=True)
+
+    print(f"Downloading {url} to {file_path}")
+
+    with urllib.request.urlopen(request) as r:
+        with open(file_path, "wb") as w:
+            w.write(r.read())
+
+
+def convert_pdf_to_text(pdf_file_path, text_file_path):
+    os.makedirs(text_file_path.parent, exist_ok=True)
+    print(f"Converting {pdf_file_path} to {text_file_path}")
+    subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
+
+
 def main():
     subprocess.run(["pdftotext", "-h"], capture_output=True, check=True)
 
     output_dir = os.path.dirname(os.path.abspath(__file__))
+
+    pdf_files = []
 
     with open(os.path.join(output_dir, "README.md"), "w") as readme_file:
         print("# Disney Lorcana TCG Resources", file=readme_file)
@@ -269,7 +277,7 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = ResourcesHTMLParser(readme_file, output_dir)
+        parser = ResourcesHTMLParser(readme_file, output_dir, pdf_files)
         parser.feed(contents)
 
         print("\n\n------", file=readme_file)
@@ -279,7 +287,7 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = ResourcesHTMLParser(readme_file, output_dir)
+        parser = ResourcesHTMLParser(readme_file, output_dir, pdf_files)
         parser.feed(contents)
 
         print("\n\n------", file=readme_file)
@@ -289,8 +297,13 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = RuleFaqHTMLParser(readme_file, output_dir)
+        parser = RuleFaqHTMLParser(readme_file, output_dir, pdf_files)
         parser.feed(contents)
+
+    for url, pdf_file_path, text_file_path in pdf_files:
+        download_file(url, pdf_file_path)
+        if text_file_path:
+            convert_pdf_to_text(pdf_file_path, text_file_path)
 
 
 if __name__ == "__main__":

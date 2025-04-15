@@ -1,3 +1,4 @@
+import concurrent.futures
 import os
 import pathlib
 import subprocess
@@ -248,6 +249,15 @@ def convert_pdf_to_text(pdf_file_path, text_file_path):
     subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
 
 
+def download_and_convert_pdf_file(output_dir, url, pdf_file_path, text_file_path):
+    download_file(url, pathlib.Path(output_dir, pdf_file_path))
+    if text_file_path:
+        convert_pdf_to_text(
+            pathlib.Path(output_dir, pdf_file_path),
+            pathlib.Path(output_dir, text_file_path),
+        )
+
+
 def main():
     subprocess.run(["pdftotext", "-h"], capture_output=True, check=True)
 
@@ -286,13 +296,13 @@ def main():
         parser = RuleFaqHTMLParser(readme_file, pdf_files)
         parser.feed(contents)
 
-    for url, pdf_file_path, text_file_path in pdf_files:
-        download_file(url, pathlib.Path(output_dir, pdf_file_path))
-        if text_file_path:
-            convert_pdf_to_text(
-                pathlib.Path(output_dir, pdf_file_path),
-                pathlib.Path(output_dir, text_file_path),
-            )
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = [
+            executor.submit(download_and_convert_pdf_file, output_dir, *pdf_file)
+            for pdf_file in pdf_files
+        ]
+        for future in concurrent.futures.as_completed(futures):
+            future.result()
 
 
 if __name__ == "__main__":

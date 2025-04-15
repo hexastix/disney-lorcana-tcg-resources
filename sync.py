@@ -1,7 +1,6 @@
 import os
 import pathlib
 import subprocess
-import sys
 import urllib.parse
 import urllib.request
 
@@ -37,9 +36,7 @@ def convert_pdf_to_text(pdf_file_path, output_dir, file_names):
     text_file_path = pathlib.Path(output_dir, "text", text_file_name)
     os.makedirs(text_file_path.parent, exist_ok=True)
     print(f"Converting {pdf_file_path} to {text_file_path}")
-    subprocess.run(
-        ["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path]
-    )
+    subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
     return text_file_path
 
 
@@ -114,7 +111,9 @@ class ResourcesHTMLParser(HTMLParser):
                     if attr_name == "href":
                         assert self.list_item is None
                         if attr_value.startswith(self.URL_PREFIXES):
-                            pdf_file_path = download_pdf_file(attr_value, self.output_dir)
+                            pdf_file_path = download_pdf_file(
+                                attr_value, self.output_dir
+                            )
                             link_to_pdf_file = md_link(pdf_file_path, self.output_dir)
                             self.list_item = f"[{{data}}]({link_to_pdf_file})"
                             if self.document_name in self.DOCUMENTS_TO_CONVERT_TO_TXT:
@@ -193,7 +192,7 @@ class RuleFaqHTMLParser(HTMLParser):
             elif tag == "h3":
                 assert not self.in_heading_3
                 self.in_heading_3 = True
-                print(f"\n### ", end='', file=self.readme_file)
+                print("\n### ", end="", file=self.readme_file)
 
             elif tag == "span":
                 for attr_name, attr_value in attrs:
@@ -229,7 +228,7 @@ class RuleFaqHTMLParser(HTMLParser):
             print(f"\n\n## {data}", file=self.readme_file)
 
         elif self.in_heading_3_main:
-            print(data, end='', file=self.readme_file)
+            print(data, end="", file=self.readme_file)
 
         elif self.item is not None:
             print(f"\n{self.item.format(data=data)}", file=self.readme_file)

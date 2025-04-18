@@ -60,12 +60,12 @@ class ResourcesHTMLParser(HTMLParser):
         "Diversity & Inclusion Policy",
         "Play Correction Guidelines",
         "Tournament Rules",
+        "《泼墨第一章》常见问题",
         "多样性和包容性方针",
         "完整规则",
         "比赛规则",
         "社群规则",
         "纠正指南",
-        "迪士尼洛卡纳：《泼墨第一章》常见问题",
     )
 
     TEXT_FILE_NAMES = {

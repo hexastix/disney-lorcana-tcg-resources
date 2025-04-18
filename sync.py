@@ -9,6 +9,7 @@ from html.parser import HTMLParser
 
 
 def fetch_html_contents(url):
+    print(f"Fetching {url}")
     request = urllib.request.Request(url, headers={"User-Agent": ""})
     with urllib.request.urlopen(request) as f:
         return f.read().decode("utf-8")
@@ -231,21 +232,17 @@ class RuleFaqHTMLParser(HTMLParser):
 
 
 def download_file(url, file_path):
-    request = urllib.request.Request(url)
-    request.add_header("User-Agent", "")
-
-    os.makedirs(file_path.parent, exist_ok=True)
-
     print(f"Downloading {url} to {file_path}")
-
+    os.makedirs(file_path.parent, exist_ok=True)
+    request = urllib.request.Request(url, headers={"User-Agent": ""})
     with urllib.request.urlopen(request) as r:
         with open(file_path, "wb") as w:
             w.write(r.read())
 
 
 def convert_pdf_to_text(pdf_file_path, text_file_path):
-    os.makedirs(text_file_path.parent, exist_ok=True)
     print(f"Converting {pdf_file_path} to {text_file_path}")
+    os.makedirs(text_file_path.parent, exist_ok=True)
     subprocess.run(["pdftotext", "-layout", "-nopgbrk", pdf_file_path, text_file_path])
 
 

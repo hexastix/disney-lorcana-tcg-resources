@@ -57,21 +57,21 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
-### Archazia's Island OP Kit Instructions
+### Reign of Jafar OP Kit Instructions
 
-- [English](files_disneylorcana_com/Archazias-Island_OP%20Kit%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Archazias-Insel_OP%20Kit%20Instructions_DE.pdf)
-- [Français](files_disneylorcana_com/l%E2%80%99%C3%AEle-D%27Archazia_OP%20Kit%20Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/L%27isola-di-Archazia_OP%20Kit%20Instructions_IT.pdf)
-- [español](files_disneylorcana_com/Archazias-Island_OP%20Kit%20Instructions_ES.pdf)
+- [English](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Final.pdf)
+- [Deutsch](files_disneylorcana_com/S08_OP%20Kit%20Instructions_German_Final.pdf)
+- [Français](files_disneylorcana_com/S08_OP%20Kit%20Instructions_French_Final.pdf)
+- [Italiano](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Italian_Final.pdf)
+- [español](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Spanish_Final.pdf)
 
-### Archazia's Island Set Championship Instructions
+### Reign of Jafar Set Championship Instructions
 
-- [English](files_disneylorcana_com/Archazia_SetChampionship_Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Archazia_SetChampionship_Instructions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Archazia_SetChampionship_Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/Archazia_SetChampionship_Instructions_IT.pdf)
-- [Español](files_disneylorcana_com/Archazia_SetChampionship_Instructions_ES.pdf)
+- [English](files_disneylorcana_com/DLC_S08_OPChampionships_Event%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_German_Final.pdf)
+- [FRANÇAIS](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_French_Final.pdf)
+- [Italiano](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_Italian_Final.pdf)
+- [Español](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Spanish_Final.pdf)
 
 ### Play Correction Guidelines
 

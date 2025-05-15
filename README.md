@@ -71,7 +71,7 @@
 - [Deutsch](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_German_Final.pdf)
 - [FRANÇAIS](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_French_Final.pdf)
 - [Italiano](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_Italian_Final.pdf)
-- [Español](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Spanish_Final.pdf)
+- [Español](files_disneylorcana_com/DCL_S08_OPSetChamps_Event%20Instructions_Spanish_Final.pdf)
 
 ### Play Correction Guidelines
 

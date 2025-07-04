@@ -144,7 +144,7 @@ class ResourcesHTMLParser(HTMLParser):
 
 class RuleFaqHTMLParser(HTMLParser):
     TEXT_FILE_NAMES = {
-        "comprehensive_rules.pdf": "comprehensive-rules-jp.txt",
+        "Disney-Lorcana-Comprehensive-Rules_JP.pdf": "comprehensive-rules-jp.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_JP.pdf": "play-correction-guidelines-jp.txt",
         "Disney_Lorcana_Tournament_Rules_JP.pdf": "tournament-rules-jp.txt",
         "s1_set_notes.pdf": "s1-set-notes-jp.txt",

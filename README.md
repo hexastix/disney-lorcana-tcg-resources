@@ -39,13 +39,6 @@
 - [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-052725-FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
 - [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-052725-IT.pdf) ([as text](text/comprehensive-rules-it.txt))
 
-### Disney Lorcana TCG: The First Chapter Set Notes
-
-- [ENGLISH](cdn_ravensburger_com/lorcana/s1-set-notes-en.pdf) ([as text](text/s1-set-notes-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-set-notes-de.pdf) ([as text](text/s1-set-notes-de.txt))
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-set-notes-fr.pdf) ([as text](text/s1-set-notes-fr.txt))
-- [ITALIANO](cdn_ravensburger_com/lorcana/s1-set-notes-it.pdf) ([as text](text/s1-set-notes-it.txt))
-
 ### Disney Lorcana TCG FAQ
 
 - [https://ravensburger-en.mindtouch.us/Disney_Lorcana](https://ravensburger-en.mindtouch.us/Disney_Lorcana)

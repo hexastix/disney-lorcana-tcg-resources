@@ -208,6 +208,13 @@
 - [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E6%B4%BB%E5%8A%A8%E5%A5%96%E5%93%81%E7%9B%92%E4%BD%BF%E7%94%A8%E8%A7%84%E5%88%99.pdf)
 
 
+## 奇想拍档赛规则和文档
+
+### 游戏规则和匹配规则
+
+- [点击这里](files_disneylorcana_com/%E5%A5%87%E6%83%B3%E6%8B%8D%E6%A1%A3%E8%B5%9B%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99%E5%92%8C%E5%8C%B9%E9%85%8D%E8%A7%84%E5%88%9920250722.pdf)
+
+
 ## 政策
 
 ### 多样性和包容性方针

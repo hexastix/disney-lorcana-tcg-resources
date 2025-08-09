@@ -192,6 +192,10 @@
 
 - [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B7%B1%E5%85%A5%E5%A5%87%E5%A2%A8%E5%A2%83%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf)
 
+### 《乌苏拉归来》常见问题
+
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E4%B9%8C%E8%8B%8F%E6%8B%89%E5%BD%92%E6%9D%A5%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%201.pdf)
+
 ### 完整规则
 
 - [点击这里](files_disneylorcana_com/%E5%AE%8C%E6%95%B4%E8%A7%84%E5%88%99.pdf) ([as text](text/comprehensive-rules-zh.txt))

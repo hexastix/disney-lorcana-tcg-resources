@@ -43,6 +43,13 @@
 
 - [https://ravensburger-en.mindtouch.us/Disney_Lorcana](https://ravensburger-en.mindtouch.us/Disney_Lorcana)
 
+### Disney Lorcana TCG Set Release Notes: Fabled
+
+- [English](files_disneylorcana_com/Fabled_SetReleaseNotes_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Fabuleux_SetReleaseNotes_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/Leggende_SetReleaseNotes_IT.pdf)
+
 
 ## Event Rules and Documents
 

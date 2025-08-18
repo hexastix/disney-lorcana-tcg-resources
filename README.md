@@ -57,21 +57,21 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
 
-### Reign of Jafar OP Kit Instructions
+### Fabled OP Kit Instructions
 
-- [English](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Final.pdf)
-- [Deutsch](files_disneylorcana_com/S08_OP%20Kit%20Instructions_German_Final.pdf)
-- [Français](files_disneylorcana_com/S08_OP%20Kit%20Instructions_French_Final.pdf)
-- [Italiano](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Italian_Final.pdf)
-- [español](files_disneylorcana_com/S08_OP%20Kit%20Instructions_Spanish_Final.pdf)
+- [English](files_disneylorcana_com/Fabled_OP%20Kit%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Mythen_OP%20Kit%20Instructions_DE.pdf)
+- [Français](files_disneylorcana_com/Fabuleux_OP%20Kit%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/Leggende_OP%20Kit%20Instructions_IT.pdf)
+- [español](files_disneylorcana_com/Fabled_OP%20Kit%20Instructions_ES.pdf)
 
-### Reign of Jafar Set Championship Instructions
+### Fabled Set Championship Instructions
 
-- [English](files_disneylorcana_com/DLC_S08_OPChampionships_Event%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_German_Final.pdf)
-- [FRANÇAIS](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_French_Final.pdf)
-- [Italiano](files_disneylorcana_com/DLC_S08_OPSetChamps_Event%20Instructions_Italian_Final.pdf)
-- [Español](files_disneylorcana_com/DCL_S08_OPSetChamps_Event%20Instructions_Spanish_Final.pdf)
+- [English](files_disneylorcana_com/Fabled_Champ%20Kit%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Mythen_Champ%20Kit%20Instructions_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Fabuleux_Champ%20Kit%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/Leggende_Champ%20Kit%20Instructions_IT.pdf)
+- [Español](files_disneylorcana_com/Fabled_Champ%20Kit%20Instructions_ES.pdf)
 
 ### Play Correction Guidelines
 

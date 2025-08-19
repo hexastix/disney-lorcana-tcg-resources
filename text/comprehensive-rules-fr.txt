@@ -1,5 +1,5 @@
                                       RÈGLES COMPLÈTES
-                                                       Date de mise à jour May 27, 2025
+                                                       Date de mise à jour 22 août 2025
 
 
 
@@ -184,8 +184,8 @@ disneylorcana.com
                             décrites dans la section 7.5.
                  1.6.1.4.   Les capacités permanentes ont des effets qui s’appliquent en continue, pendant une durée déterminée ou tant que la
                             carte possédant cette capacité est en jeu. Les capacités permanentes respectent les règles décrites dans la section 7.6.
-                 1.6.1.5.   Des effets de substitution sont générés par certaines capacités permanentes. Elles remplacent un effet par un autre.
-                            Les effets de substitution respectent les règles décrites dans la section 7.7.
+                 1.6.1.5.   Des effets de substitution sont générés par certaines capacités. Elles remplacent un effet par un autre. Les effets de
+                            substitution respectent les règles décrites dans la section 7.7.
         1.6.2. Chaque fois qu’un effet s’applique à plusieurs joueurs en même temps, le joueur actif résout d’abord l’effet puis, dans l’ordre
                  du tour, les autres joueurs appliquent chacun cet effet à tour de rôle.
                  Exemple : Donald - Parfait gentleman possède la capacité ‘Permettez-moi’ qui indique : “Au début de votre tour, chaque joueur
@@ -226,7 +226,9 @@ disneylorcana.com
                  1.9.1.2.   Si un joueur a tenté de piocher dans une pioche ne disposant pas du nombre suffisant de cartes à piocher depuis la
                             dernière vérification de l’état du jeu, ce joueur perd la partie.
                  1.9.1.3.   Si un personnage ou un lieu a un nombre de dommages égal ou supérieur à sa Volonté {W}, ce personnage ou ce lieu
-                            est banni.
+                            est banni. Un personnage ou un lieu banni suite à des dommages infligés par un personnage lors d’un défi depuis
+                            la dernière vérification de l’état du jeu ou suite à des dommages infligés, placés ou déplacés par la capacité d’un
+                            personnage depuis la dernière vérification de l’état du jeu est considéré comme banni par ce personnage.
         1.9.2. Une vérification de l’état du jeu est effectuée à la fin de chaque étape, après la résolution d’une action ou d’une capacité, et
                  après la résolution de chaque effet dans le sac. Lors d’une vérification de l’état du jeu, il faut d’abord vérifier et compléter
                  toutes les conditions de victoire et de défaite ainsi que les actions obligatoires. Ensuite, si aucune condition de victoire ou de
@@ -237,13 +239,14 @@ disneylorcana.com
                             joueur gagne et perd la partie en même temps à la suite d’une même vérification de l’état du jeu, il gagne la partie.
         1.9.3. Une fois l’action obligatoire résolue, la vérification de l’état du jeu se déclenche de nouveau.
         1.9.4. Les capacités qui se déclenchent suite à la vérification de l’état du jeu sont ajoutées au sac une fois que la vérification de l’état
-               du jeu et les éventuelles actions obligatoires qui en découlent ont été résolues.
-        1.9.5. Si plusieurs actions obligatoires doivent s’appliquer en même temps, elles sont fusionnées en une seule action obligatoire et
-               sont donc résolues simultanément.
+                 du jeu et les éventuelles actions obligatoires qui en découlent ont été résolues.
+
 
 
 disneylorcana.com
 ©Disney                                                                   3
+        1.9.5. Si plusieurs actions obligatoires doivent s’appliquer en même temps, elles sont fusionnées en une seule action obligatoire et
+                sont donc résolues simultanément.
    1.10. Parties en multijoueurs
 
         1.10.1. Les parties en multijoueurs se jouent avec 3 joueurs ou plus. À noter que les formats en équipe des parties multijoueurs ne
@@ -830,55 +833,47 @@ disneylorcana.com
                de les réaliser concrètement. Puis la partie reprend avec une nouvelle action à réaliser.
         7.1.8. Si la résolution d’un effet permet à un joueur de choisir “jusqu’à” N de quelque chose, le joueur ne peut pas choisir le même
                choix pour chaque itération de N. “Jusqu’à” autorise 0 comme choix légal.
-                 Exemple : La chanson Peignons les roses en rouge indique : “Choisissez jusqu’à 2 personnages, ils subissent -1 {S} pour le reste
-                 de ce tour. Piochez 1 carte.” Le même personnage ne peut être choisi deux fois. Le joueur de la carte peut également choisir 0
-                 personnage.
-
-
-
-
-disneylorcana.com
-©Disney                                                                  20
+                 Exemple : La chanson Peignons les roses en rouge indique : “Choisissez jusqu’à 2 personnages, ils subissent -1 {S} pour le reste de ce
+                 tour. Piochez 1 carte.” Le même personnage ne peut être choisi deux fois. Le joueur de la carte peut également choisir 0 personnage.
         7.1.9.   Certaines capacités et certains effets utilisent “ça/cette/ce” dans leur texte pour faire référence à un terme de jeu spécifique.
                  Lors de la résolution des capacités et des effets, la détermination de ce que “ce/cette [terme]” désigne se fait après que les
                  choix ont été faits lors de la résolution de la capacité ou de l’effet (voir 1.2.4).
-                 Exemple A : La capacité Quel Contrat d’Ursula - La Plus Perfid de Toutes se lit comme suit, “Chaque fois que ce personnage
-                 chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si vous le faites, mettez cette carte
-                 sous votre pioche au lieu de la mettre dans votre défausse.” Ici, “cette chanson” fait référence à la chanson qui vient d’être
-                 chantée par Ursula, et pas d’une autre chanson présente dans votre défausse.
-                 Exemple B : Yzma – Au-dessus de Tout a la capacité ‘Au Boulot’, qui indique “Chaque fois qu’un autre personnage est banni via
-                 un défi, renvoyez-le dans la main de son joueur, puis ce joueur se défausse d’une carte au hasard.” Lorsque la capacité d’Yzma
-                 se résout, le joueur d’Yzma commence par déterminer quels sont les choix à effectuer. Ensuite, il détermine que la carte à être
-                 renvoyée, désignée par “le”, est le personnage banni via un défi, et que “ce joueur” est le joueur dont le personnage vient d’être
-                 banni. Ces désignations sont effectuées lorsque l’effet se résout.
-                 7.1.9.1.   Si le texte de la carte fait référence à une zone spécifique où “cette” carte est posée ou située, seule cette zone est
-                            vérifiée. Si la carte référencée par “ça/ce/cette” a changé de zone, la partie de l’effet vérifiant la zone pour “cette”
-                            carte échoue et se résout sans effet, même s’il y a d’autres cartes dont le nom complet correspond au nom complet
-                            de “cette” carte. Le joueur résout le restant de l’effet autant qu’il lui est possible de le faire.
-                            Exemple : Un joueur a 2 exemplaires d’Ursula - La plus perfide de toutes en jeu et les utilise toutes les deux pour
-                            chanter une chanson en utilisant sa capacité À l’unisson. La capacité ‘Quel Contrat’ d’Ursula indique : “Chaque fois
-                            que ce personnage chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si
-                            vous le faites, mettez cette carte sous votre pioche au lieu de la mettre dans votre défausse” Comme les deux copies
-                            d’Ursula ont été utilisées pour chanter ensemble, leurs deux capacités “Quel contrat” sont déclenchées et ajoutées au
-                            sac pour être résolues.
-                            Lorsque la première capacité déclenchée se résout, la carte Chanson jouée en utilisant À l’unisson est placée sous
-                            la pioche du joueur. Lorsque la deuxième capacité déclenchée se résout, la carte “cette chanson” n’est plus dans la
-                            défausse, donc cette partie de l’effet se résout sans effet. De la même manière, “cette chanson” ne fait désormais plus
-                            référence à une chanson spécifique ; la portion suivante de l’effet échoue à se résoudre elle aussi. Même s’il y a une
-                            autre carte chanson portant le même nom dans la défausse, “cette chanson” ne fait référence qu’à la carte Chanson
-                            spécifique qui a été chantée par Ursula lorsque les capacités déclenchées ont été ajoutées au sac, et non à une autre
-                            carte Chanson portant le même nom.
-                 7.1.9.2.   Certaines capacités et effets utilisent “-ci” pour désigner la carte ayant produit l’effet, ou pour désigner un élément
-                            avec plus de proximité qu’une cible plus lointaine.
-                            Exemple : Chef Bogo – Fan de Gazelle a une capacité nommée ‘’Vous aussi, vous aimez Gazelle ?’’ qui a pour effet :
-                            ‘’Tant que vous avez un personnage Gazelle en jeu, ce personnage-ci gagne Mélomane 6.’’ Chef Bogo – Fan de Gazelle
-                            se confère Mélomane 6 à lui-même, et non aux personnages Gazelle en jeu.
-
 
 
 
 disneylorcana.com
-©Disney                                                                   21
+©Disney                                                                    20
+                Exemple A : La capacité Quel Contrat d’Ursula - La Plus Perfid de Toutes se lit comme suit, “Chaque fois que ce personnage
+                chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si vous le faites, mettez cette carte
+                sous votre pioche au lieu de la mettre dans votre défausse.” Ici, “cette chanson” fait référence à la chanson qui vient d’être
+                chantée par Ursula, et pas d’une autre chanson présente dans votre défausse.
+                Exemple B : Yzma – Au-dessus de Tout a la capacité ‘Au Boulot’, qui indique “Chaque fois qu’un autre personnage est banni via
+                un défi, renvoyez-le dans la main de son joueur, puis ce joueur se défausse d’une carte au hasard.” Lorsque la capacité d’Yzma
+                se résout, le joueur d’Yzma commence par déterminer quels sont les choix à effectuer. Ensuite, il détermine que la carte à être
+                renvoyée, désignée par “le”, est le personnage banni via un défi, et que “ce joueur” est le joueur dont le personnage vient d’être
+                banni. Ces désignations sont effectuées lorsque l’effet se résout.
+                7.1.9.1.   Si le texte de la carte fait référence à une zone spécifique où “cette” carte est posée ou située, seule cette zone est
+                           vérifiée. Si la carte référencée par “ça/ce/cette” a changé de zone, la partie de l’effet vérifiant la zone pour “cette”
+                           carte échoue et se résout sans effet, même s’il y a d’autres cartes dont le nom complet correspond au nom complet
+                           de “cette” carte. Le joueur résout le restant de l’effet autant qu’il lui est possible de le faire.
+                           Exemple : Un joueur a 2 exemplaires d’Ursula - La plus perfide de toutes en jeu et les utilise toutes les deux pour
+                           chanter une chanson en utilisant sa capacité À l’unisson. La capacité ‘Quel Contrat’ d’Ursula indique : “Chaque fois
+                           que ce personnage chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si
+                           vous le faites, mettez cette carte sous votre pioche au lieu de la mettre dans votre défausse” Comme les deux copies
+                           d’Ursula ont été utilisées pour chanter ensemble, leurs deux capacités “Quel contrat” sont déclenchées et ajoutées au
+                           sac pour être résolues.
+                           Lorsque la première capacité déclenchée se résout, la carte Chanson jouée en utilisant À l’unisson est placée sous
+                           la pioche du joueur. Lorsque la deuxième capacité déclenchée se résout, la carte “cette chanson” n’est plus dans la
+                           défausse, donc cette partie de l’effet se résout sans effet. De la même manière, “cette chanson” ne fait désormais plus
+                           référence à une chanson spécifique ; la portion suivante de l’effet échoue à se résoudre elle aussi. Même s’il y a une
+                           autre carte chanson portant le même nom dans la défausse, “cette chanson” ne fait référence qu’à la carte Chanson
+                           spécifique qui a été chantée par Ursula lorsque les capacités déclenchées ont été ajoutées au sac, et non à une autre
+                           carte Chanson portant le même nom.
+                7.1.9.2.   Certaines capacités et effets utilisent “-ci” pour désigner la carte ayant produit l’effet, ou pour désigner un élément
+                           avec plus de proximité qu’une cible plus lointaine.
+                           Exemple : Chef Bogo – Fan de Gazelle a une capacité nommée ‘’Vous aussi, vous aimez Gazelle ?’’ qui a pour effet :
+                           ‘’Tant que vous avez un personnage Gazelle en jeu, ce personnage-ci gagne Mélomane 6.’’ Chef Bogo – Fan de Gazelle
+                           se confère Mélomane 6 à lui-même, et non aux personnages Gazelle en jeu.
         7.1.10. Certains effets demandent au joueur actif de révéler une ou plusieurs cartes. Pour révéler une carte, le joueur montre le recto
                 de la carte à l’ensemble des joueurs de la partie. Le joueur ne peut révéler que les cartes correspondant au groupe de cartes
                 indiqué par l’effet qui a été déclenché.
@@ -886,6 +881,11 @@ disneylorcana.com
                 révéler jusqu’à 2 cartes Personnage parmi elles et les ajouter à votre main. Remettez le reste sous votre pioche, dans l’ordre
                 de votre choix.” Les cartes que le joueur choisit de révéler ne peuvent provenir que des 5 premières cartes qu’il a regardées. Le
                 joueur ne peut pas choisir de révéler des cartes d’un autre groupe de cartes.
+
+
+
+disneylorcana.com
+©Disney                                                                  21
    7.2. Cartes Action
 
         7.2.1. Jouer une action peut déclencher des capacités. Dans ce cas, le joueur actif doit résoudre les effets de l’action
@@ -917,11 +917,6 @@ disneylorcana.com
                           pas le cas, la capacité déclenchée se résout sans effet.
         7.4.5. Certaines capacités déclenchées apparaissent comme suit “[Condition de déclenchement], [Effet]. [Effet].” Les deux effets
                 restent liés à la condition de déclenchement mais sont indépendants l’un de l’autre.
-
-
-
-disneylorcana.com
-©Disney                                                                   22
                 Exemple A : Vaiana - de Motunui a une capacité appelée ‘Nous allons le réparer’ qui indique : “Lorsque ce personnage est
                 envoyé à l’aventure, vous pouvez redresser vos autres personnages Princesse. Elles ne peuvent pas être envoyées à l’aventure
                 pour le reste de ce tour.” Si le joueur actif choisit d’envoyer à l’aventure Vaiana, aucune de ses autres princesses ne peut partir à
@@ -930,6 +925,10 @@ disneylorcana.com
                 personnage en bannit un autre via un défi durant votre tour, vous pouvez le redresser. Il ne peut pas être envoyé à l’aventure pour
                 le reste de ce tour.” Comme les deux effets sont tous deux liés à la condition de déclenchement, si Scar ne défie pas, il peut être
                 envoyé à l’aventure à ce tour comme d’habitude.
+
+
+disneylorcana.com
+©Disney                                                                   22
         7.4.6. Certaines capacités déclenchées apparaissent comme suit “[Condition de déclenchement] et [Condition de déclenchement],
                 [Effet]. Ces capacités fonctionnent comme deux capacités déclenchées, indépendantes l’une de l’autre, mais dont la
                 résolution conduit au même effet.
@@ -948,9 +947,9 @@ disneylorcana.com
                            Exemple : Voler aux Riches est une une action dont l’effet indique : “Chaque fois que l’un de vos personnages est envoyé
                            à l’aventure durant ce tour, chaque adversaire perd 1 éclat de Lore.” Lorsque l’effet de Voler aux Riches est résolu, il crée
                            la capacité à déclenchement flottant définie par la carte. Cette capacité existe jusqu’à la fin du tour. Lorsque son joueur
-                           envoie à l’aventure l’un de ses personnages ce tour, la condition de la capacité à déclenchement flottant est validée et
-                           une instance de cette capacité déclenchable est ajoutée au sac afin d’être résolue. La capacité à déclenchement flottant
-                           continue à exister hors du sac jusqu’à la fin du tour. Lorsque ce moment vient, la capacité expire.
+                           envoie à l’aventure l’un de ses personnages ce tour, la condition de la capacité à déclenchement flottant est validée
+                           et une instance de cette capacité déclenchable est ajoutée au sac afin d’être résolue. La capacité à déclenchement
+                           flottant continue à exister hors du sac jusqu’à la fin du tour. Lorsque ce moment vient, la capacité expire.
                 7.4.7.2.   Capacités à Déclenchement Différé - Ces capacités déclenchées sont créées pour être résolues à un moment
                            spécifique plus tard dans le jeu. Ce moment est spécifié dans la condition de la capacité à déclenchement différé.
                            La capacité existe hors du sac jusqu’à ce que sa condition soit validée. Lorsque la condition est validée, la capacité à
@@ -960,11 +959,6 @@ disneylorcana.com
                            capacité à déclenchement différé: “Bannissez-le à la fin de ce tour.” La capacité flottante à déclenchement différé
                            existe hors du sac jusqu’à l’étape de fin du tour, lorsque les effets de fin de tour sont déclenchées. À ce moment, la
                            capacité déclenchée est ajoutée au sac et doit être résolue.
-
-
-
-disneylorcana.com
-©Disney                                                                   23
    7.5. Capacités activables
 
         7.5.1. Les capacités activables sont des capacités que le joueur choisit ou non d’utiliser. Elles sont généralement écrites sous la
@@ -974,6 +968,10 @@ disneylorcana.com
         7.5.3. Pour utiliser une capacité activée, le joueur actif suit les étapes suivantes dans l’ordre. Si une partie de ce processus ne peut
                être exécutée, l’utilisation de la capacité est illégale. Ces étapes s’appliquent à toutes les capacités activées. Seul le joueur
                actif peut utiliser les capacités activées.
+
+
+disneylorcana.com
+©Disney                                                                    23
                  7.5.3.1. Tout d’abord, le joueur actif annonce la capacité qu’il a l’intention d’utiliser.
                  7.5.3.2. Ensuite, le joueur suit les étapes décrites aux points 4.3.4.4 à 4.3.4.6, en remplaçant toutes les occurrences du mot
                           “carte” par le mot “capacité”.
@@ -1002,34 +1000,64 @@ disneylorcana.com
                  s’applique en dehors de la zone de jeu.
    7.7. Effets de substitution
 
-        7.7.1.   Certains effets sont considérés comme étant des effets de substitution. Ces effets attendent que la condition indiquée se
-                 produise, puis remplacent partiellement ou complètement l’événement lorsque l’effet se résout.
-
-
-disneylorcana.com
-©Disney                                                                  24
+        7.7.1. Certains effets sont considérés comme étant des effets de substitution. Ces effets attendent que la condition indiquée se
+               produise, puis remplacent partiellement ou complètement l’événement lorsque l’effet se résout.
         7.7.2. Les effets contenant les termes “à la place” sont les effets de substitution les plus courants.
-                Exemple : La capacité ‘Slash !’ du Cimeterre volé indique “{E} - Choisissez un personnage, il gagne +1 {S} pour le reste de ce tour.
-                S’il s’agit d’un personnage Aladdin, il gagne +2 {S} à la place.”
+                 Exemple : La capacité ‘Slash !’ du Cimeterre volé indique “{E} - Choisissez un personnage, il gagne +1 {S} pour le reste de ce tour.
+                 S’il s’agit d’un personnage Aladdin, il gagne +2 {S} à la place.”
         7.7.3. Les capacités incluant le verbe “passer” sont des effets de substitution.
         7.7.4. Les capacités incluant le verbe “entrer” ou “rentrer” sont des effets de substitution.
         7.7.5. Les effets de substitution ne se déclenchent qu’une seule fois et doivent être présents avant que l’événement ne se produise. Si
-               un événement est ainsi remplacé, cet événement n’a jamais eu lieu. Le nouvel événement modifié se réalise, pouvant déclencher
-               certaines capacités. Les capacités qui se seraient déclenchées si l’événement d’origine avait pu se produire ne se déclenchent pas.
-        7.7.6. Un seul effet de substitution peut remplacer un effet particulier. S’il y a plusieurs effets de substitution affectant le même
-               effet, le joueur ayant joué la carte affectée par ces effets choisit quel effet il souhaite appliquer.
-        7.7.7. Un effet qui passe une étape ou une phase de jeu est un effet de substitution qui remplace cette phase ou cette étape par
-               rien du tout. “Passez votre [étape/phase]” signifie, en substance : “Si un joueur devait effectuer une [étape/phase], ne faites
-               rien à la place.” Si l’effet fait passer une étape ou une phase, aucune portion de cette étape ou de cette phase n’arrive. Toute
-               capacité ou tout effet qui devrait se déclencher à cause de cette étape ou phase ne se déclenche donc pas.
+                 un événement est ainsi remplacé, cet événement n’a jamais eu lieu. Le nouvel événement modifié se réalise, pouvant déclencher
+                 certaines capacités. Les capacités qui se seraient déclenchées si l’événement d’origine avait pu se produire ne se déclenchent pas.
+
+
+
+disneylorcana.com
+©Disney                                                                   24
+        7.7.6. Certaines capacités ont des effets de substitution qui remplacent partiellement ou totalement leurs propres capacités,
+               appelés effets d’auto-substitution. Ces effets s’appliquent toujours en premier.
+        7.7.7. Si plusieurs effets de substitution peuvent s’appliquer au même effet, le joueur dont les cartes ou les effets de carte sont
+               affectés suit les étapes indiquées ici.
+                7.7.7.1.   Premièrement, si un effet d’auto-substitution peut s’appliquer, choisissez-en un et passez à la section 7.7.7.3. Si
+                           aucun ne peut s’appliquer, passez à l’étape suivante.
+                7.7.7.2.   Deuxièmement, si n’importe quelle autre effet de substitution peut s’appliquer, choisissez-en un.
+                7.7.7.3.   Une fois l’effet de substitution choisi appliqué, un événement modifié se réalise. Répétez ce processus, en tenant
+                           compte des autres effets de substitution pouvant s’appliquer à l’événement modifié, jusqu’à ce qu’aucun autre effet de
+                           substitution ne puisse s’appliquer.
+                           Exemple : Le joueur actif a Mine des sept nains en jeu, et le joueur adverse a une carte La Bête – Prêt à se sacrifier et
+                           une carte Polochon – La voix de la raison en jeu. Mine des sept nains a la capacité ‘Défense en montagne’ qui indique :
+                           “Durant votre tour, la première fois que vous déplacez un personnage sur ce lieu, vous pouvez choisir un personnage et
+                           lui infliger 1 dommage. Si le personnage déplacé est un Chevalier, infligez 2 dommages à la place.” La Bête – Prêt à se
+                           sacrifier a la capacité ‘Protéger les autres’ qui indique : “Si des dommages sont infligés à l’un de vos autres personnages,
+                           placez-les sur ce personnage à la place.”
+                           Le joueur actif joue ensuite Dormeur – Chevalier amorphe, un personnage avec la classification Chevalier, et le déplace
+                           sur Mine des sept nains. Lorsque la capacité déclenchée du lieu se résout, le joueur actif choisit d’infliger des dommages
+                           à Polochon, ce qui entraîne l’événement suivant : infligez 1 dommage à Polochon – La voix de la raison. Les effets de
+                           substitution de Mine des sept nains et de La Bête peuvent s’appliquer à cet effet. Polochon est affecté, donc le joueur
+                           adverse suit les étapes décrites dans les sections 7.7.7.1 à 7.7.7.3. Premièrement, le joueur adverse vérifie s’il y a des effets
+                           d’auto-substitution. L’effet de Mine des sept nains “infligez 2 dommages à la place” est un effet d’auto-substitution qui peut
+                           s’appliquer, donc le joueur adverse le choisit et l’applique. En conséquence, l’événement modifié est : infligez 2 dommages
+                           à Polochon – La voix de la raison. Les étapes sont répétées et le joueur adverse vérifie s’il y a d’autres effets d’auto-
+                           substitution. N’en trouvant aucun, le joueur adverse passe à l’étape suivante et vérifie s’il y a d’autres effets de substitution.
+                           La Bête – Prêt à se sacrifier a un effet de substitution qui peut s’appliquer, donc le joueur adverse le choisit et l’applique, ce
+                           qui donne l’événement suivant : placez 2 dommages sur La Bête – Prêt à se sacrifier. Le joueur adverse répète les étapes,
+                           mais comme aucun effet de substitution ne peut s’appliquer, l’effet se résout et le jeu continue.
+        7.7.8. Un effet qui passe une étape ou une phase de jeu est un effet de substitution qui remplace cette phase ou cette étape par
+                rien du tout. “Passez votre [étape/phase]” signifie, en substance : “Si un joueur devait effectuer une [étape/phase], ne faites
+                rien à la place.” Si l’effet fait passer une étape ou une phase, aucune portion de cette étape ou de cette phase n’arrive. Toute
+                capacité ou tout effet qui devrait se déclencher à cause de cette étape ou phase ne se déclenche donc pas.
                 Exemple : Arthur - Écuyer Déterminé a une capacité Fini Les livres qui se lit comme suit : “Passez l’étape Piocher au début de
-                votre tour”. Lorsqu’un joueur devrait commencer son étape Piocher avec Arthur en jeu, il passe son étape Piocher à la place et
+                votre tour” Lorsqu’un joueur devrait commencer son étape Piocher avec Arthur en jeu, il passe son étape Piocher à la place et
                 passe à la Phase Principale de son tour. Cependant, si un joueur parvient à jouer son Arthur pendant son étape de Pioche, l’étape
                 de pioche n’est pas passée, et se déroule normalement.
    7.8. Capacités modificatrices
 
         7.8.1. Certaines capacités et certains effets peuvent modifier les caractéristiques d’un personnage ou d’un lieu en jeu, comme la
                 Force {S} ou la valeur de Lore {L}.
+
+disneylorcana.com
+©Disney                                                                     25
                 7.8.1.1.   Un modificateur s’applique à une carte en continu, soit pendant une durée déterminée, soit aussi longtemps que
                            la carte à l’origine du modificateur est en jeu. Chaque fois qu’un modificateur s’applique à la caractéristique d’une
                            carte, cette caractéristique change immédiatement. Ce processus n’utilise pas le sac. (Voir 8.7, “Sac”.)
@@ -1046,11 +1074,6 @@ disneylorcana.com
                            a maintenant 3 {S} et 2 {W}. Plus tard dans le tour, Heihei subit -5 {S} d’un autre effet. La {S} de Heihei est modifiée, il a
                            désormais -2 {S}. Grâce à un effet ultérieur, Heihei gagne +1 {S}, il a finalement -1 {S}. Chaque fois qu’un modificateur
                            s’applique à Heihei, tous les autres modificateurs qui s’appliquent à lui se combinent avec, en même temps.
-
-
-
-disneylorcana.com
-©Disney                                                                    25
         7.8.2. Si un personnage a une {S} négative, il n’inflige aucun dommage pendant les défis et compte ayant une Force de valeur 0, sauf
                 dans le cadre de l’application des modificateurs permettant de déterminer sa {S}. (Voir 7.8.1.1 et 7.8.1.2.)
                 Exemple : Le joueur actif a Yokai - Super-méchant scientifique et Microbots en jeu. Yokai a une capacité déclenchée appelée
@@ -1074,13 +1097,17 @@ disneylorcana.com
                 cartes en main de l’adversaire change ou qu’un autre modificateur soit appliqué à sa valeur de Lore.
 
 
+
+
+disneylorcana.com
+©Disney                                                                    26
 8. ZONES
    8.1. Généralités
 
         8.1.1. Toutes les zones sont considérées comme étant séparées les unes des autres. Certaines zones peuvent être physiquement
-                présentes dans le même espace mais elles restent considérées comme des zones séparées pour les besoins du jeu.
-                Exemple : La table représente la zone de jeu des joueurs. Bien que la pioche, la réserve d’encre et la défausse de chaque joueur
-                occupe cet espace, dans le cadre des règles du jeu, ces éléments sont considérés comme étant dans des zones différentes.
+                 présentes dans le même espace mais elles restent considérées comme des zones séparées pour les besoins du jeu.
+                 Exemple : La table représente la zone de jeu des joueurs. Bien que la pioche, la réserve d’encre et la défausse de chaque joueur
+                 occupe cet espace, dans le cadre des règles du jeu, ces éléments sont considérés comme étant dans des zones différentes.
         8.1.2. Les cartes dans une zone publique sont accessibles à tous les joueurs. Les joueurs peuvent regarder et compter les cartes se
                trouvant dans une zone publique à n’importe quel moment.
         8.1.3. Les cartes se trouvant dans une zone privée ne sont pas accessibles à tous les joueurs. Les joueurs ne peuvent pas les regarder
@@ -1091,10 +1118,6 @@ disneylorcana.com
                particulier, il peut “ne pas trouver” cette carte.
         8.1.5. Si une carte entre dans une zone privée depuis le jeu, toutes les informations et liens de la carte originale sont retirés. Tous les
                effets, dommages et autres caractéristiques de la carte sont retirés et la carte est considérée comme étant une nouvelle carte.
-
-
-disneylorcana.com
-©Disney                                                                   26
    8.2. Pioche
 
         8.2.1. La pioche d’un joueur est la zone où les cartes pouvant être utilisées par le joueur au cours de la partie sont conservées.
@@ -1117,6 +1140,11 @@ disneylorcana.com
                négatives.
         8.3.4. Si un effet indique à un joueur de se défausser d’un certain nombre de cartes, ce joueur choisit les cartes défaussées en
                respectant ce nombre et les place dans sa défausse.
+
+
+
+disneylorcana.com
+©Disney                                                                  27
    8.4. Jeu
 
         8.4.1. La zone de jeu d’un joueur correspond à la zone où les personnages, objets et lieux sont joués. Seuls les personnages, objets et
@@ -1136,10 +1164,6 @@ disneylorcana.com
                cartes qu’un joueur peut avoir dans sa réserve d’encre.
         8.5.2. Les cartes entrent dans la réserve d’encre face cachée et redressée. Si plusieurs cartes sont placées dans la réserve d’encre au
                même moment, chaque carte est considérée comme une entité distincte.
-
-
-disneylorcana.com
-©Disney                                                                 27
         8.5.3. La réserve d’encre est une zone privée. Les joueurs ne peuvent pas regarder les cartes dans une réserve d’encre, même s’il
                s’agit de la leur, et ce jusqu’à la fin de la partie. Les joueurs peuvent compter le nombre de cartes présentes dans n’importe
                quelle réserve d’encre à n’importe quel moment.
@@ -1160,6 +1184,12 @@ disneylorcana.com
                joueur à n’importe quel moment. Un joueur peut regarder et réarranger les cartes de sa défausse à tout moment.
         8.6.4. Si plusieurs cartes entrent dans la zone de défausse au même moment, le joueur à qui elles appartiennent choisit dans quel
                ordre il souhaite les placer.
+
+
+
+
+disneylorcana.com
+©Disney                                                                 28
    8.7. Sac
 
         8.7.1. Contrairement aux autres zones, le sac n’est pas une zone physique mais juste un espace où les effets des capacités
@@ -1182,8 +1212,7 @@ disneylorcana.com
         8.7.9. Si un joueur est éliminé de la partie alors qu’il a des capacités en attente de résolution dans le sac, ces capacités cessent
                d’exister.
 
-disneylorcana.com
-©Disney                                                                 28
+
 9. DOMMAGES
    9.1. Représenter les dommages
 
@@ -1203,30 +1232,27 @@ disneylorcana.com
                  de ses jetons Dommage sur un personnage adverse de votre choix.” Le joueur choisit alors de déplacer 1 dommage de Simba vers
                  Le Prince. Le joueur retire 1 dommage et le place sur Le Prince. Le mot-clé Résistance du Prince n’affecte pas ce dommage car il
                  ne s’agit pas de dommages infligés.
+disneylorcana.com
+©Disney                                                                   29
    9.4. Quitter la zone de jeu
 
         9.4.1. Lorsqu’une carte avec des dommages quitte la zone de jeu, lors de la vérification de l’état du jeu, tous les dommages placés
-                 sur cette dernière cesse d’exister.
+                sur cette dernière cesse d’exister.
 
 
 10. MOTS-CLÉS
    10.1. Généralités
 
         10.1.1. Les capacités à mots-clés octroient une capacité au personnage qui la possède en fonction des mots utilisés. Certaines de ces
-                 capacités peuvent se cumuler, ou s’associer ; ces capacités sont suivies de “+[N]”. Une capacité à mots-clés qui n’est pas suivie
-                 d’un “+[N]” ne peut cumuler son effet avec celui d’une capacité ayant ou apportant le même mot-clé.
-                 Exemple : Si vous avez un personnage avec Soutien et un autre effet en jeu qui donne également Soutien à ce personnage, seule
-                 la première instance de ce mot-clé s’applique. Par contre, si ce personnage bénéficie des mots-clés Résistance +1 et Résistance +2,
-                 ces capacités se cumulent et le personnage a Résistance +3.
+                capacités peuvent se cumuler, ou s’associer ; ces capacités sont suivies de “+[N]”. Une capacité à mots-clés qui n’est pas suivie
+                d’un “+[N]” ne peut cumuler son effet avec celui d’une capacité ayant ou apportant le même mot-clé.
+                Exemple : Si vous avez un personnage avec Soutien et un autre effet en jeu qui donne également Soutien à ce personnage, seule
+                la première instance de ce mot-clé s’applique. Par contre, si ce personnage bénéficie des mots-clés Résistance +1 et Résistance +2,
+                ces capacités se cumulent et le personnage a Résistance +3.
         10.1.2. Les rubriques suivantes comprennent les définitions techniques des capacités des mots-clés. Pour une description plus
                 générale des capacités des mots-clés, référez-vous à la section 7.3, “Mots-clés”.
         10.1.3. Le texte de rappel standard pour chaque mot-clé est inclus à titre de référence. Un texte de rappel n’est pas un texte de règle.
                 Il ne s’agit que d’un aide-mémoire qui peut varier sans pour autant changer la signification des règles relatives aux mots-clés.
-
-
-
-disneylorcana.com
-©Disney                                                                   29
    10.2. Rempart
 
         10.2.1. Le mot-clé Rempart représente deux capacités.
@@ -1250,6 +1276,9 @@ disneylorcana.com
                 ne peut être défié que par d’autres personnages avec Insaisissable.”
         10.4.2. Le texte de rappel standard pour Insaisissable est “(Seuls les personnages avec Insaisissable peuvent le défier.)”
 
+
+disneylorcana.com
+©Disney                                                                 30
    10.5. Combattant
 
         10.5.1. Le mot-clé Combattant représente deux capacités passives.
@@ -1269,13 +1298,8 @@ disneylorcana.com
         10.6.2. Le texte de rappel standard pour un personnage ayant Résistance indique “(Les dommages infligés à ce personnage sont
                 réduits de N.)” Le texte de rappel standard pour un lieu doté d’une Résistance est “(Les dommages infligés à ce lieu sont
                 réduits de N.)”
-
-
-
-disneylorcana.com
-©Disney                                                                 30
         10.6.3. Si le montant des dommages infligés à un personnage ou à un lieu est réduit à 0, il est considéré qu’aucun dommage n’a été
-                  infligé.
+                infligé.
    10.7. Charge
 
         10.7.1. Le mot-clé Charge représente une capacité passive. Charge signifie “Ce personnage peut lancer un défi dès le tour où il est
@@ -1296,29 +1320,29 @@ disneylorcana.com
                 un personnage qui ne l’est pas.
         10.8.5. Un personnage Altéré conserve les dommages du personnage sur lequel il a été placé. Il ne bénéficie pas du texte du
                 personnage sur lequel il a été placé mais conserve tous les effets qui s’appliquaient à ce personnage.
-        10.8.6. Lorsqu’un personnage Altéré quitte la zone de jeu, toutes les cartes de sa pile se déplacent vers la même zone que la carte du
-                personnage Altéré, et ces cartes ne forment plus une pile. (Voir 5.1.7.)
-        10.8.7. Le mot-clé Alter a deux variantes : Alter de [Classification] et Alter universel. Ces capacités à mots-clés sont des variantes de
-                la capacité Alter, ce qui signifie qu’elles suivent toutes les règles du mot-clé Alter avec les exceptions suivantes.
-                  10.8.7.1. Alter de [Classification] signifie “Si vous avez un personnage en jeu avec la même [Classification] que cette carte,
-                            vous pouvez jouer cette carte en payant son coût Alter au lieu de son coût standard en encre. Si vous le faites, posez
-                            cette carte au-dessus d’une carte Personnage que vous avez en jeu avec la même classification.” Le texte de rappel
-                            standard pour Alter de [Classification] est “(Vous pouvez [Payer un Coût] pour jouer ce personnage sur l’un de vos
-                            personnages [Classification].)”
-                  10.8.7.2. Alter universel signifie “Si vous avez un personnage en jeu, vous pouvez jouer cette carte en payant son coût Alter
-                            au lieu de son coût standard en encre. Si vous le faites, posez cette carte au-dessus d’une carte Personnage que
-                            vous avez en jeu.” Le texte de rappel standard pour Alter universel est “(Vous pouvez [Payer un Coût] pour jouer ce
-                            personnage sur l’un de vos personnages.)”
-   10.9. Mélomane
-
-        10.9.1. Le mot-clé Mélomane représente une capacité passive qui affecte la manière dont un personnage peut payer le coût alternatif
-                  d’une chanson en la chantant. Mélomane N signifie “Ce personnage peut {E} pour payer le coût alternatif d’une carte Chanson
-                  comme s’il représentait le coût N à payer en encre, au lieu d’utiliser ses encres.”
 
 
 
 disneylorcana.com
-©Disney                                                                  31
+©Disney                                                                 31
+        10.8.6. Lorsqu’un personnage Altéré quitte la zone de jeu, toutes les cartes de sa pile se déplacent vers la même zone que la carte du
+                personnage Altéré, et ces cartes ne forment plus une pile. (Voir 5.1.7.)
+        10.8.7. Le mot-clé Alter a deux variantes : Alter de [Classification] et Alter universel. Ces capacités à mots-clés sont des variantes de
+                la capacité Alter, ce qui signifie qu’elles suivent toutes les règles du mot-clé Alter avec les exceptions suivantes.
+                10.8.7.1. Alter de [Classification] signifie “Si vous avez un personnage en jeu avec la même [Classification] que cette carte,
+                          vous pouvez jouer cette carte en payant son coût Alter au lieu de son coût standard en encre. Si vous le faites, posez
+                          cette carte au-dessus d’une carte Personnage que vous avez en jeu avec la même classification.” Le texte de rappel
+                          standard pour Alter de [Classification] est “(Vous pouvez [Payer un Coût] pour jouer ce personnage sur l’un de vos
+                          personnages [Classification].)”
+                10.8.7.2. Alter universel signifie “Si vous avez un personnage en jeu, vous pouvez jouer cette carte en payant son coût Alter
+                          au lieu de son coût standard en encre. Si vous le faites, posez cette carte au-dessus d’une carte Personnage que
+                          vous avez en jeu.” Le texte de rappel standard pour Alter universel est “(Vous pouvez [Payer un Coût] pour jouer ce
+                          personnage sur l’un de vos personnages.)”
+   10.9. Mélomane
+
+        10.9.1. Le mot-clé Mélomane représente une capacité passive qui affecte la manière dont un personnage peut payer le coût alternatif
+                d’une chanson en la chantant. Mélomane N signifie “Ce personnage peut {E} pour payer le coût alternatif d’une carte Chanson
+                comme s’il représentait le coût N à payer en encre, au lieu d’utiliser ses encres.”
         10.9.2. Le texte de rappel standard pour Mélomane est “(Ce personnage est considéré comme ayant un coût de N pour chanter des chansons.)”
         10.9.3. Ce personnage compte comme ayant un coût N uniquement pour chanter une chanson durant le processus où le joueur joue
                 une carte. Le coût en encre de ce personnage ne change pas.
@@ -1341,6 +1365,10 @@ disneylorcana.com
                  vous pouvez ajouter la {S} de ce personnage à la {S} d’un autre personnage de votre choix ce tour-ci”.
         10.11.2. Le texte de rappel standard pour Soutien est “(Lorsque ce personnage est envoyé à l’aventure, vous pouvez ajouter sa {S} à celle
                  d’un autre personnage au choix pour le reste de ce tour.)”
+
+
+disneylorcana.com
+©Disney                                                                 32
    10.12. Dissipation
 
         10.12.1. Le mot-clé Dissipation représente une capacité déclenchée. Dissipation signifie “Lorsque ce personnage est choisi par un
@@ -1361,7 +1389,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 32
+©Disney                                                                 33
 GLOSSAIRE
 Action
 Un type de carte à usage unique qui donne immédiatement un avantage au joueur qui la joue. Lorsqu’un joueur joue une action, il résout ses effets
@@ -1402,9 +1430,8 @@ Chanson
 Un type d’action pouvant être jouée en épuisant un personnage ou en payant son coût en encre.
 
 
-
 disneylorcana.com
-©Disney                                                                  33
+©Disney                                                                  34
 Classification
 Une catégorie identifiant certaines caractéristiques de la carte et qui peut être mentionnée dans les règles d’autres cartes. Les classifications
 d’une carte sont situées à droite de leur symbole d’encre.
@@ -1433,7 +1460,7 @@ La ressource que les joueurs doivent gagner pour remporter la partie. Le premier
 Effet
 Ce qui arrive lorsqu’une action ou une capacité est résolue.
 Effet de substitution
-Un effet généré par une capacité permanente qui remplace un effet par un autre.
+Un effet généré par certaines capacités qui remplacent un effet par un autre.
 Encre
 La ressource que les joueurs utilisent pour payer le coût permettant de jouer une carte ou d’utiliser certaines capacités. L’encre d’un joueur est
 représentée par les cartes placées dans sa réserve d’encre.
@@ -1448,7 +1475,7 @@ des effets de carte.
 
 
 disneylorcana.com
-©Disney                                                                  34
+©Disney                                                                  35
 Épuisée
 Une carte tournée à l’horizontal.
 Épuiser
@@ -1492,7 +1519,7 @@ Toute personne contre laquelle un joueur joue. Aussi appelé adversaire.
 
 
 disneylorcana.com
-©Disney                                                                   35
+©Disney                                                                   36
 « Jouer » une carte
 L’action de jouer une carte. Une carte ne peut être jouée qu’à partir de la main d’un joueur. Si la carte jouée est une action, le joueur révèle la
 carte, paye son coût, résout son effet, puis la place dans sa défausse. Si la carte jouée est un personnage, un objet ou un lieu, ce joueur révèle la
@@ -1536,7 +1563,7 @@ Ne rien faire au lieu d’effectuer une phase ou étape de jeu.
 
 
 disneylorcana.com
-©Disney                                                                    36
+©Disney                                                                    37
 Personnage
 Carte dont la ligne de classification comporte au moins l’une des classifications énumérées au point 6.1.2.2 et qui présente les caractéristiques {S}
 et {W}. Un personnage, lorsqu’il est joué est placé dans la zone de jeu, y reste jusqu’à ce qu’il soit banni ou qu’il quitte la zone de jeu suite à un effet.
@@ -1580,7 +1607,7 @@ soit son recto. Les joueurs ne peuvent pas regarder le recto d’une carte dans 
 
 
 disneylorcana.com
-©Disney                                                                      37
+©Disney                                                                      38
 Révéler
 Lorsqu’un effet demande à un joueur de révéler le recto d’une ou plusieurs de ses cartes appartenant à un groupe défini à l’ensemble des autres
 joueurs.
@@ -1619,12 +1646,14 @@ la fin de la résolution complète du dernier effet présent dans le sac. (Voir 
 Version
 Un descriptif permettant de différencier les cartes portant le même nom dans le but de construire un deck. Le nom d’un personnage ou d’un lieu
 suivi de sa version compose le nom complet d’une carte.
-Volonté {W}
-Le nombre de dommages nécessaire pour pouvoir bannir un personnage ou un lieu.
+
+
 
 
 disneylorcana.com
-©Disney                                                                    38
+©Disney                                                                    39
+Volonté {W}
+Le nombre de dommages nécessaire pour pouvoir bannir un personnage ou un lieu.
 Zone
 Un espace, physique ou non, utilisé dans le cadre du jeu. Le fait qu’une zone soit publique ou privée détermine quelles informations peuvent être
 partagées concernant les cartes qui s’y trouvent. Les zones de chaque joueur sont : pioche, main, jeu, réserve d’encre, défausse et sac. Chaque
@@ -1641,8 +1670,27 @@ Une zone où les cartes sont accessibles à tous les joueurs. Les joueurs peuven
 
 
 disneylorcana.com
-©Disney                                                                  39
+©Disney                                                                 40
 RÉSUMÉ DES MISES À JOUR
+22 août 2025
+Afin de préparer la sortie de Fabuleux, les mises à jour suivantes ont été apportées aux Règles Complètes de Disney Lorcana TCG.
+
+Mises à jour générales
+   ◊ 1.6.1.5. Mise à jour de la définition des effets de substitution afin de l’aligner sur la définition de la section 7.7.1.
+    ◊    1.9.1.3. Ajout d’une formulation pour clarifier quand un personnage est considéré comme ayant banni un autre personnage ou un autre lieu.
+    ◊    7.7.6. Définition de l’effet d’auto-substitution.
+    ◊    7.7.7. Ajout des étapes pour appliquer les effets de substitution afin de clarifier comment appliquer plusieurs effets de substitution en même
+         temps.
+
+Mises à jour du Glossaire
+   ◊ effet de substitution : mise à jour pour aligner la définition sur celle de la section 7.7.1.
+
+
+
+
+disneylorcana.com
+©Disney                                                                         41
+RÉSUMÉ DES PRÉCÉDENTES MISES À JOUR
 27 mai 2025
 Afin de préparer la sortie de ‘Le Règne de Jafar’, les mises à jour suivantes ont été apportées aux Règles Complètes de Disney Lorcana.
     ◊ Nouvelle règle : Capacités à Déclenchement Différé
@@ -1685,7 +1733,7 @@ Ajout de la formulation suivante à la section 7.7.
 
 
 disneylorcana.com
-©Disney                                                                        40
+©Disney                                                                        42
      7.7.7. Un effet qui passe une étape ou une phase de jeu est un effet de substitution qui remplace cette phase ou cette étape par rien du tout.
             “Passez votre [étape/phase]” signifie, en substance : “Si un joueur devait effectuer une [étape/phase], ne faites rien à la place.” Si l’effet
             fait passer une étape ou une phase, aucune portion de cette étape ou de cette phase n’arrive. Toute capacité ou tout effet qui devrait se
@@ -1711,7 +1759,7 @@ Mises à jour du Glossaire
 
 
 disneylorcana.com
-©Disney                                                                        41
+©Disney                                                                        43
 RÉSUMÉ DES PRÉCÉDENTES MISES À JOUR
 28 février 2025
 Afin de préparer la sortie de l’île d’Archazia, des mises à jour ont été apportées aux Règles globales de Disney Lorcana. Elles portent sur les points suivants
@@ -1751,7 +1799,7 @@ Ajout de définitions techniques pour Alter de [Classification] et Alter univers
 
 
 disneylorcana.com
-©Disney                                                                        42
+©Disney                                                                        44
 Capacité du Mot-clé Dissipation
 Ajout d’une définition technique pour la capacité du mot-clé Dissipation.
      10.12. Dissipation
@@ -1779,7 +1827,7 @@ Mises à jour du Glossaire
 
 
 disneylorcana.com
-©Disney                                                                        43
+©Disney                                                                        45
 RÉSUMÉ DES PRÉCÉDENTES MISES À JOUR
 9 août 2024
 Pour préparer la sortie de Ciel Scintillant, les mises à jour suivantes ont été apportées aux règles complètes de Disney Lorcana
@@ -1820,7 +1868,7 @@ mot-clé.
 
 
 disneylorcana.com
-©Disney                                                                      44
+©Disney                                                                      46
      10.5. Combattant
 		 10.5.1. Le mot-clé Combattant représente deux capacités passives.
 		 10.5.2. La première capacité signifie “Ce personnage ne peut pas partir à l’aventure.”
@@ -1862,7 +1910,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    45
+©Disney                                                                    47
 		 10.9.2. Le texte de rappel standard pour Mélomane est “(Ce personnage est considéré comme ayant un coût de N pour chanter des
            chansons.)”
 		 10.9.3. Ce personnage compte comme ayant un coût N uniquement pour chanter une chanson durant le processus où le joueur joue une
@@ -1906,7 +1954,7 @@ Ajout d’une formulation de clarification aux sections 1.9.1 et 1.9.2 concernan
 
 
 disneylorcana.com
-©Disney                                                                        46
+©Disney                                                                        48
      1.9.2. Une vérification de l’état du jeu est effectuée à la fin de chaque étape, après la résolution d’une action ou d’une capacité, et après la
             résolution de chaque effet dans le sac. Lors d’une vérification de l’état du jeu, il faut d’abord vérifier et compléter toutes les conditions
             de victoire et de défaite ainsi que les actions obligatoires. Ensuite, si aucune condition de victoire ou dedéfaite n’est remplie, vérifiez et
@@ -1954,7 +2002,7 @@ spécifique :
 
 
 disneylorcana.com
-©Disney                                                                        47
+©Disney                                                                        49
 [A] à [B]
 Ajout d’une formulation de clarification pour mieux simplifier et expliquer l’élaboration de ces règles.
      7.1.1.   Chaque clause sur une carte est considérée comme un effet et/ou un coût distinct. Chaque clause est séparée par un point.
@@ -1996,7 +2044,7 @@ Mises à jour pratiques
 
 
 disneylorcana.com
-©Disney                                                                         48
+©Disney                                                                          50
 Mises à jour du Glossaire
    ◊ Personnage : Mise à jour de la formulation pour faire référence à la liste de classification figurant désormais au point 6.1.2.2.
    ◊     Deck : Mise à jour de la formulation pour inclure d’autres formats.
@@ -2008,110 +2056,4 @@ Mises à jour du Glossaire
 
 
 disneylorcana.com
-©Disney                                                                          49
-RÉSUMÉ DES PRÉCÉDENTES MISES À JOUR
-20 mai 2024
-Afin de préparer la sortie de Le Retour d’Ursula, des mises à jour ont été apportées aux Règles globales de Disney Lorcana. Elles portent sur les points
-suivants :
-   ◊     Règle nouvellement ajoutée : capacité du mot-clé À l’unisson
-   ◊     Règle nouvellement ajoutée : tours en simultanés
-   ◊     Règle nouvellement ajoutée : une boucle
-
-À l’unisson
-Ajout d’un paragraphe de règles :
-     10.10. À l’unisson
- 		           10.10.1. Au lieu de payer le coût en encre de cette carte, vous pouvez {E} n’importe quel nombre de vos personnages ou de personnages de
-                       vos coéquipiers dont la valeur totale du coût en encre N équivaut ou dépasse le coût en encre pour jouer cette carte.
- 		           10.10.2. Lorsque vous jouez une chanson en utilisant la capacité À l’unisson, additionnez les coûts en encre d’un ou de plusieurs de vos
-                       personnages redressés. Si le montant total atteint ou dépasse le coût indiqué pour À l’unisson, le ou les personnages peuvent
-                       chanter la chanson.
- 		           10.10.3. Lorsqu’un personnage chante une chanson avec À l’unisson, toutes les capacités déclenchées sur lui qui ont la condition “Chaque
-                       fois que ce personnage chante une chanson” se produisent lorsque la condition de déclenchement est remplie.
-
-Tours en simultanés
-Ajout d’un paragraphe de règles et d’un exemple :
-     1.10.3. Certains formats de jeu multijoueurs utilisent des tours en simultanés.
- 		           1.10.3.1. Lors d’un tour simultané, tous les joueurs d’une même équipe progressent en même temps dans les phases et les étapes du jeu.
-                        Pendant la phase principale, les joueurs peuvent effectuer toutes les actions de leur tour qu’ils pourraient effectuer normalement,
-                        dans l’ordre qu’ils souhaitent. Les joueurs doivent effectuer une action du tour dans son intégralité avant de passer à l’action
-                        suivante.
- 		           1.0.3.2. Si des capacités ou des effets déclenchés sont ajoutés au sac par plusieurs joueurs lors d’un tour en simultané, ces capacités ou
-                       effets déclenchés sont ajoutés au sac par l’équipe dans son ensemble, et l’ordre dans lequel ils sontrésolus est choisi par l’équipe.
-                       Outre ces points, la résolution suit les mêmes règles que celles énoncées à la section 8.7, “Sac”.
- 			                   Exemple : Trois joueurs sont membres de la même équipe et effectuent un tour en simultané. Lors de l’étape Redresser de la Phase
-                       de Réveil, les trois joueurs redressent leurs cartes en même temps. Lors de l’étape Vérifier, les trois joueursgagnent des éclats de
-                       Lore grâce aux lieux qu’ils ont en jeu {L} et ajoutent en même temps dans le sac les effets ou capacités qui se sont déclenchés lors de
-                       l’étape Redresser. Lors de l’étape Piocher, les trois joueurs tirent une carte de leur jeu en même temps.
- 			                   Une fois qu’ils sont entrés dans la Phase Principale, les joueurs effectuent leur tour en simultané. Le premier joueur veut mettre
-                       une carte dans sa réserve d’encre. Le deuxième veut envoyer un personnage à l’aventure, et le troisième a décidé que l’un de ses
-                       personnages défierait un personnage adverse. Les joueurs peuvent décider de l’ordre de ces actions de tour, mais chaque action de
-                       tour doitêtre accomplie dans son intégralité avant que le joueur suivant ne puisse agir.
- 			                   Pendant la phase de Fin de Tour, les joueurs déclarent la fin de leur tour. Tous les déclencheurs sont ajoutés au sac en même temps
-                       et tous les effets de “ce tour” se terminent en même temps.
-
-
-
-disneylorcana.com
-©Disney                                                                        50
-Une boucle
-Ajout d’un paragraphe de règles :
-     7.1.7. Parfois, une combinaison de capacités peut être répétée indéfiniment, ce que l’on appelle une “boucle”. Si tous les joueurs connaissent et
-            comprennent les actions de chaque répétitions de la boucle, le joueur qui maintient la boucle propose un nombre spécifique d’itérations. La
-            partie progresse alors à la fin du nombre de répétitions défini sans qu’il ne soit nécessaire de les réaliser concrètement. Puis la partie reprend
-            avec une nouvelle action à réaliser.
-
-Mises à jour générales
-   ◊ 4.2.1. Correction d’un défaut où certains effets pouvaient se terminer plus tôt que prévu.
-   ◊    4.3.4.5. et 4.3.4.6. Clarification de la manière dont le coût total d’une carte est déterminé et payé.
-   ◊    4.3.4.9. Ajout d’une section pour clarifier le lien entre Mélomane et le coût total.
-   ◊    4.3.4.10. Ajout d’une section pour clarifier le fait de jouer gratuitement une carte.
-   ◊    4.3.8.2. Ajout d’une section pour clarifier le fait d’utiliser une capacité “gratuitement”.
-   ◊    7.1.5. Formulation clarifié dans l’exemple.
-   ◊    7.1.6. Ajout d’une section pour clarifier la manière de jouer une carte dans le cadre de la résolution d’une capacité.
-   ◊    7.1.8. Ajout d’une section pour clarifier “jusqu’à”.
-   ◊    7.1.9. Ajout d’une section pour clarifier “ce/cette”.
-   ◊    7.4.4. Ajout d’une section pour clarifier les capacités déclenchées avec un “si”.
-   ◊    7.4.5. Ajout d’une section pour clarifier les capacités déclenchées avec deux effets indépendants l’un de l’autre.
-   ◊    7.5.3.–7.5.6. Clarification des étapes de paiement du coût d’une capacité activée.
-   ◊    7.8.3. Ajout d’une section pour clarifier ce qui se passe lorsqu’une carte a une valeur de Lore négative.
-   ◊    10.8.1. Mise à jour de la formulation pour faire référence aux coûts alternatifs de paiement du coût d’Alter.
-
-Mises à jour pratiques
-   ◊ 1.1.5. Ajout d’un lien hypertexte vers les règles de tournoi Disney Lorcana TCG et suppression des références redondantes.
-   ◊    1.4.2. Clarification : les coéquipiers ne sont pas des adversaires.
-   ◊    1.9.6. Ce paragraphe a été déplacée vers la section 4.3.6.22.
-   ◊    2.1.2. et 3.1.3. Suppression d’une formulation redondante concernant les tournois pour une version plus uniforme dans la section 1.1.5.
-   ◊    4.2.1.1. Ajout de “et dans sa réserve d’encre.” à la section.
-   ◊    4.2.1.1.–4.2.1.4. Réorganisées.
-   ◊    4.2.1.4. Ajout de “au début de votre tour” à la section.
-   ◊    4.2.2.2. Clarification : la collecte des éclats de Lore n’est pas une capacité déclenchée.
-   ◊    4.3.6.13. Clarification : une valeur de {S} négative compte comme 0 {S} pour l’étape d’attribution des dommages.
-   ◊    4.3.6.15. et 4.3.6.16. Ces deux sections ont été combinées en la section 4.3.6.15.
-   ◊    6.5.6. Correction de la référence au schéma.
-   ◊    7.1.5 Ajout de “ou un effet”
-   ◊    8.3.2 et 8.3.4 Ces deux sections ont été combinées en la section 8.3.2 et la section 8.3.4 a été supprimée.
-
-
-disneylorcana.com
-©Disney                                                                        51
-Mises à jour du Glossaire
-   ◊ Ayant subi des dommages : Ajout de la définition “N’ayant pas subi de de dommage” à la section.
-   ◊    Jouer gratuitement : Ajout d’une formulation pour inclure l’utilisation gratuite des capacités activées. Changement de nom à partir de “Jouer
-        gratuitement” et déplacement dans le glossaire.
-   ◊    Subit des dommages : Ajouté.
-   ◊    Objet : Détail ajouté.
-   ◊    Lieu : Clarification de l’utilisation d’une capacité activée et de la limite du nombre d’exemplaires.
-   ◊    Coût du déplacement : Ajouté.
-   ◊    « Jouer » une carte : Clarification : une carte ne peut normalement être jouée qu’à partir de la main d’un joueur.
-   ◊    Jouer gratuitement : Ajout d’une formulation pour inclure l’utilisation des capacités activées. Changement de nom en “gratuitement” et
-        déplacement dans le glossaire.
-   ◊    Tours simultanés : Ajouté.
-   ◊    Pile : Ajouté.
-   ◊    Tour : Ajouté.
-   ◊    N’ayant pas subi de de dommage : Déplacement vers la section Ayant subi des dommages.
-
-
-
-
-disneylorcana.com
-©Disney                                                                       52
+©Disney                                                                          51

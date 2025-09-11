@@ -55,7 +55,7 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Tournament_Rules_052224update.pdf) ([as text](text/tournament-rules-en.txt))
+- [ENGLISH](files_disneylorcana_com/Disney%20Lorcana%20TCG%20Tournament%20Rules%20S2_09-Sep-25.pdf) ([as text](text/tournament-rules-en.txt))
 
 ### Fabled OP Kit Instructions
 

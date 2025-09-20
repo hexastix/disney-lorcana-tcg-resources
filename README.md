@@ -16,7 +16,7 @@
 
 ## Game Rules and Documents
 
-### Quickstart Rules
+### Quick Start Rules
 
 - [ENGLISH](files_disneylorcana_com/Shimmering-Skies_Quick_Start_Book_EN.pdf)
 - [DEUTSCH](files_disneylorcana_com/Himmel-Leuchten_Quick_Start_Rules_DE.pdf)

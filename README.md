@@ -90,31 +90,6 @@
 - [Español](files_disneylorcana_com/RAV_ResultsSlip_A4_ES.pdf)
 - [English A4 Size](files_disneylorcana_com/RAV_ResultsSlip_A4_EN.pdf)
 
-### Disney Lorcana TCG: The First Chapter Set Checklist
-
-- [ENGLISH](cdn_ravensburger_com/lorcana/s1-deck-checklist-en.pdf)
-- [ENGLISH (A4)](cdn_ravensburger_com/lorcana/s1-deck-checklist-a4-en.pdf)
-
-### Disney Lorcana TCG: Rise of the Floodborn Set Checklist
-
-- [ENGLISH](cdn_ravensburger_com/lorcana/s2-decklist-a4-en.pdf)
-- [DEUTSCH](cdn_ravensburger_com/lorcana/s2-decklist-a4-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/s2-decklist-a4-fr.pdf)
-
-### Disney Lorcana TCG: Into the Inklands Set Checklist
-
-- [English](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_FR.pdf)
-- [Italiano](files_disneylorcana_com/Set%203%20-%20Decklist%20-%20A4_IT.pdf)
-
-### Disney Lorcana TCG: Ursula's Return Set Checklist
-
-- [English](files_disneylorcana_com/Ursulas-Return_Checklist_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Ursulas-Ruckkehr_Checklist_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Le-retour-dUrsula_Checklist_FR.pdf)
-- [Italiano](files_disneylorcana_com/Il-Ritorno-Di-Ursula_Checklist_IT.pdf)
-
 ### Disney Lorcana TCG: Shimmering Skies Set Checklist
 
 - [English](files_disneylorcana_com/Shimmering-Skies_Checklist_EN-US.pdf)

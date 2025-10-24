@@ -57,13 +57,13 @@
 
 - [ENGLISH](files_disneylorcana_com/Disney%20Lorcana%20TCG%20Tournament%20Rules%20S2_09-Sep-25.pdf) ([as text](text/tournament-rules-en.txt))
 
-### Fabled OP Kit Instructions
+### Whispers in the Well OP Kit Instructions
 
-- [English](files_disneylorcana_com/Fabled_OP%20Kit%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Mythen_OP%20Kit%20Instructions_DE.pdf)
-- [Français](files_disneylorcana_com/Fabuleux_OP%20Kit%20Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/Leggende_OP%20Kit%20Instructions_IT.pdf)
-- [español](files_disneylorcana_com/Fabled_OP%20Kit%20Instructions_ES.pdf)
+- [English](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-EN.pdf)
+- [Deutsch](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-DE.pdf)
+- [Français](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-IT.pdf)
+- [español](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-ES.pdf)
 
 ### Fabled Set Championship Instructions
 

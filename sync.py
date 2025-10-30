@@ -33,12 +33,12 @@ class ResourcesHTMLParser(HTMLParser):
     )
 
     TEXT_FILE_NAMES = {
+        "Disney Lorcana TCG Tournament Rules S2_09-Sep-25.pdf": "tournament-rules-en.txt",
         "Disney-Lorcana-Comprehensive-Rules-082225-DE.pdf": "comprehensive-rules-de.txt",
         "Disney-Lorcana-Comprehensive-Rules-082225-EN.pdf": "comprehensive-rules-en.txt",
         "Disney-Lorcana-Comprehensive-Rules-082225-FR.pdf": "comprehensive-rules-fr.txt",
         "Disney-Lorcana-Comprehensive-Rules-082225-IT.pdf": "comprehensive-rules-it.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "play-correction-guidelines-en.txt",
-        "Disney Lorcana TCG Tournament Rules S2_09-Sep-25.pdf": "tournament-rules-en.txt",
         "community-code-de.pdf": "community-code-de.txt",
         "community-code-en.pdf": "community-code-en.txt",
         "community-code-fr.pdf": "community-code-fr.txt",

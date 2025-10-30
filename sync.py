@@ -39,6 +39,8 @@ class ResourcesHTMLParser(HTMLParser):
         "Disney-Lorcana-Comprehensive-Rules-082225-FR.pdf": "comprehensive-rules-fr.txt",
         "Disney-Lorcana-Comprehensive-Rules-082225-IT.pdf": "comprehensive-rules-it.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "play-correction-guidelines-en.txt",
+        "Season 2 Tournament Rules 090925 update-Italian.pdf": "tournament-rules-it.txt",
+        "Season 2 Turnierregeln 090925-DE.pdf": "tournament-rules-de.txt",
         "community-code-de.pdf": "community-code-de.txt",
         "community-code-en.pdf": "community-code-en.txt",
         "community-code-fr.pdf": "community-code-fr.txt",

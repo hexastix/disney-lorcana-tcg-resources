@@ -1,0 +1,1408 @@
+                                         Turnierregeln
+                                    Zuletzt aktualisiert 9.9.2025*
+
+
+
+Einleitung
+Ravensburger und das Disney Lorcana TCG OP-Team bemühen sich um eine einladende, offene,
+unterstützende und sichere Umgebung für alle Spieler auf Veranstaltungen. Ein Teil dieser Arbeit
+besteht darin, Regeln und Standards für Turnierrollen, Abläufe und Spielverfahren festzulegen.
+
+Alle Turnierteilnehmer verpflichten sich, die in diesem Dokument aufgeführten Regeln zu befolgen.
+Bei Nichteinhaltung dieser Regeln können Korrekturmaßnahmen ergriffen werden. Weitere
+relevante Dokumente, denen alle Teilnehmer folgen müssen, sind auf der Disney Lorcana TCG
+Ressourcen-Seite hier verfügbar. Diese Dokumente beinhalten:
+
+    •     Disney Lorcana TCG Umfassendes Regelwerk
+    •     Disney Lorcana TCG Richtlinien zur Spielkorrektur
+    •     Disney Lorcana TCG Organized Play Richtlinie zu Vielfalt & Inklusion
+    •     Disney Lorcana TCG Community-Kodex
+
+    •     Wir begrüßen konstruktives Feedback und Vorschläge zu diesem Dokument. Bitte
+          kontaktiere uns unter LorcanaOPGSA@ravensburger.de, um Deine Informationen
+          bereitzustellen.
+
+
+
+
+                                                   1
+©Disney                                                                                disneylorcana.com
+                                           INHALT
+    1. TUNIERDEFINITIONEN
+
+          1.1.    Turnierarten
+          1.2.    Turnierstufen
+
+          1.3.    Turnierformate
+
+                 1.3.1.    Constructed-Turnierformate
+                 1.3.2.    Limited Turnierformate
+                       1.3.2.1.   Preconstructed
+                       1.3.2.2.   Sealed
+
+                      1.3.2.3.     Pack Rush
+
+                     1.3.2.4.      Draft
+          1.4.    Turnierrollen
+
+          1.5.     Teilnahmeberechtigte Spieler und Turnierorganisatoren
+          1.6.     Set-Legalität und Rotation
+                 1.6.1.   Rotationsliste
+                 1.6.2.   Gesperrte Karten
+
+    2. TUNIERROLLEN
+
+          2.1.    Turnierorganisator
+          2.2.    Head Judge
+
+          2.3.    Judges
+
+          2.4.    Punkterichter
+          2.5.    Spieler
+          2.6.    Zuschauer
+
+          2.7.    Broadcast-Vertreter
+
+    3. TUNIERABLAUF
+
+          3.1.    Minimale Spielerzahl
+          3.2.    Minimale Rundenzahl
+          3.3.    Spielstruktur
+          3.4.    Spielablauf
+
+          3.5.    Außerhalb-der-Reihenfolge-Abläufe
+          3.6.    Absichtliche Unentschieden und Aufgaben
+
+          3.7.    Deck Registrierung
+          3.8.    Decküberprüfungen
+
+                                               2
+©Disney                                                                    disneylorcana.com
+          3.9.      Aus einem Turnier aussteigen
+
+          3.10.     Zugelassenes Zubehör
+
+          3.11.     Zeitverlängerungen
+
+    4. BROADCAST
+
+          4.1.      Rechte des Turnierveranstalters
+          4.2.      Einwilligung zur Spielerabbildung
+
+    5. INFORMATION UND KOMMUNIKATION
+
+          5.1.      Spielaufbau
+          5.2.      Notizen und Informationsverfolgung
+
+          5.3.      Elektronische Geräte
+          5.4.      Informationen im Spiel
+          5.5.      Tintenvorrat
+
+          5.6.      Kartennamen und Beschreibungen
+
+    6. ZEITLIMITS
+
+          6.1.      Allgemeine Zeitbegrenzungen für Turniere
+          6.2.      Zeitbegrenzungen für Turniere im Limited-Format
+
+    7. SPIELERVERHALTEN
+
+          7.1.      Verbotenes Verhalten
+          7.2.      Sponsoren und Teams
+          7.3.      Interviews und andere Inhalte
+
+    8. REISEINFORMATIONEN
+
+          8.1.      Reisedokumentation und Unterkünfte
+          8.2.      Spielerersatz/Alternativen
+
+    9. PREISE
+
+          9.1.      Erhaltene Preise
+
+
+
+
+                                             3
+©Disney                                                               disneylorcana.com
+ABSCHNITT 1: TUNIERDEFINITIONEN
+
+1.1 Turnierarten
+
+Disney Lorcana TCG-Turniere werden in zwei Typen unterteilt: Constructed und Limited.
+
+Constructed-Turniere werden mit Decks gespielt, die die Spieler vor Beginn des Turniers
+zusammengestellt haben. Jeder Spieler ist dafür verantwortlich, ein Deck mitzubringen, das für das
+spezifische Constructed-Format, das bei diesem Turnier gespielt wird, zugelassen ist. (Siehe
+Abschnitt 1.3.1, „Constructed Turnierformate“).
+
+Limited-Turniere werden mit ungeöffneten Disney Lorcana TCG Produkten gespielt, die vom
+Turnierorganisator zur Verfügung gestellt werden. Von den Spielern wird nicht erwartet, dass sie
+Disney Lorcana TCG-Karten mitbringen, um an einem Limited-Turnier teilzunehmen. Limited
+umfasst die Varianten Preconstructed, Sealed, Pack Rush und Draft. (Siehe Abschnitt 1.3.2,
+„Limited-Turnierformate.“)
+
+1.2 Turnierlevel
+Disney Lorcana TCG-Turniere sind in drei Level unterteilt: Casual, Competitive und Premier Play.
+Alle Turniere behandeln Spielfehler gemäß den Disney Lorcana TCG Richtlinien zur Spielkorrektur,
+die auf der Disney Lorcana TCG-Ressourcenseite, die sich hier befindet, verfügbar sind.
+
+Casual Turniere werden mit lockereren Regeln und wenigen oder gar keinen Preisen gespielt. Diese
+Turniere sind für weniger ernsthaftes Spielen gedacht; Turnierorganisatoren sind dafür
+verantwortlich, sicherzustellen, dass diese Veranstaltungen auch für weniger erfahrene Spieler
+einladend sind. Der Schwerpunkt der Casual Turniere liegt auf dem Spaß und der Bildung aller
+Teilnehmer. Prerelease-Events sind Beispiele für Casual-Turniere.
+
+Competitive-Turniere sind für ernsthafteres Spielen konzipiert und haben strengere Regeln sowie
+höhere Erwartungen an die Spieler. Sie bieten auch besondere und manchmal einzigartige Preise
+für die Spieler. Aufgrund dieses höheren Standards wird von den Spielern erwartet, dass sie mit
+den in diesem Dokument dargelegten Regeln und Richtlinien vertraut sind. Einige
+Korrekturmaßnahmen aus den Richtlinien zur Spielkorrektur werden auf dieser Ebene ebenfalls
+angepasst. Die Set Championships sind Beispiele für Competitive Turniere.
+
+Premier Play-Turniere sind das höchste Level der Disney Lorcana TCG Competitive-Turniere. Der
+Fokus dieser Veranstaltungen liegt auf dem Wettbewerb, und die Spieler können bedeutende
+Preise gewinnen. Aufgrund dieses höheren Wettbewerbsniveaus wird von den Spielern erwartet,
+dass sie die in diesem Dokument dargelegten Regeln und Richtlinien sowie die vollständigen
+Richtlinien zur Spielkorrektur verstehen. Challenge-Events und Weltmeisterschaften sind Beispiele
+für Premier Play-Turniere.
+
+1.3 Turnierformate
+
+Constructed-Turnierformate
+
+
+                                                 4
+©Disney                                                                                 disneylorcana.com
+„Constructed“ beschreibt jedes Event, bei dem die Spieler ihre Decks vor dem Turnier
+zusammenstellen sollen. Es gibt zwei Constructed-Formate: Core und Infinity.
+
+
+
+1.3.1.1 Core Constructed
+
+    •     Constructed Decks müssen mindestens 60 Karten enthalten. Es gibt keine maximale
+          Deckgröße, aber ein Spieler muss in der Lage sein, sein Deck eigenständig und zügig zu
+          mischen.
+
+    •     Constructed-Decks dürfen nicht mehr als zwei Tintenfarben enthalten. Zum Beispiel: Wenn
+          ein Deck Bernstein- und Amethyst-Karten enthält, darf es keine Smaragd-, Rubin-, Saphir-
+          oder Stahl-Karten enthalten. Decks dürfen Doppel-Tinten-Karten enthalten, solange sie
+          beide Tintenfarben des Decks enthalten.
+    •     Constructed Decks dürfen nicht mehr als vier Kopien einer einzelnen Karte enthalten, die
+          durch ihren vollständigen Namen gekennzeichnet ist. Für eine Charakter- oder Ort-Karte ist
+          der vollständige Name die Kombination aus dem Namen der Karte und ihrer Version. Daher
+          gelten Karten mit demselben Namen, aber unterschiedlichen Versionsnamen als
+          unterschiedliche Karten. Ein Deck kann zum Beispiel bis zu vier Kopien von Ariel - Auf
+          menschlichen Beinen sowie bis zu vier Kopien von Ariel - Spektakuläre Sängerin enthalten.
+
+    •     In einem Core Constructed-Turnier dürfen die Spieler nur Karten verwenden, die im
+          aktuellen Rotationsplan enthalten sind, um ihre Decks zusammenzustellen.
+    •     In einem Core Constructed-Turnier dürfen die Spieler keine Karten verwenden, die im Core
+          Constructed-Format verboten sind. (Siehe Abschnitt 1.6.2 „Verbotene Karten.“)
+
+1.3.1.2 Infinity Constructed
+
+    •     Infinity Constructed-Turniere folgen denselben Richtlinien wie Core Constructed-Turniere,
+          mit folgenden Ausnahmen.
+               o In Infinity Constructed-Turnieren dürfen die Spieler alle Karten aus allen Sets
+                   verwenden, solange sie die anderen in (Abschnitt 1.3.1 „Constructed-
+                   Turnierformate“) aufgeführten Richtlinien befolgen.
+               o Infinity Constructed-Turniere haben ihre eigene Liste verbotener Karten, die sich
+                   von der Liste für Core Constructed-Turniere unterscheidet. (Siehe Abschnitt 1.6.2,
+                   „Verbotene Karten.“)
+
+1.3.2 Limited-Turnierformate
+
+„Limited“ beschreibt jedes Event, bei dem den Spielern ungeöffnete Disney Lorcana TCG-
+Produkte zur Verfügung gestellt werden und sie ihre Decks vor Ort während des Turniers bauen
+sollen. Es gibt vier Limited-Formate: Preconstructed, Sealed, Pack Rush und Draft.
+
+
+
+
+                                                   5
+©Disney                                                                                   disneylorcana.com
+    •     Limited Decks in Sealed und Draft müssen mindestens 40 Karten enthalten. Es gibt keine
+          maximale Deckgröße, obwohl die Deckgröße durch den Kartenpool, aus dem sie gebaut
+          werden, begrenzt ist.
+
+    •     Limited Decks dürfen Karten aus beliebig vielen Tintenfarben enthalten.
+
+    •     Limited Decks dürfen beliebig viele Kopien jeder Karte enthalten, auch mit demselben
+          vollständigen Namen. Wenn ein Spieler in einem Limited-Turnier zum Beispiel sechs
+          Exemplare von Dschinni - Stets Eindrucksvoll öffnet, darf er alle sechs in seinem Deck
+          spielen.
+
+1.3.2.1 Preconstructed
+
+             o   "Preconstructed" ist ein Turnierformat, bei dem die Spieler zufällig ungeöffnete
+                 Starterdecks erhalten und damit das Turnier spielen. Nach Ermessen des
+                 Turnierorganisators dürfen Spieler beliebig viele Karten zwischen dem
+                 vorgefertigten Deck, dem im Starter-Deck-Box enthaltenen Boosterpack und/oder
+                 zusätzlichem versiegeltem Produkt, das für den Deckbau bereitgestellt wird,
+                 hinzufügen oder austauschen.
+             o   Da das bereitgestellte vorgefertigte Deck 60 Karten enthält, muss das Deck nach
+                 der Deckbauphase mindestens 60 Karten umfassen. Decks im Limited-Format
+                 dürfen Karten aus beliebig vielen Tintenfarben enthalten.
+             o   Preconstructed-Turniere sind immer Casual-Turniere.
+
+1.3.2.2 Sealed
+
+             o   In einem Sealed-Turnier erhält jeder Spieler ein Set ungeöffneter Boosterpacks, aus
+                 denen er sein Deck bauen kann.
+
+             o   Für Sealed-Turniere müssen mindestens sechs Boosterpacks pro Spieler aus einem
+                 Set nach Wahl des Turnierorganisators bereitgestellt werden. Jeder Spieler beginnt
+                 mit der gleichen Anzahl an Boosterpacks aus jedem ausgewählten Set.
+
+             o   Sealed-Events können auf jedem Turnierlevel verwendet werden.
+
+1.3.2.3 Pack Rush
+
+             o   Bei einem Pack Rush-Event erhalten die Spieler zwei ungeöffnete Booster-Packs,
+                 entweder aus demselben Set oder aus verschiedenen Sets, aus denen sie ihr Deck
+                 zusammenstellen. Die Spieler entfernen die Marketing- oder Puzzle-Karten aus den
+                 Packungen und mischen alle verbleibenden Karten aus den beiden Booster-
+                 Packungen zusammen, um ein 24-Karten-Deck ohne Einschränkungen hinsichtlich
+                 der Tintenfarben zu bilden.
+
+
+
+
+                                                   6
+©Disney                                                                                   disneylorcana.com
+           o    Alle Spieler sollten die weiteren Richtlinien befolgen, die in den Pack Rush-Regeln
+                beschrieben sind. Diese finden Sie auf der Disney Lorcana TCG-Ressourcenseite
+                hier.
+
+1.3.2.4 Draft
+
+           o    In einem Draft-Turnier wählen die Spieler reihum Karten aus ungeöffneten
+                Boosterpacks aus, um ihren Kartenpool zu bilden.
+           o    Für Sealed-Turniere müssen mindestens vier Boosterpacks pro Spieler aus einem
+                Set nach Wahl des Turnierorganisators bereitgestellt werden. Jeder Spieler beginnt
+                mit der gleichen Anzahl an Boosterpacks aus jedem ausgewählten Set.
+
+           o    Die Spieler werden in zufälligen Gruppen, sogenannten Pods, platziert. Die Anzahl
+                der Personen in jedem Pod liegt im Ermessen des Turnierorganisators, wobei die
+                hier genannten Richtlinien in der Regel befolgt werden sollten.
+
+                   §   Jeder Pod sollte so nahe wie möglich an 8 Spieler reichen.
+                   §   Jeder Pod sollte aus mindestens sechs Spielern bestehen.
+                   §   Es sollte nicht mehr als einen Pod mit einer ungeraden Anzahl an Spielern
+                       geben.
+
+
+
+
+                                                  7
+©Disney                                                                                  disneylorcana.com
+          o   Nach diesen Richtlinien sind hier die empfohlenen Pod-Größen für kleinere Turniere
+              aufgeführt.
+
+                                 Anzahl der          Pods
+                                  Spieler
+                                    6-11                1 Pod
+                                   12-14             1 Pod mit 6
+                                                   1 Pod mit 6 bis
+                                                          8
+                                      15-16        1 Gruppe von
+                                                          8
+                                                   1 Pod mit 7 bis
+                                                          8
+                                        17           1 Pod mit 8
+                                                     1 Pod mit 9
+                                        18          3 Pods mit 6
+                                      19-20         2 Pods mit 6
+                                                   1 Pod mit 7 bis
+                                                          8
+                                        21           1 Pod mit 6
+                                                     1 Pod mit 7
+                                                   1 Gruppe von
+                                                          8
+                                        22           1 Pod mit 6
+                                                    2 Pods mit 8
+                                        23           1 Pod mit 7
+                                                    2 Pods mit 8
+          o   Für das erste Boosterpack öffnet jeder Spieler ein Pack, wählt eine Karte aus, um
+              sie seinem Kartenpool hinzuzufügen, und gibt die verbleibenden Karten nach links
+              weiter. Dann nehmen sie die Karten, die von rechts weitergegeben wurden, wählen
+              eine Karte aus und geben die verbleibenden Karten nach links weiter. Dieser
+              Vorgang wird auf diese Weise fortgesetzt, bis alle Karten des ersten Booster Packs
+              aufgeteilt wurden. Die Spieler sollten Karten im gleichen Tempo wie die anderen
+              Spieler weitergeben und darauf achten, dass kein Spieler zurückfällt.
+          o   Bei jedem weiteren Booster ändert sich die Richtung, in welche die Karten
+              weitergegeben werden: Die Karten des zweiten Boosters werden nach rechts
+              weitergereicht, die Karten des dritten Boosters nach links und so weiter. Jedes
+              Boosterpack sollte nur in eine Richtung um den Tisch weitergegeben werden. Wenn
+              ein Spieler zurückfällt oder ein Boosterpack in die falsche Richtung weitergibt,
+              könnten die Spieler am Ende eine falsche Anzahl an Karten haben. Sobald alle
+              Packs gedraftet wurden, werden die gewählten Karten jedes Spielers zu seinem
+              Kartenpool für den Deckbau.
+
+          o   In Casual Draft-Turnieren können Spieler gegen jeden anderen Spieler im Turnier
+              antreten.
+
+                                               8
+©Disney                                                                              disneylorcana.com
+          o   In kompetitiven Draft-Turnieren müssen die Spieler gegen einen Spieler aus ihrem
+              eigenen Pod antreten.
+
+          o   Der Turnierorganisator kann spezielle Regeln für den Deckbau für bestimmte
+              Competitive Events erstellen. Diese Regeln müssen den Spielern rechtzeitig
+              mitgeteilt werden.
+
+
+
+
+                                               9
+©Disney                                                                              disneylorcana.com
+1.4 Turnierrollen
+Bei Turnieren können mehrere Rollen vertreten sein:
+
+    •     Turnierorganisator
+    •     Head Judge
+    •     Hilfsrichter
+    •     Punkterichter
+    •     Spieler
+    •     Zuschauer
+
+    •     Broadcast-Vertreter
+
+Alle oben genannten Rollen außer Spieler und Zuschauer gelten als Turnieroffizielle. Für die Zwecke
+der Lesbarkeit dieses Dokuments bezieht sich der Begriff „Richter“ auf alle Personen, die bei einem
+Turnier als Head Judge oder Hilfsrichter fungieren.
+
+1.5 Teilnahmeberechtigte Spieler und Turnieroffizielle
+
+Jeder ist berechtigt, an jedem Disney Lorcana TCG-Turnier teilzunehmen, außer:
+
+    •     Jeder, der derzeit von der Teilnahme an Disney Lorcana TCG-Events ausgeschlossen ist;
+    •     Jeder Turnieroffizielle für ein Event, an dem er beteiligt ist (nur Competitive und Premier
+          Play); und
+
+    •     Jeder, dem die Teilnahme ausdrücklich durch die Ravensburger North America Organized
+          Play-Richtlinie untersagt ist, die Fairplay und Transparenz gewährleistet sowie
+          Interessenkonflikte bei Wettbewerben minimiert.
+
+Jeder ist berechtigt, als Turnieroffizieller bei einem Disney Lorcana TCG-Turnier zu fungieren,
+außer:
+
+    •     Jeder, der derzeit von der Teilnahme an Disney Lorcana TCG-Events ausgeschlossen ist,
+          und
+
+    •     Jeder, der an dem Turnier teilgenommen hat, für das er Turnieroffizieller sein möchte,
+          selbst wenn diese Person aus dem Turnier ausgeschieden ist.
+
+Turnieroffizielle dürfen an lockeren Turnieren teilnehmen. Turnieroffiziellen ist es untersagt, an
+Wettkämpfen und Premier Play-Veranstaltungen teilzunehmen, einschließlich Set-Meisterschaften
+und Challenges, bei denen sie als Turnieroffizielle fungieren.
+
+1.6 Set-Legalität und Rotation
+Disney Lorcana TCG-Sets sind ab dem Prerelease in Hobbyläden für Disney Lorcana TCG-
+sanktionierte Constructed-Turniere und für Disney Lorcana TCG sanktionierte Limited-Turniere
+legal spielbar. Alternative und Sonderausgaben von Karten, einschließlich Vorschau- und
+
+
+                                                    10
+©Disney                                                                                      disneylorcana.com
+Promokarten, werden mit Erscheinen des jeweiligen Sets spielberechtigt, unabhängig davon, wann
+sie veröffentlicht werden.
+
+Um einen dynamischen und ausgewogenen Wettkampfzyklus aufrechtzuerhalten, werden Core
+Constructed-Turniere einem Rotationsplan folgen, der ältere Sets in einem strukturierten
+Rhythmus auslaufen lässt.
+
+In Core Constructed-Events sind nur Karten aus aktuellen legalen Sets erlaubt. Die Spieler sind
+dafür verantwortlich, dass ihre Decks dem aktuellen Rotationsstatus zum Zeitpunkt des Events
+entsprechen. (Siehe Abschnitt 1.6.1, „Rotationsliste“, für weitere Informationen zur Rotation.)
+
+Wenn eine Karte in einem bestimmten Format legal ist, kann jede Druckversion dieser Karte in
+diesem Format verwendet werden. Wenn eine Karte beispielsweise aus einem Set stammt, das in
+Core Constructed zulässig ist, kann jede Ausgabe dieser Karte aus aktuellen oder früheren Sets in
+Core Constructed verwendet werden.
+
+Alternative und Sonderausgaben von Karten, einschließlich Vorschau- und Promokarten, rotieren,
+wenn ihre jeweiligen Sets rotieren.
+
+1.6.1 Rotationsliste
+
+    •     Mit der Veröffentlichung von Set 9 sind nur noch Karten aus Set 5 und späteren Sets für
+          Core Constructed zugelassen. Die folgenden Sets wurden aus Core Constructed entfernt:
+
+             o     Sets 1, 2, 3 und 4
+
+    •     Mit der Veröffentlichung von Set 13 sind nur noch Karten aus Set 9 und späteren Sets für
+          Core Constructed zugelassen. Die folgenden Sets sind im Core Constructed nicht zulässig:
+              o Sets 1, 2, 3 und 4 (bereits nicht mehr legal)
+              o Sets 5, 6, 7 und 8 (rotierend)
+
+Weitere Rotationen werden in zukünftigen Updates der Turnierregeln hinzugefügt. Die Set-Rotation
+gilt nicht für Infinity-Constructed-Turniere.
+
+1.6.2 Verbotene Karten
+
+Die folgenden Karten sind in Core Constructed-Turnieren verboten:
+
+    •     Xaver Hampelmann – Spielzeugmacher
+    •     Fortisphäre
+
+Die folgenden Karten sind in Infinity Constructed Turnieren verboten:
+
+    •     Keine.
+
+Karten, die in Infinity Constructed Turnieren verboten sind, werden in diesem Abschnitt
+hinzugefügt.
+
+
+                                                 11
+©Disney                                                                                   disneylorcana.com
+ABSCHNITT 2: TURNIERROLLEN
+
+2.1 Turnierorganisator
+Der Turnierorganisator eines Disney Lorcana TCG-Turniers ist für mehrere Aufgaben
+verantwortlich, einschließlich, aber nicht beschränkt auf die folgenden.
+
+    •     Einholen der Erlaubnis von Ravensburger, um das Turnier zu betreiben.
+    •     Bereitstellung und Ausstattung eines geeigneten Ortes, um das Turnier zu betreiben.
+
+    •     Das Bewerben des Turniers, um eine ausreichende Teilnehmerzahl zu gewährleisten.
+    •     Das Informieren über Level und Format des Turniers damit alle Teilnehmer sich vorbereiten
+          können.
+
+    •     Beschaffung ausreichenden Personals für das Turnier (z. B. Schiedsrichter und
+          Punkteschreiber).
+
+    •     Bereitstellung ausreichender Materialien, um das Turnier zu betreiben (z. B. Produkt in
+          einem Limited-Turnier)
+
+    •     Meldung der Turnierergebnisse an Ravensburger, falls angefordert.
+
+2.2 Head Judge
+Jedes Disney Lorcana TCG-Turnier muss einen Turnier-Organisator bestimmen, der einen Head
+Judge für dieses Event ernennt. Diese Person muss während der gesamten Dauer der
+Veranstaltung physisch anwesend sein. Bei Casual Turnieren kann der Turnierorganisator als Head
+Judge fungieren. Für Competitive und Premier Play Turniere müssen der Turnierorganisator und der
+Head Judge zwei verschiedene Personen sein.
+
+Der Head Judge ist der endgültige Schiedsrichter für alle Regel- oder Turnierrichtlinienstreitigkeiten
+bei einem Disney Lorcana TCG-Turnier. Es liegt in ihrer Verantwortung, die Regeln in diesem
+Dokument, den umfassenden Regeln für das Disney Lorcana TCG und den Richtlinien zur
+Spielkorrektur für das Disney Lorcana TCG durchzusetzen. Von allen Turnierteilnehmern wird
+erwartet, dass sie die Entscheidungen des Head Judges befolgen.
+
+Bei kleineren Turnieren ist der Head Judge in der Regel der einzige benötigte Schiedsrichter. Bei
+größeren Turnieren wird erwartet, dass der Hauptrichter Aufgaben an Hilfsrichter delegiert, um den
+reibungslosen Ablauf des Turniers und die rechtzeitige Beantwortung von Spielerfragen zu
+gewährleisten.
+
+Ist ein Spieler mit der Entscheidung eines Richters nicht einverstanden, kann er um eine
+Entscheidung des Hauptrichters bitten. Die Entscheidung des Head Judges ist endgültig.
+
+
+
+
+                                                   12
+©Disney                                                                                    disneylorcana.com
+In Competitive- und Premier-Play-Turnieren, wenn ein Spieler disqualifiziert oder anderweitig aus
+einem Turnier ausgeschlossen werden muss, muss der Head Judge einen Bericht über den Vorfall
+verfassen und diesen an Ravensburger übermitteln.
+
+Der Head Judge kann in seltenen und außergewöhnlichen Fällen von den in diesem und den
+zugehörigen Turnierregelwerken festgelegten Regeln und Richtlinien abweichen. Nur der Head
+Judge hat die Befugnis, diese Änderungen vorzunehmen. Diese Abweichungen von den Richtlinien
+sollen die Integrität der Veranstaltung wahren, Fairness sicherstellen und unvorhergesehene oder
+außergewöhnliche Umstände behandeln, die von den aktuellen Richtlinien nicht ausreichend
+abgedeckt werden.
+
+Solche Umstände umfassen unter anderem die Ausstellung einer Proxy, wenn eine Karte oder ein
+anderes Spielelement während eines Spiels versehentlich zerstört oder beschädigt wird. In diesem
+Fall kann der Head Judge die Verwendung einer eindeutig gekennzeichneten Proxy erlauben, den
+der Head Judge bereitstellt und genehmigt. Nur Head Judges dürfen Proxys ausstellen.
+
+2.3 Judges
+Judges sind dafür verantwortlich, Spielern bei Regelfragen zu helfen und Fehler, die während des
+Spiels gemacht werden, zu beheben. Von ihnen wird erwartet, dass sie unparteiisch sind und den
+Spielern nicht bei Strategiefragen zum Spiel helfen. Judges sollten Spielfehler nicht verhindern,
+sondern ein Spiel nur dann unterbrechen, wenn eine illegale Aktion durchgeführt wird oder eine
+Situation eine Deeskalation erfordert. Judges sollten sich an einen hohen Standard sportlichen
+Verhaltens halten und diesen Spielern und Zuschauern stets als Turnieroffizielle vorleben.
+
+2.4 Punkterichter
+
+Der Punkterichter ist für die Aufzeichnung aller Turnierergebnisse und die Erstellung aller
+Turnierpaarungen verantwortlich. Bei kleineren Turnieren kann diese Aufgabe vom
+Turnierorganisator oder einem Richter übernommen werden. Diese Person sollte mit dem
+Ravensburger Play Hub vertraut sein, damit etwaige Probleme oder Fehler zeitnah und mit
+minimaler Störung des Turniers behoben werden können. Wenn bei einem Turnier größere
+Probleme bei der Auswertung von Punkten auftreten, ist der Hauptrichter die letzte Instanz, die
+über geeignete Maßnahmen entscheidet.
+
+2.5 Spieler
+
+Spieler in Disney Lorcana TCG-Turnieren haben die folgenden Verantwortlichkeiten.
+
+    •     Seid Stets respektvoll und höflich gegenüber Turnieroffiziellen, anderen Spielern und
+          Zuschauern.
+
+    •     Stets unsportliches Verhalten unterlassen.
+
+    •     Erscheint pünktlich zum Turnier und zu allen Spielen.
+
+
+
+                                                  13
+©Disney                                                                                   disneylorcana.com
+    •     Denkt an alle erforderlichen Turniermaterialien, einschließlich eines geeigneten Decks für
+          Constructed-Turniere. Dies kann auch Würfel, eine Spielmatte, Stift und Papier sowie nicht
+          markierte Kartenhüllen umfassen. (Siehe Abschnitt 3.10, „Genehmigtes Zubehör.“)
+    •     Für Competitive- und Premier-Play-Konstruktivturniere: Einreichen der Deckliste über die
+          vom Turnierveranstalter angegebene zugelassene Methode.
+
+    •     Achtet darauf, dass ihr eure Spielergebnisse rechtzeitig und korrekt eintragt.
+
+    •     Kommuniziert nach bestem Wissen und Gewissen mit eurem Gegner.
+
+    •     Unverzügliche Benachrichtigung der Turnieroffiziellen über beobachtete Regel- oder
+          Richtlinienverstöße, unabhängig davon, ob diese während eigener oder fremder Spiele
+          auftreten.
+
+    •     Die Regeln dieses Dokuments, die umfassenden Regeln des Disney Lorcana TCG, die
+          Spielkorrekturrichtlinien des Disney Lorcana TCG sowie alle Entscheidungen der Judges
+          sind einzuhalten.
+
+Jegliche Unterstützung durch einen Judge entbindet nicht von diesen Verantwortlichkeiten.
+
+2.6 Zuschauer
+Von Zuschauern wird erwartet, dass sie Disney Lorcana TCG-Turniere unbeeinträchtigt durch ihre
+Beobachtung ablaufen lassen. Jede Person, die bei einem Disney Lorcana TCG-Event anwesend ist
+und kein Turnieroffizieller ist oder nicht aktiv an einem laufenden Spiel teilnimmt, gilt als
+Zuschauer.
+
+Von Zuschauern wird erwartet, dass sie während der Spiele still und unauffällig bleiben. Wenn ein
+Zuschauer einen Regelverstoß während eines Spiels bemerkt, sollte er die Spieler auffordern, ihr
+Spiel zu pausieren und dann einen Richter holen. Der Zuschauer sollte keine Details des
+wahrgenommenen Verstoßes an die Spieler weitergeben, sondern die Informationen an einen
+Schiedsrichter weiterleiten, damit die Situation korrekt behandelt werden kann.
+
+Die Spieler können jederzeit erbitten, dass sich die Zuschauer von ihrem Tisch entfernen und nicht
+weiter zuschauen. Diese bitte sollte an einen Richter erfolgen. Turnieroffizielle können jederzeit die
+Möglichkeit der Zuschauer einschränken, Matches zu beobachten.
+
+Für Spieler, die bei dem Spielen einer Partie oder der Handhabung von Karten oder anderen
+Spielobjekten Hilfe benötigen, kann ein Zuschauer bestimmt werden, der dem Spieler hilft. Solche
+Zuschauer dürfen einfache Fragen stellen, um die Absicht des Spielers zu klären, aber sie dürfen
+keinerlei Spiel- oder strategische Ratschläge geben.
+
+2.7 Broadcast-Vertreter
+Broadcast-Vertreter sind für die Überwachung der gesamten Event-Berichterstattung und Content-
+Produktion verantwortlich. Sie sind verantwortlich für die Durchführung und Überwachung des
+offiziellen Event-Feeds, das Aufzeichnen von Spielen und Event-Material, das Fotografieren von
+
+                                                   14
+©Disney                                                                                    disneylorcana.com
+Spielern, dem Event und dem Ort sowie die Bearbeitung aller Livestream-Anfragen. Broadcast-
+Vertreter sind verpflichtet, alle in Abschnitt 4 „Broadcast“ aufgeführten Richtlinien einzuhalten.
+
+Broadcast-Vertreter können bei Casual-, Competitive- oder Premier Play-Turnieren anwesend sein,
+sind aber am häufigsten auf Premier Play-Ebene vertreten.
+
+Ravensburger und seine Partner dürfen alle vom Broadcast-Vertreter gesammelten Medien für
+redaktionelle, Marketing- oder Werbezwecke verwenden. Mit der Teilnahme an der Veranstaltung in
+jeglicher Turnierrolle wird das Einverständnis erteilt, auf diese Weise gefilmt, fotografiert und
+aufgenommen zu werden.
+
+Im Gegensatz zu Matches, die nicht übertragen werden, können für Broadcast-Matches zusätzliche
+Richtlinien und andere Verfahren gelten (wie längere Vorbereitungszeiten für die Berichterstattung,
+Mikrofon- oder Headset-Nutzung und Sitzplatzänderungen). Vor dem Spiel muss der Broadcast-
+Vertreter oder ein Mitglied des Judge-Teams allen Beteiligten diese Änderungen erklären. Von den
+Spielern wird erwartet, dass sie mitarbeiten und alle broadcast-bezogenen Anweisungen befolgen.
+
+
+
+ABSCHNITT 3: TURNIERABLAUF
+
+3.1 Mindestanzahl an Spielern
+Damit ein Turnier als offizielles Disney Lorcana TCG-Turnier gilt, müssen mindestens acht Spieler
+teilnehmen. Das Turnier ist nicht mehr offiziell von Ravensburger genehmigt und sollte als abgesagt
+gemeldet werden, wenn nicht mindestens acht Teilnehmer anwesend und bereit zum Spielen sind.
+
+Nur offiziell anerkannte, von Ravensburger genehmigte Turniere, wie Prerelease-Veranstaltungen,
+Set-Meisterschaften und autorisierte Veranstaltungen von Turnierveranstaltern, unterliegen dieser
+Anforderung. Diese Anforderung gilt nicht für informelle Veranstaltungen, die nicht Teil dieser
+Aktivitäten sind.
+
+Bei jedem Turnier auf Competitive-Level oder höher müssen mindestens acht Teilnehmer dabei
+sein.
+
+3.2 Minimale Rundenzahl
+
+Damit ein Turnier als offizielles Disney Lorcana TCG-Turnier gilt, müssen mindestens drei Runden
+gespielt werden. Das Turnier ist nicht mehr offiziell von Ravensburger genehmigt und sollte als
+abgesagt gemeldet werden, wenn nicht mindestens drei Runden gespielt werden.
+
+Nur offiziell anerkannte, von Ravensburger genehmigte Turniere, wie Prerelease-Veranstaltungen,
+Set-Meisterschaften und autorisierte Veranstaltungen von Turnierveranstaltern, unterliegen dieser
+Anforderung. Diese Anforderung gilt nicht für informelle Veranstaltungen, die nicht Teil dieser
+Aktivitäten sind.
+
+
+
+
+                                                 15
+©Disney                                                                                   disneylorcana.com
+Bei jedem Turnier auf Competitive-Level oder höher müssen mindestens drei Runden gespielt
+werden.
+
+Zusätzliche Runden werden bei Turnieren mit mehr Spielern hinzugefügt, um das Spielerlebnis zu
+verbessern. Basierend auf der Anzahl der Spieler in der ersten Runde wird die folgende Rundenzahl
+empfohlen.
+
+                           Personen        Swiss Runden          Top Cut
+                                8                3                  -
+                             9-16                4                Top 4
+                             17-32               5                Top 8
+                             33-64               6                Top 8
+                            65 - 128             7                Top 8
+                           129 - 226             8                Top 8
+                             227+                9                Top 8
+Top Cut ist nur für Competitive- und Premier Play-Turniere erforderlich.
+
+3.3 Spielstruktur
+
+Alle Disney Lorcana TCG-Turniere müssen die hier aufgeführten Matchstruktur-Richtlinien für
+jeden Eventtyp befolgen.
+
+    •     Casual- und Competitive Play
+             o Disney Lorcana TCG Casual- und Competitive-Level-Turniere können verschiedene
+                 Matchstrukturen für ihre Events verwenden. Diese Matchstrukturen werden vom
+                 Tournament Organizer festgelegt. Ravensburger empfiehlt allen Competitive-Level-
+                 Events mit 64 oder mehr Spielern, die untenstehende Premier Play Matchstruktur zu
+                 verwenden.
+             o Bitte beachten Sie, dass für einige Veranstaltungen, wie beispielsweise Set-
+                 Meisterschaften, zusätzliche Anforderungen an die Matchstruktur gelten können,
+                 damit sie als offiziell anerkanntes Ravensburger-Turnier gelten.
+             o Alle Casual- und Competitive-Level-Turniere, die Best of Three (Bo3) verwenden,
+                 werden ermutigt, die Premier Play Matchstruktur zu befolgen.
+
+
+
+
+                                                 16
+©Disney                                                                                disneylorcana.com
+    •     Premier Play
+
+             o   Disney Lorcana TCG Premier Play-Turniere werden im Best of Three (Bo3)-Format
+                 gespielt. Die Spieler spielen eine Serie von Spielen, maximal drei, wobei der erste
+                 Spieler, der zwei Spiele gewinnt, als Sieger des Matches gilt.
+
+             o   Drei (3) Matchpunkte werden vergeben für jeden Matchsieg. Null (0) Matchpunkte
+                 werden für jede Match-Niederlage vergeben. Ein (1) Matchpunkt wird für jedes
+                 Match-Unentschieden vergeben.
+                    § Vor Beginn des Matches und bevor irgendeine Aktion im Match
+                          stattgefunden hat, müssen die beiden Spieler im Match zufällig
+                          entscheiden, welcher Spieler die Wahl hat, zuerst zu spielen oder zuerst zu
+                          ziehen.
+
+                            •    Jede einvernehmlich vereinbarte Methode kann verwendet werden,
+                                 wie Würfeln oder Münzwurf. Wenn sich die Spieler nicht auf eine
+                                 Methode einigen können, entscheidet ein Judge über die Methode
+                                 für das Match.
+                    §    Der Spieler, der zur Entscheidung bestimmt wurde, wählt, ob er im ersten
+                         Spiel zuerst spielt oder zuerst zieht.
+                             • Die Entscheidung, ob man im ersten oder in einem beliebigen Spiel
+                                 eines Matches zuerst spielt oder zuerst zieht, muss getroffen
+                                 werden, bevor ein Spieler seine Starthand für dieses Spiel sieht.
+
+                            •   Wenn ein Spieler nicht entscheiden kann, ob er zuerst spielt oder
+                                zuerst zieht, wird angenommen, dass er im ersten Spiel zuerst spielt.
+
+                    §    Der Spieler, der in jedem Spiel zuerst spielt, zieht zu Beginn seines ersten
+                         Zuges keine Karte.
+
+                    §    Sobald ein Spiel abgeschlossen ist, wählt der Spieler, der das letzte Spiel
+                         verloren hat, ob er im nächsten Spiel des Matches zuerst spielt oder zieht.
+
+             o   In Disney Lorcana TCG Premier Play-Turnieren kann es Single-Elimination-Brackets
+                 für die besten Spieler des Events geben. Für Single-Elimination-Brackets werden
+                 Matches im Best of Three (Bo3)-Format gespielt. Um einen Sieg für das Match zu
+                 erhalten, muss ein Spieler zwei der drei Spiele des Matches gewinnen.
+                     § Vor Beginn des Matches und bevor irgendeine Aktion im Match
+                          stattgefunden hat, hat der Spieler mit der höheren Platzierung aus den
+                          Swiss Runden die Wahl, im ersten Spiel zuerst zu spielen oder zuerst zu
+                          ziehen.
+                              • Nachdem ein Spiel abgeschlossen ist, wählt der Spieler, der das
+                                  letzte Spiel verloren hat, ob er im nächsten Spiel des Matches zuerst
+                                  spielt oder zuerst zieht.
+
+
+                                                   17
+©Disney                                                                                     disneylorcana.com
+                             •   Die Entscheidung, ob man spielt oder im jeweiligen Spiel zieht, muss
+                                 getroffen werden, bevor einer der Spieler seine Starthand für jedes
+                                 Spiel sieht.
+
+                             •   Wenn ein Spieler keine Entscheidung trifft, wird davon ausgegangen,
+                                 dass er im nächsten Spiel zuerst spielt.
+
+             o   Matches werden anhand der Anzahl gewonnener-verlorener-unentschiedener
+                 Spiele aufgezeichnet. Alle einvernehmlich als unentschieden erklärten oder nicht
+                 beendeten Spiele werden im Match als Unentschieden gewertet. Zum Beispiel wird
+                 ein Match, in dem ein Spieler zwei Spiele hintereinander gewinnt, als 2-0-0
+                 aufgezeichnet. Wenn ein Spieler ein Spiel eines Matches gewinnt und die Zeit in der
+                 Runde abläuft, ohne dass es im End-of-round-Verfahren einen Sieger gibt, wird das
+                 Match als 1-0-1 zugunsten des Spielers gewertet, der ein Spiel gewonnen hat.
+                     § Single-Elimination-K.o.-Runden können andere End-of-round-Verfahren
+                         haben.
+
+3.4 Spielablauf
+Vor dem Spiel
+
+    •     Bevor ein Spiel beginnt, entscheiden die Spieler zunächst, welcher Spieler wählen darf, ob
+          er zuerst spielt oder zuerst zieht, wie in Abschnitt 3.3 beschrieben. Jeder Spieler mischt
+          sein Deck. Dann bietet jeder Spieler sein Deck dem Gegner an, der dann die Möglichkeit
+          hat, das Deck weiter zu mischen oder zu teilen. Nachdem dies abgeschlossen ist, zieht
+          jeder Spieler seine Starthand mit sieben Karten.
+
+             o   Für jedes Spiel eines Matches hat jeder Spieler einmal die Möglichkeit, seine Hand
+                 zu verändern, bevor eine Aktion stattgefunden hat. Für eine detailliertere Übersicht
+                 siehe die Disney Lorcana TCG-Umfassenden Regeln, die hier zu finden sind.
+
+    •     Stapelzählen
+
+             o   Stapelzählen ist eine Methode, die einige Spieler verwenden, um die genaue
+                 Kartenanzahl in ihrem Deck zu überprüfen. In Disney Lorcana TCG-Turnieren ist
+                 Stapelzählen unter den folgenden Bedingungen erlaubt.
+
+                     §   Es muss vor dem Mischen durchgeführt werden.
+                     §   Es darf nur vor Beginn jedes Spiels durchgeführt werden, nicht während
+                         oder nachdem das Spiel begonnen hat. Stapelzählen darf nur einmal pro
+                         Spiel durchgeführt werden.
+
+                     §   Es darf nicht dazu verwendet werden, das Deck in irgendeiner Weise zu
+                         manipulieren.
+
+
+
+
+                                                  18
+©Disney                                                                                   disneylorcana.com
+             o   Nachdem der Spieler das Stapelzählen für das bevorstehende Spiel abgeschlossen
+                 hat, muss er sein Deck mischen und dem Gegner die Möglichkeit geben, das Deck
+                 weiter zu mischen oder zu teilen.
+
+Sobald dieser Vorgang abgeschlossen ist, beginnt der erste Spieler seinen ersten Zug. Sie werden
+in dieser Runde während ihrer Start-der-Runde-Phase keine Karte ziehen. Für eine detailliertere
+Übersicht siehe die Disney Lorcana TCG-Umfassenden Regeln, die hier zu finden sind.
+
+Ende des Matches
+
+Am Ende eines Matches sind beide Spieler dafür verantwortlich, das Ergebnis zu überprüfen und
+sicherzustellen, dass es dem Turnierorganisator mit der genehmigten Melde-Methode korrekt
+gemeldet wird. Dies kann über physische Ergebniszettel oder digitale Plattformen wie den
+Ravensburger Play Hub erfolgen.
+
+Vor der Abgabe der Ergebnisse müssen die Spieler überprüfen, dass der Sieger und die Match-
+Ergebnisse (2-0-0, 2-1-0, 1-1-1, 0-0-3) korrekt sind. Beide Spieler müssen den Bericht auf Anfrage
+beim Judge oder Turnierorganisator bestätigen.
+
+Der Turnierorganisator muss sofort über Streitigkeiten oder fehlende Berichte informiert werden.
+Spieler, die das Ergebnis eines Matches nicht korrekt melden, könnten Störungen im Turnier
+verursachen. Strafen für ungenaue Meldungen, einschließlich Matchverlust oder Disqualifikation,
+können verhängt werden.
+
+Wenn die Zeit in einer Runde abläuft, gehen alle noch laufenden Spiele sofort in das End-of-Match-
+Verfahren über, wie folgt.
+
+    •     Der aktive Spieler beendet seinen Zug. Dies wird als Zug 0 bezeichnet und zählt nicht zu den
+          verbleibenden fünf Zügen im Spiel.
+    •     Nach diesem Zug verbleiben insgesamt fünf Züge im Spiel.
+    •     Unabhängig davon, welcher Spieler am Zug ist, zählt jeder Zug nach dem Zug, in dem die
+          Zeit in einer Runde abgelaufen ist, zu den insgesamt fünf Zügen. Dies bedeutet oft zwei
+          Züge für den aktiven Spieler, wenn die Zeit abläuft, und drei Züge für den inaktiven Spieler.
+    •     Wenn das Spiel während dieser Züge endet, wird das Match nach den normalen Regeln
+          gemeldet.
+    •     Wenn am Ende des fünften Zuges keiner der beiden Spieler das aktuelle Spiel gewonnen
+          hat und ein Spieler mehr vorherige Spiele dieser Partie gewonnen hat, gewinnt dieser
+          Spieler die Partie. Nicht beendete Spiele werden als Unentschieden gewertet.
+    •     Swiss Runden: Wenn am Ende von Zug fünf kein Spieler das Spiel gewonnen hat, werden
+          die Matchpunkte wie in 3.3 „Matchstruktur“ beschrieben vergeben. Das Match endet
+          unentschieden, wenn am Ende von Zug fünf kein Spieler ein Spiel gewonnen hat oder beide
+          Spieler gleich viele Spiele gewonnen haben.
+
+    •     Single-Elimination-Runden: Wenn die Zeit in der Runde abläuft und ein Spieler mehr
+          Spielgewinne als sein Gegner hat, gewinnt er das Match. Wenn beide Spieler gleich viele
+
+                                                   19
+©Disney                                                                                    disneylorcana.com
+          Spielgewinne haben, werden fünf zusätzliche Züge gespielt. Ein neues Spiel kann begonnen
+          werden, um diese fünf zusätzlichen Züge zu absolvieren, falls keines im Gange ist. Wenn
+          am Ende von Zug fünf kein Spieler das Spiel gewonnen hat und beide Spieler gleich viele
+          Spielgewinne haben, gewinnt der Spieler mit dem höchsten Legendenwert das Match.
+          Wenn die Spieler die gleiche Anzahl an Spielsiegen und die gleiche Anzahl an Legenden
+          haben, wird das Spiel fortgesetzt, bis ein Spieler mehr Legenden als der andere hat. Wenn
+          dies geschieht, gewinnt der Spieler mit der höheren Legendenanzahl das Spiel sofort.
+
+3.5 Außer-der-Reihenfolge-Abfolge
+Spieler können eine Reihe von Aktionen ausführen, die zwar nicht in der richtigen Reihenfolge
+erfolgen, aber zum gleichen legalen Spielzustand führen, wie wenn die Aktionen in der richtigen
+Reihenfolge ausgeführt worden wären. Eine solche außer-der-Reihenfolge-Abfolge ist erlaubt, mit
+den folgenden Einschränkungen.
+    • Alle durchgeführten Aktionen müssen regelkonform sein.
+    • Jede Aktion, die außer der Reihenfolge ausgeführt wird, darf andere Aktionen nicht
+        unterschiedlich beeinflussen, je nachdem, in welcher Reihenfolge sie ausgeführt werden.
+    • Dies darf nicht dazu verwendet werden, irgendwelche Informationen vom Gegner zu
+        erhalten.
+
+Zum Beispiel erreicht ein Spieler, der seine Tinte-Karten erschöpft, bevor er die Karte aufdeckt, die
+er spielen möchte, obwohl er technisch gesehen nicht die richtige Reihenfolge einhält, dennoch
+den legalen Zustand, dass die Karte gespielt wird. Wenn jedoch ein Spieler einen Effekt im Spiel
+hat, der besagt: „Zu Beginn deines Zuges wirf eine Karte ab“ und er seine Karte für diesen Zug zieht
+und dann versucht, genau diese Karte abzuwerfen, gilt die außer-der-Reihenfolge-Abfolge nicht.
+Dies liegt daran, dass das Abwerfen einer Karte je nach Reihenfolge der Aktionen einen anderen
+Satz von Karten betreffen würde. In diesem Fall kann eine Korrekturmaßnahme angebracht sein.
+
+Spieler sollten vorsichtig sein, wenn sie die außer-der-Reihenfolge-Abfolge anwenden, da sie keine
+verpassten Auslöser abdeckt.
+
+
+3.6 Absichtliche Unentschieden und Aufgabe
+Ein Spieler kann jederzeit ein unvollständiges Spiel oder Match aufgeben. Dieser Spieler verliert das
+Spiel sofort und, falls zutreffend, geht das Match zum nächsten Spiel über.
+
+Ein Spieler, der sich weigert, ein Match zu spielen, gilt als hätte er dieses Match aufgegeben.
+
+Die Spieler dürfen ihre Gegner nicht auffordern, ein Spiel aufzugeben. Die Spieler dürfen weder
+implizit noch explizit eine Belohnung oder Gegenleistung im Austausch für das Aufgeben eines
+Spiels anbieten oder annehmen. Spieler, denen ein solches Angebot gemacht wird, müssen einen
+Judge rufen und das Angebot melden.
+
+
+
+
+                                                 20
+©Disney                                                                                   disneylorcana.com
+Zu jedem Zeitpunkt vor dem Ende eines Matches können die Spieler einem absichtlichen
+Unentschieden (0-0-3) zustimmen. Ein Spieler darf nur einmal pro Match ein absichtliches
+Unentschieden vorschlagen und darf weder implizit noch explizit eine Belohnung oder
+Gegenleistung für ein absichtliches Unentschieden anbieten. Spieler, denen ein solches Angebot
+gemacht wird, müssen einen Judge rufen und das Angebot melden.
+
+3.7 Deck-Registrierung
+Spieler bei kompetitiven und Premier Play Disney Lorcana TCG-Turnieren müssen ihre Decks
+registrieren.
+
+Für ein Constructed-Turnier müssen die Spieler ihre Deckliste entweder über den Ravensburger
+Play Hub oder auf einer Papier-Deckliste einreichen, gemäß den Anweisungen des
+Turnierorganisators. Der Turnierorganisator sollte die Frist für die Einreichung der Deckliste
+mitteilen. Wenn keine solche Frist mitgeteilt wird, müssen die Decklisten vor Beginn der ersten
+Runde abgegeben werden.
+
+Bei einem Limited-Turnier füllen die Spieler im Rahmen des Deckbaus eine Deckliste aus. Diese
+Decklisten müssen bis zum Ende der Deckzusammenstellung einem Turnieroffiziellen vorgelegt
+werden. Die Disney Lorcana TCG-Set-Checklisten finden Sie auf der Disney Lorcana TCG-
+Ressourcen-Seite, hier.
+
+Die Spieler können zwischen den Spielen Einsicht in ihre Deckliste erbitten. Diese Anfragen werden
+nach Möglichkeit erfüllt.
+
+Decklisten gelten als der eindeutige Beweis dafür, welche Karten der Spieler zu spielen
+beabsichtigt. Spieler müssen darauf achten, vollständige Kartennamen zu verwenden, da viele
+Charakter-Karten ähnliche Namen haben.
+
+Die Verwendung der offiziellen Decklistenformulare wird für die Einreichung einer Deckliste
+empfohlen, ist aber nicht erforderlich. Das Disney Lorcana TCG Deck-Registrierungsformular ist
+auf der Disney Lorcana TCG-Ressourcenseite hier zu finden.
+
+
+
+
+                                                21
+©Disney                                                                                disneylorcana.com
+3.8 Deck-Kontrollen
+Richter bei Competitive und Premier Play-Turnieren führen Deck Checks durchführen, wo dies
+möglich ist. Nachdem gemischt wurde, abgeschlossen und bevor die Spieler ihre Starthände
+ziehen, sollten die Decks überprüft werden. Deck Checks dienen dazu, zu überprüfen, ob die
+Spieler die richtigen Karten spielen, die auf ihrer Deckliste registriert sind.
+
+Bei kompetitiven Turnieren wird erwartet, dass die Turnierorganisatoren während der
+Veranstaltung so viele Decks wie möglich überprüfen. Bei Premier Play-Turnieren sollten
+mindestens 10 % der Decks überprüft werden, und es wird empfohlen, dass der Turnierorganisator
+während der Veranstaltung so viele Decks wie möglich überprüft.
+
+Deck Checks können jederzeit während eines Turniers stattfinden.
+
+3.9 Rückzug aus einem Turnier
+Ein Spieler kann sich jederzeit aus dem Turnier zurückziehen. Die Spieler sind dafür verantwortlich,
+sich entweder selbst über den Ravensburger Play Hub abzumelden oder einen Judge oder
+Punkteschreiber zu informieren. Wenn der Spieler zum Zeitpunkt der Abmeldung für Matches
+eingeteilt ist, gilt er als hätte er alle Spiele in diesem Match aufgegeben. Spieler, die nicht zu ihrem
+Match erscheinen, werden aus dem Turnier entfernt, es sei denn, sie informieren den
+Schiedsrichter oder Punkteschreiber, bevor die Runde endet.
+
+Wenn ein Spieler während eines Limited-Turniers aussteigt, behält er alle Karten, die ihm vom
+Turnierorganisator zur Teilnahme am Event zur Verfügung gestellt wurden. Dies gilt auch für
+geöffnete und zum Teil gedraftete Booster Packs.
+
+3.10 Zugelassene Zubehörteile
+Spielern ist es erlaubt, während Turnieren persönliche Zubehörteile zu verwenden, solange sie die
+untenstehenden Richtlinien einhalten. Zubehörteile dürfen keine anstößigen, grafischen oder
+anderweitig ungeeigneten Inhalte zeigen. Bilder, die gewalttätig, sexuell provokativ oder
+diskriminierend sind, sind nicht erlaubt.
+
+Der Turnierorganisator kann jederzeit jedes Zubehör genehmigen oder ablehnen und einen Spieler
+auffordern, anderes Zubehör zu verwenden. Spielern kann ein Matchverlust zugewiesen oder sie
+können vom Turnier disqualifiziert werden, wenn sie einer solchen Aufforderung nicht
+nachkommen.
+
+Zugelassene Zubehörteile sind wie folgt.
+
+    •     Spielmatten
+              o Offiziell lizenzierte Disney Lorcana TCG-Spielmatten ODER beliebige Spielmatten,
+                 die den Richtlinien in diesem Abschnitt entsprechen
+
+             o   Alle Spielmatten müssen sauber sein, flach auf dem Tisch liegen und dürfen das
+                 Spielgeschehen nicht beeinträchtigen.
+
+                                                   22
+©Disney                                                                                     disneylorcana.com
+    •     Deckhüllen
+             o Offiziell lizenzierte Disney Lorcana TCG-Deckhüllen ODER beliebige Deckhüllen, die
+                den Richtlinien in diesem Abschnitt entsprechen
+             o Alle Hüllen dürfen nicht reflektierend, beschädigt oder markiert sein.
+
+             o   Jede Hülle muss eine einzelne Karte vollständig umschließen.
+             o   Alle Hüllen müssen die gleiche Größe, Farbe und den gleichen Stil haben.
+
+             o   Alle Hüllen müssen vollständig undurchsichtige Rückseiten haben.
+
+Innen- oder Außenhüllen sind erlaubt, sofern alle anderen regeln für Kartenhüllen eingehalten
+werden, mit Ausnahme der Undurchsichtigkeit.
+
+Wenn Hüllen aufgrund eines nicht dringenden Problems während eines Matches gewechselt
+werden müssen, können Turnieroffizielle erlauben, den Wechsel zwischen den Spielen oder
+nachdem das aktuelle Match beendet wurde, vorzunehmen.
+
+    •     Würfel
+             o Offiziell lizenzierte Disney Lorcana TCG-Würfel ODER Würfel, die den Richtlinien in
+                 diesem Abschnitt entsprechen
+             o Markenlose, polyedrische Würfel
+             o Alle Würfel müssen in gutem Zustand sein und leicht erkennbare Zahlen haben.
+    •     Legende Marker
+             o Offiziell lizenzierte Disney Lorcana TCG-Legenden-Marker
+             o Disney Lorcana Sammelkartenspiel-Begleit-App
+             o Individuelle Legenden-Marker dürfen verwendet werden, müssen jedoch ein leicht
+                 erkennbarer Gegenstand sein und dürfen Spieler oder Turnieroffizielle nicht
+                 täuschen oder verwirren.
+             o Schriftliche Methoden dürfen verwendet werden, um Legenden zu verfolgen,
+                 solange sie gemäß den Richtlinien in Abschnitt 5.2 genehmigt wurden.
+    •     Deckboxen und Aufbewahrungsboxen
+             o Offiziell lizenzierte Disney Lorcana TCG-Deckboxen und Aufbewahrungsboxen
+                 ODER Deckboxen und Aufbewahrungsboxen, die den Richtlinien in diesem
+                 Abschnitt entsprechen
+             o Deckboxen und Aufbewahrungsboxen dürfen verwendet werden, um Decks
+                 zwischen Spielen oder Matches aufzubewahren, dürfen jedoch während des
+                 laufenden Spiels nicht verwendet werden, außer um auf ein anderes genehmigtes
+                 Zubehör zuzugreifen.
+    •     Veränderte Artwork-Karten
+             o Karten, die irgendeine Art von Veränderung aufweisen, dürfen nur bei Casual-
+                 Turnieren verwendet werden. Diese Karten dürfen keinen wettbewerbs- oder
+                 strategischen Vorteil bieten oder Verweise auf andere Sammelkartenspiele oder
+                 ungeeignete Inhalte enthalten, wie in diesem Abschnitt beschrieben.
+
+
+                                                 23
+©Disney                                                                                 disneylorcana.com
+           o   Bei Competitive- und Premier-Play-Turnieren werden nur unveränderte, offiziell
+               lizenzierte Disney Lorcana TCG-Karten verwendet. Karten mit Unterschriften dürfen
+               weiterhin verwendet werden, solange ihr Artwork in keiner Weise verändert wurde
+               und sie den Richtlinien in diesem Dokument entsprechen.
+
+3.11 Zeitverlängerungen
+
+Wenn ein Turnieroffizieller ein Match während einer Runde für mehr als 1 Minute pausiert, sollte
+eine Zeitverlängerung in Höhe der Pausenzeit gewährt werden. Bei Deck-Überprüfungen sollte die
+Zeitverlängerung der Zeit entsprechen, die für die Überprüfung benötigt wurde, zuzüglich 3
+Minuten.
+
+
+
+ABSCHNITT 4: ÜBERTRAGUNG
+
+4.1 Rechte des Turnierveranstalters
+Der Turnierveranstalter kann mit Übertragungsvertretern zusammenarbeiten, um beliebige Teile
+der in diesem Regelwerk beschriebenen Veranstaltungen zu übertragen, zu streamen, zu filmen, zu
+fotografieren, aufzuzeichnen oder zu senden. Die daraus resultierenden Inhalte dürfen für
+beliebige Zwecke verwendet werden, einschließlich, aber nicht beschränkt auf Marketing und
+Bewerbung der Veranstaltung, des Turnierveranstalters, des Disney Lorcana TCG oder anderer
+Veranstaltungen.
+
+4.2 Zustimmung zur Verwendung des Spielerabbilds
+Spieler stimmen zu, dass Turnierveranstalter und Übertragungsvertreter ihren Namen, ihr Abbild,
+ihre Stimme, ihr Bild, ihr Spielgeschehen sowie zugehörige Marken oder Logos in jeglichen Medien
+aufzeichnen, verwenden und reproduzieren dürfen, indem sie an einer in diesem Dokument
+abgedeckten Veranstaltung teilnehmen. Dies umfasst Fotografie, Video, Audio, Live- oder
+aufgezeichnete Übertragungen sowie digitale und gedruckte Werbematerialien in jeglichem
+Format.
+
+Diese Zustimmung gilt weltweit und wird zur Förderung des Marketings und der Dokumentation des
+organisierten Spiels des Disney Lorcana TCG verwendet.
+
+Für nicht übertragene Veranstaltungen oder lokale Turniere können Spieler den Turnierveranstalter
+vor Beginn der Veranstaltung informieren, wenn sie nicht fotografiert, gefilmt oder aufgezeichnet
+werden möchten. Angemessene Anstrengungen werden unternommen, um solchen Wünschen
+nachzukommen; solche Vorkehrungen können jedoch die Teilnahme der Spieler an ausgewählten
+Matches oder anderen Werbemöglichkeiten einschränken.
+
+
+
+ABSCHNITT 5: INFORMATION UND KOMMUNIKATION
+
+                                               24
+©Disney                                                                               disneylorcana.com
+5.1 Spielfeldaufbau
+
+Während aller Disney Lorcana TCG-Turniere müssen die Spieler einen klaren und konsistenten
+Spielfeldaufbau beibehalten, um Fairness und Übersichtlichkeit für beide Spieler und
+Turnieroffizielle zu gewährleisten.
+
+    •     Charaktere, Gegenstände und Orte müssen vor dem Tintenvorrat des Spielers platziert
+          werden. Charaktere, die sich an einen Ort bewegt haben, sollten eindeutig als an dem Ort
+          identifiziert werden, zu dem sie sich bewegt haben.
+    •     Der Tintenvorrat eines Spielers muss nicht am Rand des Tisches platziert werden; er kann
+          links, rechts oder weiter hinten im Spielbereich positioniert werden, solange Charaktere,
+          Gegenstände und Orte immer aus Sicht des Gegners vor dem Tintenvorrat platziert sind.
+    •     Der Spielfeldaufbau muss während des gesamten Spiels klar und eindeutig bleiben und
+          darf das Spielgeschehen nicht stören oder zu Unklarheiten über den aktuellen Spielstand
+          führen.
+
+Solange der Spielfeldaufbau für alle Spieler und Turnieroffizielle klar und verständlich ist, dürfen
+Spieler, die aufgrund von Alter, Behinderung oder anderen Barrierefreiheitsbedürfnissen
+zusätzliche Anpassungen benötigen, ihren Spielfeldaufbau anpassen. Wenn eine Anpassung
+erforderlich ist, sollten die Spieler Unterstützung von einem Turnieroffiziellen oder Schiedsrichter
+anfordern, der beim Erstellen eines klaren und leicht zugänglichen Spielfeldaufbaus helfen kann.
+
+5.2 Notizen und Informationsverfolgung
+Spieler dürfen Marker nur verwenden, um ihre eigenen öffentlichen Informationen im Spiel zu
+verfolgen. Spieler dürfen keine Informationen ihrer Gegner verfolgen, weder öffentliche noch
+private. Zum Beispiel kann ein Spieler Marker verwenden, um sich daran zu erinnern, Legenden von
+einem bestimmten Ort zu erhalten oder dass ein Charakter zu Beginn seines nächsten Zuges nicht
+bereit gemacht werden kann. Es ist nicht erlaubt, eine numerische Darstellung jeglicher Art auf
+einem Marker zu verwenden, um andere Informationen im Spiel als Schaden zu verfolgen.
+
+Spieler werden ermutigt, schriftlich den Gesamtstand der Legenden festzuhalten, aber sie dürfen
+während eines Matches keine anderen Notizen machen. Das Heranziehen fremder Notizen
+während eines Spiels gilt als Hilfe von außen. Weitere Informationen zu „Outside Assistance“
+findest Du unter Disney Lorcana TCG-Richtlinien zur Spielkorrektur, auf der Disney Lorcana TCG-
+Ressourcen-Seite, die Du hier finden kannst.
+
+Outside Assistance kann beinhalten, aber ist nicht darauf beschränkt, Karten im Tintenvorrat
+aufzuschreiben, sobald sie aufgedeckt werden, Würfel zu verwenden, um die Tinten-Kosten
+aufgedeckter Karten anzuzeigen, und andere Geräte oder Prozesse zu nutzen, um jegliche Art von
+Aufzeichnung von Spielinformationen zu erstellen. Ein Turnieroffizieller wird die endgültige
+Entscheidung treffen, ob eine solche Art von Aufzeichnung gemacht wurde.
+
+Spieler dürfen während des Draftings oder während der limitierten Deck-Konstruktion keine
+Notizen machen oder ansehen.
+
+                                                  25
+©Disney                                                                                   disneylorcana.com
+5.3 Elektronische Geräte
+Die Nutzung elektronischer Geräte wie Smartphones, Tablets und Smartwatches bei Disney
+Lorcana TCG-Events ist erlaubt, solange alle Geräte jederzeit für beide Spieler im Match sichtbar
+sind. Die Verwendung der Disney Lorcana TCG Companion App zum Verfolgen der Legenden und
+zum Nachschlagen in der Kartendatenbank sind Beispiele für erlaubte Nutzungen.
+
+Spieler dürfen ihr elektronisches Gerät aus privaten Gründen wie zum Schreiben von Nachrichten,
+Telefonieren oder Surfen verwenden, nachdem sie zuerst einen Judge informiert haben, der bei der
+Anfrage hilft. Nach Ermessen des Judges werden Strafen wie Verwarnungen, Matchverlust oder
+Disqualifikation vom Turnier gegen jeden Spieler verhängt, der diese Richtlinien nicht befolgt oder
+versucht, die Nutzung eines Geräts zu verbergen.
+
+5.4 Informationen im Spiel
+
+Es gibt zwei Arten von Informationen im Disney Lorcana TCG: öffentliche und private.
+Informationen gelten als privat, wenn sie sich in einem verdeckten Bereich befinden. Obwohl die
+Hand kein verdeckter Bereich ist, gilt sie als private Information gegenüber deinem Gegner.
+Informationen in allen anderen Zonen gelten als öffentlich.
+
+In einer öffentlichen Zone dürfen die Spieler den Status, die Eigenschaften und den Inhalt der Zone
+und jeder Karte darin kennen. Spielern ist es nur erlaubt, die Anzahl der Karten in einem privaten
+Bereich zu kennen.
+
+Wenn private Informationen dem Gegner offenbart werden, gelten sie während dieser Zeit als
+öffentliche Informationen. Spieler sind dafür verantwortlich, dass private Informationen nicht
+anderen Spielern offenbart werden.
+
+Während der Spiele wird von den Spielern erwartet, dass sie offen mit ihren Gegnern
+kommunizieren.
+
+Wenn ein Spieler eine Karte durch die Standardzug-Aktion in seinen Tintenvorrat legt, muss er
+sicherstellen, dass sein Gegner genau weiß, welche Karte hinzugefügt wird, indem er unter
+anderem den vollständigen Namen der Karte ansagt. Der Gegner muss die Möglichkeit haben zu
+überprüfen, dass die Karte das Tintenvorrat-Symbol um die Kosten hat.
+
+Der aktuelle Status jeder Karte im Spiel (erschöpft oder bereit, Schadensmarker, ob die Tinte der
+Karte trocken ist usw.) muss vom Spieler dieser Karte vollständig und korrekt mitgeteilt werden,
+wenn ein anderer Spieler dies verlangt.
+
+Erschöpfte Karten sollten um etwa neunzig Grad gedreht werden, um ihren Status anzuzeigen.
+Bereite Karten sollten aufrecht liegen. Ein Spieler kann wählen, ob er seine Karten im oder gegen
+den Uhrzeigersinn erschöpft, sollte dies aber bei allen Karten einheitlich machen.
+
+Legenden-Gewinne und -Verluste müssen immer angesagt werden und den neuen Legenden-
+Gesamtstand nach der Änderung für diesen Spieler enthalten. Dies stellt sicher, dass beide Spieler
+
+
+                                                26
+©Disney                                                                                 disneylorcana.com
+den aktuellen Legenden-Stand vollständig verstehen und etwaige Unstimmigkeiten so schnell wie
+möglich, wahrscheinlich mit Hilfe eines Judges, gefunden und behoben werden können.
+
+Von den Spielern wird erwartet, dass sie nach Möglichkeit einen korrekten Spielzustand
+beibehalten. Dies beinhaltet das Hinweisen auf verpflichtende Effekte, wann immer sie auftreten,
+auch wenn sie von einer Karte des Gegners stammen. Für die Zwecke dieser Regel ist ein „nicht-
+optionaler Effekt“ ein Effekt, der nicht die Wörter „kannst“ oder „darfst“ in seinem Text enthält. Das
+Erinnern eines anderen Spielers an einen „darf“-Effekt ist nicht verpflichtend, aber Spieler werden
+nachdrücklich ermutigt, ihre Gegner an diese Effekte zu erinnern, um für alle Beteiligten das
+bestmögliche Spielerlebnis zu fördern.
+
+5.5 Tintenvorrat
+Die Spieler sind verpflichtet, ihre Karten im Tintenvorrat getrennt von allen anderen verdeckten
+Karten auf dem Tisch aufzubewahren. Falls es jemals Unklarheiten darüber gibt, welche Karten
+sich im Tintenvorrat eines Spielers befinden, sollten die Spieler sofort einen Judge rufen, damit der
+Fehler behoben werden kann. Außerdem müssen alle bereiten Karten im Tintenvorrat eines
+Spielers in dieselbe Richtung ausgerichtet sein; das Gleiche gilt für erschöpfte Karten im
+Tintenvorrat dieses Spielers.
+
+Ein Spieler darf eine Karte, die er in seinen Tintenvorrat gelegt hat, während des Zuges, in dem sie
+dort platziert wurde, offen liegen lassen. Wenn dieser Zug endet, muss der Spieler sie (und alle
+anderen offenen Karten im Tintenvorrat) verdeckt legen.
+
+5.6 Kartennamen und Beschreibungen
+
+Bestimmte Kartenfähigkeiten im Disney Lorcana TCG erfordern, dass ein Spieler eine Karte
+benennt. Das Nennen des exakt gedruckten Namens einer Disney Lorcana TCG-Karte ist die
+bevorzugte und genaueste Methode. Wenn sich ein Spieler jedoch nicht an den genauen Namen
+erinnern kann, darf er eine Beschreibung geben, die nur eine einzelne Disney Lorcana TCG-Karte
+eindeutig identifizieren kann.
+
+Es dürfen nur Karten aus dem Disney Lorcana TCG benannt oder referenziert werden.
+
+In Fällen, in denen der Name oder die Beschreibung einer Karte unklar ist, sollten die Spieler sofort
+einen Judge rufen. Judges haben die endgültige Entscheidungsbefugnis darüber, ob eine
+Beschreibung spezifisch genug ist, um die Anforderungen der Fähigkeit zu erfüllen. Spieler werden
+ermutigt, Unklarheiten mit Unterstützung der Judges zu klären.
+
+    •     Akzeptabel
+
+             o   „Stitch“ oder „Der Charakter, der es dir erlaubt, Charaktere, die du spielst und die 2
+                 oder
+                 weniger Tinte kosten, zu erschöpfen“
+
+    •     Unzulässig
+
+
+                                                   27
+©Disney                                                                                    disneylorcana.com
+             o   „Die eine Karte mit der Gitarre darauf“ oder „Die blaue Karte“
+
+
+
+ABSCHNITT 6: ZEITLIMITS
+
+6.1 Allgemeine Turnier-Zeitlimits
+
+Das Zeitlimit für eine Swiss Runde beträgt mindestens 50 Minuten, mit einem empfohlenen
+Maximum von 60 Minuten.
+
+Es wird empfohlen, dass alle Partien in K.O.-Runden ohne Zeitlimit gespielt werden. Wenn
+aufgrund von Einschränkungen der Verfügbarkeit des Veranstaltungsortes ein Zeitlimit festgelegt
+werden muss, sollte das Zeitlimit mindestens 70 Minuten betragen und vor Beginn des K.O.-Teils
+der Veranstaltung angekündigt werden. Wenn die gesamte Veranstaltung im K.O.-System
+ausgetragen wird und aufgrund von Einschränkungen der Verfügbarkeit des Veranstaltungsortes
+ein Zeitlimit festgelegt werden muss, sollte das Zeitlimit mindestens 50 Minuten betragen, mit
+einem empfohlenen Maximum von 60 Minuten.
+
+Wenn alle Partien vor Ablauf der Zeit in einer Runde beendet sind, kann der Hauptrichter die
+nächste Runde vorzeitig beginnen. Spieler, die zur nächsten Runde erscheinen, nachdem diese
+begonnen hat, aber bevor die vorherige Runde beendet worden wäre, sollten keine Strafen für
+verspätetes Erscheinen erhalten.
+
+6.2 Zeitlimits für Limited-Turniere
+Die Zeitlimits für Deckbau und Registrierung, sofern verwendet, bei Competetive- oder Premier-
+Play-Events sind wie folgt.
+
+    •     Sealed-Deckbau: 30 Minuten
+    •     Sealed-Deck-Pool-Registrierung: 20 Minuten
+    •     Proconstructed Deck-Konstruktion: 10 Minuten
+    •     Draft-Deckbau und Registrierung zusammen: 25 Minuten
+
+
+
+
+                                                  28
+©Disney                                                                               disneylorcana.com
+Die Zeitlimits für einzelne Draft-Picks, falls verwendet, bei Competitive- oder Premier-Play-Events
+sind wie folgt.
+
+    •     12 verbleibende Karten: 30 Sekunden
+    •     11 verbleibende Karten: 25 Sekunden
+    •     10 verbleibende Karten: 25 Sekunden
+    •     9 verbleibende Karten: 20 Sekunden
+    •     8 verbleibende Karten: 20 Sekunden
+    •     7 verbleibende Karten: 15 Sekunden
+    •     6 verbleibende Karten: 10 Sekunden
+    •     5 verbleibende Karten: 10 Sekunden
+    •     4 verbleibende Karten: 5 Sekunden
+    •     3 verbleibende Karten: 4 Sekunden
+    •     2 verbleibende Karten: 3 Sekunden
+
+Bei Draft-Picks dürfen Spieler ihre Karten 30 Sekunden lang nach dem Öffnen des ersten Boosters
+überprüfen, wobei sich die Zeit nach jedem weiteren Booster um 15 Sekunden erhöht.
+
+
+
+ABSCHNITT 7: SPIELERVERHALTEN
+
+7.1 Verbotenes Verhalten
+Um eine sichere, faire und inklusive Umgebung für alle Spieler zu gewährleisten, ist das folgende
+Verhalten bei allen Disney Lorcana TCG-Events, unabhängig von Größe oder Rahmen, strengstens
+untersagt.
+
+    •     Das Wetten von Geld oder anderen Wertgegenständen auf den Ausgang von Partien oder
+          Veranstaltungen.
+    •     Gebrauch, Besitz oder Verteilung illegaler Substanzen.
+    •     Konsum oder Besitz von Alkohol.
+    •     Unsportliches Verhalten, einschließlich respektlosem oder störendem Verhalten
+          gegenüber Spielern, Gästen, Turnieroffiziellen, Schiedsrichtern, Zuschauern oder der
+          Öffentlichkeit.
+    •     Absprachen, einschließlich der Vereinbarung, Spielergebnisse zu manipulieren oder Preise
+          zu teilen.
+    •     Belästigung, einschließlich sexueller Belästigung, diskriminierender Sprache,
+          Einschüchterung und jeglichem Verhalten, das andere unsicher, unwillkommen oder
+          unwohl fühlen lässt.
+
+Verstöße gegen diese Richtlinie können nach Ermessen des Turnierorganisators zu Strafen führen,
+die von Verwarnungen bis zum Ausschluss von der Veranstaltung und einer möglichen Sperre für
+zukünftige organisierte Spielveranstaltungen reichen.
+
+                                                 29
+©Disney                                                                                  disneylorcana.com
+Weitere Informationen zu verbotenem Verhalten findest Du in den Disney Lorcana TCG Richtlinien
+zur Spielkorrektur, verfügbar auf der Disney Lorcana TCG Ressourcen-Seite, die Du hier findest.
+
+7.2 Sponsoren und Teams
+
+Sponsoren oder Teams von Spielern unterliegen der vorherigen Genehmigung und einer
+Ermessensbewertung durch den Turnierorganisator, um als Sponsoren oder Teams bei einem
+Disney Lorcana TCG-Event vertreten sein zu dürfen. Ein Turnierorganisator kann jede
+vorgeschlagene Spielersponsoring-Vertretung bei einer Veranstaltung ablehnen.
+
+Sponsoren oder Teams, die an der Nutzung, dem Konsum oder der Förderung der folgenden Dinge
+beteiligt sind, sind strengstens untersagt:
+
+    •     Glücksspiel
+    •     Drogen
+    •     Pornografie
+    •     Schusswaffen
+    •     Alkohol
+    •     Tabak oder Cannabis
+    •     Gesetzwidrige Aktivitäten
+
+7.3 Interviews und andere Inhalte
+Während einer Veranstaltung können Spieler vom Turnierorganisator oder einem
+Übertragungsvertreter gebeten werden, an Interviews oder weiteren Inhalten teilzunehmen,
+einschließlich, aber nicht beschränkt auf Video-, Audio-, schriftliche Interviews, Social-Media-
+Inhalte oder Werbeinhalte. Wenn sie angesprochen werden, wird von den Spielern erwartet, dass
+sie sich nach besten Kräften kooperativ und respektvoll verhalten und allen angemessenen
+Anweisungen des Turnierorganisators folgen.
+
+Die Teilnahme an Inhalten soll das Spielerlebnis hervorheben und die Disney Lorcana TCG-
+Community fördern. Die Teilnahme ist zwar nicht verpflichtend, aber eine unbegründete Weigerung
+kann nach Ermessen des Turnierorganisators zukünftige Möglichkeiten für Inhalte oder
+Werbeinhalte beeinflussen.
+
+Spieler können es nicht ablehnen, als Teil eines Featured Matches übertragen zu werden.
+
+Während der Teilnahme an Interviews, Featured Matches oder anderen Inhalten muss die Kleidung
+der Spieler diesen Richtlinien entsprechen.
+
+    •     Kleidung muss ordentlich, sauber und für die Übertragung angemessen sein.
+    •     Spieler sollten Freizeitkleidung wie Pyjamas, zerrissene Kleidung usw. vermeiden.
+    •     Spieler dürfen keine Kleidung tragen, die Folgendes enthält oder bewirbt:
+             o   Anstößige oder unangemessene Gesten
+             o   Bezüge zu Alkohol, Tabak oder Drogen
+
+
+                                                  30
+©Disney                                                                                  disneylorcana.com
+           o   Hassrede oder diskriminierende Botschaften
+           o   Offensichtlich sexuelle oder aufreizende Kleidung
+           o   Logos, Marken oder Werbung von Nicht-Disney-Marken, die mit den
+               Vereinbarungen der Veranstaltung in Konflikt stehen
+           o   Merchandise oder Kleidung eines gesponserten Teams
+           o   Logos von Drittanbieter-Sponsoren
+
+Die endgültige Entscheidung über die Kleidung liegt beim Turnierorganisator oder
+Übertragungsvertreter.
+
+ABSCHNITT 8: REISEINFORMATIONEN
+
+8.1 Reisedokumente und Unterkünfte
+Spieler sind allein dafür verantwortlich, alle erforderlichen Reisedokumente zu beschaffen und
+aufrechtzuerhalten, die für die Teilnahme an Disney Lorcana TCG-Events notwendig sind,
+einschließlich Reisepässen, Reisegenehmigungen und Einreisevisa. Es ist die Verpflichtung des
+Spielers, sicherzustellen, dass diese Dokumente gültig sind und rechtzeitig beschafft werden.
+
+Turnierorganisatoren können mit Informationen helfen, die beim Erhalt von Reisedokumenten
+nützlich sind, aber die Verantwortung liegt beim Spieler, die notwendigen Dokumente zu sichern
+oder zu beschaffen. Turnierorganisatoren sind nicht verantwortlich für Kosten, Verzögerungen oder
+Disqualifikationen, die durch unvollständige oder abgelehnte Reisedokumente verursacht werden.
+Das Nichtbeschaffen der notwendigen Reisedokumente kann dazu führen, dass ein Spieler seine
+Einladung zu einer Disney Lorcana TCG-Veranstaltung verliert.
+
+Turnierorganisatoren können Spielern Unterstützung bei Reisekosten wie Flugtickets,
+Hotelzimmern oder Reisestipendien für offizielle Einladungen gewähren. Alle Fristen, Regeln oder
+Dokumente, die vom Turnierorganisator bereitgestellt werden, müssen von Spielern eingehalten
+werden, die diese Reiseunterstützung erhalten.
+
+8.2 Spielerersatz/Alternativen
+Wenn ein Spieler aufgrund von Reisedokumenten, Unterkünften oder anderen Gründen nicht an
+einer Einladung teilnehmen kann oder wenn ein Spieler disqualifiziert wird oder die Reise aus
+irgendeinem Grund verfällt, kann der Turnierorganisator ihn durch einen Ersatzspieler ersetzen. Der
+Ersatzspieler erhält die Reiseunterkunft, die aktuelle Position im Turnier und/oder die mit der
+aktuellen Platzierung des ursprünglichen Spielers verbundenen Preise.
+
+
+
+ABSCHNITT 9: PREISE
+
+9.1 Verdiente Preise
+
+
+
+                                                31
+©Disney                                                                                disneylorcana.com
+Preise, die bei Disney Lorcana TCG-Turnieren vergeben werden, sind an die Einhaltung aller
+Turnierregeln gebunden. Um für Preise berechtigt zu sein, müssen Spieler:
+
+    •     Alle Teilnahmebedingungen und zusätzliche vom Turnierorganisator festgelegte
+          Einschränkungen erfüllen;
+    •     Alle Veranstaltungsregeln, Richtlinien und Verhaltensregeln während der Teilnahme an der
+          Veranstaltung einhalten; und
+    •     Alle erforderlichen Dokumente ausfüllen, wie vom Turnierorganisator verlangt (z. B.
+          Verzichtserklärungen oder Ausweisdokumente).
+
+Nach Ermessen des Turnierorganisators kann ein Spieler als seinen Preis verwirkt betrachtet
+werden, wenn er disqualifiziert oder nicht teilnahmeberechtigt ist oder nicht auf den
+Turnierorganisator antwortet oder die erforderlichen Unterlagen nicht bis zur vom
+Turnierorganisator festgelegten Frist einreicht, die innerhalb von 90 Tagen nach Abschluss der
+Veranstaltung liegen muss.
+
+
+
+
+                                                 32
+©Disney                                                                                 disneylorcana.com

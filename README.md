@@ -61,7 +61,7 @@
 
 ### Whispers in the Well OP Kit Instructions
 
-- [English](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-EN.pdf)
+- [English](files_disneylorcana_com/10_30%20S10_OP%20Kit%20Instructions_EN.pdf)
 - [Deutsch](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-DE.pdf)
 - [Français](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-FR.pdf)
 - [Italiano](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-IT.pdf)

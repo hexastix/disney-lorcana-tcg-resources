@@ -1,5 +1,5 @@
                                          REGOLE COMPLETE
-                                                            Valide dal 22 agosto 2025
+                                                            Valide dal 31 ottobre 2025
 
 
 
@@ -35,68 +35,69 @@ disneylorcana.com
 CONTENUTI
  1. CONCETTI                                                                       4.4.   Fase di Fine Turno
      1.1.    Generale
-                                                                                 5. LE CARTE
+                                                                                 5. CONDIZIONI
                     Lingue, Testo ufficiale, Aggiornamenti, Regole dei
-                    Tornei                                                         5.1.   Condizioni
-                                                                                              Preparato, Impegnato, Danneggiato, Non
+                    Tornei                                                         5.1.   Generale
+                                                                                              Preparato, Impegnato, Danneggiato, Non Danneggiato,
      1.2.    Regole d’Oro
-                                                                                              Danneggiato, Sotto, In Cima, In una Pila
+                                                                                              Sotto A, In Cima/Sopra A, In una Pila, In Gioco, A
                     Scelte
-     1.3.    Giocatore Attivo                                                    6. TIPI DI CARTA
-     1.4.    Avversario                                                            6.1.   Personaggi
-     1.5.    Giocare le Carte                                                                 Requisiti per Essere un Personaggio
-     1.6.    Tipi di Abilità                                                       6.2.   Parti di una Carta
-     1.7.    Il Sacchetto                                                                     Icona Inchiostro, Icone Rarità, Personaggi con Due
-                                                                                              Nomi
+                                                                                              Faccia in Su, A Faccia in Giù, Asciugarsi, Asciugato
+     1.3.    Giocatore Attivo
+     1.4.    Avversario                                                          6. TIPI DI CARTA
+     1.5.    Giocare le Carte                                                      6.1.   Personaggi
+     1.6.    Tipi di Abilità                                                                  Requisiti per Essere un Personaggio
+     1.7.    Il Sacchetto                                                          6.2.   Parti di una Carta
+                                                                                              Icona Inchiostro, Icone Rarità, Personaggi con Due
      1.8.    Carte e Giocatori
-     1.9.    Verifica dello Stato di Gioco                                         6.3.   Azioni
+                                                                                              Nomi
+     1.9.    Verifica dello Stato di Gioco
+                    Condizioni dello Stato di Gioco, Azioni Obbligatorie,          6.3.   Azioni
                                                                                               Generale, Canzoni
-                    Condizioni dello Stato di Gioco, Azioni Obbligatorie,
-                    Ordine di Svolgimento                                          6.4.   Oggetti
-     1.10.   Partite a Più Giocatori                                               6.5.   Luoghi
-                                                                                              Parti di una Carta
- 2. PRIMA DELLA PARTITA
-                                                                                 7. ABILITÀ
+                    Ordine di Svolgimento
+     1.10.   Partite a Più Giocatori                                               6.4.   Oggetti
+                                                                                   6.5.   Luoghi
+ 2. PRIMA DELLA PARTITA                                                                       Parti di una Carta
      2.1.    Regole del Mazzo
-                                                                                   7.1.   Generale
- 3. IL GIOCO                                                                                  Frasi, Effetti Multipli in una Frase, “Può”, “Aggiungere
-     3.1.    Iniziare una Partita                                                             alla Mano”, “Altro/Altri”, Giocare Carte mentre si
-                    Primo Giocatore, Randomizzare, Tenere Traccia dei                         Risolvono Abilità, Loop, “Fino A”, “Quello/Quella/
-                    Punti Leggenda, Pescare, Modificare le Mani                               Quel”, Rivelare Carte
-     3.2.    Finire una Partita                                                    7.2.   Carte Azione
-                    Punti Leggenda, Mazzo Esaurito, Ultimo Giocatore               7.3.   Parole Chiave
-                                                                                              Generale, Testo di Richiamo
- 4. STRUTTURA DEL TURNO
-                                                                                   7.4.   Abilità Innescate
-     4.1.    Fasi                                                                             Abilità con Due Condizioni di Innesco, Abilità
-     4.2.    Fase Iniziale                                                                    Innescate Fluttuanti, Abilità Innescate Ritardate
-                    Preparazione, Inizio Turno, Pesca                              7.5.   Abilità Attivate
-     4.3.    Fase Principale                                                                  Pagare i Costi, Passaggi per Utilizzarle
-                    Azioni di Turno, Calamaio, Giocare una Carta, Giocare          7.6.   Abilità Statiche
-                    Gratis, Andare all’Avventura, Sfidare, Spostare un                        Durata, Tempistiche, Fuori dal Gioco
-                    Personaggio, Usare Abilità Attivate
-
+                                                                                 7. ABILITÀ
+ 3. IL GIOCO                                                                       7.1.   Generale
+     3.1.    Iniziare una Partita                                                             Frasi, Effetti Multipli in una Frase, “Può”, “Aggiungere
+                    Primo Giocatore, Randomizzare, Tenere Traccia dei                         alla Mano”, “Altro/Altri”, Giocare Carte mentre si
+                    Punti Leggenda, Pescare, Modificare le Mani                               Risolvono Abilità, Loop, “Fino A”, “Quello/Quella/
+                                                                                              Quel”, Rivelare Carte
+     3.2.    Finire una Partita
+                    Punti Leggenda, Mazzo Esaurito, Ultimo Giocatore               7.2.   Carte Azione
+                                                                                   7.3.   Parole Chiave
+ 4. STRUTTURA DEL TURNO                                                                       Generale, Testo di Richiamo
+     4.1.    Fasi                                                                  7.4.   Abilità Innescate
+     4.2.    Fase Iniziale                                                                    Abilità con Due Condizioni di Innesco, Abilità
+                    Preparazione, Inizio Turno, Pesca                                         Innescate Fluttuanti, Abilità Innescate Ritardate
+     4.3.    Fase Principale                                                       7.5.   Abilità Attivate
+                    Azioni di Turno, Calamaio, Giocare una Carta, Giocare                     Pagare i Costi, Passaggi per Utilizzarle
+                    Gratis, Andare all’Avventura, Sfidare, Spostare un             7.6.   Abilità Statiche
+                    Personaggio, Usare Abilità Attivate                                       Durata, Tempistiche, Fuori dal Gioco
 
 disneylorcana.com
 ©Disney                                                                     ii
-   7.7.    Effetti Sostitutivi                                                10.7. Lesto
-               Saltare                                                        10.8. Trasformazione
-   7.8.    Abilità Modificatrici                                                       Costo Alternativo, Stato, Danneggiato, Lasciare il
-                                                                                       Gioco, Varianti
+   7.7.    Effetti Sostitutivi                                                10.8. Resistere
+               Saltare                                                                 Cumulazione, 0 Danno
+   7.8.    Abilità Modificatrici                                              10.9. Lesto
+                                                                              10.10. Trasformazione
 8. ZONE
-                                                                              10.9. Melodioso
-   8.1.    Generale                                                           10.10. Cantare Insieme
-               Pubblica, Privata, Fallire la Ricerca di una Carta                      Costo Alternativo, Risolvere Abilità Innescate
-   8.2.    Mazzo                                                              10.11. Aiutante
-               Zona Privata, Mettere Carte in Cima o in Fondo
-                                                                              10.12. Svanire
-   8.3. Mano
-                                                                              10.13. Protetto
+                                                                                       Costo Alternativo, Stato, Danneggiato, Lasciare il
+   8.1.    Generale                                                                    Gioco, Varianti
+               Pubblica, Privata, Fallire la Ricerca di una Carta             10.11. Melodioso
+   8.2.    Mazzo                                                              10.12. Cantare Insieme
+               Zona Privata, Mettere Carte in Cima o in Fondo                          Costo Alternativo, Risolvere Abilità Innescate
+   8.3. Mano                                                                  10.13. Aiutante
    8.4. Gioco
-               In Gioco, Zona Pubblica, Lasciare il Gioco                   GLOSSARIO
-   8.5.    Calamaio                                                         RIEPILOGO DEGLI AGGIORNAMENTI
-   8.6.    Scarti                                                           RIEPILOGHI PRECEDENTI
-   8.7.    Sacchetto
+                                                                              10.14. Svanire
+               In Gioco, Zona Pubblica, Lasciare il Gioco
+                                                                              10.15. Protetto
+   8.5.    Calamaio
+   8.6.    Scarti                                                           GLOSSARIO
+   8.7.    Sacchetto                                                        RIEPILOGO DEGLI AGGIORNAMENTI
+                                                                            RIEPILOGHI PRECEDENTI
 9. DANNO
    9.1.    Rappresentazione del Danno
    9.2.    “Mettere”
@@ -105,13 +106,13 @@ disneylorcana.com
 10. PAROLE CHIAVE
    10.1.   Generale
                Cumulazione, Definizioni Tecniche, Testo di Richiamo
-   10.2. Guardiano
-   10.3. Sfidante
+   10.2. Vigile
+   10.3. Guardiano
+   10.4. Potenziamento
+   10.5. Sfidante
                Cumulazione
-   10.4. Sfuggente
-   10.5. Attaccabrighe
-   10.6. Resistere
-               Cumulazione, 0 Danno
+   10.6. Sfuggente
+   10.7.   Attaccabrighe
 
 
 
@@ -370,18 +371,18 @@ disneylorcana.com
 
         4.2.1. Preparazione
 
-                4.2.1.1.     Il giocatore attivo prepara tutte le sue carte in gioco e nel suo calamaio.
-                4.2.1.2.     Gli effetti che si applicano “Durante il tuo turno” iniziano ad applicarsi.
-                4.2.1.3.     Gli effetti che terminano “all’inizio del tuo turno” o “all’inizio del tuo prossimo turno” terminano.
-                4.2.1.4.     Gli effetti che si innescano “all’inizio del tuo turno” si innescano ma non vengono ancora risolti (vedere 4.2.2.3).
+                4.2.1.1.   Il giocatore attivo prepara tutte le sue carte in gioco e nel suo calamaio.
+                4.2.1.2.   Gli effetti che si applicano “Durante il tuo turno” iniziano ad applicarsi.
+                4.2.1.3.   Gli effetti che terminano “all’inizio del tuo turno” o “all’inizio del tuo prossimo turno” terminano.
+                4.2.1.4.   Gli effetti che si innescano “all’inizio del tuo turno” si innescano ma non vengono ancora risolti (vedere 4.2.2.3).
         4.2.2. Inizio Turno
 
-                4.2.2.1.     I personaggi in gioco non si stanno più “asciugando” e potranno andare all’avventura, sfidare o {E} per pagare i costi
-                             delle abilità attivate o delle carte canzone.
+                4.2.2.1.   I personaggi in gioco non si stanno più “asciugando” e potranno andare all’avventura, sfidare o {E} per pagare i costi
+                           delle abilità attivate o delle carte canzone.
 
 
 disneylorcana.com
-©Disney                                                                      6
+©Disney                                                                    6
                 4.2.2.2. Il giocatore attivo ottiene leggenda dai luoghi che ha in gioco con {L}. Questa non è un’abilità innescata e non utilizza
                          il sacchetto.
                 4.2.2.3. Gli effetti che si verificherebbero “All’inizio del tuo turno” e le abilità che si innescano durante il passaggio
@@ -593,29 +594,83 @@ disneylorcana.com
 
 
 
-5. LE CARTE
-   5.1.    Condizioni
+5. CONDIZIONI
+   5.1.    Generale
 
 
 
 
 disneylorcana.com
 ©Disney                                                                      13
-        5.1.1. Preparato – Le carte entrano in gioco preparate. Un giocatore non può utilizzare nessuna abilità di una carta impegnata che
-                 includa {E} come parte del costo.
-        5.1.2.   Impegnato – Quando una carta viene impegnata, viene girata di lato. Un giocatore può utilizzare le abilità di una
-                 cartaimpegnata che non richiedono {E} come parte del costo.
-        5.1.3.   Danneggiato – Una carta che ha almeno 1 danno è considerata danneggiata.
-        5.1.4.   Non danneggiato – Una carta che non ha danni è considerata non danneggiata.
-        5.1.5.   Sotto – Una carta che ha una o più carte sopra di essa è considerata sotto la carta in cima a una pila (vedere 5.1.7). Un
-                 giocatore non può scegliere nessuna carta che si trovi sotto la carta in cima a una pila (vedere 5.1.6).
-        5.1.6.   In Cima – Una carta che ha una o più carte sotto di essa è considerata in cima a tutte le carte sotto di essa. Una carta che si
-                 trova in cima a una o più carte non ottiene il testo di nessuna delle carte sotto di essa. La carta che si trova in cima a tutte le
-                 altre carte in una pila è chiamata la carta in cima.
-        5.1.7.   In una Pila – Quando una carta viene posizionata in cima a una o più altre carte in gioco, essa e tutte le carte sotto di essa
-                 sono considerate in una pila. Queste carte sono considerate in una pila solo mentre sono in gioco. Se la carta in cima a una pila
-                 lascia il gioco, tutte le carte nella pila vengono spostate nella stessa zona della carta in cima e non vengono più considerate in
-                 una pila.
+        5.1.1. Preparato – Quando una carta viene preparata, viene ruotata in posizione verticale e viene considerata una carta preparata. I
+                personaggi e gli oggetti entrano in gioco preparati.
+        5.1.2. Impegnato – Quando una carta viene impegnata, viene ruotata in posizione orizzontale. Un giocatore può utilizzare le abilità di
+                una carta impegnata che non richiedono {E} come parte del costo. Un giocatore non può utilizzare nessuna abilità di una carta
+                impegnata che includa {E} come parte del costo.
+        5.1.3. Danneggiato – Una carta che ha almeno 1 danno è considerata essere danneggiata.
+        5.1.4. Non Danneggiato – Una carta che non ha subito danno è considerata essere non danneggiata.
+        5.1.5. Sotto A – Una carta che ha una o più carte sopra a essa è considerata sotto alla carta in cima a una pila (vedere 5.1.7). Un
+                giocatore non può scegliere nessuna carta che si trovi sotto alla carta in cima (vedi 5.1.6) a una pila. Una carta che è sotto a
+                un’altra carta e nella zona di gioco non è considerata in gioco. Qualsiasi giocatore può guardare una carta a faccia in su che è
+                sotto a un’altra carta in qualsiasi momento. Nessun giocatore può guardare il fronte di una carta a faccia in giù che è sotto a
+                un’altra carta in nessun momento, nemmeno la propria.
+        5.1.6. In Cima/Sopra A – Una carta che ha una o più carte sotto di essa è considerata in cima a tutte le carte sotto di essa. Una carta
+                che si trova sopra a una o più carte non ottiene il testo di nessuna delle carte sotto a essa. La carta che si trova in cima a tutte
+                le altre carte in una pila è chiamata la carta in cima.
+        5.1.7. In una Pila – Quando una carta si trova sopra o sotto a una o più altre carte in gioco, essa e tutte le carte sotto o sopra a essa
+                sono considerate essere in una pila. Queste carte sono considerate in una pila solo mentre sono in gioco. Se la carta in cima
+                a una pila lascia il gioco, tutte le carte nella pila vengono spostate nella stessa zona della carta in cima e non vengono più
+                considerate in una pila.
+        5.1.8. In Gioco — Una carta a faccia in su nella zona di Gioco senza carte sopra a essa è considerata essere in gioco. Se una carta è a
+                faccia in giù, sotto a un’altra carta o in una zona diversa dalla zona di Gioco, non è considerata essere in gioco.
+        5.1.9. A Faccia in Su – Una carta nell’area di gioco con il dorso (cioè il lato con l’icona dell’Illuminarium) rivolto verso il basso e
+                verso la superficie di gioco e con il fronte (cioè il lato con il costo e le classificazioni della carta) rivolto verso l’alto e verso i
+                giocatori, è considerata essere a faccia in su. Se una carta viene messa a faccia in su sotto a un’altra carta, o se un’altra carta
+                viene messa sopra a essa mentre è a faccia in su, è comunque considerata essere a faccia in su. Una carta a faccia in su è nota
+                pubblicamente a tutti i giocatori. Qualsiasi giocatore può guardare una carta a faccia in su in qualsiasi momento, anche se la
+                carta a faccia in su si trova sotto a un’altra carta.
+        5.1.10. A Faccia in Giù – Una carta nell’area di gioco con il dorso (cioè il lato con l’icona dell’Illuminarium) rivolto verso l’alto e verso i
+                giocatori e con il fronte (cioè il lato con il costo e le classificazioni della carta) rivolto verso il basso e verso la superficie di gioco,
+                è considerata essere a faccia in giù. Nessun giocatore può guardare il fronte di una carta a faccia in giù in nessun momento,
+                nemmeno la propria. Una carta a faccia in giù non è mai considerata in gioco.
+        5.1.11. Asciugarsi – Un personaggio che è entrato in gioco durante il turno del proprio giocatore è considerato in processo di
+                asciugarsi. Un personaggio che si sta asciugando non puòandare all’avventura, non può essere dichiarato come personaggio
+                sfidante enon può {E} per pagare alcun costo.
+        5.1.12. Asciugato – Un personaggio che è in gioco dall’inizio del turno del proprio giocatore è considerato asciugato. Un personaggio
+                asciugato può andare all’avventura e può essere dichiarato come personaggio sfidante. Gli oggetti e i personaggi asciugati
+                possono {E} per pagare qualsiasi costo.
+        5.1.13. Una carta in qualsiasi zona eccetto la mano di un giocatore può avere le condizioni descritte di seguito. Una carta può avere
+                più condizioni contemporaneamente.
+
+
+
+
+disneylorcana.com
+©Disney                                                                      14
+                5.1.13.1. Un personaggio entra in gioco con le condizioni preparato, non danneggiato, in gioco, a faccia in su e in processo
+                          di asciugarsi. Un personaggio in gioco può avere qualsiasi delle condizioni elencate nelle sezioni da 5.1.1 a 5.1.12,
+                          eccetto sotto a e a faccia in giù.
+                5.1.13.2. Un oggetto entra in gioco con le condizioni di preparato, in gioco e a faccia in su. Un oggetto che è in gioco non può
+                          avere le condizioni danneggiato, non danneggiato, sotto a o a faccia in giù.
+                5.1.13.3. Un luogo entra in gioco con le condizioni non danneggiato, in gioco e a faccia in su. Un luogo in gioco non può avere
+                          le condizioni preparato, impegnato, sotto a o a faccia in giù.
+                5.1.13.4. Una carta nel calamaio di un giocatore può avere solo le condizioni di preparata, impegnata e a faccia in giù.
+                5.1.13.5. Una carta nel mazzo di un giocatore può avere solo la condizione a faccia in giù.
+                5.1.13.6. Una carta nella pila degli scarti di un giocatore può avere solo la condizione di a faccia in su.
+                5.1.13.7. Una carta nella mano di un giocatore non può avere alcuna condizione.
+
+        5.1.14. Se una condizione viene applicata o rimossa da una carta per qualsiasi motivo, la condizione viene applicata o rimossa
+                immediatamente.
+                Esempio A: Il giocatore attivo decide di andare all’avventura con Flounder – Voce della Ragione preparato. Quando impegna
+                Flounder per andare all’avventura, gli rimuove immediatamente la condizione di preparato e gli applica immediatamente la
+                condizione di impegnato.
+                Esempio B: Il giocatore attivo decide di giocare una Trilli – Fata Gigante usando la sua abilità Trasformazione sopra a una
+                Trilli – Minuscola Stratega che è preparata, non danneggiata, in gioco, a faccia in su e asciugata. Quando ciò accade, tutte le
+                condizioni tranne quella di essere a faccia in su vengono immediatamente rimosse da Trilli – Minuscola Stratega e le condizioni
+                di essere sotto a e in una pila vengono immediatamente applicate. Le condizioni preparata, non danneggiata, in cima, in una
+                pila, in gioco, a faccia in su e asciugata vengono immediatamente applicate a Trilli – Fata Gigante. Le condizioni “preparata”,
+                “non danneggiata” e “asciugata” vengono immediatamente applicate alla Trilli trasformata perché il personaggio su cui è stata
+                messa aveva già quelle condizioni. Per ulteriori informazioni, consultare la sezione 10.10 “Trasformazione”.
 6. TIPI DI CARTA
    6.1. Personaggi
 
@@ -624,20 +679,17 @@ disneylorcana.com
         6.1.2. I personaggi non riportano la dicitura “Personaggio” nella loro riga di classificazione. Una carta deve avere entrambe le
                caratteristiche descritte in 6.1.2.1 e 6.1.2.2 per essere considerata un personaggio. In caso contrario, la carta non è un
                personaggio.
-                 6.1.2.1.   Un personaggio ha un valore di {S} e un valore di {W}.
-                 6.1.2.2.   Un personaggio ha almeno una delle seguenti voci elencate nella riga di classificazione: Aggrovigliato, Alieno,
-                            Alleato, Capitano, Cattivo, Cavaliere, Classico, Cucciolo, Detective, Divinità, Drago, Eroe, Fata, Iena, Illusione,
-                            Imbevuto, Immaginato, Incantatore, Inventore, Madrigal, Mentore, Moschettiere, Pilota, Pirata, Principe,
-                            Principessa, Re, Regina, Scopa, Sette Nani, Tigro, Titano.
+                6.1.2.1.   Un personaggio ha un valore di {S} e un valore di {W}.
+                6.1.2.2.   Un personaggio ha almeno una delle seguenti voci elencate nella riga di classificazione: Aggrovigliato, Alieno,
+                           Alleato, Capitano, Cattivo, Cavaliere, Classico, Colosso, Cucciolo, Detective, Divinità, Drago, Eroe, Fantasma, Fata,
+                           Gargoyle, Iena, Illusione, Imbevuto, Immaginato, Incantatore, Inventore, Madrigal, Mentore, Miele, Moschettiere,
+                           Pilota, Pirata, Principe, Principessa, Re, Regina, Robot, Scopa, Sette Nani, Sussurro, Tigro, Titano.
         6.1.3. Solo i personaggi possono andare all’avventura o sfidare.
         6.1.4. Un personaggio deve essere stato in gioco all’inizio del passaggio di Inizio Turno del turno del suo giocatore per poter andare
-                 all’avventura, sfidare, or {E} come parte di un costo (vedere 4.2.2, “Inizio Turno”).
-
-
-
+                all’avventura, sfidare, or {E} come parte di un costo (vedere 4.2.2, “Inizio Turno”).
 
 disneylorcana.com
-©Disney                                                                   14
+©Disney                                                                  15
    6.2. Parti di una Carta
 
 
@@ -656,7 +708,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 15
+©Disney                                                                 16
         6.2.4. Nome – Il nome della carta è scritto in caratteri più grandi. Un effetto che cerca una carta o un personaggio con un nome
                 specifico considera solo quella riga a prescindere dalla versione. L’intero nome del personaggio o del luogo deve essere uguale
                 al nome specificato per corrispondergli. Insieme, il nome e la versione di un personaggio o di un luogo ne costituiscono il suo
@@ -699,7 +751,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 16
+©Disney                                                                 17
         6.2.11. Valore di leggenda – Quantità di punti leggenda che il giocatore ottiene quando il personaggio va all’avventura. L’aspetto del
                 simbolo del valore di leggenda {L} può variare su alcune carte (ad esempio, alcune carte incantate o promozionali), ma queste
                 variazioni non influiscono sullo svolgimento del gioco (vedere #8 nel diagramma in 6.2, “Parti di una carta”).
@@ -734,9 +786,8 @@ disneylorcana.com
 
 
 
-
 disneylorcana.com
-©Disney                                                                    17
+©Disney                                                                    18
         6.3.3. Canzoni
 
                  6.3.3.1.   Le canzoni sono azioni che hanno una regola speciale in aggiunta a tutte le normali regole previste per le azioni
@@ -765,7 +816,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                  18
+©Disney                                                                  19
         6.5.1. I luoghi sono un tipo di carta che può essere in gioco. Un luogo è un luogo solo mentre si trova nella zona di Gioco; in tutte le
                altre zone è una carta luogo.
         6.5.2. Classificazione – Un luogo è definito dall’avere la scritta “Luogo” sulla riga di classificazione della carta. I luoghi sono l’unico
@@ -799,15 +850,15 @@ disneylorcana.com
                            5 danni indicati nella seconda parte della frase [B].
                 7.1.2.3.   [A] poi [B] – Risolvere tutti gli effetti il più possibile, anche se alcuni di essi non possono essere risolti.
                            Esempio: “Pesca 2 carte, poi scegli e scarta 2 carte”.
+                7.1.2.4.   [A] e [B] – Risolvere tutti gli effetti il più possibile, anche se alcuni effetti non possono essere risolti o “e” sembra
+                           legare gli effetti insieme come se la formulazione fosse [A] per [B]. A volte “e” si usa semplicemente per il suo
+                           normale significato grammaticale.
 
 
 
 
 disneylorcana.com
-©Disney                                                                    19
-                 7.1.2.4.   [A] e [B] – Risolvere tutti gli effetti il più possibile, anche se alcuni effetti non possono essere risolti o “e” sembra
-                            legare gli effetti insieme come se la formulazione fosse [A] per [B]. A volte “e” si usa semplicemente per il suo
-                            normale significato grammaticale.
+©Disney                                                                    20
                             Esempio A: L’abilità Who is the Fairest? di The Queen – Commanding Presence recita: “Whenever this character quests,
                             chosen opposing character gets -4 {S} this turn and chosen character gets +4 {S} this turn.” (“Ogni volta che questo
                             personaggio va all’avventura, un personaggio avversario a tua scelta riceve -4 {S} per questo turno e un personaggio a
@@ -845,8 +896,11 @@ disneylorcana.com
                  personaggi a tua scelta ricevono -1 {S} per questo turno. Pesca 1 carta.”). Lo stesso personaggio non può essere scelto due volte.
                  Il giocatore della carta può anche scegliere 0 personaggi.
 
+
+
+
 disneylorcana.com
-©Disney                                                                      20
+©Disney                                                                      21
         7.1.9.   Alcune abilità ed effetti usano “quel/quello/quella/quei/quelli/quelle” nel testo per riferirsi a uno specifico termine di gioco.
                  Quando si risolvono abilità ed effetti, la determinazione di ciò a cui si riferisce “quel/quello/quella (ecc.) [Termine di Gioco]”
                  avviene dopo che le scelte sono state fatte mentre l’abilità o l’effetto sta venendo risolta (vedi 1.2.4).
@@ -888,7 +942,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                     21
+©Disney                                                                     22
    7.2. Carte Azione
 
         7.2.1. Giocare un’azione può innescare altre abilità. In questo caso, il giocatore attivo risolve immediatamente l’azione e, una volta
@@ -931,7 +985,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    22
+©Disney                                                                    23
                 Esempio B: Scar – Vicious Cheater ha un’abilità chiamata Daddy Isn’t Here to Save You che recita: “During your turn, whenever
                 this character banishes another character in a challenge, you may ready this character. He can’t quest for the rest of this
                 turn.” (“Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in una sfida, puoi preparare questo
@@ -972,7 +1026,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    23
+©Disney                                                                    24
    7.5. Abilità Attivate
 
         7.5.1. Le abilità attivate sono abilità che un giocatore sceglie di utilizzare. Di solito sono scritte come [Costo] — [Effetto].
@@ -1016,7 +1070,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    24
+©Disney                                                                    25
         7.7.2. Le abilità che includono la parola “invece” sono il tipo più comune di effetto sostitutivo.
                 Esempio: L’abilità Slash di Stolen Scimitar recita: “{E} — Chosen character gets +1 {S} this turn. If a character named Aladdin
                 is chosen, he gets +2 {S} instead.” (“{E} — Un personaggio a tua scelta riceve +1 {S} per questo turno. Se è stato scelto un
@@ -1028,8 +1082,8 @@ disneylorcana.com
                sarebbero innescate dall’evento originale non lo individuano, e quindi non si innescano.
         7.7.6. Alcune abilità hanno effetti sostitutivi che sostituiscono parzialmente o completamente le loro stesse abilità, chiamati effetti
                auto-sostitutivi. Questi effetti vanno sempre applicati per primi.
-        7.7.7. Se più effetti sostitutivi possono essere applicati allo stesso effetto, il giocatore le cui carte o i cui effetti di carte vengono
-               interessati segue i passaggi elencati qui di seguito.
+        7.7.7. Se più istanze di diversi effetti sostitutivi possono essere applicati allo stesso evento, il giocatore le cui carte o effetti delle
+               carte sono interessati segue i passaggi elencati qui.
                 7.7.7.1.   In primo luogo, se è possibile applicare effetti auto-sostitutivi, sceglierne uno e procedere alla sezione 7.7.7.3. Se
                            non è possibile applicarne nessuno, procedere al passaggio successivo.
                 7.7.7.2.   In secondo luogo, se è possibile applicare altri effetti sostitutivi, sceglierne uno.
@@ -1059,36 +1113,56 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                    25
-        7.7.8. Un effetto che salta una fase o un passaggio di gioco è un effetto sostitutivo che sostituisce quella fase o quel passaggio con
-                nulla. “Salta [Passaggio/Fase]” significa la stessa cosa di “Se un giocatore dovesse eseguire il/la [Passaggio/Fase], invece non
-                fa nulla.” Se l’effetto salta una passaggio o una fase, non avviene nessuna parte di quel passaggio o di quella fase. Qualsiasi
-                abilità o effetto che si verificherebbe a causa di quel passaggio o fase, non si verifica.
-                Esempio: Arthù – Scudiero Determinato ha un’abilità chiamata Basta con i Libri che recita: “Salta il passaggio di Pesca del tuo
-                turno.” Quando un giocatore dovrebbe iniziare il suo passaggio di Pesca con Artù in gioco, salta invece il suo passaggio di Pesca
-                e passa immediatamente alla Fase Principale del suo turno. Tuttavia, se un giocatore trova un modo per giocare Artù durante il
-                suo passaggio di Pesca, il passaggio di Pesca corrente non viene saltato e procede normalmente.
+©Disney                                                                    26
+        7.7.8. Due o più istanze dello stesso effetto sostitutivo non possono essere applicate allo stesso evento. Se più istanze dello stesso
+                 effetto sostitutivo possono essere applicate allo stesso evento, il giocatore le cui carte o effetti delle carte sono interessati
+                 sceglie quale applicare. Le altre cessano di esistere.
+                 Esempio: Il giocatore attivo ha in gioco Rapunzel – Pronta per l’Avventura, Flounder – Voce della Ragione e 2 copie di Heihei –
+                 Spuntino da Barca. Rapunzel ha un’abilità innescata chiamata Gesto di Bontà, che recita: “Ogni volta che uno dei tuoi personaggi
+                 viene scelto per Aiutante, fino all’inizio del tuo prossimo turno, la prossima volta che subirebbe danni invece non subisce danni.”
+                 Il giocatore attivo manda all’avventura un Heihei e sceglie di aggiungere la sua {S} a quella di Flounder con Aiutante, facendo
+                 innescare l’abilità innescata di Rapunzel. L’abilità viene aggiunta e risolta dal sacchetto, creando un effetto sostitutivo: la
+                 prossima volta che Flounder subirebbe un danno, invece non subisce alcun danno. Il giocatore attivo va all’avventura con l’altro
+                 Heihei e sceglie di aggiungere la sua {S} a quella di Flounder con Aiutante. L’abilità innescata di Rapunzel viene nuovamente
+                 aggiunta e risolta dal sacchetto, creando un altra istanza dello stesso effetto sostitutivo. Il giocatore attivo impegna Flounder
+                 per sfidare un personaggio avversario impegnato. Durante il passaggio del Danno da Sfida, il danno viene inflitto a ciascun
+                 personaggio nella sfida, con il seguente risultato: il personaggio sfidato infligge a Flounder un danno pari alla sua {S}. Flounder
+                 subirebbe danno, quindi il giocatore attivo tenta di applicare le due istanze dello stesso effetto sostitutivo. Poiché due o più
+                 istanze dello stesso effetto sostitutivo non possono essere applicate allo stesso evento, il giocatore attivo ne sceglie una da
+                 applicare, con il seguente risultato: il personaggio avversario sfidato non infligge alcun danno a Flounder. L’altra istanza
+                 dell’effetto sostitutivo non può essere applicata e cessa di esistere.
+        7.7.9.   Un effetto che salta una fase o un passaggio di gioco è un effetto sostitutivo che sostituisce quella fase o quel passaggio con
+                 nulla. “Salta [Passaggio/Fase]” significa la stessa cosa di “Se un giocatore dovesse eseguire il/la [Passaggio/Fase], invece non fa
+                 nulla.” Se l’effetto salta una passaggio o una fase, non avviene nessuna parte di quel passaggio o di quella fase. Qualsiasi abilità o
+                 effetto che si verificherebbe a causa di quel passaggio o fase, non si verifica.
+                 Esempio: Arthù – Scudiero Determinato ha un’abilità chiamata Basta con i Libri che recita: “Salta il passaggio di Pesca del tuo
+                 turno.” Quando un giocatore dovrebbe iniziare il suo passaggio di Pesca con Artù in gioco, salta invece il suo passaggio di Pesca
+                 e passa immediatamente alla Fase Principale del suo turno. Tuttavia, se un giocatore trova un modo per giocare Artù durante il
+                 suo passaggio di Pesca, il passaggio di Pesca corrente non viene saltato e procede normalmente.
    7.8. Abilità Modificatrici
 
         7.8.1. Alcune abilità ed effetti possono modificare le caratteristiche di un personaggio o di un luogo in gioco, come {S} o {L}.
 
-                7.8.1.1.   Un modificatore si applica a una carta in modo continuativo, o per un periodo di tempo fisso oppure finché la carta
-                           che genera il modificatore è in gioco. Ogni volta che un modificatore viene applicato alla caratteristica di una carta,
-                           quella caratteristica cambia immediatamente. Questo processo non utilizza il sacchetto (vedere 8.7, “Sacchetto”).
-                7.8.1.2.   Quando più modificatori si applicano alla caratteristica di una carta, non seguono un ordine specifico, ma si
-                           combinano e vengono applicati tutti insieme. Se un nuovo modificatore dovesse essere applicato alla caratteristica
-                           di una carta, esso si aggiunge a tutti gli altri modificatori che sono già applicati.
-                           Esempio A: Il giocatore attivo gioca Grand Duke – Advisor to the King. Grand Duke ha un’abilità chiamata Yes, Your
-                           Majesty che recita: “Your Prince, Princess, King, and Queen characters get +1 {S}”. (“I tuoi personaggi Principe,
-                           Principessa, Re e Regina ricevono +1 {S}.”). Il modificatore +1 {S} generato dall’effetto dell’abilità si applica
-                           immediatamente alla {S} di tutti i personaggi con le classificazioni Principe, Principessa, Re e Regina che il giocatore
-                           attivo ha in gioco. Se quel giocatore gioca un altro personaggio con una di queste classificazioni mentre il suo Grand
-                           Duke è ancora in gioco, il nuovo personaggio entra in gioco con il modificatore +1 {S} già applicato e mantiene tale
-                           modifica finché Grand Duke non lascia il gioco.
-                           Esempio B: Il giocatore attivo ha in gioco un Heihei – Gallo Sconclusionato che ha 2 {S} e 2 {W}. Heihei riceve +1 {S} da
-                           un effetto. Heihei ora ha 3 {S} e 2 {W}. Più avanti nel turno, un effetto aggiuntivo dà a Heihei -5 {S}. La {S} di Heihei
-                           viene modificata in -2 {S}. Un effetto successivo dà a Heihei +1 {S}, portandolo a -1 {S}. Ogni volta che un modificatore
-                           si applica a Heihei, tutti gli altri modificatori che già si applicano a lui vengono sommati contemporaneamente.
+                 7.8.1.1.   Un modificatore si applica a una carta in modo continuativo, o per un periodo di tempo fisso oppure finché la carta
+                            che genera il modificatore è in gioco. Ogni volta che un modificatore viene applicato alla caratteristica di una carta,
+                            quella caratteristica cambia immediatamente. Questo processo non utilizza il sacchetto (vedere 8.7, “Sacchetto”).
+                 7.8.1.2.   Quando più modificatori si applicano alla caratteristica di una carta, non seguono un ordine specifico, ma si
+                            combinano e vengono applicati tutti insieme. Se un nuovo modificatore dovesse essere applicato alla caratteristica
+                            di una carta, esso si aggiunge a tutti gli altri modificatori che sono già applicati.
+                            Esempio A: Il giocatore attivo gioca Grand Duke – Advisor to the King. Grand Duke ha un’abilità chiamata Yes, Your
+                            Majesty che recita: “Your Prince, Princess, King, and Queen characters get +1 {S}”. (“I tuoi personaggi Principe,
+                            Principessa, Re e Regina ricevono +1 {S}.”). Il modificatore +1 {S} generato dall’effetto dell’abilità si applica
+                            immediatamente alla {S} di tutti i personaggi con le classificazioni Principe, Principessa, Re e Regina che il giocatore
+                            attivo ha in gioco. Se quel giocatore gioca un altro personaggio con una di queste classificazioni mentre il suo Grand
+                            Duke è ancora in gioco, il nuovo personaggio entra in gioco con il modificatore +1 {S} già applicato e mantiene tale
+                            modifica finché Grand Duke non lascia il gioco.
+
+disneylorcana.com
+©Disney                                                                    27
+                          Esempio B: Il giocatore attivo ha in gioco un Heihei – Gallo Sconclusionato che ha 2 {S} e 2 {W}. Heihei riceve +1 {S} da
+                          un effetto. Heihei ora ha 3 {S} e 2 {W}. Più avanti nel turno, un effetto aggiuntivo dà a Heihei -5 {S}. La {S} di Heihei
+                          viene modificata in -2 {S}. Un effetto successivo dà a Heihei +1 {S}, portandolo a -1 {S}. Ogni volta che un modificatore
+                          si applica a Heihei, tutti gli altri modificatori che già si applicano a lui vengono sommati contemporaneamente.
         7.8.2. Se un personaggio ha una {S} negativa, non infligge danni durante le sfide e viene considerato come se avesse Forza pari a 0,
                 tranne che per l’applicazione dei modificatori per determinare la sua {S} (vedere 7.8.1.1 e 7.8.1.2).
                 Esempio: Il giocatore attivo ha in gioco uno Yokai – Supercattivo Scientifico e un Microbot. Yokai ha un’abilità innescata
@@ -1101,9 +1175,6 @@ disneylorcana.com
                 la {S} del personaggio avversario è negativa, il personaggio avversario conta come se avesse {S} pari a 0 quando viene risolta
                 l’abilità innescata di Yokai, quindi il giocatore attivo pesca 1 carta. Anche se la {S} del personaggio conta come 0 ai fini della
                 risoluzione dell’effetto di Yokai, non viene in ogni caso portata a 0 e in realtà corrisponde ancora a -1 {S}.
-
-disneylorcana.com
-©Disney                                                                  26
         7.8.3. Se un personaggio o un luogo ha un valore di Leggenda {L} negativo, viene considerato come se avesse un valore di Leggenda
                 pari a 0, tranne che per l’applicazione dei modificatori per determinare il suo {L} (vedere 7.8.1.1 e 7.8.1.2).
                 Esempio: Il giocatore attivo ha in gioco una carta Flynn Rider – His Own Biggest Fan, mentre il suo avversario ha 5 carte in mano.
@@ -1128,6 +1199,10 @@ disneylorcana.com
         8.1.3. Le carte in una zona privata non sono note a tutti. I giocatori non possono guardarle a meno che non sia indicato da una regola
                di gioco (ad esempio, pescare una carta) o da un effetto. I giocatori possono contare il numero di carte in una zona privata in
                qualsiasi momento. Mentre una zona privata viene rivelata, non è più considerata privata.
+
+
+disneylorcana.com
+©Disney                                                                   28
         8.1.4. Se un effetto permette a un giocatore di cercare in una delle sue zone private una carta specifica o una carta di un tipo
                specifico, potrebbe “non trovare” quella carta.
         8.1.5. Se una carta entra in una zona privata dal gioco, qualsiasi informazione o collegamento con la carta originale viene rimosso.
@@ -1140,14 +1215,12 @@ disneylorcana.com
                rimanenti nel mazzo di qualsiasi giocatore in qualsiasi momento.
         8.2.3. Ogni volta che una carta o uno stato di gioco richiede a un giocatore di pescare una carta, seguire le regole descritte in 4.2.3,
                “Pescare”.
-        8.2.4. Se delle carte vengono aggiunte in cima o in fondo a un mazzo in qualsiasi ordine e le carte erano pubblicamente note a tutti i
-               giocatori, l’ordine in cui le carte vengono aggiunte al mazzo deve essere noto a tutti i giocatori.
-
-
-
-
-disneylorcana.com
-©Disney                                                                   27
+        8.2.4. Se le carte vengono messe in cima o in fondo a un mazzo “in qualsiasi ordine” e una qualsiasi delle carte era a faccia in su,
+               l’ordine in cui le carte a faccia in su vengono aggiunte al mazzo deve essere noto a tutti i giocatori.
+                8.2.4.1. Se quelle carte a faccia in su si trovano in una o più pile e/o se una qualsiasi di quelle pile contiene sia carte a faccia
+                          in su che a faccia in giù, qualsiasi carta di quelle pile può essere combinata e ordinata liberamente con le altre carte
+                          aggiunte al mazzo, comprese le carte di altre pile. Nessuna condizione viene applicata o rimossa da quelle carte fino
+                          a quando non vengono aggiunte alla cima o al fondo del mazzo.
    8.3. Mano
 
         8.3.1. La mano di un giocatore è il luogo in cui si tengono le carte pescate. Le carte possono essere aggiunte alla mano anche da altri
@@ -1169,14 +1242,18 @@ disneylorcana.com
                momento. I giocatori possono contare il numero di carte che ogni giocatore ha in gioco in qualsiasi momento.
         8.4.4. Ogni volta che 1 o più carte stanno per lasciare il gioco, prima verificano se ci sono abilità che si innescherebbero a causa della
                loro uscita o dell’uscita di altre carte dal gioco.
+
+
+disneylorcana.com
+©Disney                                                                  29
    8.5. Calamaio
 
         8.5.1. Il calamaio di un giocatore è il luogo in cui vengono aggiunte le carte che verranno utilizzate come inchiostro nel corso della
                partita. Queste carte sono carte inchiostro. Ogni carta inchiostro deve avere l’icona calamaio {C} intorno al suo costo e
                rappresenta 1 {I} che il giocatore può usare per pagare i costi in inchiostro. Nessun elemento del fronte di una carta inchiostro
                influisce sull’inchiostro che genera. Non c’è limite al numero di carte che un giocatore può avere nel proprio calamaio.
-        8.5.2. Le carte entrano nel calamaio a faccia in giù e preparate. Se più carte entrano nel calamaio contemporaneamente, ogni carta
-               viene trattata come un’istanza separata.
+        8.5.2. Le carte vengono aggiunte al calamaio di un giocatore a faccia in giù e preparate. Se più carte vengono aggiunte al calamaio di
+               un giocatore nello stesso momento, ogni carta viene trattata come un’istanza separata.
         8.5.3. Il calamaio è una zona privata. I giocatori non possono mai guardare le carte in un calamaio, nemmeno le proprie. I giocatori
                possono contare il numero di carte in qualsiasi calamaio in qualsiasi momento.
         8.5.4. I giocatori possono disporre le carte nel proprio calamaio in qualsiasi modo che ritengano comodo e conveniente, purché le
@@ -1186,12 +1263,6 @@ disneylorcana.com
                annunciare che sta usando quell’effetto, quindi segue i normali passaggo dell’aggiungere una carta al suo calamaio.
         8.5.6. Ogni volta che un effetto aggiunge una carta da un’altra zona al calamaio, la carta non viene rivelata e non è necessario che
                abbia l’icona calamaio. Quella carta entra nel calamaio a faccia in giù come inchiostro.
-
-
-
-
-disneylorcana.com
-©Disney                                                                  28
    8.6. Scarti
 
         8.6.1. La pila degli scarti di un giocatore è il luogo in cui vengono tenute le sue carte che hanno lasciato il gioco.
@@ -1216,6 +1287,10 @@ disneylorcana.com
                risoluzione dell’abilità corrente.
         8.7.5. Se nel sacchetto ci sono abilità di più giocatori, il giocatore attivo risolve per primo tutte le sue abilità, una alla volta,
                comprese quelle aggiunte come risultato della risoluzione di altre abilità.
+
+
+disneylorcana.com
+©Disney                                                                 30
         8.7.6. Il giocatore successivo risolve tutte le sue abilità seguendo le linee guida di cui al punto 8.7.5. Se questo innesca altre abilità
                innescate, indipendentemente dal proprietario di quelle abilità innescate, il giocatore che sta risolvendo continua a risolvere le
                sue abilità innescate.
@@ -1233,179 +1308,204 @@ disneylorcana.com
         9.1.1.   Il danno su un personaggio è rappresentato da segnalini danno. Ogni segnalino danno normalmente rappresenta 1 danno;
                  qualsiasi segnalino danno destinato a rappresentare più di 1 danno conta come un segnalino danno separato per ogni singolo
                  danno che rappresenta.
+   9.2. “Mettere”
+
+        9.2.1. Se un effetto mette un segnalino danno su un personaggio o su un luogo, non conta come infliggere danno a quel personaggio
+                 o a quel luogo e non è influenzato dalle modifiche al danno inflitto (ad esempio, Resistere).
+   9.3. Spostare Segnalini Danno
+
+        9.3.1. Lo spostamento dei segnalini danno ha l’effetto di rimuovere un numero specifico di segnalini da un personaggio a scelta e di
+                 mettere lo stesso numero di segnalini danno su un altro personaggio.
+                 Esempio: Il giocatore attivo ha in gioco Simba – Protective Cub con 1 segnalino danno su di esso. L’avversario ha in gioco The
+                 Prince – Never Gives Up, (che ha Resistere +1). Il giocatore attivo gioca l’azione Porgere un Dono che recita: “Sposta 1 segnalino
+                 danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.” l giocatore, quindi, sceglie di spostare 1
+                 segnalino danno da Simba a The Prince. Il giocatore rimuove quel singolo segnalino danno e lo mette su The Prince. L’abilità con
+                 parola chiave Resistere di The Prince non influisce su questo danno, poiché non è un danno inflitto.
+   9.4. Lasciare il Gioco
+
+        9.4.1. Quando una carta con del danno lascia il gioco, al momento della verifica dello stato di gioco, tutti i segnalini danno su di essa
+                 cessano di esistere.
+
 
 
 
 disneylorcana.com
-©Disney                                                                 29
-   9.2. “Mettere”
-
-        9.2.1. Se un effetto mette un segnalino danno su un personaggio o su un luogo, non conta come infliggere danno a quel personaggio
-                o a quel luogo e non è influenzato dalle modifiche al danno inflitto (ad esempio, Resistere).
-   9.3. Spostare Segnalini Danno
-
-        9.3.1. Lo spostamento dei segnalini danno ha l’effetto di rimuovere un numero specifico di segnalini da un personaggio a scelta e di
-                mettere lo stesso numero di segnalini danno su un altro personaggio.
-                Esempio: Il giocatore attivo ha in gioco Simba – Protective Cub con 1 segnalino danno su di esso. L’avversario ha in gioco The
-                Prince – Never Gives Up, (che ha Resistere +1). Il giocatore attivo gioca l’azione Porgere un Dono che recita: “Sposta 1 segnalino
-                danno da un personaggio a tua scelta a un personaggio avversario a tua scelta.” l giocatore, quindi, sceglie di spostare 1
-                segnalino danno da Simba a The Prince. Il giocatore rimuove quel singolo segnalino danno e lo mette su The Prince. L’abilità con
-                parola chiave Resistere di The Prince non influisce su questo danno, poiché non è un danno inflitto.
-   9.4. Lasciare il Gioco
-
-        9.4.1. Quando una carta con del danno lascia il gioco, al momento della verifica dello stato di gioco, tutti i segnalini danno su di essa
-                cessano di esistere.
-
-
+©Disney                                                                  31
 10. PAROLE CHIAVE
    10.1. Generale
 
         10.1.1. Le abilità con parole chiave forniscono un’abilità al personaggio in base a quella parola. Alcune abilità sono cumulabili, ovvero
-                si combinano; queste abilità sono seguite da “+[N]”. Un’abilità con parola chiave che non ha un +[N] non si cumula ad altri
-                effetti che forniscono quella stessa parola chiave.
-                Esempio: Se hai un personaggio con Aiutante e un effetto dà Aiutante a quel personaggio, si applica solo la prima istanza della
-                parola chiave. Tuttavia, se le parole chiave fossero Resistere +1 e Resistere +2, le abilità si sarebbero cumulate e il personaggio
-                otterrebbe Resistere +3.
+                  si combinano; queste abilità sono seguite da “+[N]”. Un’abilità con parola chiave che non ha un +[N] non si cumula ad altri
+                  effetti che forniscono quella stessa parola chiave.
+                  Esempio: Se hai un personaggio con Aiutante e un effetto dà Aiutante a quel personaggio, si applica solo la prima istanza della
+                  parola chiave. Tuttavia, se le parole chiave fossero Resistere +1 e Resistere +2, le abilità si sarebbero cumulate e il personaggio
+                  otterrebbe Resistere +3.
         10.1.2. Le voci seguenti contengono le definizioni tecniche delle abilità con parole chiave. Per una descrizione più generale delle
                 abilità con parole chiave, vedere la sezione 7.3, “Parole Chiave”.
         10.1.3. Il testo di richiamo standard per ogni parola chiave è incluso qui come riferimento. I testi di richiamo non sono testi regolistici.
                 Sono solo un aiuto per la memoria e possono variare senza cambiare il significato delle regole delle parole chiave.
-   10.2. Guardiano
+   10.2. Vigile
 
-        10.2.1. La parola chiave Guardiano rappresenta due abilità.
-        10.2.2. La prima è un’abilità statica che funziona mentre il personaggio viene giocato e crea un effetto sostitutivo. Questa abilità
+        10.2.1. La parola chiave Vigile rappresenta un’abilità statica. Vigile significa: “Questo personaggio ignora la restrizione di sfida di
+                Sfuggente”.
+        10.2.2. Il testo di richiamo standard per Vigile è: “(Questo personaggio può sfidare come se avesse Sfuggente.)”
+        10.2.3. Un personaggio non ottiene Sfuggente se possiede l’abilità con parola chiave Vigile. Può comunque ottenere Sfuggente
+                tramite un’altra abilità o effetto.
+   10.3. Guardiano
+
+        10.3.1. La parola chiave Guardiano rappresenta due abilità.
+        10.3.2. La prima è un’abilità statica che funziona mentre il personaggio viene giocato e crea un effetto sostitutivo. Questa abilità
                 significa: “Quando giochi questo personaggio, può entrare in gioco impegnato anziché preparato”.
-        10.2.3. La seconda è un’abilità statica che crea una restrizione alla sfida. Questa abilità significa: “Se un avversario vuole scegliere uno
+        10.3.3. La seconda è un’abilità statica che crea una restrizione alla sfida. Questa abilità significa: “Se un avversario vuole scegliere uno
                 dei tuoi personaggi per una sfida, deve scegliere questo personaggio o un altro personaggio con Guardiano se possibile”.
-        10.2.4. Il testo di richiamo standard per Guardiano è: “(Questo personaggio può entrare in gioco impegnato. Un personaggio avversario
+        10.3.4. Il testo di richiamo standard per Guardiano è: “(Questo personaggio può entrare in gioco impegnato. Un personaggio avversario
                 che sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)”
+   10.4. Potenziamento
+
+        10.4.1. La parola chiave Potenziamento rappresenta un’abilità attivata con una durata specifica. Potenziamento N {I} significa: “Una
+                volta durante il tuo turno, puoi pagare N {I} per mettere la prima carta del tuo mazzo a faccia in giù sotto a questa carta.”
+        10.4.2. Il testo di richiamo standard per Potenziamento è: “(Una volta durante il tuo turno, puoi pagare N {I} per mettere la prima carta
+                del tuo mazzo a faccia in giù sotto a questo personaggio.)”
+        10.4.3. Nessun giocatore può guardare il fronte di una carta che è stata messa a faccia in giù sotto a un’altra carta in nessun
+                momento, nemmeno la propria.
+        10.4.4. Se una carta è sotto a un’altra carta, non è considerata in gioco. Mettere una carta sotto a un’altra carta con Potenziamento
+                non conta come giocare quella carta.
+
 
 disneylorcana.com
-©Disney                                                                  30
-   10.3. Sfidante
+©Disney                                                                    32
+   10.5. Sfidante
 
-        10.3.1. La parola chiave Sfidante rappresenta un’abilità statica che funziona mentre un personaggio sta sfidando. Sfidante +N
+        10.5.1. La parola chiave Sfidante rappresenta un’abilità statica che funziona mentre un personaggio sta sfidando. Sfidante +N
                 significa: “Mentre questo personaggio sta sfidando, riceve +N {S}”. Siccome questa è un’abilità +N, è cumulabile con altri
                 effetti Sfidante.
-        10.3.2. Il testo di richiamo standard per Sfidante è: “(Mentre sta sfidando, questo personaggio riceve +N {S}.)”
-        10.3.3. Un personaggio con Sfidante non riceve +N {S} se sta venendo sfidato.
+        10.5.2. Il testo di richiamo standard per Sfidante è: “(Mentre sta sfidando, questo personaggio riceve +N {S}.)”
+        10.5.3. Un personaggio con Sfidante non riceve +N {S} se sta venendo sfidato.
 
-   10.4. Sfuggente
+   10.6. Sfuggente
 
-        10.4.1. La parola chiave Sfuggente rappresenta un’abilità statica che crea una restrizione di sfida. Sfuggente significa: “Questo
+        10.6.1. La parola chiave Sfuggente rappresenta un’abilità statica che crea una restrizione di sfida. Sfuggente significa: “Questo
                 personaggio non può essere sfidato se non da un personaggio con Sfuggente”.
-        10.4.2. Il testo di richiamo standard per Sfuggente è: “(Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)”
+        10.6.2. Il testo di richiamo standard per Sfuggente è: “(Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)”
 
-   10.5. Attaccabrighe
+   10.7. Attaccabrighe
 
-        10.5.1. La parola chiave Attaccabrighe rappresenta due abilità statiche.
-        10.5.2. La prima abilità significa: “Questo personaggio non può andare all’avventura”.
-        10.5.3. La seconda abilità significa “Non puoi dichiarare la fine del tuo turno se questo personaggio è preparato e può sfidare un
+        10.7.1. La parola chiave Attaccabrighe rappresenta due abilità statiche.
+        10.7.2. La prima abilità significa: “Questo personaggio non può andare all’avventura”.
+        10.7.3. La seconda abilità significa “Non puoi dichiarare la fine del tuo turno se questo personaggio è preparato e può sfidare un
                 personaggio avversario impegnato o un luogo avversario”.
-        10.5.4. Il testo di richiamo standard per Attaccabrighe è: “(Questo personaggio non può andare all’avventura e deve sfidare ogni turno,
+        10.7.4. Il testo di richiamo standard per Attaccabrighe è: “(Questo personaggio non può andare all’avventura e deve sfidare ogni turno,
                 se possibile.)”
-        10.5.5. Un giocatore può comunque impegnare un personaggio con Attaccabrighe per usare le sue abilità o cantare canzoni.
+        10.7.5. Un giocatore può comunque impegnare un personaggio con Attaccabrighe per usare le sue abilità o cantare canzoni.
 
-   10.6. Resistere
+   10.8. Resistere
 
-        10.6.1. La parola chiave Resistere rappresenta un’abilità statica che crea un effetto sostitutivo. Resistere +N significa: “Se sta
+        10.8.1. La parola chiave Resistere rappresenta un’abilità statica che crea un effetto sostitutivo. Resistere +N significa: “Se sta
                 venendo inflitto danno a questo personaggio o luogo, al personaggio o luogo viene invece inflitto quel danno meno N.”
                 Siccome questa è un’abilità +N, è cumulabile con altri effetti Resistere.
-        10.6.2. Il testo di richiamo standard per un personaggio con Resistere è: “(Il danno inflitto a questo personaggio è ridotto di N.)” Il
+        10.8.2. Il testo di richiamo standard per un personaggio con Resistere è: “(Il danno inflitto a questo personaggio è ridotto di N.)” Il
                 testo di richiamo standard per un luogo con Resistere è: “(Il danno inflitto a questo luogo è ridotto di N.)”
-        10.6.3. Se il danno inflitto a questo personaggio o luogo è ridotto a 0, si considera come se nessun danno sia stato inflitto.
+        10.8.3. Se il danno inflitto a questo personaggio o luogo è ridotto a 0, si considera come se nessun danno sia stato inflitto.
 
-   10.7. Lesto
+   10.9. Lesto
 
-        10.7.1. La parola chiave Lesto rappresenta un’abilità statica. Lesto significa: “Questo personaggio può sfidare come se fosse in gioco
+        10.9.1. La parola chiave Lesto rappresenta un’abilità statica. Lesto significa: “Questo personaggio può sfidare come se fosse in gioco
                 dall’inizio del tuo turno.”
-        10.7.2. Il testo di richiamo standard per Lesto è: “(Questo personaggio può sfidare nel turno in cui è stato giocato.)”
+        10.9.2. Il testo di richiamo standard per Lesto è: “(Questo personaggio può sfidare nel turno in cui è stato giocato.)”
 
-   10.8. Trasformazione
+   10.10. Trasformazione
 
-        10.8.1. La parola chiave Trasformazione rappresenta il pagare un costo alternativo per giocare un personaggio invece che pagare il
+        10.10.1. La parola chiave Trasformazione rappresenta il pagare un costo alternativo per giocare un personaggio invece che pagare il
                  costo in inchiostro del personaggio. Trasformazione significa: “Se hai in gioco un personaggio con lo stesso nome di questa
                  carta, puoi giocare questa carta pagando il suo costo di Trasformazione piuttosto che il suo costo in inchiostro. Se lo fai, metti
                  questa carta sopra a un altro personaggio con lo stesso nome che hai in gioco.” Questo processo viene chiamato trasformare.
 
 
 disneylorcana.com
-©Disney                                                                  31
-        10.8.2. Il testo di richiamo standard per Trasformazione è: “(Puoi pagare [Costo] per giocare questa carta sopra a uno dei tuoi
-                personaggi chiamato [Nome del Personaggio].)”
-        10.8.3. Un personaggio trasformato assume lo stato del personaggio su cui è stato posizionato (ad esempio, è asciutto se il
-                personaggio su cui è stato posizionato era asciutto, è impegnato se il personaggio su cui è stato posizionato era impegnato).
-        10.8.4. Se un effetto su un personaggio trasformato lo farebbe entrare in gioco impegnato, diventa impegnato nel momento in cui
-                entra in gioco.
-        10.8.5. Un personaggio trasformato mantiene tutto il danno presente sul personaggio su cui viene messo. Non ottiene il testo del
-                personaggio su cui è posizionato, ma mantiene tutti gli effetti che si applicano a quel personaggio quando il personaggio
-                trasformato entra in gioco.
-        10.8.6. Quando un personaggio trasformato lascia il gioco, tutte le carte nella sua pila (vale a dire tutte le carte sotto di esso) vanno
-                spostate nella stessa zona della carta personaggio trasformato e le carte non sono più considerate in una pila (vedere 5.1.7).
-        10.8.7. La parola chiave Trasformazione ha due varianti: Trasformazione [Classificazione] e Trasformazione Universale. Queste varianti
-                di un’abilità con parola chiave sono abilità Trasformazione, il che significa che seguono comunque tutte le regole della parola
-                chiave Trasformazione, ma con le seguenti eccezioni.
-                10.8.7.1. Trasformazione [Classificazione] significa: “Se hai in gioco un personaggio con la [Classificazione] specificata
-                          da questa abilità, puoi giocare questo personaggio pagando il suo costo di Trasformazione invece del suo costo
-                          in inchiostro. Se lo fai, metti questa carta sopra un altro personaggio che hai in gioco con la classificazione
-                          specificata.” Il testo di richiamo standard per Trasformazione [Classificazione] è “(Puoi [Costo da Pagare] per giocare
-                          questa carta sopra a uno dei tuoi personaggi [Classificazione].)”
-                10.8.7.2. Trasformazione Universale significa: “Se hai in gioco un personaggio, puoi giocare questo personaggio pagando il
-                          suo costo di Trasformazione invece del suo costo in inchiostro. Se lo fai, metti questa carta sopra a un personaggio
-                          che hai in gioco.” Il testo di richiamo standard per Trasformazione Universale è: “(Puoi [Costo da Pagare] per giocare
-                          questa carta sopra a uno qualsiasi dei tuoi personaggi.)”
-   10.9. Melodioso
+©Disney                                                                  33
+        10.10.2. Il testo di richiamo standard per Trasformazione è: “(Puoi pagare [Costo] per giocare questa carta sopra a uno dei tuoi
+                 personaggi chiamato [Nome del Personaggio].)”
+         10.10.3. Se un personaggio trasformato viene messo sopra a un personaggio impegnato, il personaggio trasformato entra in gioco
+                  impegnato.
+         10.10.4. Se un effetto su un personaggio trasformato fa sì che entri in gioco impegnato, diventa impegnato non appena entra in
+                  gioco, anche se il personaggio sopra a cui si è trasformato era preparato.
+         10.10.5. Se un personaggio trasformato viene messo sopra a un personaggio asciugato, il personaggio trasformato entra in gioco
+                  asciugato. Se un personaggio trasformato viene messo sopra a un personaggio che si sta asciugando, il personaggio spostato
+                  entra in gioco in processo di asciugarsi.
+         10.10.6. Un giocatore può usare un personaggio trasformato per eseguire tutte le azioni di turno del personaggio sopra a cui è stato
+                  messo. Il personaggio trasformato non ottiene il testo del personaggio sopra a cui è stato messo (come un’abilità attivata),
+                  ma mantiene tutti gli effetti che si applicano a quel personaggio quando il personaggio trasformato entra in gioco. Un
+                  giocatore può impegnare un personaggio trasformato per cantare una canzone se il personaggio sopra a cui è stato messo
+                  era asciugato.
+        10.10.7. La parola chiave Trasformazione ha due varianti: Trasformazione [Classificazione] e Trasformazione Universale. Queste varianti
+                 di un’abilità con parola chiave sono abilità Trasformazione, il che significa che seguono comunque tutte le regole della parola
+                 chiave Trasformazione, ma con le seguenti eccezioni.
+                10.10.7.1. Trasformazione [Classificazione] significa: “Se hai in gioco un personaggio con la [Classificazione] specificata
+                           da questa abilità, puoi giocare questo personaggio pagando il suo costo di Trasformazione invece del suo costo
+                           in inchiostro. Se lo fai, metti questa carta sopra un altro personaggio che hai in gioco con la classificazione
+                           specificata.” Il testo di richiamo standard per Trasformazione [Classificazione] è “(Puoi [Costo da Pagare] per giocare
+                           questa carta sopra a uno dei tuoi personaggi [Classificazione].)”
+                10.10.7.2. Trasformazione Universale significa: “Se hai in gioco un personaggio, puoi giocare questo personaggio pagando il
+                           suo costo di Trasformazione invece del suo costo in inchiostro. Se lo fai, metti questa carta sopra a un personaggio
+                           che hai in gioco.” Il testo di richiamo standard per Trasformazione Universale è: “(Puoi [Costo da Pagare] per giocare
+                           questa carta sopra a uno qualsiasi dei tuoi personaggi.)”
+   10.11. Melodioso
 
-        10.9.1. La parola chiave Melodioso rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo più basso
-                per cantare una canzone. Melodioso N significa: “Questo personaggio può {E} per pagare il costo alternativo di una carta
-                canzone come se fosse di costo N invece che del suo normale costo in inchiostro.”
-        10.9.2. Il testo di richiamo standard per Melodioso è: “(Questo personaggio conta come di costo N per cantare le canzoni.)”
-        10.9.3. Questo personaggio conta come di costo N solo per cantare le canzoni e solo durante il processo del giocare una carta. Il
-                costo in inchiostro del personaggio non cambia.
-   10.10. Cantare Insieme
+        10.11.1. La parola chiave Melodioso rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo più basso
+                 per cantare una canzone. Melodioso N significa: “Questo personaggio può {E} per pagare il costo alternativo di una carta
+                 canzone come se fosse di costo N invece che del suo normale costo in inchiostro.”
+        10.11.2. Il testo di richiamo standard per Melodioso è: “(Questo personaggio conta come di costo N per cantare le canzoni.)”
+        10.11.3. Questo personaggio conta come di costo N solo per cantare le canzoni e solo durante il processo del giocare una carta. Il
+                 costo in inchiostro del personaggio non cambia.
+   10.12. Cantare Insieme
 
-        10.10.1. La parola chiave Cantare Insieme rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo
-                  per cantare una canzone con 1 o più suoi personaggi. Cantare Insieme N significa: “Invece che pagare il costo in inchiostro di
-                  questa carta, puoi {E} un numero di personaggi tuoi o dei tuoi compagni di squadra con un costo in inchiostro totale pari a N
-                  o superiore per giocare questa carta senza doverne pagare il costo in inchiostro.”
-        10.10.2. Il testo di richiamo standard per Cantare Insieme è: “(Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra
-                  con costo totale N o superiore può {E} per cantare questa canzone gratis.)”
-
+        10.12.1. La parola chiave Cantare Insieme rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo
+                    per cantare una canzone con 1 o più suoi personaggi. Cantare Insieme N significa: “Invece che pagare il costo in inchiostro di
+                    questa carta, puoi {E} un numero di personaggi tuoi o dei tuoi compagni di squadra con un costo in inchiostro totale pari a N
+                    o superiore per giocare questa carta senza doverne pagare il costo in inchiostro.”
 
 
 disneylorcana.com
-©Disney                                                                32
-        10.10.3. Quando si gioca una canzone usando Cantare Insieme, bisogna sommare i costi in inchiostro di uno o più dei propri
+©Disney                                                                  34
+        10.12.2. Il testo di richiamo standard per Cantare Insieme è: “(Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra
+                 con costo totale N o superiore può {E} per cantare questa canzone gratis.)”
+        10.12.3. Quando si gioca una canzone usando Cantare Insieme, bisogna sommare i costi in inchiostro di uno o più dei propri
                  personaggi preparati. Se il totale raggiunge o supera il costo indicato per Cantare Insieme, il personaggio o i personaggi
                  possono cantare la canzone.
-        10.10.4. Quando un personaggio canta una canzone con Cantare Insieme, qualsiasi sua abilità innescata che abbia la condizione “Ogni
+        10.12.4. Quando un personaggio canta una canzone con Cantare Insieme, qualsiasi sua abilità innescata che abbia la condizione “Ogni
                  volta che questo personaggio canta una canzone” si verifica quando la condizione di innesco è soddisfatta.
-   10.11. Aiutante
+   10.13. Aiutante
 
-        10.11.1. La parola chiave Aiutante rappresenta un’abilità innescata. Aiutante significa: “Ogni volta che questo personaggio va
+        10.13.1. La parola chiave Aiutante rappresenta un’abilità innescata. Aiutante significa: “Ogni volta che questo personaggio va
                   all’avventura, puoi aggiungere la {S} di questo personaggio alla {S} di un altro personaggio a tua scelta per questo turno.”
-        10.11.2. Il testo di richiamo standard per Aiutante è: “(Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua {S}
+        10.13.2. Il testo di richiamo standard per Aiutante è: “(Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua {S}
                   alla {S} di un altro personaggio a tua scelta per questo turno.)”
-   10.12. Svanire
+   10.14. Svanire
 
-        10.12.1. La parola chiave Svanire rappresenta un’abilità innescata. Svanire significa: “Quando questo personaggio viene scelto da un
+        10.14.1. La parola chiave Svanire rappresenta un’abilità innescata. Svanire significa: “Quando questo personaggio viene scelto da un
                  avversario come parte della risoluzione dell’effetto di un’azione, esilia questo personaggio”.
-        10.12.2. Il testo di richiamo standard per Svanire è: “(Quando un avversario sceglie questo personaggio per un’azione, esilialo.)”
-        10.12.3. L’abilità innescata Svanire si risolve dopo la risoluzione dell’effetto dell’azione. Se il personaggio viene spostato in una zona
+        10.14.2. Il testo di richiamo standard per Svanire è: “(Quando un avversario sceglie questo personaggio per un’azione, esilialo.)”
+        10.14.3. L’abilità innescata Svanire si risolve dopo la risoluzione dell’effetto dell’azione. Se il personaggio viene spostato in una zona
                  diversa prima che l’abilità innescata venga risolta, questa si risolve senza alcun effetto.
-   10.13. Protetto
+   10.15. Protetto
 
-        10.13.1. La parola chiave Protetto rappresenta un’abilità statica. Protetto significa: “I tuoi avversari non possono scegliere questa
+        10.15.1. La parola chiave Protetto rappresenta un’abilità statica. Protetto significa: “I tuoi avversari non possono scegliere questa
                   carta quando risolvono un effetto”.
-        10.13.2. Il testo di richiamo standard per Protetto è: “(Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)”
-        10.13.3. Gli effetti che non richiedono una scelta da parte del giocatore influenzano comunque un personaggio con Protetto.
+        10.15.2. Il testo di richiamo standard per Protetto è: “(Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)”
+        10.15.3. Gli effetti che non richiedono una scelta da parte del giocatore influenzano comunque un personaggio con Protetto.
 
 
 
 
 disneylorcana.com
-©Disney                                                                   33
+©Disney                                                                   35
 GLOSSARIO
+a faccia in giù
+Una carta nell’area di gioco con il dorso rivolto verso i giocatori e il fronte rivolto verso il tavolo da gioco. Nessun giocatore può guardare il fronte
+di una carta a faccia in giù in nessun momento, nemmeno la propria. Una carta a faccia in giù non è mai considerata in gioco.
+a faccia in su
+Una carta nell’area di gioco con il dorso rivolto verso il tavolo da gioco e il fronte rivolto verso i giocatori. Una carta a faccia in su è pubblicamente
+nota e può essere guardata da qualsiasi giocatore in qualsiasi momento.
 abilità
 Regole speciali che spiegano ciò che la carta può fare di diverso dalle regole del gioco, come ad esempio un effetto che si risolve a causa di una
 carta che viene giocata.
@@ -1436,6 +1536,12 @@ attivare
 Utilizzare un’abilità attivata di una carta.
 avversario
 Chiunque giochi contro un giocatore. Si chiama anche giocatore avversario.
+
+
+
+
+disneylorcana.com
+©Disney                                                                     36
 azione
 Un tipo di carta che dà al suo giocatore un vantaggio immediato una tantum. Quando un’azione viene giocata, il suo giocatore ne risolve gli effetti
 e poi la mette nella sua pila degli scarti. Le azioni non entrano mai nella zona di Gioco.
@@ -1443,11 +1549,6 @@ azione di turno
 Un’azione che il gioco consente a un giocatore di compiere durante la Fase Principale del proprio turno. Un giocatore può compiere un qualsiasi
 numero di azioni di turno nel proprio turno, in qualsiasi ordine. Le azioni di turno comprendono aggiungere una carta al calamaio, giocare una
 carta, andare all’avventura, sfidare, spostare un personaggio in un luogo e usare le abilità attivate.
-
-
-
-disneylorcana.com
-©Disney                                                                    34
 calamaio
 La zona privata in cui un giocatore mette le proprie carte inchiostro, coperte. Ogni carta nel calamaio di un giocatore rappresenta 1 {I},
 indipendentemente da cosa ci sia sul fronte della carta, e i giocatori non possono guardare il fronte delle carte in nessun calamaio.
@@ -1480,17 +1581,15 @@ Una carta che viene messa nella pila degli scarti di un giocatore dopo essere st
 effetti o se ha un danno pari o superiore alla sua Volontà {W}.
 fase
 Una delle tre parti principali di un turno. Le fasi del turno di un giocatore sono la Fase Iniziale, la Fase Principale e la Fase di Fine Turno.
+
+disneylorcana.com
+©Disney                                                                      37
 Fase di Fine Turno
 La terza fase della struttura del turno che inizia quando il giocatore attivo dichiara la fine del proprio turno.
 Fase Iniziale
 La prima fase del turno, in cui un giocatore resetta le proprie carte per il turno. In questo momento terminano tutti gli effetti che finiscono
 all’inizio del turno del giocatore e hanno luogo gli effetti che si verificano ocominciano all’inizio del suo turno. La Fase Iniziale è composta da tre
 passaggi: Preparazione, Inizio Turno e Pesca.
-
-
-
-disneylorcana.com
-©Disney                                                                      35
 Fase Principale
 La seconda fase della struttura del turno, in cui un giocatore può eseguire una qualsiasi delle azioni di turno della Fase Principale (vedere 4.3,
 “Fase Principale”).
@@ -1522,16 +1621,19 @@ La risorsa che i giocatori utilizzano per pagare il costo delle carte da giocare
 rappresentato dalle carte che ha messo nel suo calamaio.
 icona calamaio {C}
 Un simbolo circolare presente intorno al costo di una carta se questa può essere messa nel calamaio del suo giocatore e usata come inchiostro.
-in gioco
-Termine usato per descrivere una carta che è stata messa nella zona di Gioco.
-leggenda
-I giocatori gareggiano per guadagnare questa risorsa mentre giocano. Il primo giocatore a raggiungere 20 leggenda vince la partita.
-
-
-
+in cima/sopra a
+Quando una carta ha una o più carte sotto a essa.
 
 disneylorcana.com
-©Disney                                                                     36
+©Disney                                                                     38
+in gioco
+Una carta che si trova nella zona di Gioco senza alcuna carta sopra a essa. Se una carta è sotto a un’altra carta, non è considerata in gioco. Se una
+carta è a faccia in giù, sotto a un’altra carta o in una zona diversa dalla zona di Gioco, non è considerata essere in gioco.
+in una pila
+Due o più carte che sono in gioco e in un unica pila, composta da una carta in cima e tutte le carte sotto a essa. Se la carta in cima a una pila si
+sposta in una zona specifica, tutte le carte sotto a quella carta si spostano nella stessa zona e queste carte non sono più considerate in una pila.
+leggenda
+I giocatori gareggiano per guadagnare questa risorsa mentre giocano. Il primo giocatore a raggiungere 20 leggenda vince la partita.
 luogo
 Una carta che riporta la dicitura “Luogo” nella sua riga di classificazione. Quando un giocatore gioca un luogo, lo mette nella sua zona di Gioco. I
 luoghi hanno un costo per essere giocati, un costo di spostamento per spostarvi un personaggio e una Volontà {W}. I luoghi possono essere sfidati;
@@ -1564,6 +1666,10 @@ oggetto
 Una carta che riporta la dicitura “Oggetto” nella sua riga di classificazione. Quando un giocatore gioca un oggetto, lo mette nella sua zona di
 Gioco, dove rimane finché non viene esiliato o rimosso dal gioco da un effetto di gioco. Gli oggetti possono essere impegnati durante il turno in
 cui vengono giocati. Un giocatore non può avere più di 4 copie di un oggetto con lo stesso nome nel proprio mazzo.
+
+
+disneylorcana.com
+©Disney                                                                     39
 partita a più giocatori
 Una partita giocata con tre o più giocatori.
 passaggio di Inizio Turno
@@ -1571,12 +1677,6 @@ Il secondo passaggio della Fase Iniziale del turno di un giocatore, in cui i per
 all’avventura, sfidare o {E} per pagare i costi delle abilità attivate o delle carte canzone. Durante questo passaggio, il giocatore attivo ottiene
 leggenda dai luoghi che ha in gioco con la caratteristica {L} . Gli effetti che si verificherebbero “All’inizio del tuo turno” e le abilità che si sono
 innescate durante il passaggio di Preparazione vengono aggiunti al sacchetto, quindi tutte le abilità innescate vengono risolte.
-
-
-
-
-disneylorcana.com
-©Disney                                                                      37
 passaggio di Pesca
 Il terzo passaggio della Fase Iniziale del turno di un giocatore, in cui il giocatore prende in mano la carta in cima al proprio mazzo. Una volta che
 tutti gli effetti sono stati risolti e non ce ne sono altri in attesa di essere aggiunti, il gioco passa alla Fase Principale. Nel primo turno della partita,
@@ -1608,6 +1708,12 @@ Un altro nome per gli scarti.
 preparato/preparare
 Una carta che è stata messa in posizione preparata (verticale) e l’atto di mettere una carta in posizione preparata. Un giocatore prepara tutte le
 sue carte impegnate nel passaggio di Preparazione del suo turno.
+
+
+
+
+disneylorcana.com
+©Disney                                                                       40
 primo giocatore
 Il giocatore che effettua il primo turno della partita, e che viene determinato in modo casuale prima dell’inizio della partita. Il primo giocatore non
 pesca in quel turno.
@@ -1615,12 +1721,6 @@ rivelare
 Mostrare la faccia di una o più carte definite dall’effetto a tutti gli altri giocatori.
 saltare
 Non fare nulla invece di svolgere una fase o un passaggio di gioco.
-
-
-
-
-disneylorcana.com
-©Disney                                                                        38
 sacchetto
 Una zona che non esiste fisicamente in cui le abilità innescate vengono messe in attesa, prima di determinare la risoluzione dei loro effetti. Ogni
 volta che la condizione di un’abilità innescata è soddisfatta, l’abilità viene aggiunta al sacchetto.
@@ -1653,6 +1753,11 @@ valore di Leggenda {L}
 Una caratteristica della carta che indica la quantità di leggenda che il suo giocatore può ottenere da essa ogni turno. Se è un personaggio, la
 leggenda si ottiene dal mandarlo all’avventura. Se è un luogo, la leggenda si ottiene all’inizio del turno del suo giocatore durante il passaggio di
 Inizio Turno.
+
+
+
+disneylorcana.com
+©Disney                                                                        41
 verifica dello stato di gioco
 La verifica che il gioco esegue per verificare un insieme di condizioni e le azioni obbligatorie da svolgere quando una o più di queste condizioni
 viene raggiunta. Questa verifica avviene alla fine di qualsiasi passaggio, dopo che la risoluzione di qualsiasi azione o abilità è stata conclusa e dopo
@@ -1660,12 +1765,6 @@ che si è finito di risolvere qualsiasi effetto nel sacchetto (vedere 1.9, “Ve
 versione
 Un descrittore che può differenziare le carte con lo stesso nome ai fini della costruzione di un mazzo. Il nome e la versione di un personaggio o di
 un luogo costituiscono, insieme, il nome completo della carta.
-
-
-
-
-disneylorcana.com
-©Disney                                                                       39
 viene/è stato danneggiato
 Sta subendo/ha ricevuto danno.
 Volontà {W}
@@ -1686,8 +1785,131 @@ momento.
 
 
 disneylorcana.com
-©Disney                                                                     40
+©Disney                                                                     42
 RIEPILOGO DEGLI AGGIORNAMENTI
+31 ottobre 2025
+In preparazione all’uscita di Sussurri nel Pozzo, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana TCG.
+    ◊ Regole aggiunte: Condizioni
+    ◊    Nuove regole: Abilità con parola chiave Vigile
+    ◊    Nuove regole: Abilità con parola chiave Potenziamento
+
+Condizioni
+Aggiunta una frase nella sezione 5.1 per identificare e definire in modo più accurato tutte le condizioni che possono applicarsi alle carte in varie zone.
+5. CONDIZIONI
+  5.1. Generale
+     5.1.1. Preparato – Quando una carta viene preparata, viene ruotata in posizione verticale e viene considerata una carta preparata. I personaggi e gli
+            oggetti entrano in gioco preparati.
+     5.1.2. Impegnato – Quando una carta viene impegnata, viene ruotata in posizione orizzontale. Un giocatore può utilizzare le abilità di una carta
+            impegnata che non richiedono {E} come parte del costo. Un giocatore non può utilizzare nessuna abilità di una carta impegnata che includa
+            {E} come parte del costo.
+     5.1.3. Danneggiato – Una carta che ha almeno 1 danno è considerata essere danneggiata.
+     5.1.4. Non Danneggiato – Una carta che non ha subito danno è considerata essere non danneggiata.
+     5.1.5. Sotto A – Una carta che ha una o più carte sopra a essa è considerata sotto alla carta in cima a una pila (vedere 5.1.7). Un giocatore non può
+            scegliere nessuna carta che si trovi sotto alla carta in cima (vedi 5.1.6) a una pila. Una carta che è sotto a un’altra carta e nella zona di gioco
+            non è considerata in gioco. Qualsiasi giocatore può guardare una carta a faccia in su che è sotto a un’altra carta in qualsiasi momento. Nessun
+            giocatore può guardare il fronte di una carta a faccia in giù che è sotto a un’altra carta in nessun momento, nemmeno la propria.
+     5.1.6. In Cima/Sopra A – Una carta che ha una o più carte sotto di essa è considerata in cima a tutte le carte sotto di essa. Una carta che si trova
+            sopra a una o più carte non ottiene il testo di nessuna delle carte sotto a essa. La carta che si trova in cima a tutte le altre carte in una pila è
+            chiamata la carta in cima.
+     5.1.7. In una Pila – Quando una carta si trova sopra o sotto a una o più altre carte in gioco, essa e tutte le carte sotto o sopra a essa sono considerate
+            essere in una pila. Queste carte sono considerate in una pila solo mentre sono in gioco. Se la carta in cima a una pila lascia il gioco, tutte le
+            carte nella pila vengono spostate nella stessa zona della carta in cima e non vengono più considerate in una pila.
+     5.1.8. In Gioco — Una carta a faccia in su nella zona di Gioco senza carte sopra a essa è considerata essere in gioco. Se una carta è a faccia in giù,
+            sotto a un’altra carta o in una zona diversa dalla zona di Gioco, non è considerata essere in gioco.
+     5.1.9. A Faccia in Su – Una carta nell’area di gioco con il dorso (cioè il lato con l’icona dell’Illuminarium) rivolto verso il basso e verso la superficie di
+            gioco e con il fronte (cioè il lato con il costo e le classificazioni della carta) rivolto verso l’alto e verso i giocatori, è considerata essere a faccia
+            in su. Se una carta viene messa a faccia in su sotto a un’altra carta, o se un’altra carta viene messa sopra a essa mentre è a faccia in su, è
+            comunque considerata essere a faccia in su. Una carta a faccia in su è nota pubblicamente a tutti i giocatori. Qualsiasi giocatore può guardare
+            una carta a faccia in su in qualsiasi momento, anche se la carta a faccia in su si trova sotto a un’altra carta.
+     5.1.10. accia in Giù – Una carta nell’area di gioco con il dorso (cioè il lato con l’icona dell’Illuminarium) rivolto verso l’alto e verso i giocatori e con il
+             fronte (cioè il lato con il costo e le classificazioni della carta) rivolto verso il basso e verso la superficie di gioco, è considerata essere a faccia
+             in giù. Nessun giocatore può guardare il fronte di una carta a faccia in giù in nessun momento, nemmeno la propria. Una carta a faccia in giù
+             non è mai considerata in gioco.
+
+
+
+disneylorcana.com
+©Disney                                                                          43
+     5.1.11. Asciugarsi – Un personaggio che è entrato in gioco durante il turno del proprio giocatore è considerato in processo di asciugarsi. Un
+             personaggio che si sta asciugando non puòandare all’avventura, non può essere dichiarato come personaggio sfidante enon può {E} per
+             pagare alcun costo.
+     5.1.12. Asciugato – Un personaggio che è in gioco dall’inizio del turno del proprio giocatore è considerato asciugato. Un personaggio asciugato può
+             andare all’avventura e può essere dichiarato come personaggio sfidante. Gli oggetti e i personaggi asciugati possono {E} per pagare qualsiasi
+             costo.
+     5.1.13. Una carta in qualsiasi zona eccetto la mano di un giocatore può avere le condizioni descritte di seguito. Una carta può avere più condizioni
+             contemporaneamente.
+             5.1.13.1. Un personaggio entra in gioco con le condizioni preparato, non danneggiato, in gioco, a faccia in su e in processo di asciugarsi. Un
+                       personaggio in gioco può avere qualsiasi delle condizioni elencate nelle sezioni da 5.1.1 a 5.1.12, eccetto sotto a e a faccia in giù.
+             5.1.13.2. Un oggetto entra in gioco con le condizioni di preparato, in gioco e a faccia in su. Un oggetto che è in gioco non può avere le
+                       condizioni danneggiato, non danneggiato, sotto a o a faccia in giù.
+             5.1.13.3. Un luogo entra in gioco con le condizioni non danneggiato, in gioco e a faccia in su. Un luogo in gioco non può avere le condizioni
+                       preparato, impegnato, sotto a o a faccia in giù.
+             5.1.13.4. Una carta nel calamaio di un giocatore può avere solo le condizioni di preparata, impegnata e a faccia in giù.
+             5.1.13.5. Una carta nel mazzo di un giocatore può avere solo la condizione a faccia in giù.
+             5.1.13.6. Una carta nella pila degli scarti di un giocatore può avere solo la condizione di a faccia in su.
+             5.1.13.7. Una carta nella mano di un giocatore non può avere alcuna condizione.
+     5.1.14. Se una condizione viene applicata o rimossa da una carta per qualsiasi motivo, la condizione viene applicata o rimossa immediatamente.
+		 Esempio A: Il giocatore attivo decide di andare all’avventura con Flounder – Voce della Ragione preparato. Quando impegna Flounder per
+   andare all’avventura, gli rimuove immediatamente la condizione di preparato e gli applica immediatamente la condizione di impegnato.
+		 Esempio B: Il giocatore attivo decide di giocare una Trilli – Fata Gigante usando la sua abilità Trasformazione sopra a una Trilli – Minuscola
+   Stratega che è preparata, non danneggiata, in gioco, a faccia in su e asciugata. Quando ciò accade, tutte le condizioni tranne quella di
+   essere a faccia in su vengono immediatamente rimosse da Trilli – Minuscola Stratega e le condizioni di essere sotto a e in una pila vengono
+   immediatamente applicate. Le condizioni preparata, non danneggiata, in cima, in una pila, in gioco, a faccia in su e asciugata vengono
+   immediatamente applicate a Trilli – Fata Gigante. Le condizioni “preparata”, “non danneggiata” e “asciugata” vengono immediatamente
+   applicate alla Trilli trasformata perché il personaggio su cui è stata messa aveva già quelle condizioni. Per ulteriori informazioni, consultare la
+   sezione 10.10 “Trasformazione”.
+
+Abilità con parola chiave Vigile
+Aggiunta la definizione tecnica e il testo di richiamo standard per l’abilità chiave Vigile.
+     10.2. Vigile
+             10.2.1. La parola chiave Vigile rappresenta un’abilità statica. Vigile significa: “Questo personaggio ignora la restrizione di sfida di
+                     Sfuggente”.
+             10.2.2. Il testo di richiamo standard per Vigile è: “(Questo personaggio può sfidare come se avesse Sfuggente.)”
+             10.2.3. Un personaggio non ottiene Sfuggente se possiede l’abilità con parola chiave Vigile. Può comunque ottenere Sfuggente tramite
+                     un’altra abilità o effetto.
+
+
+
+
+disneylorcana.com
+©Disney                                                                         44
+Abilità con parola chiave Potenziamento
+Aggiunta la definizione tecnica e il testo di promemoria standard per l’abilità chiave Potenziamento.
+     10.4. Potenziamento
+             10.4.1. La parola chiave Potenziamento rappresenta un’abilità attivata con una durata specifica. Potenziamento N {I} significa: “Una volta
+                     durante il tuo turno, puoi pagare N {I} per mettere la prima carta del tuo mazzo a faccia in giù sotto a questa carta.”
+             10.4.2. Il testo di richiamo standard per Potenziamento è: “(Una volta durante il tuo turno, puoi pagare N {I} per mettere la prima carta del
+                     tuo mazzo a faccia in giù sotto a questo personaggio.)”
+             10.4.3. Nessun giocatore può guardare il fronte di una carta che è stata messa a faccia in giù sotto a un’altra carta in nessun momento,
+                     nemmeno la propria.
+             10.4.4. Se una carta è sotto a un’altra carta, non è considerata in gioco. Mettere una carta sotto a un’altra carta con Potenziamento non
+                     conta come giocare quella carta.
+
+Aggiornamenti Generali
+   ◊ 6.1.2.2. Aggiunte le seguenti Classificazioni: Colosso, Fantasma, Gargoyle, Miele e Sussurro.
+   ◊     7.7.8. Aggiunta una regola per chiarire che più istanze dello stesso effetto sostitutivo non possono essere applicate allo stesso evento.
+   ◊     8.2.4.–8.2.4.1. Aggiunte regole che spiegano come spostare una o più pile di carte quando si mettono carte in qualsiasi ordine in cima o in fondo
+         al mazzo di un giocatore.
+   ◊     10.10.3–10.10.6. Modificato il testo per chiarire le condizioni che un personaggio con Trasformazione ha quando viene messo sopra a un altro
+         personaggio.
+
+Aggiornamenti di Usabilità
+   ◊ 8.5.2. Modificato il linguaggio per allinearlo meglio al testo delle carte.
+
+Aggiornamenti del Glossario
+   ◊ a faccia in giù: aggiunto.
+   ◊     a faccia in su: aggiunto.
+   ◊     in una pila: aggiunto.
+   ◊     in gioco: modificato.
+   ◊     sopra a: aggiunto.
+   ◊     sotto a: aggiunto.
+
+
+
+
+disneylorcana.com
+©Disney                                                                      45
+RIEPILOGHI PRECEDENTI
 22 agosto 2025
 In preparazione all’uscita di Leggende, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana TCG.
 
@@ -1704,7 +1926,7 @@ Aggiornamenti al Glossario
 
 
 disneylorcana.com
-©Disney                                                                         41
+©Disney                                                                         46
 RIEPILOGHI PRECEDENTI
 27 maggio 2025
 Per prepararsi all’uscita de Il Regno di Jafar, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana.
@@ -1747,7 +1969,7 @@ Aggiunta le seguenti frasi alla sezione 7.7.
 
 
 disneylorcana.com
-©Disney                                                                         42
+©Disney                                                                         47
      7.7.7. Un effetto che salta una fase o un passaggio di gioco è un effetto sostitutivo che sostituisce quella fase o quel passaggio con nulla. “Salta
             [Passaggio/Fase]” significa la stessa cosa di “Se un giocatore dovesse eseguire il/la [Passaggio/Fase], invece non fa nulla.” Se l’effetto salta
             una passaggio o una fase, non avviene nessuna parte di quel passaggio o di quella fase. Qualsiasi abilità o effetto che si verificherebbe a
@@ -1773,302 +1995,4 @@ Aggiornamenti al Glossario
 
 
 disneylorcana.com
-©Disney                                                                        43
-RIEPILOGHI PRECEDENTI
-28 febbraio 2025
-In preparazione all’uscita di L’Isola di Archazia, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana.
-    ◊ Nuove Regole e Definizioni Tecniche: Sotto, In Cima, In una Pila
-    ◊    Nuova Regola: Carte con Più Tipi di Inchiostro
-    ◊    Nuove Regole: Varianti di Trasformazione
-    ◊    Nuova Regola: Abilità con Parola Chiave Svanire
-
-Sotto, In Cima, In una Pila
-Aggiunto il seguenti testo e le seguenti definizioni tecniche alla sezione 5.1.
-     5.1.5. Sotto – Una carta che ha una o più carte sopra di essa è considerata sotto la carta in cima a una pila (vedere 5.1.7). Un giocatore non può
-            scegliere nessuna carta che si trovi sotto la carta in cima a una pila (vedere 5.1.6).
-     5.1.6. In Cima – Una carta che ha una o più carte sotto di essa è considerata in cima a tutte le carte sotto di essa. Una carta che si trova in cima
-            a una o più carte non ottiene il testo di nessuna delle carte sotto di essa. La carta che si trova in cima a tutte le altre carte in una pila è
-            chiamata la carta in cima.
-     5.1.7. In una Pila – Quando una carta viene posizionata in cima a una o più altre carte in gioco, essa e tutte le carte sotto di essa sono considerate in
-            una pila. Queste carte sono considerate in una pila solo mentre sono in gioco. Se la carta in cima a una pila lascia il gioco, tutte le carte nella
-            pila vengono spostate nella stessa zona della carta in cima e non vengono più considerate in una pila.
-
-Carte con Più Tipi di Inchiostro
-Aggiunto il testo seguente per spiegare le carte con più di un tipo di inchiostro.
-     6.2.3.1. Alcune carte hanno più di un tipo di inchiostro. Le carte con due tipi di inchiostro presentano due simboli del tipo di inchiostro.
-
-Varianti di Trasformazione
-Aggiunte definizioni tecniche per Trasformazione [Classificazione] e Trasformazione Universale.
-     10.8.7. La parola chiave Trasformazione ha due varianti: Trasformazione [Classificazione] e Trasformazione Universale. Queste varianti di un’abilità
-             con parola chiave sono abilità Trasformazione, il che significa che seguono comunque tutte le regole della parola chiave Trasformazione, ma
-             con le seguenti eccezioni.
-             10.8.7.1. Trasformazione [Classificazione] significa: “Se hai in gioco un personaggio con la [Classificazione] specificata da questa abilità,
-                       puoi giocare questo personaggio pagando il suo costo di Trasformazione invece del suo costo in inchiostro. Se lo fai, metti questa
-                       carta sopra un altro personaggio che hai in gioco con la classificazione specificata.” Il testo di richiamo standard per Trasformazione
-                       [Classificazione] è “(Puoi [Costo da Pagare] per giocare questa carta sopra a uno dei tuoi personaggi [Classificazione].)”
-             10.8.7.2. Trasformazione Universale significa: “Se hai in gioco un personaggio, puoi giocare questo personaggio pagando il suo costo di
-                       Trasformazione invece del suo costo in inchiostro. Se lo fai, metti questa carta sopra a un personaggio che hai in gioco.” Il testo di
-                       richiamo standard per Trasformazione Universale è: “(Puoi [Costo da Pagare] per giocare questa carta sopra a uno qualsiasi dei tuoi
-                       personaggi.)”
-
-
-
-
-disneylorcana.com
-©Disney                                                                           44
-Abilità con Parola Chiave Svanire
-Aggiunta una definizione tecnica per l’abilità con parola chiave Svanire.
-     10.12. Svanire
-             10.12.1. La parola chiave Svanire rappresenta un’abilità innescata. Svanire significa: “Quando questo personaggio viene scelto da un
-                      avversario come parte della risoluzione dell’effetto di un’azione, esilia questo personaggio”.
-             10.12.2. Il testo di richiamo standard per Svanire è: “(Quando un avversario sceglie questo personaggio per un’azione, esilialo.)”
-             10.12.3. L’abilità innescata Svanire si risolve dopo la risoluzione dell’effetto dell’azione. Se il personaggio viene spostato in una zona diversa
-                      prima che l’abilità innescata venga risolta, questa si risolve senza alcun effetto.
-
-Aggiornamenti Generali
-   ◊ 2.1.1.2.–2.1.1.3. Aggiornato il linguaggio per renderlo più chiaro.
-   ◊     6.1.2.2. Aggiunta la classificazione Illusione.
-   ◊     7.8.1–7.8.3. Aggiornato il linguaggio per renderlo più chiaro, in modo che le abilità o gli effetti che fanno riferimento a 0 {S} o 0 {L} si applichino ai
-         personaggi o ai luoghi con valori negativi, come previsto.
-   ◊     10.8.5–10.8.6. Aggiornato il linguaggio per renderlo più chiaro e per adattarlo alle definizioni tecniche di sotto e in cima.
-   ◊     10.13.3. Aggiunta di testo per maggiore chiarezza.
-
-Aggiornamenti al Glossario
-   ◊ tipo di inchiostro: aggiunto testo per maggiore chiarezza e per includere le carte con più di un tipo di inchiostro.
-   ◊     viene/è stato danneggiato: aggiunto un testo per chiarire che “è stato danneggiato” nel testo della carta significa “ha ricevuto danno”, in modo
-         simile a come “viene danneggiato” significa “sta subendo danno”.
-   ◊     pila: aggiornato il linguaggio per renderlo più chiaro e per adattarlo alle definizioni tecniche di sotto, in cima e in una pila.
-   ◊     carta in cima: aggiunta.
-
-
-
-
-disneylorcana.com
-©Disney                                                                         45
-RIEPILOGHI PRECEDENTI
-9 agosto 2024
-In preparazione all’uscita di Cieli Scintillanti, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana:
-    ◊    Nuove definizioni tecniche: Abilità con parole chiave
-    ◊    Chiarimenti: Verifica dello Stato di Gioco
-    ◊    Nuova regola: Rivelare
-    ◊    Chiarimento: Effetti sostitutivi
-    ◊    Nuova regola: Abilità innescate con due condizioni
-    ◊    Nuova regola: Abilità innescate fluttuanti
-    ◊    Regola aggiornata: [A] per [B]
-
-Abilità con parole chiave
-Aggiunto il seguente testo introduttivo alla sezione 10.1 e aggiunte definizioni tecniche e testo di richiamo standard per ogni parola chiave.
-     10.1.   Generale
-		 10.1.2. Le voci seguenti contengono le definizioni tecniche delle abilità con parole chiave. Per una descrizione più generale delle abilità con
-           parole chiave, vedere la sezione 7.3, “Parole Chiave”.
-		 10.1.3. Il testo di richiamo standard per ogni parola chiave è incluso qui come riferimento. I testi di richiamo non sono testi regolistici. Sono
-           solo un aiuto per la memoria e possono variare senza cambiare il significato delle regole delle parole chiave.
-     10.2. Guardiano
-		 10.2.1. La parola chiave Guardiano rappresenta due abilità.
-		 10.2.2. La prima è un’abilità statica che funziona mentre il personaggio viene giocato e crea un effetto sostitutivo. Questa abilità significa
-           “Quando giochi questo personaggio, può entrare in gioco impegnato anziché preparato”.
-		 10.2.3. La seconda è un’abilità statica che crea una restrizione alla sfida. Questa abilità significa: “Se un avversario vuole scegliere uno dei
-           tuoi personaggi per una sfida, deve scegliere questo personaggio o un altro personaggio con Guardiano se possibile”.
-		 10.2.4. Il testo di richiamo standard per Guardiano è: “(Questo personaggio può entrare in gioco impegnato. Un personaggio avversario che
-           sfida uno dei tuoi personaggi deve sceglierne uno con Guardiano, se possibile.)”
-     10.3. Sfidante
-		 10.3.1. La parola chiave Sfidante rappresenta un’abilità statica che funziona mentre un personaggio sta sfidando. Sfidante +N significa:
-           “Mentre questo personaggio sta sfidando, riceve +N {S}”. Siccome questa è un’abilità +N, è cumulabile con altri effetti Sfidante.
-		 10.3.2. Il testo di richiamo standard per Sfidante è “(Mentre sta sfidando, questo personaggio riceve +N {S}.)”
-		 10.3.3. Un personaggio con Sfidante non riceve +N {S} se sta venendo sfidato.
-     10.4. Sfuggente
-		 10.4.1. La parola chiave Sfuggente rappresenta un’abilità statica che crea una restrizione di sfida. Sfuggente significa: “Questo personaggio
-           non può essere sfidato se non da un personaggio con Sfuggente”.
-		 10.4.2. Il testo di richiamo standard per Sfuggente è: “(Solo altri personaggi con Sfuggente possono sfidare questo personaggio.)”
-
-
-
-
-disneylorcana.com
-©Disney                                                                       46
-    10.5. Attaccabrighe
-		 10.5.1. La parola chiave Attaccabrighe rappresenta due abilità statiche.
-		 10.5.2. La prima abilità significa: “Questo personaggio non può andare all’avventura”.
-		 10.5.3. La seconda abilità significa “Non puoi dichiarare la fine del tuo turno se questo personaggio è preparato e può sfidare un personaggio
-           avversario impegnato o un luogo avversario”.
-		 10.5.4. Il testo di richiamo standard per Attaccabrighe è “(Questo personaggio non può andare all’avventura e deve sfidare ogni turno, se
-           possibile.)”
-		 10.5.5. Un giocatore può comunque impegnare un personaggio con Attaccabrighe per usare le sue abilità o cantare canzoni.
-     10.6. Resistere
-		 10.6.1. La parola chiave Resistere rappresenta un’abilità statica che crea un effetto sostitutivo. Resistere +N significa: “Se sta venendoinflitto
-           danno a questo personaggio o luogo, al personaggio o luogo viene invece inflitto quel danno meno N.” Siccome questa è un’abilità
-           +N, è cumulabile con altri effetti Resistere.
-		 10.6.2. Il testo di richiamo standard per un personaggio con Resistere è “(Il danno inflitto a questo personaggio è ridotto di N.)” Il testo di
-           richiamo standard per un luogo con Resistere è: “(Il danno inflitto a questo luogo è ridotto di N.)”
-		 10.6.3. Se il danno inflitto a questo personaggio o luogo è ridotto a 0, si considera come se nessun danno sia stato inflitto.
-     10.7. Lesto
-		 10.7.1. La parola chiave Lesto rappresenta un’abilità statica. Lesto significa “Questo personaggio può sfidare come se fosse in gioco dall’inizio
-           del tuo turno.”
-		 10.7.2. Il testo di richiamo standard per Lesto è “(Questo personaggio può sfidare nel turno in cui è stato giocato.)”
-     10.8. Trasformazione
-		 10.8.1. La parola chiave Trasformazione rappresenta il pagare un costo alternativo per giocare un personaggio invece che pagare il costo in
-           inchiostro del personaggio. Trasformazione significa “Se hai in gioco un personaggio con lo stesso nome di questa carta, puoi giocare
-           questa carta pagando il suo costo di Trasformazione piuttosto che il suo costo in inchiostro. Se lo fai, metti questa carta sopra a un
-           altro personaggio con lo stesso nome che hai in gioco.” Questo processo viene chiamato trasformare.
-		 10.8.2. Il testo di richiamo standard per Trasformazione è “(Puoi pagare [Costo] per giocare questa carta sopra a uno dei tuoi personaggi
-           chiamato [Nome del Personaggio].)”
-		 10.8.3. Un personaggio trasformato assume lo stato del personaggio su cui è stato posizionato (ad esempio, è asciutto se il personaggio su
-           cui è stato posizionato era asciutto, è impegnato se il personaggio su cui è stato posizionato era impegnato).
-		 10.8.4. Se un effetto su un personaggio trasformato lo farebbe entrare in gioco impegnato, diventa impegnato nel momento in cui entra in
-           gioco.
-		 10.8.5. Un personaggio trasformato mantiene i danni subiti dal personaggio su cui è stato posizionato. Perde tutto il testo del personaggio
-           su cui è stato posizionato, ma mantiene tutti gli effetti che si applicavano a quel personaggio quando il personaggio trasformato è
-           entrato in gioco.
-		 10.8.6. Quando un personaggio trasformato lascia il gioco, tutte le carte nella sua pila (vale a dire la carta su cui è stato giocato e tutte le
-           altre carte sottostanti) vanno nella stessa zona della carta personaggio trasformato e le carte non sono più considerate in una pila.
-
-
-
-
-disneylorcana.com
-©Disney                                                                   47
-     10.9. Melodioso
-		 10.9.1. La parola chiave Melodioso rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo più basso per
-           cantare una canzone. Melodioso N significa “Questo personaggio può {E} per pagare il costo alternativo di una carta canzone come se
-           fosse di costo N invece che del suo normale costo in inchiostro.”
-		 10.9.2. Il testo di richiamo standard per Melodioso è “(Questo personaggio conta come di costo N per cantare le canzoni.)”
-		 10.9.3. Questo personaggio conta come di costo N solo per cantare le canzoni e solo durante il processo del giocare una carta. Il costo in
-           inchiostro del personaggio non cambia.
-     10.10. Cantare Insieme
-		 10.10.1. La parola chiave Cantare Insieme rappresenta un’abilità statica che permette a un giocatore di pagare un costo alternativo per
-            cantare una canzone con 1 o più suoi personaggi. Cantare Insieme N significa “Invece che pagare il costo in inchiostro di questa
-            carta, puoi {E} un numero di personaggi tuoi o dei tuoi compagni di squadra con un costo in inchiostro totale pari a N o superiore per
-            giocare questa carta senza doverne pagare il costo in inchiostro.”
-		 10.10.2. Il testo di richiamo standard per Cantare Insieme è: “(Un qualsiasi numero di personaggi tuoi o dei tuoi compagni di squadra con costo
-            totale N o superiore può {E} per cantare questa canzone gratis.)”
-		 10.10.3. Quando si gioca una canzone usando Cantare Insieme, bisogna sommare i costi in inchiostro di uno o più dei propri personaggi
-            preparati. Se il totale raggiunge o supera il costo indicato per Cantare Insieme, il personaggio o i personaggi possono cantare la
-            canzone.
-		 10.10.4. Quando un personaggio canta una canzone con Cantare Insieme, qualsiasi sua abilità innescata che abbia la condizione “Ogni volta
-            che questo personaggio canta una canzone” si verifica quando la condizione di innesco è soddisfatta.
-     10.11. Aiutante
-		 10.11.1. La parola chiave Aiutante rappresenta un’abilità innescata. Aiutante significa “Ogni volta che questo personaggio va all’avventura,
-            puoi aggiungere la {S} di questo personaggio alla {S} di un altro personaggio a tua scelta per questo turno.”
-		 10.11.2. Il testo di richiamo standard per Aiutante è “(Ogni volta che questo personaggio va all’avventura, puoi aggiungere la sua {S} alla {S} di
-            un altro personaggio a tua scelta per questo turno.)”
-     10.12. Protetto
-		 10.12.1. La parola chiave Protetto rappresenta un’abilità statica. Protetto significa: “I tuoi avversari non possono scegliere questa carta
-            quando risolvono un effetto”.
-		 10.12.2. Il testo di richiamo standard per Protetto è “(Gli avversari non possono scegliere questo personaggio se non per sfidarlo.)”
-		 10.12.3. Gli effetti che non richiedono una scelta da parte del giocatore influenzano comunque questo personaggio.
-
-Verifica dello Stato di Gioco
-Aggiunto il seguente testo alle sezioni 1.9.1 e 1.9.2 per chiarire come funziona la verifica dello stato di gioco:
-     1.9.1. Ci sono una serie di condizioni che il gioco verifica tramite alcune azioni che vengono richieste quando una o più di queste condizioni sono
-            soddisfatte. Questo processo si chiama verifica dello stato di gioco e si compone di due parti: la condizione dello stato di gioco e l’azione
-            obbligatoria. La condizione dello stato di gioco è una circostanza specifica che lo stato di gioco può raggiungere. Un’azione obbligatoria è ciò
-            che accade nel gioco quando una condizione dello stato di gioco è stata raggiunta. Di seguito sono elencate le condizioni controllate dalla
-            verifica dello stato di gioco e l’azione obbligatoria che ciascuna di esse comporta.
-		 1.9.1.1. Se un giocatore ha 20 o più punti leggenda, quel giocatore vince la partita.
- 		          1.9.1.2. Se un giocatore, dopo l’ultima verifica dello stato di gioco, ha tentato di pescare da un mazzo senza carte, quel giocatore perde la
-                      partita.
-
-disneylorcana.com
-©Disney                                                                         48
-		 1.9.1.3. Se un personaggio o un luogo ha danno pari o superiore alla sua Volontà {W}, quel personaggio o luogo viene esiliato.
-     1.9.2. Una verifica dello stato di gioco viene effettuata alla fine di ogni fase, dopo che ogni azione o abilità ha finito di risolversi e dopo che ogni
-            effetto nel sacchetto ha finito di risolversi. Durante una verifica dello stato di gioco, prima si controllano e si completano tutte le condizioni di
-            vittoria e di sconfitta e le azioni obbligatorie. Poi, se non sono soddisfatte le condizioni di vittoria o di sconfitta, si controllano e si completano
-            tutte le altre condizioni e azioni obbligatorie. Una volta completate tutte le azioni obbligatorie, la verifica dello stato di gioco si ripete finché
-            non ci sono più azioni obbligatorie da completare. Le abilità innescate che si sono verificate durante questo processo vengono aggiunte al
-            sacchetto per essere risolte.
- 		          1.9.2.1. Tutte le azioni obbligatorie generate da una verifica dello stato di gioco si svolgono in ordine di turno. Se un giocatore vince e perde
-                      la partita simultaneamente come risultato della stessa verifica dello stato di gioco, quelgiocatore vince la partita.
-
-Rivelare
-Aggiunta la regola e un esempio per chiarire gli effetti che causano la rivelazione di una o più carte da parte di un giocatore:
-     7.1.10. Alcuni effetti chiedono al giocatore attivo di rivelare una o più carte. Per rivelare una carta, il giocatore mostra la faccia della carta a tutti gli
-             altri giocatori partecipanti. Il giocatore può rivelare solo le carte del gruppo di carte descritto in precedenza nell’effetto.
-		 Esempio: La canzone Questa Famiglia ha un effetto che recita: “Guarda le prime 5 carte del tuo mazzo. Puoi rivelare fino a 2 carte personaggio
-   e aggiungerle alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine”. Le carte che il giocatore sceglie di rivelare possono
-   provenire solo dalle prime 5 carte che ha guardato. Il giocatore non può scegliere di rivelare carte di altri gruppi di carte.
-
-Effetti Sostitutivi
-Aggiunto il seguente testo alla sezione 7.7.1 per chiarire la tempistica degli effetti sostitutivi:
-     7.7.1. Alcuni effetti sono considerati effetti sostitutivi. Questi effetti attendono che si verifichi la condizione indicata e poi sostituiscono
-            parzialmente o completamente l’evento mentre l’effetto viene risolto.
-
-Abilità innescate con due condizioni
-Aggiunta la regola e un esempio per risolvere la questione delle abilità innescate con due condizioni:
-     7.4.6. Alcune abilità innescate sono scritte come “[Condizione di Innesco] e [Condizione di Innesco], [Effetto]”. Queste abilità funzionano come due
-            abilità innescate indipendenti l’una dall’altra, ma che si risolvono entrambe con lo stesso effetto.
-		 Esempio: John Silver – Alien Pirate ha un’abilità chiamata Pick Your Fights che recita: “When you play this character and whenever he quests,
-   chosen opposing character gains Reckless during their next turn.” (“Quando giochi questo personaggio e ogni volta che va all’avventura,
-   un personaggio avversario a tua scelta ottiene Attaccabrighe durante il suo prossimo turno.”). L’abilità innescata si verifica quando John
-   Silver viene giocato e anche quando il giocatore attivo va all’avventura con questo personaggio. Affinché l’abilità innescata si verifichi non è
-   necessario che entrambe le condizioni di innesco siano vere allo stesso tempo, ma solo una o l’altra.
-
-Abilità innescate fluttuanti
-Aggiunta la regola e un esempio per spiegare meglio le abilità o gli effetti che creano una condizione innescata che perdura per un periodo di tempo
-specifico:
-     7.4.7. Alcune abilità ed effetti creano una condizione di innesco che dura un certo periodo di tempo durante il quale esistono e possono verificarsi.
-            Di solito si creano come risultato di un’azione risolutiva. Sono utilizzabili solo per la durata stabilita. Una volta trascorsa tale durata, la
-            condizione di innesco cessa di esistere. Sono note come abilità innescate fluttuanti. Esempio: Steal from the Rich è un’azione che recita,
-            “Whenever one of your characters quests this turn, each opponent loses 1 lore.” (“Ogni volta che uno dei tuoi personaggi va all’avventura per
-            questo turno, ogni avversario perde 1 leggenda.”). Quando Steal from the Rich viene risolta, crea un’abilità innescata fluttuante definita dalla
-            carta. Questa esiste per il resto del turno.
-
-
-
-
-disneylorcana.com
-©Disney                                                                          49
-[A] per [B]
-Aggiunti chiarimenti al linguaggio per semplificare e spiegare meglio questo costrutto regolistico.
-     7.1.1.   Ogni frase di una carta è un effetto e/o un costo separato. Ogni frase è separata da un punto.
-     7.1.2. Le carte che includono uno o più costi o effetti in una singola frase si risolvono in base alla parola che intercorre tra le due parti.
- 		           7.1.2.1. La maggior parte delle carte è scritta come [A].
- 			                   Esempio: “Puoi avere fino a 99 copie di Cucciolo Dalmata – Scodinzolante nel tuo mazzo.”
- 		           7.1.2.2. [A] per [B] – Il giocatore deve pagare il costo descritto nella prima parte della frase [A]. Se non è in grado di farlo, non può finire di
-                       svolgere l’effetto nella seconda parte della frase [B]. La prima parte della frase [A] è un costo, non un effetto. La seconda parte della
-                       frase [B] è un effetto.
- 			                   Esempio: “Esilia un tuo oggetto a tua scelta per infliggere 5 danni a un personaggio a tua scelta”. Se il giocatore non ha in gioco un
-                       oggetto che può esiliare per pagare il costo citato nella prima parte della frase [A], non può infliggere i 5 danni indicati nella seconda
-                       parte della frase [B].
-
-Aggiornamenti Generali
-   ◊ 1.1.6. Aggiunto del testo per chiarire la funzione dei testi di richiamo.
-   ◊      1.2.4. Chiarite le tempistiche nelle scelte fatte come parte di un effetto.
-   ◊      1.6.1.1. Aggiunto “o abilità” per chiarire che una parola chiave può rappresentare più di un’abilità o effetto.
-   ◊      1.6.2 Aggiunto un esempio a 1.6.2.
-   ◊      6.1.2. Ampliata la definizione di personaggio e aggiornata la lista delle classificazioni dei personaggi.
-   ◊      6.2.4.1.–6.2.4.2. Aggiunto del testo per risolvere la questione di personaggi che hanno due nomi.
-   ◊      6.3.3.1.–6.3.3.5. Spostata la definizione di canzone in questa sezione rispetto alla sezione 10. Definizione modificata per renderla più tecnica.
-          Aggiunto un testo di richiamo per chiarire ulteriormente.
-   ◊      7.5.2.–7.5.4. Sistemato un problema dove il processo per attivare un’abilità non era spiegato in maniera esplicita.
-
-Aggiornamenti Qualitativi
-   ◊ 1.10.2.3. Aggiunta una parola mancante.
-   ◊      3.1.2. Risolto un problema per cui il format a due partite poteva essere interpretato in modo da includere la regola del perdente che gioca/pesca.
-   ◊      3.2.1.2. Chiarita la regola in modo che corrisponda al testo relativo alle azioni obbligatorie nelle sezioni 1.9.1 e 1.9.2.
-   ◊      4.3.4.10. Aggiornato il linguaggio per maggiore chiarezza.
-   ◊      4.3.6.17 Aggiornato il linguaggio per corrispondere a regole simili.
-   ◊      4.3.8.4. Aggiornato il linguaggio per maggiore chiarezza.
-   ◊      6.1.4. Aggiornato il linguaggio per maggiore chiarezza.
-   ◊      6.2.9. Aggiornato il testo per chiarire cosa succede quando un personaggio infligge danni pari alla sua Forza.
-   ◊      6.2.10. Aggiornato il linguaggio per corrispondere a regole simili.
-   ◊      6.5.5. Aggiornato il linguaggio per corrispondere a regole simili.
-   ◊      7.1.5. Corretto errore ortografico nel nome di una carta.
-   ◊      9.3.1. Aggiornato l’esempio per adattarlo al linguaggio utilizzato in altri esempi.
-
-
-
-disneylorcana.com
-©Disney                                                                           50
-Aggiornamenti al Glossario
-   ◊ personaggio: Aggiornato il linguaggio per fare riferimento all’elenco delle classificazioni ora in 6.1.2.2.
-   ◊     mazzo: Aggiornato il linguaggio per includere altri formati.
-   ◊     verifica dello stato di gioco: Aggiunto testo chiarificatore per allinearsi agli aggiornamenti di 1.9.1 e 1.9.2.
-   ◊     abilità con parola chiave: Aggiunto testo per chiarire le parole chiave che rappresentano più di un’abilità.
-   ◊     rivelare: aggiunto.
-
-
-
-
-disneylorcana.com
-©Disney                                                                          51
+©Disney                                                                        48

@@ -1,5 +1,5 @@
                          UMFASSENDES REGELWERK
-                                                        Gültig ab dem 22. August 2025
+                                                        Gültig ab dem 31. Oktober 2025
 
 
 
@@ -37,70 +37,71 @@ disneylorcana.com
 ©Disney                                                                 i
 INHALT
  1. KONZEPTE                                                                        4.4.   Phase 3: Ende des Zuges
-     1.1.    Allgemeines                                                          5. KARTEN
+     1.1.    Allgemeines                                                          5. BEDINGUNGEN
                     Sprachen, Offizieller Text, Aktualisierungen,
-                                                                                    5.1.   Bedingungen
+                                                                                    5.1.   Allgemeines
                     Turnierregeln
-                                                                                              Bereit, Erschöpft, Beschädigt, Unbeschädigt, Unter,
-     1.2.    Goldene Regeln                                                                   Oberste, In einem Stapel
-                    Entscheidungen
-                                                                                  6. KARTENTYPEN
+                                                                                              Bereit, erschöpft, beschädigt, unbeschädigt, unter,
+     1.2.    Goldene Regeln                                                                   oberste, In einem Stapel, im Spiel, aufgedeckt,
+                    Entscheidungen                                                            verdeckt, trocknend, trocken
      1.3.    Aktiver Spieler
-     1.4.    Gegnerische Person(en)                                                 6.1.   Charaktere
-     1.5.    Karten ausspielen                                                                Merkmale eines Charakters
-     1.6.    Arten von Fähigkeiten                                                  6.2.   Bestandteile einer Karte
-                                                                                              Tintenfarbe, Karten-Seltenheit, Charaktere mit zwei
+                                                                                  6. KARTENTYPEN
+     1.4.    Gegnerische Person(en)
+     1.5.    Karten ausspielen                                                      6.1.   Charaktere
+                                                                                              Merkmale eines Charakters
+     1.6.    Arten von Fähigkeiten
+                                                                                    6.2.   Bestandteile einer Karte
      1.7.    Der Beutel
-                                                                                              Namen
-     1.8.    Karten des Spielers
-                                                                                    6.3.   Aktionen
-     1.9.    Überprüfen des Spielstatus                                                       Allgemein, Lieder
-                    Prüfungsbedingungen, erforderliche Aktionen,
-                                                                                    6.4.   Gegenstände
+                                                                                              Tintenfarbe, Karten-Seltenheit, Charaktere mit zwei
+     1.8.    Karten des Spielers                                                              Namen
+     1.9.    Überprüfen des Spielstatus                                             6.3.   Aktionen
+                    Prüfungsbedingungen, erforderliche Aktionen,                              Allgemein, Lieder
                     Reihenfolge der Ausführung
-                                                                                    6.5.   Orte
+                                                                                    6.4.   Gegenstände
      1.10.   Mehrspieler-Spiele
-                                                                                              Bestandteile einer Karte
- 2. VOR DEM SPIEL
-                                                                                  7. FÄHIGKEITEN
-     2.1.    Deckregeln
-                                                                                    7.1.   Allgemeines
- 3. SPIELABLAUF                                                                               Klauseln, mehrere Effekte in einer Klausel, "kann", "auf
-                                                                                              die Hand nehmen", "andere/andere", Karten spielen
+                                                                                    6.5.   Orte
+ 2. VOR DEM SPIEL                                                                             Bestandteile einer Karte
+     2.1.    Deckregeln                                                           7. FÄHIGKEITEN
+
+ 3. SPIELABLAUF                                                                     7.1.   Allgemeines
+                                                                                              Klauseln, mehrere Effekte in einer Klausel, "kann", "auf
      3.1.    Ein Spiel starten
-                                                                                              beim Auflösen von Fähigkeiten, Schleifen, "bis zu",
+                                                                                              die Hand nehmen", "andere/andere", Karten spielen
                     Startspieler, Zufallsauswahl, Legenden nachvollziehen,
-                                                                                              "dass", Karten aufdecken
+                                                                                              beim Auflösen von Fähigkeiten, Schleifen, "bis zu",
                     Ziehen, Starthand anpassen
-                                                                                    7.2.   Aktionskarten
+                                                                                              "dass", Karten aufdecken
      3.2.    Ein Spiel beenden
-                    Legenden, leeres Deck, letzter Spieler                          7.3.   Schlüsselwörter
-                                                                                              Allgemein, Erinnerungstext
- 4. STRUKTUR EINES SPIELZUGS
-                                                                                    7.4.   Auslösbare Fähigkeiten
-     4.1.    Phasen                                                                           Fähigkeiten mit zwei Auslösebedingungen, fließend
-     4.2.    Phase 1: Vorbereiten                                                             ausgelöste Fähigkeiten, Verzögert ausgelöste
-                    Bereit machen, Überprüfen, Nachziehen                                     Fähigkeiten
-     4.3.    Phase 2: Karten spielen und einsetzen                                  7.5.   Aktivierbare Fähigkeiten
-                    Zugaktionen, Tintenvorrat, Eine Karte ausspielen,                         Kosten bezahlen, Schritte zum Einsetzen
-                    Kostenlos spielen, Erkunden, Herausfordern, Einen               7.6.   Statische Fähigkeiten
-                    Charakter bewegen, Aktivierbare Fähigkeiten nutzen                        Dauer, Timing, Außerhalb des Spiels
+                                                                                    7.2.   Aktionskarten
+                    Legenden, leeres Deck, letzter Spieler
+                                                                                    7.3.   Schlüsselwörter
+ 4. STRUKTUR EINES SPIELZUGS                                                                  Allgemein, Erinnerungstext
+     4.1.    Phasen                                                                 7.4.   Auslösbare Fähigkeiten
+     4.2.    Phase 1: Vorbereiten                                                             Fähigkeiten mit zwei Auslösebedingungen, fließend
+                    Bereit machen, Überprüfen, Nachziehen                                     ausgelöste Fähigkeiten, Verzögert ausgelöste
+                                                                                              Fähigkeiten
+     4.3.    Phase 2: Karten spielen und einsetzen
+                    Zugaktionen, Tintenvorrat, Eine Karte ausspielen,               7.5.   Aktivierbare Fähigkeiten
+                    Kostenlos spielen, Erkunden, Herausfordern, Einen                         Kosten bezahlen, Schritte zum Einsetzen
+                    Charakter bewegen, Aktivierbare Fähigkeiten nutzen
 
 disneylorcana.com
 ©Disney                                                                      ii
-   7.7.    Ersetzungseffekte                                               10.7. Rasant
-               Überspringen                                                10.8. Gestaltwandel
+   7.6.    Statische Fähigkeiten                                           10.8. Robust
+               Dauer, Timing, Außerhalb des Spiels                                  Stapeln, 0 Schaden
+   7.7.    Ersetzungseffekte                                               10.9. Rasant
+               Überspringen                                                10.10. Gestaltwandel
    7.8.    Fähigkeitsmodifikationen                                                 Alternative Kosten, Zustand der Karte, Beschädigt,
                                                                                     Das Spiel verlassen, Varianten
 8. ZONEN
-                                                                           10.9. Singen
-   8.1.    Allgemeines                                                     10.10. Gemeinsam singen
+                                                                           10.11. Singen
+   8.1.    Allgemeines                                                     10.12. Gemeinsam singen
                Bekannt, Unbekannt, Nicht auffindbar                                 Alternative Kosten, Auslösbare Fähigkeiten ausführen
-   8.2.    Deck                                                            10.11. Unterstützen
+   8.2.    Deck                                                            10.13. Unterstützen
                Unbekannte Zone, Karten auf oder unter das Deck legen
-                                                                           10.12. Verschwinden
+                                                                           10.14. Verschwinden
    8.3. Hand
-                                                                           10.13. Behütet
+                                                                           10.15. Behütet
    8.4. Spielzone
                Im Spiel, Bekannte Zone, Das Spiel verlassen              GLOSSAR
    8.5.    Tintenvorrat                                                  ZUSAMMENFASSUNG DER AKTUALISIERUNG
@@ -116,16 +117,13 @@ disneylorcana.com
 
    10.1.   Allgemeines
                Stapeln, Technische Definitionen, Erinnerungstext
-   10.2. Beschützen
-   10.3. Herausfordern
+   10.2. Alarmiert
+   10.3. Beschützen
+   10.4. Stärken
+   10.5. Herausfordern
                Stapeln
-   10.4. Wendig
-   10.5. Impulsiv
-   10.6. Robust
-               Stapeln, 0 Schaden
-
-
-
+   10.6. Wendig
+   10.7.   Impulsiv
 
 disneylorcana.com
 ©Disney                                                            iii
@@ -611,30 +609,84 @@ disneylorcana.com
                  4.4.1.4. Der Zug des aktiven Spielers endet, und der nächste Spieler beginnt seinen Zug.
 
 
-5. KARTEN
 
-   5.1.    Bedingungen
+5. BEDINGUNGEN
+
+   5.1.    Allgemein
 
 
 
 
 disneylorcana.com
 ©Disney                                                                 13
-        5.1.1. Bereit - Karten kommen bereit ins Spiel. Ein Spieler kann keine der Fähigkeiten einer erschöpften Karte nutzen, die {E} als Teil
-                 der Kosten erfordern.
-        5.1.2.   Erschöpft - Wenn eine Karte erschöpft wird, wird sie zur Seite gedreht. Ein Spieler kann alle Fähigkeiten einer erschöpften
-                 Karte nutzen, die nicht {E} als Teil der Kosten erfordern.
-        5.1.3.   Beschädigt - Eine Karte, die mindestens 1 Schaden hat, gilt als beschädigt.
-        5.1.4.   Unbeschädigt - Eine Karte, die keinen Schaden hat, gilt als unbeschädigt.
-        5.1.5.   Unter – Eine Karte, auf der eine oder mehrere Karten liegen, gilt als unter der obersten Karte eines Stapels (siehe 5.1.7). Ein
-                 Spieler kann keine Karte wählen, die sich in einem Stapel unter der obersten Karte (siehe 5.1.6) befindet.
-        5.1.6.   Oberste – Eine Karte, unter der sich eine oder mehrere Karten befinden, gilt als oberste aller Karten darunter. Eine Karte,
-                 die auf einer oder mehreren Karten liegt, erhält nicht den Text der darunter liegenden Karten. Die Karte, die oben auf allen
-                 anderen Karten eines Stapels liegt, wird als oberste Karte. bezeichnet.
-        5.1.7.   In einem Stapel – Wenn eine Karte auf eine oder mehrere andere Karten im Spiel gelegt wird, gelten sie und alle Karten
-                 darunter als in einem Stapel. Diese Karten gelten nur dann als Stapel, wenn sie im Spiel sind. Wenn die oberste Karte eines
-                 Stapels das Spiel verlässt, werden alle Karten des Stapels in dieselbe Zone wie die oberste Karte bewegt und diese Karten
-                 gelten nicht mehr als in einem Stapel.
+        5.1.1. Bereit Machen – Wenn eine Karte bereit gemacht wird, wird sie aufrecht gedreht und gilt als bereite Karte. Charaktere und
+                Gegenstände kommen bereit ins Spiel.
+        5.1.2. Erschöpft - Wenn eine Karte erschöpft wird, wird sie zur Seite gedreht. Ein Spieler kann alle Fähigkeiten einer erschöpften
+                Karte nutzen, die nicht {E} als Teil der Kosten erfordern. Ein Spieler kann keine der Fähigkeiten einer erschöpften Karte
+                nutzen, die {E} als Teil der Kosten erfordern.
+        5.1.3. Beschädigt - Eine Karte, die mindestens 1 Schaden hat, gilt als beschädigt.
+        5.1.4. Unbeschädigt – Eine Karte, die keinen Schaden hat, gilt als unbeschädigt.
+        5.1.5. Unter – Eine Karte, auf der eine oder mehrere Karten liegen, gilt als unter der obersten Karte eines Stapels (siehe 5.1.7). Ein
+                Spieler kann keine Karte wählen, die unter der oberste Karte (siehe 5.1.6) in einem Stapel liegt. Eine Karte, die unter einer
+                anderen Karte und in der Spielzone liegt, gilt nicht als im Spiel. Jeder Spieler kann sich jederzeit eine aufgedeckte Karte
+                ansehen, die unter einer anderen Karte liegt. Kein Spieler darf zu irgendeinem Zeitpunkt die Vorderseite einer verdeckten
+                Karte betrachten, die unter einer anderen Karte liegt, auch nicht seine eigene.
+        5.1.6. Oberste – Eine Karte, unter der sich eine oder mehrere Karten befinden, gilt als oberste aller Karten darunter. Eine Karte,
+                die auf einer oder mehreren Karten liegt, erhält nicht den Text der darunter liegenden Karten. Die Karte, die oben auf allen
+                anderen Karten eines Stapels liegt, wird als oberste Karte. bezeichnet.
+        5.1.7. In einem Stapel – Wenn eine Karte auf oder unter einer oder mehreren anderen Karten im Spiel liegt, gelten sie und alle
+                Karten unter oder auf ihr als in einem Stapel. Diese Karten gelten nur dann als Stapel, wenn sie im Spiel sind. Wenn die oberste
+                Karte in einem Stapel das Spiel verlässt, bewegen sich alle Karten im Stapel in dieselbe Zone wie die oberste Karte und gelten
+                nicht mehr als in einem Stapel befindlich.
+        5.1.8. Im Spiel – Eine Karte, die offen in der Spielzone liegt und auf der keine Karten liegen, gilt als im Spiel. Wenn eine Karte
+                verdeckt ist, unter einer anderen Karte liegt oder sich in einer anderen Zone als der Spielzone befindet, gilt sie nicht als im
+                Spiel befindlich.
+        5.1.9. Offen – Eine Karte im Spielbereich, deren Rückseite (d. h. die Seite mit dem Illuminarium-Symbol) nach unten zur Spielfläche
+                zeigt und deren Vorderseite (d. h. die Seite mit den Kosten und Klassifizierungen der Karte) nach oben zu den Spielern zeigt,
+                gilt als offen. Wenn eine Karte offen unter eine andere Karte gelegt wird oder eine andere Karte offen auf sie gelegt wird, gilt
+                sie weiterhin als offen. Eine aufgedeckte Karte ist allen Spielern bekannt. Jeder Spieler kann sich eine offene Karte jederzeit
+                ansehen, selbst wenn die offene Karte unter einer anderen Karte liegt.
+        5.1.10. Verdeckt – Eine Karte im Spielbereich, deren Rückseite (d. h. die Seite mit dem Illuminarium-Symbol) nach oben zu den Spielern
+                zeigt und deren Vorderseite (d. h. die Seite mit den Kosten und Klassifizierungen der Karte) nach unten zur Spielfläche zeigt,
+                gilt als verdeckt. Kein Spieler darf zu irgendeinem Zeitpunkt die Vorderseite einer verdeckten Karte betrachten, die unter einer
+                anderen Karte liegt, auch nicht seine eigene. Eine verdeckte Karte gilt niemals als im Spiel.
+        5.1.11. Trocknend – Ein Charakter, der während des Zuges seines Spielers ins Spiel gekommen ist, gilt als trocknend. Ein trocknender
+                Charakter kann nicht erkunden, kann nicht als herausfordernder Charakter deklariert werden und kann nicht {E}, um Kosten zu
+                bezahlen.
+        5.1.12. Trocken – Ein Charakter, der seit Beginn des Zuges seines Spielers im Spiel ist, gilt als trocken. Ein trockener Charakter kann
+                erkunden und kann als herausfordernder Charakter deklariert werden. Gegenstände und trockene Charaktere können {E}, um
+                Kosten zu bezahlen.
+        5.1.13. Eine Karte in jeder Zone außer der Hand eines Spielers kann die unten beschriebenen Zustände haben. Eine Karte kann
+                mehrere Zustände gleichzeitig haben.
+
+
+
+
+disneylorcana.com
+©Disney                                                               14
+                5.1.13.1. Ein Charakter kommt mit den Zuständen „bereit“, „unbeschädigt“, „im Spiel“, „aufgedeckt“ und „trocknend“ ins
+                          Spiel. Ein Charakter, der im Spiel ist, kann jeden der in den Abschnitten 5.1.1 bis 5.1.12 aufgeführten Zustände haben,
+                          außer „unter“ und „verdeckt“.
+                5.1.13.2. Ein Gegenstand kommt mit den Bedingungen „bereit“, „im Spiel“ und „offen“ ins Spiel. Ein Gegenstand im Spiel
+                          darf nicht die Zustände „beschädigt“, „unbeschädigt“, „unter“ oder „verdeckt“ aufweisen.
+                5.1.13.3. Ein Ort kommt mit den Bedingungen „unbeschädigt“, „im Spiel“ und „offen“ ins Spiel. Ein Ort, der im Spiel ist, kann
+                          nicht die Zustände „bereit“, „erschöpft“, „unter“ oder „verdeckt“ haben.
+                5.1.13.4. Eine Karte im Tintenvorrat eines Spielers kann nur die Zustände “bereit”, “erschöpft” und “verdeckt” haben.
+                5.1.13.5. Eine Karte im Deck eines Spielers kann nur den Zustand “verdeckt” haben.
+                5.1.13.6. Eine Karte im Ablagestapel eines Spielers kann nur den Zustand „Aufgedeckt“ haben.
+                5.1.13.7. Eine Karte in der Hand eines Spielers darf keinen Zustand haben.
+
+        5.1.14. Wenn ein Zustand aus irgendeinem Grund auf eine Karte angewendet oder von ihr entfernt wird, wird der Zustand sofort
+                angewendet oder entfernt.
+                Beispiel A: Der aktive Spieler entscheidet sich, mit einem bereiten Fabius – Stimme der Vernunft zu erkunden. Wenn sie Fabius
+                zum Erkunden erschöpfen, wird der Zustand “bereit” sofort entfernt und der Zustand “erschöpft” sofort angewendet.
+                Beispiel B: Der aktive Spieler entscheidet sich, eine Naseweis – Gigantische Fee mithilfe ihrer Gestaltwandel-Fähigkeit auf eine
+                Naseweis – Winzige Taktikerin zu spielen, die “bereit”, “unbeschädigt”, “im Spiel”, “offen” und “trocken” ist. In diesem Moment
+                werden alle Zustände außer “offen” sofort von Naseweis – Winzige Taktikerin entfernt und die Zustände “unter” und “in einem
+                Stapel” sofort angewendet. Die Zustände „bereit“, „unbeschädigt“, „oben“, „in einem Stapel“, „im Spiel“, „offen“ und „trocken“
+                werden sofort auf Naseweis – Gigantische Fee angewendet. Die Zustände “bereit”, “unbeschädigt” und “trocken” werden sofort
+                auf die gestaltgewandelte Naseweis angewendet, weil der Charakter, auf den sie gelegt wurde, diese Zustände bereits hatte.
+                Siehe 10.10 „Gestaltwandel“ für weitere Informationen.
 6. KARTENTYPEN
    6.1. Charaktere
 
@@ -642,26 +694,22 @@ disneylorcana.com
                ein Charakter; in allen anderen Zonen ist sie eine Charakterkarte.
         6.1.2. Charaktere führen in ihrer Klassifizierungszeile nicht den Begriff „Charakter“ auf. Eine Karte muss beide Merkmale, die in
                6.1.2.1 und 6.1.2.2 gelistet sind, aufweisen, um ein Charakter zu sein. Wenn nicht, ist die Karte kein Charakter.
-                 6.1.2.1.   Eine Charakterkarte hat einen {S}-Wert und einen {W}-Wert.
-                 6.1.2.2.   Ein Charakter hat mindestens eine der folgenden Klassifizierungen* in der Klassifizierungszeile: Alien, Besen,
-                            Detektiv, Drache, Erfinder, Fee, Flutgestalt, Gottheit, Held, Hyäne, Illusion, Kapitän, König, Königin, Madrigal,
-                            Magier, Mentor, Musketier, Pirat, Prinz, Prinzessin, Rennfahrer, Ritter, Roboter, Sagengestalt, Schurke, Sieben
-                            Zwerge, Tigger, Titan, Traumgestalt, Verbündeter, Verstrickt, Welpe.
-                            *Einige Klassifizierungen auf älteren deutschen Karten verwenden mal die weibliche und mal die männliche
-                            Form des Wortes, je nach Geschlecht des dargestellten Charakters. Aus Gründen der Übersichtlichkeit wurden
-                            diese zur männlichen Form des Wortes zusammengefasst. Eine Karte mit der weiblichen Form eines Wortes in
-                            der Klassifizierungszeile wird als männlich klassifiziert. Ein Charakter mit der Klassifizierung “Schurkin” wird
-                            beispielsweise als “Schurke” klassifiziert. Dies gilt nicht für die Klassifizierungen Prinz, Prinzessin, König und
-                            Königin; jede von ihnen ist eine eigene Klassifizierung.
-        6.1.3. Nur Charaktere können erkunden oder herausfordern.
-        6.1.4. Ein Charakter muss zu Beginn des Überprüfen-Schritts im Zug seines Spielers im Spiel gewesen sein, um erkunden,
-                 herausfordern oder {E} als Teil der Kosten verwenden zu können (siehe 4.2.2, „Überprüfen“).
-
-
-
+                6.1.2.1.   Eine Charakterkarte hat einen {S}-Wert und einen {W}-Wert.
+                6.1.2.2.   Ein Charakter hat mindestens eine der folgenden Klassifizierungen* in der Klassifizierungszeile: Alien, Besen,
+                           Detektiv, Drache, Erfinder, Fee, Flutgestalt, Gottheit, Held, Hyäne, Illusion, Kapitän, König, Königin, Madrigal,
+                           Magier, Mentor, Musketier, Pirat, Prinz, Prinzessin, Rennfahrer, Ritter, Roboter, Sagengestalt, Schurke, Sieben
+                           Zwerge, Tigger, Titan, Traumgestalt, Verbündeter, Verstrickt, Welpe.
+                           *Einige Klassifizierungen auf älteren deutschen Karten verwenden mal die weibliche und mal die männliche Form des
+                           Wortes, je nach Geschlecht des dargestellten Charakters. Aus Gründen der Übersichtlichkeit wurden diese zur männlichen
+                           Form des Wortes zusammengefasst. Eine Karte mit der weiblichen Form eines Wortes in der Klassifizierungszeile wird als
+                           männlich klassifiziert. Ein Charakter mit der Klassifizierung “Schurkin” wird beispielsweise als “Schurke” klassifiziert. Dies
+                           gilt nicht für die Klassifizierungen Prinz, Prinzessin, König und Königin; jede von ihnen ist eine eigene Klassifizierung.
 
 disneylorcana.com
-©Disney                                                                  14
+©Disney                                                                    15
+        6.1.3. Nur Charaktere können erkunden oder herausfordern.
+        6.1.4. Ein Charakter muss zu Beginn des Überprüfen-Schritts im Zug seines Spielers im Spiel gewesen sein, um erkunden,
+                herausfordern oder {E} als Teil der Kosten verwenden zu können (siehe 4.2.2, „Überprüfen“).
    6.2. Bestandteile einer Karte
 
 
@@ -680,7 +728,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                              15
+©Disney                                                              16
         6.2.4. Name – Der Name der Karte steht in größerer Schrift geschrieben. Ein Effekt, der nach einer Karte oder einem Charakter
                 mit einem bestimmten Namen sucht, berücksichtigt nur diese Zeile und ignoriert die Version. Der gesamte Charakter- oder
                 Ortsname muss mit dem angegebenen Namen übereinstimmen, um einen Treffer zu erzielen. Der Name eines Charakters
@@ -721,8 +769,9 @@ disneylorcana.com
                 können auch auf diesen Wert Bezug nehmen. (Siehe Nr. 6 im Schaubild unter 6.2, „Bestandteile einer Karte“.)
 
 
+
 disneylorcana.com
-©Disney                                                                 16
+©Disney                                                                 17
         6.2.11. Legendenwert – Wie viele Legenden der Spieler sammelt, wenn einer seiner Charaktere erkundet. Das Aussehen des
                 Legendenwertes {L} kann auf einigen Karten variieren (z. B. auf einigen verzauberten oder Promo-Karten), diese Variationen
                 haben aber keinen Einfluss auf die Funktion. (Siehe Nr. 8 im Schaubild unter 6.2, „Bestandteile einer Karte“)
@@ -757,9 +806,8 @@ disneylorcana.com
         6.3.2. Effekte – Aktionen haben Effekte, keine Fähigkeiten.
 
 
-
 disneylorcana.com
-©Disney                                                                  17
+©Disney                                                                  18
         6.3.3. Lieder
 
                 6.3.3.1. Lieder sind Aktionen, die eine spezielle Regel zusätzlich zu allen normalen Regeln für Aktionen haben (siehe 6.3.3.3).
@@ -786,7 +834,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 18
+©Disney                                                                 19
         6.5.1. Orte sind eine Art von Karte, die im Spiel bleibt. Ein Ort ist ein Ort, solange er sich in der Spielzone befindet; in allen anderen
                Zonen ist er eine Ortskarte.
         6.5.2. Klassifizierung – Ein Ort ist dadurch definiert, dass in der Klassifizierungszeile der Karte „Ort“ steht. Orte sind die einzige
@@ -828,7 +876,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 19
+©Disney                                                                 20
                            Beispiel A: Die Königin - Imposantes Auftreten mit ihrer Fähigkeit Wer ist die Schönste? die lautet: „Jedes Mal, wenn
                            dieser Charakter erkundet, darfst du in diesem Zug einem gegnerischen Charakter deiner Wahl -4 {S} und einem
                            Charakter deiner Wahl +4 {S} geben.“ Wenn der Gegner keinen Charakter im Spiel hat, der für den ersten Teil dieses
@@ -871,7 +919,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                   20
+©Disney                                                                   21
         7.1.9.   Einige Fähigkeiten und Effekte verwenden Worte wie „dieser“, „dieses“ oder „jener“ in ihrem Text, um sich auf etwas
                  Bestimmtes zu beziehen. Beim Ausführen von Fähigkeiten und Effekten wird bestimmt, worauf sich „dieser [Spielbegriff]“
                  bezieht, nachdem Entscheidungen getroffen wurden, während die Fähigkeit oder der Effekt ausgeführt wird (siehe 1.2.4).
@@ -914,7 +962,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                  21
+©Disney                                                                  22
    7.2. Aktionskarten
 
         7.2.1. Das Spielen einer Aktion kann andere Fähigkeiten auslösen. In diesem Fall führt der aktive Spieler die Aktion sofort
@@ -957,7 +1005,7 @@ disneylorcana.com
                 erkunden, unabhängig davon, ob sie durch den ersten Effekt bereit gemacht wurden, oder nicht.
 
 disneylorcana.com
-©Disney                                                                  22
+©Disney                                                                  23
                 Beispiel B: Scar - Übler Betrüger hat eine Fähigkeit namens Papi kann dich diesmal nicht retten, die lautet: „Jedes Mal, wenn
                 dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du ihn bereit machen. Er
                 kann in diesem Zug nicht mehr erkunden.“ Da beide Effekte an die Auslösebedingung gebunden sind, kann Scar normal erkunden,
@@ -999,7 +1047,7 @@ disneylorcana.com
                der aktive Spieler eine aktivierbare Fähigkeit verwenden.
 
 disneylorcana.com
-©Disney                                                                 23
+©Disney                                                                 24
         7.5.3. Um eine aktivierbare Fähigkeit zu verwenden, führt der aktive Spieler diese Schritte der Reihe nach aus. Wenn ein Teil dieses
                  Prozesses nicht durchgeführt werden kann, ist es nicht erlaubt, die Fähigkeit zu verwenden. Diese Schritte gelten für alle
                  aktivierbaren Fähigkeiten. Nur der aktive Spieler kann aktivierbare Fähigkeiten verwenden.
@@ -1042,7 +1090,7 @@ disneylorcana.com
 
 
 disneylorcana.com
-©Disney                                                                 24
+©Disney                                                                 25
         7.7.3. Fähigkeiten, die das Wort „Überspringe“ beinhalten sind Ersetzungseffekte.
         7.7.4. Fähigkeiten, die wie folgt lauten: „Dieser Charakter kommt [...]“ oder „Du darfst diesen Charakter [...]“ sind
                Ersetzungseffekte.
@@ -1051,8 +1099,8 @@ disneylorcana.com
                Fähigkeiten, die durch das ursprüngliche Ereignis ausgelöst worden wären, sehen es nicht und werden daher nicht ausgelöst.
         7.7.6. Einige Fähigkeiten haben Ersetzungseffekte, die ihre eigenen Fähigkeiten teilweise oder vollständig ersetzen, sogenannte
                Selbstersetzungseffekte. Diese Effekte werden immer zuerst angewendet.
-        7.7.7. Wenn mehrere Ersetzungseffekte auf denselben Effekt angewendet werden können, befolgt der Spieler, dessen Karten oder
-               Karteneffekte betroffen sind, die hier aufgeführten Schritte.
+        7.7.7. Wenn mehrere Instanzen verschiedener Ersatzeffekte auf dasselbe Ereignis angewendet werden können, befolgt der Spieler,
+               dessen Karten oder Karteneffekte betroffen sind, die hier aufgeführten Schritte.
                 7.7.7.1.   Wähle zunächst einen Selbstersetzungseffekt aus, falls vorhanden, und fahre mit Abschnitt 7.7.7.3 fort. Wenn kein
                            Selbstersetzungseffekt vorhanden ist, fahre mit dem nächsten Schritt fort.
                 7.7.7.2.   Wähle dann einen anderen Ersetzungseffekt aus, falls vorhanden.
@@ -1066,58 +1114,78 @@ disneylorcana.com
                            du einem Charakter deiner Wahl stattdessen 2 Schaden zufügen.“ Biest – Selbstloser Beschützer hat die Fähigkeit
                            „Andere schützen“ die lautet: „Jedes Mal, wenn einer deiner anderen Charaktere Schaden erhalten würde, lege die
                            entsprechenden Schadensmarker stattdessen auf diesen Charakter.“
-                           Der aktive Spieler spielt dann Schlafmütz – Ritter der Müdigkeit, einen Charakter mit der Klassifizierung Ritter, und
-                           bewegt ihn zur Mine der sieben Zwerge. Wenn die ausgelöste Fähigkeit des Ortes verrechnet wird, entscheidet sich der
-                           aktive Spieler, Fabius Schaden zuzufügen, was zu folgendem Ereignis führt: Füge Fabius – Stimme der Vernunft 1 Schaden
-                           zu. Die Ersetzungseffekte von der Mine der sieben Zwerge und vom Biest können auf diesen Effekt angewendet werden.
-                           Fabius ist betroffen, daher befolgt der gegnerische Spieler die in den Abschnitten 7.7.7.1 bis 7.7.7.3 aufgeführten Schritte.
-                           Zunächst überprüft der gegnerische Spieler, ob es Selbstersetzungseffekte gibt. Der Effekt der Mine „stattdessen 2
-                           Schaden zufügen“ ist ein Selbstersetzungseffekt, der angewendet werden kann, also wählt der gegnerische Spieler ihn aus
-                           und wendet ihn an. Das geänderte Ereignis lautet somit: Füge Fabius - Stimme der Vernunft 2 Schaden zu. Die Schritte
-                           werden wiederholt, und der gegnerische Spieler überprüft, ob weitere Selbstersetzungseffekte vorliegen. Da keine gefunden
-                           werden, fährt der gegnerische Spieler mit dem nächsten Schritt fort und prüft, ob weitere Ersetzungseffekte vorliegen.
-                           Biest – Selbstloser Beschützer hat einen Ersetzungseffekt, der angewendet werden kann, also wählt der gegnerische Spieler
-                           ihn aus und wendet ihn an, was zu folgendem Ereignis führt: Lege 2 Schadensmarker auf Biest – Selbstloser Beschützer. Der
-                           gegnerische Spieler wiederholt die Schritte, aber da keine Ersetzungseffekte anwendbar sind, wird der Effekt verrechnet
-                           und das Spiel wird fortgesetzt.
-
-
+                           Der aktive Spieler spielt dann Schlafmütz – Ritter der Müdigkeit, einen Charakter mit der Klassifizierung Ritter,
+                           und bewegt ihn zur Mine der sieben Zwerge. Wenn die ausgelöste Fähigkeit des Ortes verrechnet wird, entscheidet
+                           sich der aktive Spieler, Fabius Schaden zuzufügen, was zu folgendem Ereignis führt: Füge Fabius – Stimme der
+                           Vernunft 1 Schaden zu. Die Ersetzungseffekte von der Mine der sieben Zwerge und vom Biest können auf diesen
+                           Effekt angewendet werden. Fabius ist betroffen, daher befolgt der gegnerische Spieler die in den Abschnitten 7.7.7.1
+                           bis 7.7.7.3 aufgeführten Schritte. Zunächst überprüft der gegnerische Spieler, ob es Selbstersetzungseffekte gibt.
+                           Der Effekt der Mine „stattdessen 2 Schaden zufügen“ ist ein Selbstersetzungseffekt, der angewendet werden kann,
+                           also wählt der gegnerische Spieler ihn aus und wendet ihn an. Das geänderte Ereignis lautet somit: Füge Fabius -
+                           Stimme der Vernunft 2 Schaden zu. Die Schritte werden wiederholt, und der gegnerische Spieler überprüft, ob weitere
+                           Selbstersetzungseffekte vorliegen. Da keine gefunden werden, fährt der gegnerische Spieler mit dem nächsten Schritt
+                           fort und prüft, ob weitere Ersetzungseffekte vorliegen. Biest – Selbstloser Beschützer hat einen Ersetzungseffekt, der
+                           angewendet werden kann, also wählt der gegnerische Spieler ihn aus und wendet ihn an, was zu folgendem Ereignis
+                           führt: Lege 2 Schadensmarker auf Biest – Selbstloser Beschützer. Der gegnerische Spieler wiederholt die Schritte, aber
+                           da keine Ersetzungseffekte anwendbar sind, wird der Effekt verrechnet und das Spiel wird fortgesetzt.
+        7.7.8. Zwei oder mehr Instanzen desselben Ersatzeffekts können nicht auf dasselbe Ereignis angewendet werden. Wenn mehrere
+                Instanzen desselben Ersatzeffekts auf dasselbe Ereignis angewendet werden könnten, wählt der Spieler, dessen Karten oder
+                Karteneffekte betroffen sind, einen davon aus, der angewendet wird. Die übrigen verfallen.
 
 
 disneylorcana.com
-©Disney                                                                   25
-        7.7.8. Ein Effekt, der einen Schritt oder eine Phase des Spiels überspringt, ist ein Ersetzungseffekt, der diesen Schritt oder diese
-                Phase durch nichts ersetzt. „[Schritt/Phase] überspringen“ bedeutet dasselbe wie: „Falls ein Spieler den [Schritt/die Phase]
-                ausführen würde, geschieht stattdessen nichts.“ Wenn ein Effekt einen Schritt oder eine Phase überspringt, findet kein Teil
-                dieses Schritts oder dieser Phase statt. Jegliche Fähigkeiten oder Effekte, die aufgrund dieses Schritts oder dieser Phase
-                eintreten würden, treten nicht ein.
-                Beispiel: Arthur - Entschlossener Knappe“ hat die Fähigkeit „Keine Bücher mehr. Überspringe den Schritt „Ziehen“ in deinem
-                Zug“ Wenn ein Spieler seinen Ziehschritt mit Arthur im Spiel beginnen würde , überspringt er stattdessen seinen Ziehschritt „ “
-                und geht sofort zur Hauptphase seines Zuges über. Findet ein Spieler jedoch eine Möglichkeit, Arthur während seiner Zieh-Phase
-                ins Spiel zu bringen, wird die aktuelle Zieh-Phase nicht übersprungen und verläuft ganz normal.
+©Disney                                                                 26
+                 Beispiel: Der aktive Spieler hat eine Rapunzel – Bereit für Abenteuer, Fabius – Stimme der Vernunft und 2 Exemplare von
+                 HeiHei – Bootssnack im Spiel. Rapunzel hat eine ausgelöste Fähigkeit namens „Akt der Freundlichkeit“, die lautet: „Jedes
+                 Mal, wenn einer deiner Charaktere für Unterstützen ausgewählt wird, erhält er bis zu Beginn deines nächsten Zuges das
+                 nächste Mal, wenn er Schaden erhalten würde, stattdessen keinen Schaden.“ Der aktive Spieler erkundet mit einem HeiHei
+                 und entscheidet sich, dessen {S} zu Fabius’ {S} mit Unterstützen hinzuzufügen, wodurch Rapunzels ausgelöste Fähigkeit
+                 ausgelöst wird. Die Fähigkeit wird dem Beutel hinzugefügt und von dort abgehandelt, wodurch ein Ersatzeffekt entsteht: Das
+                 nächste Mal, wenn Fabius Schaden erleiden würde, erleidet er stattdessen keinen Schaden. Der aktive Spieler erkundet mit
+                 dem anderen HeiHei und entscheidet sich, dessen {S} zu Fabius’ {S} mit Unterstützen hinzuzufügen. Rapunzels ausgelöste
+                 Fähigkeit wird erneut dem Beutel hinzugefügt und von dort abgehandelt, wodurch eine weitere Instanz desselben Ersatzeffekts
+                 entsteht. Der aktive Spieler erschöpft Fabius, um einen gegnerischen erschöpften Charakter herauszufordern. Während des
+                 Schadensschritts beim Herausfordern wird jedem Charakter im Herausfordern Schaden zugefügt, was zu folgendem Ereignis
+                 führt: Der herausgeforderte Charakter fügt Fabius Schaden in Höhe seiner {S} zu. Fabius würde Schaden zugefügt werden, daher
+                 versucht der aktive Spieler, die beiden Instanzen desselben Ersatzeffekts anzuwenden. Da zwei oder mehr Instanzen desselben
+                 Ersatzeffekts nicht auf dasselbe Ereignis angewendet werden können, wählt der aktive Spieler eine aus, die angewendet wird,
+                 was zu folgendem Ereignis führt: Der herausgeforderte gegnerische Charakter fügt Fabius keinen Schaden zu. Die verbleibende
+                 Instanz des Ersatzeffekts kann nicht angewendet werden und existiert nicht mehr.
+        7.7.9.   Ein Effekt, der einen Schritt oder eine Phase des Spiels überspringt, ist ein Ersatzeffekt, der diesen Schritt oder diese Phase durch
+                 nichts ersetzt. „Überspringe [Schritt/Phase]“ bedeutet dasselbe wie „Wenn ein Spieler den [Schritt/die Phase] ausführen würde,
+                 tue stattdessen nichts.“ Wenn ein Effekt einen Schritt oder eine Phase überspringt, findet kein Teil dieses Schritts oder dieser
+                 Phase statt. Jegliche Fähigkeiten oder Effekte, die aufgrund dieses Schritts oder dieser Phase eintreten würden, treten nicht ein.
+                 Beispiel: Arthur - Entschlossener Knappe“ hat die Fähigkeit „Keine Bücher mehr. Überspringe den Schritt „Ziehen“ in deinem
+                 Zug“ Wenn ein Spieler seinen Ziehschritt mit Arthur im Spiel beginnen würde , überspringt er stattdessen seinen Ziehschritt und
+                 geht sofort zur Hauptphase seines Zuges über. Findet ein Spieler jedoch eine Möglichkeit, Arthur während seiner Zieh-Phase ins
+                 Spiel zu bringen, wird die aktuelle Zieh-Phase nicht übersprungen und verläuft ganz normal.
    7.8. Fähigkeitsmodifikationen
 
         7.8.1. Einige Fähigkeiten und Effekte können die Eigenschaften eines Charakters oder Ortes im Spiel verändern, wie beispielsweise
-                deren {S} oder {L}.
-                7.8.1.1.   Ein Modifikator für Karten im Spiel wird dauerhaft angewendet, entweder für eine festgelegte Zeitspanne oder so
-                           lange die Karte, die den Modifikator erzeugt, im Spiel ist. Immer wenn ein Modifikator auf die Eigenschaft einer
-                           Karte angewendet wird, ändert sich diese Eigenschaft sofort. Bei diesem Vorgang wird der Beutel nicht verwendet
-                           (siehe 8.7, „Beutel“).
-                7.8.1.2.   Wenn mehrere Modifikatoren auf die selbe Eigenschaft einer Karte angewendet werden, geschieht dies nicht
-                           in einer bestimmten Reihenfolge, sondern sie werden kombiniert angewendet. Wenn ein neuer Modifikator auf
-                           die Eigenschaft einer Karte angewendet wird, wird er mit allen anderen darauf angewendeten Modifikatoren
-                           kombiniert.
-                           Beispiel A: Der aktive Spieler spielt Großherzog - Berater des Königs. Er verfügt über eine Fähigkeit namens „Ja, Euer
-                           Majestät“, die lautet: „Deine Prinzessinnen, Prinzen, Königinnen und Könige erhalten +1 {S}.“ Der durch den Effekt
-                           der Fähigkeit generierte Modifikator +1 {S} wird sofort auf die {S} aller Charaktere mit den Klassifizierungen Prinz,
-                           Prinzessin, König und Königin, die der aktive Spieler im Spiel hat, angewendet. Wenn dieser Spieler einen anderen
-                           Charakter mit einer dieser Klassifikationen spielt, während der Großherzog noch im Spiel ist, kommt der neue
-                           Charakter mit dem Modifikator +1 {S} ins Spiel und behält diese Modifikation, bis der Großherzog das Spiel verlässt.
-                           Beispiel B: Der aktive Spieler hat einen HeiHei - Wandernder Hahn mit 2 {S} und 2 {W} im Spiel. HeiHei erhält
-                           +1 {S} durch einen Effekt. Er hat jetzt 3 {S} und 2 {W}. Später im selben Zug gibt ein zusätzlicher Effekt HeiHei -5 {S}.
-                           Damit wird seine {S} zu -2 {S}. modifiziert. Ein weiterer Effekt gibt HeiHei +1 {S}, was ihn insgesamt auf -1 {S} bringt.
-                           Jedes Mal, wenn ein Modifikator auf HeiHei angewendet wird, werden alle anderen auf ihn wirkenden Modifikatoren
-                           gleichzeitig damit kombiniert.
+                 deren {S} oder {L}.
+                 7.8.1.1.   Ein Modifikator für Karten im Spiel wird dauerhaft angewendet, entweder für eine festgelegte Zeitspanne oder so
+                            lange die Karte, die den Modifikator erzeugt, im Spiel ist. Immer wenn ein Modifikator auf die Eigenschaft einer
+                            Karte angewendet wird, ändert sich diese Eigenschaft sofort. Bei diesem Vorgang wird der Beutel nicht verwendet
+                            (siehe 8.7, „Beutel“).
+                 7.8.1.2.   Wenn mehrere Modifikatoren auf die selbe Eigenschaft einer Karte angewendet werden, geschieht dies nicht
+                            in einer bestimmten Reihenfolge, sondern sie werden kombiniert angewendet. Wenn ein neuer Modifikator auf
+                            die Eigenschaft einer Karte angewendet wird, wird er mit allen anderen darauf angewendeten Modifikatoren
+                            kombiniert.
+                            Beispiel A: Der aktive Spieler spielt Großherzog - Berater des Königs. Er verfügt über eine Fähigkeit namens „Ja,
+                            Euer Majestät“, die lautet: „Deine Prinzessinnen, Prinzen, Königinnen und Könige erhalten +1 {S}.“ Der durch den
+                            Effekt der Fähigkeit generierte Modifikator +1 {S} wird sofort auf die {S} aller Charaktere mit den Klassifizierungen
+                            Prinz, Prinzessin, König und Königin, die der aktive Spieler im Spiel hat, angewendet. Wenn dieser Spieler einen
+
+
+disneylorcana.com
+©Disney                                                                   27
+                          anderen Charakter mit einer dieser Klassifikationen spielt, während der Großherzog noch im Spiel ist, kommt der neue
+                          Charakter mit dem Modifikator +1 {S} ins Spiel und behält diese Modifikation, bis der Großherzog das Spiel verlässt.
+                          Beispiel B: Der aktive Spieler hat einen HeiHei - Wandernder Hahn mit 2 {S} und 2 {W} im Spiel. HeiHei erhält
+                          +1 {S} durch einen Effekt. Er hat jetzt 3 {S} und 2 {W}. Später im selben Zug gibt ein zusätzlicher Effekt HeiHei -5 {S}.
+                          Damit wird seine {S} zu -2 {S}. modifiziert. Ein weiterer Effekt gibt HeiHei +1 {S}, was ihn insgesamt auf -1 {S} bringt.
+                          Jedes Mal, wenn ein Modifikator auf HeiHei angewendet wird, werden alle anderen auf ihn wirkenden Modifikatoren
+                          gleichzeitig damit kombiniert.
         7.8.2. Wenn ein Charakter eine negative {S} hat, verursacht er bei Herausforderungen keinen Schaden und die Stärke wird als 0
                 gewertet, außer beim Anwenden weiterer Modifikatoren zum Bestimmen seiner gesamt-{S} (siehe 7.8.1.1 und 7.8.1.2).
                 Beispiel: Der aktive Spieler hat einen Yokai - Wissenschaftlicher Superschurke und einen Microbots im Spiel. Yokai hat eine
@@ -1125,24 +1193,21 @@ disneylorcana.com
                 jeden gegnerischen Charakter mit 0 {S}.“ Microbots haben eine auslösbare Fähigkeit namens „Inspirierte Technik“, die lautet:
                 „Wenn du diesen Gegenstand ausspielst, gib einem Charakter deiner Wahl in diesem Zug -1 {S} für jeden Microbots-Gegenstand
                 den du im Spiel hast.“ Der Gegner hat einen Charakter mit 1 {S} und 1 {W} im Spiel. Der aktive Spieler spielt einen zweiten
-
-
-disneylorcana.com
-©Disney                                                                  26
                 Microbots. Beim Auslösen der auslösbaren Fähigkeit wählt der aktive Spieler den Charakter des Gegners. Er erhält -2 {S} und hat,
                 nachdem dieser Modifikator auf seine {S} angewendet wurde, nun -1 {S} und 1 {W}. Dann erkundet der aktive Spieler mit Yokai. Da
                 die {S} des gegnerischen Charakters negativ ist, wird beim Auslösen der auslösbaren Fähigkeit von Yokai die {S} des gegnerischen
                 Charakters als 0 gewertet und der aktive Spieler zieht 1 Karte. Obwohl die {S} des Charakters zum Ausführen der Fähigkeit von
                 Yokai als 0 gewertet wird, wird sie nicht auf 0 geändert, sondern bleibt weiterhin -1 {S}.
-        7.8.3. Wenn ein Charakter oder Ort einen negativen Legendenwert {L} hat, wird ihm ein Legendenwert von 0 zugewiesen, außer beim
-                Anwenden von Modifikatoren zur Bestimmung seines {L} (siehe 7.8.1.1 und 7.8.1.2).
-                Beispiel: Der aktive Spieler hat einen Flynn Rider - Sein eigener größter Fan im Spiel und sein Gegner hat 5 Karten auf der Hand.
-                Flynn hat 4 {L} und eine Fähigkeit namens „Ein letzter, großer Coup“, die lautet: „Dieser Charakter erhält -1 {L} für jede Handkarte
-                aller gegnerischen Mitspielenden.“ Da der Gegner 5 Karten auf der Hand hat, gilt für Flynns Legendenwert von 4 ein Modifikator
-                von -5 (-1 für jede der 5 Karten). Flynn hat also aktuell einen Legendenwert von -1. Da Flynns Legendenwert negativ ist, wird
-                der Legendenwert von Flynn als 0 gewertet, wenn der Spieler mit ihm erkunden geht und der Spieler sammelt 0 Legenden. Dies
-                ändert jedoch nicht den tatsächlichen Legendenwert von Flynn auf 0. Flynn hat weiterhin einen Legendenwert von -1, bis sich die
-                Anzahl der Karten in der Hand des Gegners ändert, oder ein anderer Modifikator auf seinen Legendenwert angewendet wird.
+        7.8.3. Wenn ein Charakter oder Ort einen negativen Legendenwert {L} hat, wird ihm ein Legendenwert von 0 zugewiesen, außer
+                beim Anwenden von Modifikatoren zur Bestimmung seines {L} (siehe 7.8.1.1 und 7.8.1.2).
+                Beispiel: Der aktive Spieler hat einen Flynn Rider - Sein eigener größter Fan im Spiel und sein Gegner hat 5 Karten auf der
+                Hand. Flynn hat 4 {L} und eine Fähigkeit namens „Ein letzter, großer Coup“, die lautet: „Dieser Charakter erhält -1 {L} für jede
+                Handkarte aller gegnerischen Mitspielenden.“ Da der Gegner 5 Karten auf der Hand hat, gilt für Flynns Legendenwert von 4
+                ein Modifikator von -5 (-1 für jede der 5 Karten). Flynn hat also aktuell einen Legendenwert von -1. Da Flynns Legendenwert
+                negativ ist, wird der Legendenwert von Flynn als 0 gewertet, wenn der Spieler mit ihm erkunden geht und der Spieler sammelt 0
+                Legenden. Dies ändert jedoch nicht den tatsächlichen Legendenwert von Flynn auf 0. Flynn hat weiterhin einen Legendenwert
+                von -1, bis sich die Anzahl der Karten in der Hand des Gegners ändert, oder ein anderer Modifikator auf seinen Legendenwert
+                angewendet wird.
 
 
 8. ZONEN
@@ -1153,7 +1218,11 @@ disneylorcana.com
                 Beispiel: Der Tisch stellt den Spielbereich der Spieler dar. Obwohl die Decks, Tintenvorräte und Ablagestapel der Spieler physisch
                 diesen Raum einnehmen, sind sie nicht im Spiel, da es sich um separate Zonen handelt.
         8.1.2. Karten in einer öffentlichen Zone sind öffentlich bekannt. Jeder Spieler kann sich die Karten in jeder öffentlichen Zone
-               jederzeit ansehen oder zählen.
+                jederzeit ansehen oder zählen.
+
+
+disneylorcana.com
+©Disney                                                                 28
         8.1.3. Karten in einer privaten Zone sind nicht öffentlich bekannt. Die Spieler dürfen sie nicht ansehen, es sei denn, sie werden durch
                eine Spielregel (z. B. das Ziehen einer Karte) oder einen Effekt dazu aufgefordert. Die Spieler können jederzeit die Anzahl der
                Karten in einer privaten Zone zählen. Solange eine private Zone offen liegt, gilt sie nicht als privat.
@@ -1166,17 +1235,16 @@ disneylorcana.com
 
         8.2.1. Das Deck eines Spielers ist der Ort, an dem sich die Karten befinden, die er in einer Partie verwenden kann.
         8.2.2. Das Deck ist eine private Zone. Die Karten im Deck eines Spielers bleiben immer verdeckt und in einem einzigen Stapel. Die
-                Spieler können die Reihenfolge der Karten in ihren Decks während des Spiels weder ansehen noch ändern. Die Spieler können
-                jederzeit die verbleibenden Karten im Deck eines jeden Spielers zählen.
-
-
-
-disneylorcana.com
-©Disney                                                                 27
+               Spieler können die Reihenfolge der Karten in ihren Decks während des Spiels weder ansehen noch ändern. Die Spieler können
+               jederzeit die verbleibenden Karten im Deck eines jeden Spielers zählen.
         8.2.3. Wann immer eine Karte oder ein Spielzustand einen Spieler anweist, eine Karte zu ziehen, gelten die in 4.2.3,„Ziehen“,
                beschriebenen Regeln
-        8.2.4. Wenn Karten in beliebiger Reihenfolge oben oder unten auf das Deck gelegt werden und die Karten allen Spielern öffentlich
-               bekannt waren, muss die Reihenfolge, in der die Karten dem Deck hinzugefügt werden, allen Spielern bekannt sein.
+        8.2.4. Wenn Karten „in beliebiger Reihenfolge“ auf das Deck gelegt werden – oben oder unten – und mindestens eine der Karten
+               offen ist, muss allen Spielern die Reihenfolge bekannt sein, in der die offenen Karten auf oder unter das Deck gelegt werden.
+                8.2.4.1. Befinden sich diese offenen Karten in einem oder mehreren Stapeln und/oder enthalten diese Stapel sowohl offene
+                         als auch verdeckte Karten, können alle Karten in diesen Stapeln mit den anderen Karten, die dem Deck hinzugefügt
+                         werden, einschließlich Karten in anderen Stapeln, kombiniert und beliebig angeordnet werden. Auf diese Karten
+                         werden keine Bedingungen angewendet oder entfernt, bis sie oben oder unten auf das Deck gelegt werden.
    8.3. Hand
 
         8.3.1. Die Hand eines Spielers ist der Ort, an dem die gezogenen Karten aufbewahrt werden. Karten können auch durch andere
@@ -1195,6 +1263,9 @@ disneylorcana.com
                spielen.
         8.4.2. Nur Karten, die sich in der Spielzone eines Spielers befinden, gelten als im Spiel. Karten außerhalb des Spiels sind nicht im
                Spiel. Karten im Beutel, im Deck, auf dem Ablagestapel, auf der Hand und im Tintenvorrat eines Spielers sind nicht im Spiel.
+
+disneylorcana.com
+©Disney                                                               29
         8.4.3. Die Spielzone ist eine öffentliche Zone. Die Spieler können sich die Karten, die jeder Spieler im Spiel hat, jederzeit ansehen.
                Die Spieler können jederzeit die Anzahl der Karten zählen, die ein Spieler im Spiel hat.
         8.4.4. Immer, wenn eine oder mehrere Karten das Spiel verlassen, wird zuerst geprüft, ob sie oder andere Karten, eine Fähigkeit
@@ -1205,8 +1276,8 @@ disneylorcana.com
                Diese Karten sind Tintenkarten. Jede Tintenkarte muss das Tintenvorrat-Symbol {C} um ihre Kosten herum haben und steht
                für 1 {I}, die der Spieler zur Bezahlung der Tintenkosten verwenden kann. Die Vorderseite einer Tintenkarte hat keinen Einfluss
                auf die von ihr erzeugte Tinte. Die Anzahl der Karten, die ein Spieler in seinem Tintenvorrat haben kann, ist nicht begrenzt.
-        8.5.2. Die Karten kommen mit der Bildseite nach unten in den Tintenvorrat und sind bereit. Wenn mehrere Karten gleichzeitig in den
-               Tintenvorrat gelegt werden, wird jede Karte als ein separater Fall behandelt.
+        8.5.2. Karten werden verdeckt und bereit in den Tintenvorrat eines Spielers gelegt. Wenn mehrere Karten gleichzeitig in den
+               Tintenvorrat eines Spielers gelegt werden, wird jede Karte als eigene Instanz behandelt.
         8.5.3. Der Tintenvorrat ist eine private Zone. Die Spieler dürfen sich zu keiner Zeit Karten in einem Tintenvorrat ansehen, auch nicht
                ihre eigenen. Die Spieler können jederzeit die Anzahl der Karten in jedem Tintenvorrat zählen.
         8.5.4. Die Spieler können die Karten in ihrem Tintenvorrat auf jede bequeme Art und Weise anordnen, vorausgesetzt, dass die
@@ -1214,11 +1285,8 @@ disneylorcana.com
                einem Tintenvorrat und die Anzahl jener Karten, die bereit liegen, können vor den anderen Spielern nicht verborgen werden.
         8.5.5. Wenn eine Karte einem Spieler erlaubt, in seinem Zug eine zusätzliche Karte in sein Tintenvorrat zu legen, kündigt er an, dass
                er diesen Effekt nutzt, und folgt dann den normalen Schritten, um eine Karte in sein Tintenvorrat zu legen.
-
-disneylorcana.com
-©Disney                                                               28
         8.5.6. Immer wenn ein Effekt eine Karte aus einer anderen Zone in das Tintenvorrat legt, wird die Karte nicht aufgedeckt und muss
-                 nicht das Tintenvorrat-Symbol haben. Sie kommt mit der Vorderseite nach unten als Tinte in den Tintenvorrat.
+               nicht das Tintenvorrat-Symbol haben. Sie kommt mit der Vorderseite nach unten als Tinte in den Tintenvorrat.
    8.6. Ablagestapel
 
         8.6.1. Der Ablagestapel eines Spielers ist der Ort, an dem seine Karten, die das Spiel verlassen haben, aufbewahrt werden.
@@ -1238,6 +1306,11 @@ disneylorcana.com
         8.7.3. Immer wenn die Bedingung einer ausgelösten Fähigkeit erfüllt ist, wird die Fähigkeit von dem Spieler, der die Karte mit der
                ausgelösten Fähigkeit gespielt hat, in den Beutel gelegt. Wenn mehrere Fähigkeiten gleichzeitig ausgelöst werden, werden sie
                von den jeweiligen Spielern gleichzeitig in den Beutel gelegt.
+
+
+
+disneylorcana.com
+©Disney                                                                30
         8.7.4. Dann wählt der aktive Spieler eine beliebige seiner ausgelösten Fähigkeiten aus, und führt diese vollständig aus. Wenn die
                Ausführung einer Fähigkeit eine andere Fähigkeit auslöst, wird die neue ausgelöste Fähigkeit in den Beutel gelegt, sobald die
                Ausführung der aktuellen Fähigkeit abgeschlossen ist.
@@ -1259,30 +1332,30 @@ disneylorcana.com
         9.1.1.   Der Schaden eines Charakters wird durch Schadensmarker dargestellt. Jeder Schadensmarker stellt normalerweise 1 Schaden
                  dar; jeder Schadensmarker, der mehr als 1 Schaden darstellen soll, zählt als separater Schadensmarker für jeden 1 Schaden,
                  den er darstellt.
-
-disneylorcana.com
-©Disney                                                               29
    9.2. Schadensmarker legen
 
         9.2.1. Wenn ein Effekt einen Schadensmarker auf einen Charakter oder einen Ort legt, zählt dies nicht als Schaden, der diesem
-                Charakter oder diesem Ort zugefügt wird, und wird nicht von Modifikationen des zugefügten Schadens (z.B. Robust)
-                beeinflusst.
+                 Charakter oder diesem Ort zugefügt wird, und wird nicht von Modifikationen des zugefügten Schadens (z.B. Robust)
+                 beeinflusst.
    9.3. Schadensmarker bewegen
 
         9.3.1. Das Verschieben von Schadensmarkern hat den Effekt, dass eine bestimmte Anzahl von Schadensmarkern von einem
-                ausgewählten Charakter entfernt und die selbe Anzahl auf einen anderen, ausgewählten Charakter hinzugefügt werden.
-                Beispiel: Der aktive Spieler hat „Simba – Schützender Welpe“ im Spiel mit 1 Schadensmarker auf ihm. Der Gegner hat „Der
-                Prinz – Gibt niemals auf“ im Spiel, der die Fähigkeit Robust +1 hat. Der aktive Spieler spielt die Aktion „Ein Geschenk machen“,
-                die lautet: „Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.“ Der
-                Spieler entscheidet sich dann, 1 Schadensmarker von Simba auf den Prinzen zu verschieben. Der aktive Spieler entfernt also 1
-                Schadensmarker von Simba und legt ihn auf den Prinzen. Die Robust-Fähigkeitdes Prinzen beeinflusst diesen Schaden nicht, da
-                es sich nicht um zugefügten Schaden handelt.
+                 ausgewählten Charakter entfernt und die selbe Anzahl auf einen anderen, ausgewählten Charakter hinzugefügt werden.
+                 Beispiel: Der aktive Spieler hat „Simba – Schützender Welpe“ im Spiel mit 1 Schadensmarker auf ihm. Der Gegner hat „Der
+                 Prinz – Gibt niemals auf“ im Spiel, der die Fähigkeit Robust +1 hat. Der aktive Spieler spielt die Aktion „Ein Geschenk machen“,
+                 die lautet: „Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.“ Der
+                 Spieler entscheidet sich dann, 1 Schadensmarker von Simba auf den Prinzen zu verschieben. Der aktive Spieler entfernt also 1
+                 Schadensmarker von Simba und legt ihn auf den Prinzen. Die Robust-Fähigkeitdes Prinzen beeinflusst diesen Schaden nicht, da
+                 es sich nicht um zugefügten Schaden handelt.
    9.4. Das Spiel verlassen
 
         9.4.1. Wenn eine Karte mit Schaden das Spiel verlässt, werden bei der Überprüfung des Spielstatus alle Schadensmarker auf der
-                Karte ungültig.
+                 Karte ungültig.
 
 
+
+disneylorcana.com
+©Disney                                                                 31
 10. SCHLÜSSELWÖRTER
    10.1. Allgemeines
 
@@ -1297,157 +1370,176 @@ disneylorcana.com
         10.1.3. Der standardmäßige Erinnerungstext für jedes Schlüsselwort ist hier zur Referenz enthalten. Erinnerungstext ist kein
                 Regeltext. Es handelt sich lediglich um eine Gedächtnisstütze und kann variieren, ohne dass sich die Bedeutung der
                 Schlüsselwortregeln ändert.
-   10.2. Beschützen
+   10.2. Alarmiert
 
-        10.2.1. Das Schlüsselwort Beschützen repräsentiert zwei Fähigkeiten.
-        10.2.2. Die erste ist eine statische Fähigkeit, die während des Spielens des Charakters wirkt und einen Ersetzungseffekt erzeugt, Sie
+        10.2.1. Das Schlüsselwort Alarmiert steht für eine statische Fähigkeit. Alarmiert bedeutet: „Dieser Charakter ignoriert die
+                Herausforderungsbeschränkung von Wendig.“
+        10.2.2. Der Standard-Erinnerungstext für Alarmiert lautet: „(Dieser Charakter kann herausfordern, als hätte er Wendig.)“
+        10.2.3. Ein Charakter erhält nicht Wendig, nur weil er die Schlüsselwort-Fähigkeit Alarmiert besitzt. Sie können Wendig dennoch
+                durch eine andere Fähigkeit oder einen anderen Effekt erhalten.
+   10.3. Beschützen
+
+        10.3.1. Das Schlüsselwort Beschützen repräsentiert zwei Fähigkeiten.
+        10.3.2. Die erste ist eine statische Fähigkeit, die während des Spielens des Charakters wirkt und einen Ersetzungseffekt erzeugt, Sie
                 bedeutet „Du darfst diesen Charakter erschöpft anstelle von bereit ausspielen“
-
-
-
-disneylorcana.com
-©Disney                                                                30
-        10.2.3. Die Zweite ist eine statische Fähigkeit, die eine Einschränkung für Herausforderungen erschafft. Sie bedeutet „Wenn ein
+        10.3.3. Die Zweite ist eine statische Fähigkeit, die eine Einschränkung für Herausforderungen erschafft. Sie bedeutet „Wenn ein
                 Spieler einen deiner Charaktere für eine Herausforderung auswählen möchte, muss er diesen Charakter, oder einen anderen
                 Charakter mit Beschützen auswählen, sofern das möglich ist.
-        10.2.4. Der standardmäßige Erinnerungstext für Beschützen ist: „(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische
+        10.3.4. Der standardmäßige Erinnerungstext für Beschützen ist: „(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische
                 Charaktere müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)“
-   10.3. Herausfordern
+   10.4. Stärken
 
-        10.3.1. Das Schlüsselwort Herausfordern repräsentiert eine statische Fähigkeit, die wirkt, wenn ein Charakter herausfordert.
+        10.4.1. Das Schlüsselwort Stärken steht für eine aktivierte Fähigkeit mit einer bestimmten Dauer. Stärken N {I} bedeutet: „Einmal
+                während deines Zuges kannst du N {I} bezahlen, um die oberste Karte deines Decks verdeckt unter diese Karte zu legen.“
+        10.4.2. Der Standard-Erinnerungstext für Stärken lautet: „(Einmal während deines Zuges kannst du N {I} bezahlen, um die oberste
+                Karte deines Decks verdeckt unter diesen Charakter zu legen.)“
+        10.4.3. Kein Spieler darf sich jemals die Vorderseite einer Karte ansehen, die verdeckt unter eine andere Karte gelegt wurde – auch
+                nicht die eigene.
+
+
+disneylorcana.com
+©Disney                                                                32
+        10.4.4. Wenn eine Karte unter einer anderen Karte liegt, gilt sie nicht als im Spiel. Eine Karte mit Stärken unter eine andere Karte zu
+                  legen, gilt nicht als Ausspielen dieser Karte.
+   10.5. Herausfordern
+
+        10.5.1. Das Schlüsselwort Herausfordern repräsentiert eine statische Fähigkeit, die wirkt, wenn ein Charakter herausfordert.
                 Herausfordern +N bedeutet: „Während dieser Charakter herausfordert, erhält er +N {S} für die Dauer der Herausforderung.“
                 Da dies eine +N Fähigkeit ist, ist sie mit anderen Herausfordern-Effekten stapelbar.
-        10.3.2. Der standardmäßige Erinnerungstext für Herausfordern ist: „(Während dieser Charakter herausfordert, erhält er +N {S}.)“
-        10.3.3. Ein Charakter mit Herausfordern erhält keine +N {S}, wenn er herausgefordert wird.
+        10.5.2. Der standardmäßige Erinnerungstext für Herausfordern ist: „(Während dieser Charakter herausfordert, erhält er +N {S}.)“
+        10.5.3. Ein Charakter mit Herausfordern erhält keine +N {S}, wenn er herausgefordert wird.
 
-   10.4. Wendig
+   10.6. Wendig
 
-        10.4.1. Das Schlüsselwort Wendig repräsentiert eine statische Fähigkeit, die eine Herausforderungseinschränkung erzeugt. Wendig
+        10.6.1. Das Schlüsselwort Wendig repräsentiert eine statische Fähigkeit, die eine Herausforderungseinschränkung erzeugt. Wendig
                 bedeutet: „Dieser Charakter kann nur von einem Charakter herausgefordert werden, der ebenfalls die Fähigkeit Wendig hat.“
-        10.4.2. Der standardmäßige Erinnerungstext für Wendig ist: „(Nur Charaktere mit Wendig können diesen Charakter herausfordern.)“
+        10.6.2. Der standardmäßige Erinnerungstext für Wendig ist: „(Nur Charaktere mit Wendig können diesen Charakter herausfordern.)“
 
-   10.5. Impulsiv
+   10.7. Impulsiv
 
-        10.5.1. Das Schlüsselwort Impulsiv repräsentiert zwei statische Fähigkeiten.
-        10.5.2. Die erste Fähigkeit bedeutet: „Dieser Charakter kann nicht erkunden“
-        10.5.3. Die zweite Fähigkeit bedeutet „Du kannst deinen Zug nicht beenden, solange dieser Charakter bereit ist und einen
+        10.7.1. Das Schlüsselwort Impulsiv repräsentiert zwei statische Fähigkeiten.
+        10.7.2. Die erste Fähigkeit bedeutet: „Dieser Charakter kann nicht erkunden“
+        10.7.3. Die zweite Fähigkeit bedeutet „Du kannst deinen Zug nicht beenden, solange dieser Charakter bereit ist und einen
                 erschöpften gegnerischen Charakter oder Ort herausfordern kann.“
-        10.5.4. Der standardmäßige Erinnerungstext für Impulsiv ist: „(Dieser Charakter kann nicht erkunden und muss in jedem Zug
+        10.7.4. Der standardmäßige Erinnerungstext für Impulsiv ist: „(Dieser Charakter kann nicht erkunden und muss in jedem Zug
                 herausfordern, wenn möglich.)“
-        10.5.5. Ein Spieler kann einen Charakter mit Impulsiv dennoch erschöpfen, um seine Fähigkeiten zu nutzen oder Lieder zu singen.
+        10.7.5. Ein Spieler kann einen Charakter mit Impulsiv dennoch erschöpfen, um seine Fähigkeiten zu nutzen oder Lieder zu singen.
 
-   10.6. Robust
+   10.8. Robust
 
-        10.6.1. Das Schlüsselwort Robust repräsentiert eine statische Fähigkeit, die einen Ersetzungseffekt erzeugt. Robust +N bedeutet:
+        10.8.1. Das Schlüsselwort Robust repräsentiert eine statische Fähigkeit, die einen Ersetzungseffekt erzeugt. Robust +N bedeutet:
                 „Wenn diesem Charakter oder Ort Schaden zugefügt würde, wird diesem Charakter oder Ort stattdessen N Schaden weniger
                 zugefügt.“ Da dies eine +N Fähigkeit ist, ist sie mit anderen Robust-Effekten stapelbar.
-        10.6.2. Der standardmäßige Erinnerungstext für einen Charakter mit Robust ist: „(Reduziere jeglichen Schaden, der diesem Charakter
+        10.8.2. Der standardmäßige Erinnerungstext für einen Charakter mit Robust ist: „(Reduziere jeglichen Schaden, der diesem Charakter
                 zugefügt wird, um N.)“ Der standardmäßige Erinnerungstext für einen Ort mit Robust ist: „(Reduziere jeglichen Schaden, der
                 diesem Ort zugefügt wird, um N.)“
-        10.6.3. Wenn Schaden, der einem Charakter oder Ort zugefügt wird, auf 0 reduziert wird, gilt der Schaden als nicht zugefügt.
+        10.8.3. Wenn Schaden, der einem Charakter oder Ort zugefügt wird, auf 0 reduziert wird, gilt der Schaden als nicht zugefügt.
 
-   10.7. Rasant
+   10.9. Rasant
 
-        10.7.1. Das Schlüsselwort Rasant repräsentiert eine statische Fähigkeit. Rasant bedeutet: „Dieser Charakter kann herausfordern, als
-                  ob er zu Beginn deines Zuges im Spiel gewesen wäre.“
+        10.9.1. Das Schlüsselwort Rasant repräsentiert eine statische Fähigkeit. Rasant bedeutet: „Dieser Charakter kann herausfordern, als
+                ob er zu Beginn deines Zuges im Spiel gewesen wäre.“
+        10.9.2. Der standardmäßige Erinnerungstext für Rasantist: „(Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)“
 
-
-disneylorcana.com
-©Disney                                                                  31
-        10.7.2. Der standardmäßige Erinnerungstext für Rasantist: „(Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)“
-
-   10.8. Gestaltwandel
-
-        10.8.1. Das Schlüsselwort Gestaltwandel bezeichnet das Bezahlen alternativer Kosten, um einen Charakter auszuspielen, anstatt seine
-                normalen Tintenkosten zu bezahlen. Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der denselben Namen
-                wie diese Karte hat, kannst du diese Karte für ihre Gestaltwandel-Kosten anstatt ihre Tintenkosten ausspielen. Wenn du dies
-                tust, lege diese Karte oben auf einen anderen Charakter, den du im Spiel hast und der denselben Namen hat.“ Dies wird als
-                Gestaltwandel bezeichnet.
-        10.8.2. Der Standard Erinnerungstext für Gestaltwandel ist: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner
-                [Charaktername]-Charaktere auszuspielen.)“
-        10.8.3. Ein Gestaltgewandelter Charakter übernimmt den Zustand des Charakters, auf welchen er ausgespielt wurde. (Bsp. Er ist
-                getrocknet, wenn der vorherige Charakter bereits getrocknet war, er ist erschöpft, wenn der vorherige Charakter bereits
-                erschöpft war.)
-        10.8.4. Wenn ein Effekt auf einem gestaltgewandelten Charakter dazu führt, dass er erschöpft ins Spiel kommt, wird er erschöpft,
-                wenn er ins Spiel kommt.
-        10.8.5. Ein gestaltgewandelter Charakter behält die Schadensmarker des Charakters, auf den er gespielt wurde. Er verliert den
-                gesamten Text des Charakters, auf den er gespielt wurde, behält aber alle Effekte, die auf diesen Charakter angewendet
-                wurden, wenn der gestaltgewandelte Charakter ins Spiel kommt.
-        10.8.6. Wenn ein gestaltgewandelter Charakter das Spiel verlässt, kommen alle Karten in seinem Stapel (d.h. alle anderen Karten
-                darunter) in dieselbe Zone wie der gestaltgewandelte Charakter, und die Karten werden nicht mehr als Stapel betrachtet.
-                (Siehe 5.1.7).
-        10.8.7. Das Schlüsselwort Gestaltwandel hat zwei Varianten: [Klassifizierung] Gestaltwandel und Universal Gestaltwandel. Bei diesen
-                Varianten von Schlüsselwortfähigkeiten handelt es sich um Gestaltwandel-Fähigkeiten. Dies bedeutet, dass sie mit den
-                folgenden Ausnahmen alle Regeln für das Gestaltwandel-Schlüsselwort befolgen.
-                  10.8.7.1. [Klassifizierung] Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der die durch diese Fähigkeit
-                            angegebene [Klassifizierung] besitzt, kannst du diesen Charakter spielen, indem du seine Gestaltwandel
-                            Kosten anstelle der Tintenkosten bezahlst. Falls du dies tust, lege diese Karte auf einen anderen Charakter mit
-                            der angegebenen Klassifizierung, den du im Spiel hast.“ Der Standard-Erinnerungstext für [Klassifizierung]
-                            Gestaltwandel lautet: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner [Klassifizierung]
-                            auszuspielen.)“
-                  10.8.7.2. Universal Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, kannst du diesen Charakter spielen,
-                            indem du seine Gestaltwandel-Kosten anstelle der Tintenkosten zahlst. Wenn du dies tust, lege diese Karte oben auf
-                            einen anderen Charakter, den du im Spiel hast.“ Der Standard-Erinnerungstext für Universal Gestaltwandel lautet
-                            „(Du kannst [Kosten zahlen], um diesen Charakter auf irgendeinen deiner Charaktere auszuspielen.)“
-   10.9. Singen
-
-        10.9.1. Das Schlüsselwort Singen repräsentiert eine statische Fähigkeit, die beeinflusst, wie ein Charakter die alternativen Kosten
-                  bezahlen kann, um ein Lied zu singen. Singer N bedeutet: „Dieser Charakter kann {E}, um die alternativen Kosten einer
-                  Liedkarte zu bezahlen, als ob er statt seiner normalen Tintenkosten N kostet.“
 
 
 
 disneylorcana.com
-©Disney                                                                 32
-        10.9.2. Der standardmäßige Erinnerungstext für Singen ist: „(Die Kosten dieses Charakters gelten als N für das Singen von Liedern.)“
-        10.9.3. Dieser Charakter zählt nur als Kosten N, um Lieder mithilfe von singen kostenlos auszuspielen. Die Tintenkosten des
-                Charakters ändern sich nicht.
-   10.10. Gemeinsam singen
+©Disney                                                                 33
+   10.10. Gestaltwandel
 
-        10.10.1. Das Schlüsselwort Gemeinsam singen repräsentiert alternative Kosten, um eine Lied-Aktionskarte auszuspielen. Gemeinsam
+        10.10.1. Das Schlüsselwort Gestaltwandel bezeichnet das Bezahlen alternativer Kosten, um einen Charakter auszuspielen, anstatt seine
+                 normalen Tintenkosten zu bezahlen. Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der denselben Namen
+                 wie diese Karte hat, kannst du diese Karte für ihre Gestaltwandel-Kosten anstatt ihre Tintenkosten ausspielen. Wenn du dies
+                 tust, lege diese Karte oben auf einen anderen Charakter, den du im Spiel hast und der denselben Namen hat.“ Dies wird als
+                 Gestaltwandel bezeichnet.
+        10.10.2. Der Standard Erinnerungstext für Gestaltwandel ist: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner
+                 [Charaktername]-Charaktere auszuspielen.)“
+         10.10.3. Wenn ein gestaltgewandelter Charakter auf einen erschöpften Charakter gelegt wird, kommt der gestaltgewandelte
+                  Charakter erschöpft ins Spiel.
+         10.10.4. Wenn ein Effekt auf einen gestaltgewandelten Charakter dazu führt, dass er erschöpft ins Spiel kommt, wird er beim Eintritt
+                  ins Spiel erschöpft, selbst wenn der Charakter, auf dem er lag, bereit ist.
+         10.10.5. Wenn ein gestaltgewandelter Charakter auf einen trockenen Charakter gelegt wird, kommt der gestaltgewandelte Charakter
+                  trocken ins Spiel. Wenn ein gestaltgewandelter Charakter auf einen trocknenden Charakter gelegt wird, kommt der
+                  gestaltgewandelte Charakter trocknend ins Spiel.
+         10.10.6. Ein Spieler kann einen gestaltgewandelten Charakter verwenden, um alle Zugaktionen des Charakters auszuführen, auf
+                  den er gelegt wurde. Der gestaltgewandelte Charakter erhält nicht den Text des Charakters, auf den er gelegt wurde
+                  (wie z. B. eine aktivierte Fähigkeit), behält aber alle Effekte, die auf diesen Charakter angewendet werden, wenn der
+                  gestaltgewandelte Charakter ins Spiel kommt. Ein Spieler kann einen gestaltgewandelten Charakter erschöpfen, um ein Lied
+                  zu singen, wenn der Charakter, auf den er gelegt wurde, trocken war.
+         10.10.7. Ein gestaltgewandelter Charakter behält jeglichen Schaden, der auf dem Charakter war, auf den er gelegt wurde.
+         10.10.8. Wenn ein gestaltgewandelter Charakter das Spiel verlässt, bewegen sich alle Karten in seinem Stapel (d. h. alle Karten
+                  unter ihm) in dieselbe Zone wie die gestaltgewandelte Charakterkarte, und die Karten gelten nicht mehr als in einem Stapel
+                  befindlich (siehe 5.1.7).
+         10.10.9. Das Schlüsselwort Gestaltwandel hat zwei Varianten: [Klassifizierung] Gestaltwandel und Universal Gestaltwandel. Bei diesen
+                  Varianten von Schlüsselwortfähigkeiten handelt es sich um Gestaltwandel-Fähigkeiten. Dies bedeutet, dass sie mit den
+                  folgenden Ausnahmen alle Regeln für das Gestaltwandel-Schlüsselwort befolgen.
+                10.10.9.1. [Klassifizierung] Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der die durch diese Fähigkeit
+                           angegebene [Klassifizierung] besitzt, kannst du diesen Charakter spielen, indem du seine Gestaltwandel
+                           Kosten anstelle der Tintenkosten bezahlst. Falls du dies tust, lege diese Karte auf einen anderen Charakter mit
+                           der angegebenen Klassifizierung, den du im Spiel hast.“ Der Standard-Erinnerungstext für [Klassifizierung]
+                           Gestaltwandel lautet: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner [Klassifizierung]
+                           auszuspielen.)“
+                10.10.9.2. Universal Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, kannst du diesen Charakter spielen,
+                           indem du seine Gestaltwandel-Kosten anstelle der Tintenkosten zahlst. Wenn du dies tust, lege diese Karte oben auf
+                           einen anderen Charakter, den du im Spiel hast.“ Der Standard-Erinnerungstext für Universal Gestaltwandel lautet
+                           „(Du kannst [Kosten zahlen], um diesen Charakter auf irgendeinen deiner Charaktere auszuspielen.)“
+
+
+
+
+disneylorcana.com
+©Disney                                                               34
+   10.11.Singen
+
+        10.11.1. Das Schlüsselwort Singen repräsentiert eine statische Fähigkeit, die beeinflusst, wie ein Charakter die alternativen Kosten
+                 bezahlen kann, um ein Lied zu singen. Singer N bedeutet: „Dieser Charakter kann {E}, um die alternativen Kosten einer
+                 Liedkarte zu bezahlen, als ob er statt seiner normalen Tintenkosten N kostet.“
+        10.11.2. Der standardmäßige Erinnerungstext für Singen ist: „(Die Kosten dieses Charakters gelten als N für das Singen von Liedern.)“
+        10.11.3. Dieser Charakter zählt nur als Kosten N, um Lieder mithilfe von singen kostenlos auszuspielen. Die Tintenkosten des
+                 Charakters ändern sich nicht.
+   10.12. Gemeinsam singen
+
+        10.12.1. Das Schlüsselwort Gemeinsam singen repräsentiert alternative Kosten, um eine Lied-Aktionskarte auszuspielen. Gemeinsam
                  singen N bedeutet: „Anstatt die Tintenkosten dieser Karte zu bezahlen, kannst du eine Anzahl deiner Charaktere oder
                  Charaktere deiner Teammitglieder mit Gesamt-Tintenkosten von N oder mehr,{E} , um diese Karte kostenlos auszuspielen.“
-        10.10.2. Der standardmäßige Erinnerungstext für Gemeinsam singen ist: „(Du kannst beliebig viele deiner Charaktere oder Charaktere
+        10.12.2. Der standardmäßige Erinnerungstext für Gemeinsam singen ist: „(Du kannst beliebig viele deiner Charaktere oder Charaktere
                  deiner Teammitglieder, die zusammen N oder mehr kosten, {E}, damit sie dieses Lied kostenlos singen.)“
-        10.10.3. Wenn ein Lied mit Gemeinsam Singen gesungen wird, werden die Tintenkosten eines oder mehrerer bereiter Charaktere
+        10.12.3. Wenn ein Lied mit Gemeinsam Singen gesungen wird, werden die Tintenkosten eines oder mehrerer bereiter Charaktere
                  addiert. Wenn die Summe den für „Gemeinsam singen“ angegebenen Kosten entspricht oder diese übersteigt, können die
                  Charaktere das Lied singen.
-        10.10.4. Wenn ein Charakter mit „Gemeinsam singen“ein Lied singt, treten alle auslösbaren Fähigkeiten mit der Bedingung „Jedes
+        10.12.4. Wenn ein Charakter mit „Gemeinsam singen“ein Lied singt, treten alle auslösbaren Fähigkeiten mit der Bedingung „Jedes
                  Mal, wenn dieser Charakter ein Lied singt“ ein, wenn die Auslösebedingung erfüllt ist.
-   10.11. Unterstützen
+   10.13. Unterstützen
 
-        10.11.1. Das Schlüsselwort Unterstützen repräsentiert eine auslösbare Fähigkeit. Unterstützen bedeutet: „Jedes Mal, wenn dieser
+        10.13.1. Das Schlüsselwort Unterstützen repräsentiert eine auslösbare Fähigkeit. Unterstützen bedeutet: „Jedes Mal, wenn dieser
                  Charakter erkundet, kannst du für die Dauer dieses Zuges die {S}en ausgewählten Charakter hinzufügen.“
-        10.11.2. Der standardmäßige Erinnerungstext für Unterstützen ist: „(Jedes Mal, wenn dieser Charakter erkundet, darfst du seine {S} in
+        10.13.2. Der standardmäßige Erinnerungstext für Unterstützen ist: „(Jedes Mal, wenn dieser Charakter erkundet, darfst du seine {S} in
                  diesem Zug zur {S} eines anderen Charakters deiner Wahl addieren.)“
-   10.12. Verschwinden
+   10.14. Verschwinden
 
-        10.12.1. Das Schlüsselwort „Verschwinden“ stellt eine auslösbare Fähigkeit dar. Verschwinden bedeutet „Wenn dieser Charakter von
+        10.14.1. Das Schlüsselwort „Verschwinden“ stellt eine auslösbare Fähigkeit dar. Verschwinden bedeutet „Wenn dieser Charakter von
                  einer gegnerischen Aktion ausgewählt wird, verbanne diesen Charakter.“
-        10.12.2. Der Standard-Erinnerungstext für Verschwinden lautet: „(Jedes Mal, wenn dieser Charakter von einer Aktion einer
+        10.14.2. Der Standard-Erinnerungstext für Verschwinden lautet: „(Jedes Mal, wenn dieser Charakter von einer Aktion einer
                  gegnerischen Person ausgewählt wird, verbanne ihn.)“
-        10.12.3. Die durch Verschwinden ausgelöste Fähigkeit wird ausgeführt, nachdem der Effekt der Aktion komplett ausgeführt wurde.
-                 Wenn sich der Charakter in eine andere Zone bewegt hat, bevor die ausgelöste Fähigkeit ausgeführt wird, wird sie ohne Effekt
-                 ausgeführt.
-   10.13. Behütet
+        10.14.3. Die durch Verschwinden ausgelöste Fähigkeit wird ausgeführt, nachdem der Effekt der Aktion komplett ausgeführt wurde. Wenn
+                 sich der Charakter in eine andere Zone bewegt hat, bevor die ausgelöste Fähigkeit ausgeführt wird, wird sie ohne Effekt ausgeführt.
+   10.15. Behütet
 
-        10.13.1. Das Schlüsselwort Behütet repräsentiert eine statische Fähigkeit. Behütet bedeutet: „Deine Gegner können diese Karte nicht
+        10.15.1. Das Schlüsselwort Behütet repräsentiert eine statische Fähigkeit. Behütet bedeutet: „Deine Gegner können diese Karte nicht
                  auswählen, wenn sie einen Effekt ausführen.“
-        10.13.2. Der Standard Erinnerungstext für Behütet lautet: „(Gegnerische Mitspielende können diesen Charakter nicht auswählen,außer
+        10.15.2. Der Standard Erinnerungstext für Behütet lautet: „(Gegnerische Mitspielende können diesen Charakter nicht auswählen,außer
                  um ihn herauszufordern.)“
-        10.13.3. Effekte, die nicht auswählen, betreffen einen Charakter mit Behütetweiterhin.
-
-
-
+        10.15.3. Effekte, die nicht auswählen, betreffen einen Charakter mit Behütetweiterhin.
 
 disneylorcana.com
-©Disney                                                               33
+©Disney                                                                 35
 GLOSSAR
 Ablagestapel
 Der einzige offene Stapel, auf den Aktionen gelegt werden, nachdem sie ausgeführt wurden, und auf den jene Karten gelegt werden, welche aus
-dem Spiel verbannt oder abgeworfen wurden. Wenn ein Spieler eine Karte aus seiner Hand auf seinen Ablagestapel legt, gilt dies als abwerfen
-der Karte. Der Ablagestapel wird als öffentliche Zone betrachtet. 2. abwerfen Wenn ein Spieler 1 oder mehrere Karten aus seiner Hand wählt und
-sie auf seinen Ablagestapel legt. Ein Spieler kann nur aus seiner Hand abwerfen.
+dem Spiel verbannt oder abgeworfen wurden. Wenn ein Spieler eine Karte aus seiner Hand auf seinen Ablagestapel legt, gilt dies als abwerfen der
+Karte. Der Ablagestapel wird als öffentliche Zone betrachtet. 2. abwerfen Wenn ein Spieler 1 oder mehrere Karten aus seiner Hand wählt und sie
+auf seinen Ablagestapel legt. Ein Spieler kann nur aus seiner Hand abwerfen.
 Aktion
 Eine Art von Karte, die einem Spieler einen sofortigen, einmaligen Vorteil verschafft. Wenn eine Aktion gespielt wird, führt der Spieler ihre
 Effekte aus und legt sie danach auf seinen Ablagestapel. Aktionen betreten niemals die Spielzone.
@@ -1464,12 +1556,12 @@ Eine Fähigkeit, die bewirkt, dass dem Beutel ein Effekt hinzugefügt wird, wenn
 beginnen mit „Wenn“, „Jedes mal, wenn“, „Zu Beginn“ oder „Am Ende“ und beschreiben den Spielzustand, der die Fähigkeit auslöst, sowie den
 Effekt der Fähigkeit. Wenn eine Fähigkeit ausgelöst wird, wird ihr Effekt in den Beutel gelegt, um von dort ausgeführt zu werden.
 Bereit
-Eine Karte, die in aufrechter Position (bereit) gespielt wird, oder durch einen Effekt oder eine Regel aufrecht gedreht (bereit gemacht) wird.
-Jeder Spieler macht im bereit machen Schritt seines Zuges alle seine erschöpften Karten bereit.
+Eine Karte, die in aufrechter Position (bereit) gespielt wird, oder durch einen Effekt oder eine Regel aufrecht gedreht (bereit gemacht) wird. Jeder
+Spieler macht im bereit machen Schritt seines Zuges alle seine erschöpften Karten bereit.
 Bereit machen Schritt
 Der erste Schritt in der 1. Phase eines Zuges, in der Effekte, die „während deines Zuges“ gelten, auslösen und der aktive Spieler alle seine Karten
-im Spiel bereit macht. Effekte, die „zu Beginn deines Zuges“ und „zu Beginn deines nächsten Zuges“ enden würden, enden. Effekte, die zu
-Beginn deines Zuges auslösen, werden ausgelöst. Sie warten jedoch bis zum überprüfen Schritt, um mit dem Ausführen zu beginnen.
+im Spiel bereit macht. Effekte, die „zu Beginn deines Zuges“ und „zu Beginn deines nächsten Zuges“ enden würden, enden. Effekte, die zu Beginn
+deines Zuges auslösen, werden ausgelöst. Sie warten jedoch bis zum überprüfen Schritt, um mit dem Ausführen zu beginnen.
 beschädigt/unbeschädigt
 Ein Charakter oder Ort mit 1 oder mehr Schaden wird als beschädigt betrachtet. Ein Charakter oder ein Ort, der keinen Schaden aufweist, gilt als unbeschädigt.
 Beutel
@@ -1484,7 +1576,7 @@ kann mehrere Kopien eines Charakters mit demselben Namen in seinem Deck haben, a
 
 
 disneylorcana.com
-©Disney                                                                      34
+©Disney                                                                       36
 Deck
 Ein Satz von Karten, den ein Spieler im Spiel verwendet. Die Parameter des Decks werden durch das gespielte Format definiert. Beispielsweise
 besteht ein Deck im Core Constructed aus 60 oder mehr Karten, bis zu zwei Tintenfarben und bis zu 4 Karten mit demselben Namen und Version
@@ -1526,7 +1618,7 @@ Ein Zug in einigen Mehrspieler-Spielen in welchem alle Spieler im selben Team gl
 Fähigkeiten und Effekte werden vom Team als Ganzes in den Beutel gelegt, und das Team wählt gemeinsam die Reihenfolge, in der sie ausgeführt werden.
 
 disneylorcana.com
-©Disney                                                                      35
+©Disney                                                                       37
 Hand
 Die private Zone, in der die von einem Spieler gezogenen Karten aufbewahrt werden.
 Herausfordernder/herausgeforderter Charakter
@@ -1537,7 +1629,13 @@ Herausfordernder/herausgeforderter Spieler
 Ein herausfordernder Spieler ist der Spieler, der den herausfordernden Charakter bestimmt hat. Ein herausgeforderter Spieler ist der Spieler,
 dessen Charakter herausgefordert wird.
 Im Spiel
-Ein Begriff, der verwendet wird, um eine Karte zu beschreiben, die sich in der Spielzone befindet.
+Eine Karte in der Spielzone, auf der keine anderen Karten liegen. Wenn eine Karte unter einer anderen Karte liegt, gilt sie nicht als im Spiel.
+Wenn eine Karte verdeckt ist, unter einer anderen Karte liegt oder sich in einer anderen Zone als der Spielzone befindet, gilt sie nicht als im Spiel
+befindlich.
+in einem Stapel
+Zwei oder mehr Karten, die sich im Spiel befinden und in einem einzigen Stapel liegen, bestehend aus einer obersten Karte und allen Karten unter
+ihr. Wenn die oberste Karte in einem Stapel in eine bestimmte Zone bewegt wird, bewegen sich alle Karten unter dieser Karte in dieselbe Zone,
+und diese Karten gelten nicht mehr als In einem Stapel.
 Kartentyp
 Der Typ, den jede Karte im Spiel hat, z. B. Charakter, Aktion, Gegenstand oder Ort. Der Typ einer Karte bestimmt die Regeln, wie sie gespielt wird.
 Klassifizierung
@@ -1560,18 +1658,24 @@ Lied
 Eine Art von Aktion, welche durch das bezahlen der Tintenkosten oder durch das Erschöpfen von Charakteren bezahlt werden kann.
 Mehrspieler-Spiel
 Mehrspieler-Spiele werden mit 3 oder mehr Spielern gespielt.
-Mischen
-Das zufällige Anordnen der Karten in einem Deck.
-Name
-Der Name einer Karte erscheint in großer Schrift über der Klassifizierungszeile. Bei Aktionen, Gegenständen und Orten befindet sich der Name
-in der Mitte der Karte. Bei Charakteren befindet sich der Name auf der linken Seite der Karte, gegenüber ihrer {S} und {W}. Der Name und die
-Version eines Charakters oder eines Ortes bilden zusammen den vollständigen Namen der Karte.
+
 
 
 disneylorcana.com
-©Disney                                                                      36
+©Disney                                                                       38
+Mischen
+Das zufällige Anordnen der Karten in einem Deck.
+Name
+Der Name einer Karte erscheint in großer Schrift über der Klassifizierungszeile. Bei Aktionen, Gegenständen und Orten befindet sich der Name in
+der Mitte der Karte. Bei Charakteren befindet sich der Name auf der linken Seite der Karte, gegenüber ihrer {S} und {W}. Der Name und die Version
+eines Charakters oder eines Ortes bilden zusammen den vollständigen Namen der Karte.
+oberste
+Wenn eine Karte eine oder mehrere Karten unter sich hat.
 oberste Karte
 Eine Karte, die oben auf allen anderen Karten eines Stapels liegt.
+offen
+Eine Karte im Spielbereich, deren Rückseite nach unten zur Spielfläche zeigt und deren Vorderseite zu den Spielern zeigt. Eine aufgedeckte Karte
+ist öffentlich bekannt und kann von jedem Spieler jederzeit angesehen werden.
 Öffentliche Zone
 Eine Zone, in der alle Karten öffentlich bekannt sind. Jeder Spieler kann sich die Karten in jeder öffentlichen Zone jederzeit ansehen oder zählen.
 Ort
@@ -1597,10 +1701,16 @@ Private Zone
 Eine Zone, in der die Karten nicht öffentlich bekannt sind. Die Spieler dürfen sie nicht ansehen, es sei denn, sie werden durch eine Spielregel (z.
 B. das Ziehen einer Karte) oder einen Effekt dazu aufgefordert. Die Spieler können jederzeit die Anzahl der Karten in einer privaten Zone zählen.
 Solange eine private Zone offen liegt, gilt sie nicht als privat.
+
+
+
+
+disneylorcana.com
+©Disney                                                                  39
 Schaden
 Schaden an einem Charakter oder einem Ort wird durch Schadensmarker dargestellt und wird gegen seine Willenskraft {W} berechnet. Schaden
-wird durch Charaktere in einer Herausforderung und durch einige Effekte zugefügt. Wenn eine Karte mit Schaden aus dem Spiel in eine
-beliebige andere Zone bewegt wird, ist der Schaden nicht mehr vorhanden.
+wird durch Charaktere in einer Herausforderung und durch einige Effekte zugefügt. Wenn eine Karte mit Schaden aus dem Spiel in eine beliebige
+andere Zone bewegt wird, ist der Schaden nicht mehr vorhanden.
 Schadensmarker
 Ein Marker, der auf eine Charakter- oder Ortskarte gelegt wird, um anzuzeigen, wie viel Schaden sie hat. Ein einzelner Schadensmarker stellt
 normalerweise 1 Schaden dar; jeder Schadensmarker, der mehr als 1 Schaden darstellen soll, zählt als separater Schadensmarker für jeden 1
@@ -1609,12 +1719,6 @@ diesem Charakter oder diesem Ort zugefügt wird, und wird nicht von Modifikation
 Schlüsselwort-Fähigkeit
 Eine Fähigkeit oder mehrere Fähigkeiten, die durch einen kurzen, fettgedruckten Namen repräsentiert werden, der überall gleich ist, wo die
 Fähigkeit erscheint. Beispiele für Schlüsselwort-Fähigkeiten sind Beschützen, Herausfordern, Wendig, Impulsiv und Rasant.
-
-
-
-
-disneylorcana.com
-©Disney                                                                 37
 Spielen
 Der Akt des Ausspielens einer Karte. Eine Karte kann nur aus der Hand eines Spielers gespielt werden. Handelt es sich bei der ausgespielten Karte um
 eine Aktion, legt der Spieler die Karte offen hin, bezahlt ihre Kosten, führt ihre Effekte aus und legt sie danach auf den Ablagestapel. Wenn es sich bei der
@@ -1622,9 +1726,9 @@ ausgespielten Karte um einen Charakter, einen Gegenstand oder einen Ort handelt,
 Spieler
 Jeder, der das Spiel spielt.
 Spielstatusprüfung
-Die Überprüfung, die das Spiel durchführt, um eine Reihe von Bedingungen und erforderlichen Aktionen zu überprüfen, sobald eine oder
-mehrere dieser Bedingungen erfüllt sind. Diese Überprüfung erfolgt am Ende eines Schritts, nachdem eine Aktion oder Fähigkeit vollständig
-ausgeführt wurde, und nachdem jeder Effekt im Beutel vollständig ausgeführt wurde (siehe 1.9, „Spielstatusprüfung“).
+Die Überprüfung, die das Spiel durchführt, um eine Reihe von Bedingungen und erforderlichen Aktionen zu überprüfen, sobald eine oder mehrere
+dieser Bedingungen erfüllt sind. Diese Überprüfung erfolgt am Ende eines Schritts, nachdem eine Aktion oder Fähigkeit vollständig ausgeführt
+wurde, und nachdem jeder Effekt im Beutel vollständig ausgeführt wurde (siehe 1.9, „Spielstatusprüfung“).
 Stapel
 Substantiv. Eine Gruppe von Karten, die entsteht, wenn eine Karte auf eine oder mehrere andere Karten im Spiel gelegt wird. Solche Karten
 gelten nur dann als Stapel, solange sie im Spiel sind. Wenn die oberste Karte eines Stapels das Spiel verlässt, werden alle Karten des Stapels in
@@ -1638,11 +1742,15 @@ Effekten Bezug genommen werden.
 Starthand
 Die ersten 7 Karten, die ein Spieler zu Beginn des Spiels zieht, bevor er entscheidet, ob er Karten aus seiner Hand austauscht.
 Starthand austauschen
-Eine optionale Wahl, die zu Beginn des Spiels getroffen wird, nachdem jeder Spieler seine Starthand gezogen hat. Jeder Spieler darf eine
-beliebige Anzahl dieser Karten nehmen, sie unter sein Deck legen, ohne sie vorzuzeigen, danach neu ziehen, bis er 7 Karten auf der Hand hat und
-schließlich das Deck erneut mischen.
+Eine optionale Wahl, die zu Beginn des Spiels getroffen wird, nachdem jeder Spieler seine Starthand gezogen hat. Jeder Spieler darf eine beliebige
+Anzahl dieser Karten nehmen, sie unter sein Deck legen, ohne sie vorzuzeigen, danach neu ziehen, bis er 7 Karten auf der Hand hat und schließlich
+das Deck erneut mischen.
 Startspieler
 Der Spieler, der als erster an der Reihe ist, wird vor Spielbeginn zufällig bestimmt. Der Startspieler zieht in seinem ersten Zug nicht.
+
+
+disneylorcana.com
+©Disney                                                                       40
 Statische Fähigkeit
 Statische Fähigkeiten sind Fähigkeiten, welche die Eigenschaften einer Karte, einer Spielregel oder eines Spielzustands verändern können.
 Statische Fähigkeiten sind Effekte, die ständig vorhanden sind, entweder für eine bestimmte Zeit oder so lange, wie die Karte, die den Effekt
@@ -1654,12 +1762,6 @@ Tintenfarbe
 Die Tintenfarbe einer Karte wird durch das Tintenfarbensymbol am linken Rand der Karte, direkt über dem Textfeld, angezeigt. Die sechs
 Tintenfarben sind Bernstein, Amethyst, Smaragd, Rubin, Saphir und Stahl, und jede hat ihr eigenes Symbol auf den Karten. Ein Deck kann bis zu
 zwei Tintenfarben enthalten. Ein Deck kann nicht mehr als zwei Tintenfarben enthalten.
-
-
-
-
-disneylorcana.com
-©Disney                                                                     38
 Tintenvorrat
 Die private Zone, in der ein Spieler seine Tintenkarten verdeckt ablegt. Jede Karte im Tintenvorrat eines Spielers steht für 1 {I}, egal was auf der
 Vorderseite der Karte steht, und kein Spieler darf sich die Vorderseiten der Karten im Tintenvorrat ansehen.
@@ -1667,10 +1769,10 @@ Tintenvorrat-Symbol {C}
 Das kreisförmige Symbol um die Kosten einer Karte zeigt an, dass diese Karte in den Tintenvorrat des Spielers gelegt und als Tinte verwendet
 werden darf.
 Trocknen
-Ein Charakter, der während dem aktuellen Zug seines Spielers ins Spiel kommt, gilt als trocknend. Trocknende Charaktere können nicht
-erkunden, herausfordern oder {E} um Kosten zu bezahlen. Nicht-aktivierbare Fähigkeiten von trocknenden Charakteren, einschließlich
-Fähigkeiten, die auslösen „Wenn du diesen Charakter ausspielst“, sind auch wirksam, während der Charakter trocknet. Trocknende Charaktere
-können ganz normal von Karteneffekten betroffen sein.
+Ein Charakter, der während dem aktuellen Zug seines Spielers ins Spiel kommt, gilt als trocknend. Trocknende Charaktere können nicht erkunden,
+herausfordern oder {E} um Kosten zu bezahlen. Nicht-aktivierbare Fähigkeiten von trocknenden Charakteren, einschließlich Fähigkeiten, die
+auslösen „Wenn du diesen Charakter ausspielst“, sind auch wirksam, während der Charakter trocknet. Trocknende Charaktere können ganz normal
+von Karteneffekten betroffen sein.
 Überprüfen Schritt
 Der zweite Schritt der 1. Phase des Spielzugs eines Spielers, in dem Charaktere, die sich im Spiel befinden, trocknen und von da an erkunden,
 herausfordern oder {E} Kosten für aktivierbare Fähigkeiten oder Liedkarten bezahlen können. In diesem Schritt sammelt der aktive Spieler
@@ -1678,9 +1780,22 @@ Legenden von Orten, die er im Spiel hat und die einen Legendenwert {L} haben. Ef
 die während des bereit machen Schritts ausgelöst wurden, werden in den Beutel gelegt und anschließend ausgeführt.
 Überspringen
 Nichts tun, anstatt einen Schritt oder eine Phase des Spiels auszuführen.
+unter
+Wenn eine Karte eine oder mehrere Karten auf sich hat. Eine Karte, die unter einer anderen Karte und in der Spielzone liegt, gilt nicht als im Spiel.
+Jeder Spieler kann sich jederzeit eine aufgedeckte Karte ansehen, die unter einer anderen Karte liegt. Kein Spieler darf zu irgendeinem Zeitpunkt
+die Vorderseite einer verdeckten Karte betrachten, die unter einer anderen Karte liegt, auch nicht seine eigene.
 Verbannt
-Eine Karte wird auf den Ablagestapel eines Spielers gelegt, nachdem sie verbannt wurde. Eine Karte kann als Folge von Fähigkeiten oder
-Effekten verbannt werden, oder wenn die Schadensmarker auf ihr ihre Willenskraft {W} erreichen oder übersteigen.
+Eine Karte wird auf den Ablagestapel eines Spielers gelegt, nachdem sie verbannt wurde. Eine Karte kann als Folge von Fähigkeiten oder Effekten
+verbannt werden, oder wenn die Schadensmarker auf ihr ihre Willenskraft {W} erreichen oder übersteigen.
+verdeckt
+Eine Karte im Spielbereich, deren Rückseite zu den Spielern zeigt und deren Vorderseite nach unten zur Spielfläche zeigt. Kein Spieler darf zu
+irgendeinem Zeitpunkt die Vorderseite einer verdeckten Karte betrachten, die unter einer anderen Karte liegt, auch nicht seine eigene. Eine
+verdeckte Karte gilt niemals als im Spiel.
+
+
+
+disneylorcana.com
+©Disney                                                                   41
 Version
 Eine Zusatz zum Namen, der dazu dient bei der Zusammenstellung eines Decks Karten mit demselben Namen zu unterscheiden. Der Name eines
 Charakters oder eines Ortes und die Version bilden zusammen den vollständigen Namen der Karte.
@@ -1699,25 +1814,144 @@ Zone
 Ein physischer oder nicht-physischer Raum, der für Spielzwecke genutzt wird. Ob eine Zone öffentlich oder privat ist, bestimmt, welche
 Informationen über die dortigen Karten einsehbar sind. Die Zonen eines jeden Spielers sind: Deck, Hand, Spiel, Tintenvorrat, Ablagestapel und
 Beutel. Alle Zonen werden als voneinander getrennt betrachtet.
-
-
-
-disneylorcana.com
-©Disney                                                                  39
 Zug
 Die Zeiteinheit, die jeder Spieler benötigt, um die drei Phasen eines Zuges abzuschließen: 1. Vorbereiten, 2. Karten spielen und einsetzen und 3. Passen.
 Bist du an der Reihe, führst du deinen kompletten Zug mit allen Phasen aus und passt anschließend. Erst danach ist die nächste Person an der Reihe.
 Zugaktion
-Eine Aktion, die das Spiel einem Spieler in der 2. Phase seines Zuges erlaubt. Ein Spieler kann in seinem Zug eine beliebige Anzahl von
-Zugaktionen in beliebiger Reihenfolge durchführen. Zu den Zugaktionen gehören das Ablegen einer Karte im Tintenvorrat, das Ausspielen einer
-Karte, das Erkunden, das Herausfordern, das Bewegen eines Charakters an einen Ort und das Benutzen aktivierbarer Fähigkeiten.
+Eine Aktion, die das Spiel einem Spieler in der 2. Phase seines Zuges erlaubt. Ein Spieler kann in seinem Zug eine beliebige Anzahl von Zugaktionen
+in beliebiger Reihenfolge durchführen. Zu den Zugaktionen gehören das Ablegen einer Karte im Tintenvorrat, das Ausspielen einer Karte, das
+Erkunden, das Herausfordern, das Bewegen eines Charakters an einen Ort und das Benutzen aktivierbarer Fähigkeiten.
 
 
 
 
 disneylorcana.com
-©Disney                                                                   40
+©Disney                                                                    42
 UPDATE-ZUSAMMENFASSUNG
+31. Oktober 2025
+Zur Vorbereitung auf die Veröffentlichung von Geflüster aus der Tiefe wurden die folgenden Aktualisierungen an den Disney Lorcana TCG-Umfassenden
+Regeln vorgenommen.
+    ◊ Regeln hinzugefügt: Bedingungen
+   ◊    Neue Regeln: Alamiert Schlüsselwort-Fähigkeit
+   ◊    Neue Regeln: Stärken Schlüsselwort-Fähigkeit
+
+Bedingungen
+In Abschnitt 5.1 wurde eine Formulierung hinzugefügt, um alle Bedingungen, die auf Karten in verschiedenen Zonen zutreffen können, genauer zu
+identifizieren und zu definieren.
+5. BEDINGUNGEN
+  5.1. Allgemeines
+    5.1.1. Bereit machen – Wenn eine Karte bereit gemacht wird, wird sie aufrecht gedreht und gilt als bereite Karte. Charaktere und Gegenstände
+           kommen bereit ins Spiel.
+    5.1.2. Erschöpft - Wenn eine Karte erschöpft wird, wird sie zur Seite gedreht. Ein Spieler kann alle Fähigkeiten einer erschöpften Karte nutzen,
+           die nicht {E} als Teil der Kosten erfordern. Ein Spieler kann keine der Fähigkeiten einer erschöpften Karte nutzen, die {E} als Teil der Kosten
+           erfordern.
+    5.1.3. Beschädigt - Eine Karte, die mindestens 1 Schaden hat, gilt als beschädigt.
+    5.1.4. Unbeschädigt – Eine Karte, die keinen Schaden hat, gilt als unbeschädigt.
+    5.1.5. Unter – Eine Karte, auf der eine oder mehrere Karten liegen, gilt als unter der obersten Karte eines Stapels (siehe 5.1.7). Ein Spieler kann
+           keine Karte wählen, die unter der oberste Karte (siehe 5.1.6) in einem Stapel liegt. Eine Karte, die unter einer anderen Karte und in der
+           Spielzone liegt, gilt nicht als im Spiel. Jeder Spieler kann sich jederzeit eine aufgedeckte Karte ansehen, die unter einer anderen Karte liegt.
+           Kein Spieler darf zu irgendeinem Zeitpunkt die Vorderseite einer verdeckten Karte betrachten, die unter einer anderen Karte liegt, auch nicht
+           seine eigene.
+    5.1.6. Oberste – Eine Karte, unter der sich eine oder mehrere Karten befinden, gilt als oberste aller Karten darunter. Eine Karte, die auf einer oder
+           mehreren Karten liegt, erhält nicht den Text der darunter liegenden Karten. Die Karte, die oben auf allen anderen Karten eines Stapels liegt,
+           wird als oberste Karte. bezeichnet.
+    5.1.7. In einem Stapel – Wenn eine Karte auf oder unter einer oder mehreren anderen Karten im Spiel liegt, gelten sie und alle Karten unter oder
+           auf ihr als in einem Stapel. Diese Karten gelten nur dann als Stapel, wenn sie im Spiel sind. Wenn die oberste Karte in einem Stapel das Spiel
+           verlässt, bewegen sich alle Karten im Stapel in dieselbe Zone wie die oberste Karte und gelten nicht mehr als in einem Stapel befindlich.
+    5.1.8. Im Spiel – Eine Karte, die offen in der Spielzone liegt und auf der keine Karten liegen, gilt als im Spiel. Wenn eine Karte verdeckt ist, unter
+           einer anderen Karte liegt oder sich in einer anderen Zone als der Spielzone befindet, gilt sie nicht als im Spiel befindlich.
+    5.1.9. Offen – Eine Karte im Spielbereich, deren Rückseite (d. h. die Seite mit dem Illuminarium-Symbol) nach unten zur Spielfläche zeigt und deren
+           Vorderseite (d. h. die Seite mit den Kosten und Klassifizierungen der Karte) nach oben zu den Spielern zeigt, gilt als offen. Wenn eine Karte offen
+           unter eine andere Karte gelegt wird oder eine andere Karte offen auf sie gelegt wird, gilt sie weiterhin als offen. Eine aufgedeckte Karte ist allen
+           Spielern bekannt. Jeder Spieler kann sich eine offene Karte jederzeit ansehen, selbst wenn die offene Karte unter einer anderen Karte liegt.
+
+
+
+
+disneylorcana.com
+©Disney                                                                      43
+     5.1.10. Mit der Rückseite nach oben – Eine Karte im Spielbereich, deren Rückseite (d. h. die Seite mit dem Luminarium-Symbol) zu den Spielern zeigt
+             und deren Vorderseite (d. h. die Seite mit den Kosten und Klassifizierungen der Karte) nach unten zur Spielfläche zeigt, gilt als verdeckt. Kein
+             Spieler darf zu irgendeinem Zeitpunkt die Vorderseite einer verdeckten Karte betrachten, die unter einer anderen Karte liegt, auch nicht seine
+             eigene. Eine verdeckte Karte gilt niemals als im Spiel.
+     5.1.11. Trocknend – Ein Charakter, der während des Zuges seines Spielers ins Spiel gekommen ist, gilt als trocknend. Ein trocknender Charakter kann
+             nicht erkunden, kann nicht als herausfordernder Charakter deklariert werden und kann nicht {E}, um Kosten zu bezahlen.
+     5.1.12. Trocken – Ein Charakter, der seit Beginn des Zuges seines Spielers im Spiel ist, gilt als trocken. Ein trockener Charakter kann erkunden und
+             kann als herausfordernder Charakter deklariert werden. Gegenstände und trockene Charaktere können {E}, um Kosten zu bezahlen.
+     5.1.13. Eine Karte in jeder Zone außer der Hand eines Spielers kann die unten beschriebenen Zustände haben. Eine Karte kann mehrere Zustände
+             gleichzeitig haben.
+            5.1.13.1. Ein Charakter kommt mit den Zuständen „bereit“, „unbeschädigt“, „im Spiel“, „aufgedeckt“ und „trocknend“ ins Spiel. Ein
+                      Charakter, der im Spiel ist, kann jeden der in den Abschnitten 5.1.1 bis 5.1.12 aufgeführten Zustände haben, außer „unter“ und
+                      „verdeckt“.
+            5.1.13.2. Ein Gegenstand kommt mit den Bedingungen „bereit“, „im Spiel“ und „offen“ ins Spiel. Ein Gegenstand im Spiel darf nicht die
+                      Zustände „beschädigt“, „unbeschädigt“, „unter“ oder „verdeckt“ aufweisen.
+            5.1.13.3. Ein Ort kommt mit den Bedingungen „unbeschädigt“, „im Spiel“ und „offen“ ins Spiel. Ein Ort, der im Spiel ist, kann nicht die
+                      Zustände „bereit“, „erschöpft“, „unter“ oder „verdeckt“ haben.
+            5.1.13.4. Eine Karte im Tintenvorrat eines Spielers kann nur die Zustände “bereit”, “erschöpft” und “verdeckt” haben.
+            5.1.13.5. Eine Karte im Deck eines Spielers kann nur den Zustand “verdeckt” haben.
+            5.1.13.6. Eine Karte im Ablagestapel eines Spielers kann nur den Zustand „Aufgedeckt“ haben.
+            5.1.13.7. Eine Karte in der Hand eines Spielers darf keinen Zustand haben.
+     5.1.14. Wenn ein Zustand aus irgendeinem Grund auf eine Karte angewendet oder von ihr entfernt wird, wird der Zustand sofort angewendet oder
+             entfernt.
+		 Beispiel A: Der aktive Spieler entscheidet sich, mit einem bereiten Fabius – Stimme der Vernunft zu erkunden. Wenn sie Fabius zum Erkunden
+   erschöpfen, wird der Zustand “bereit” sofort entfernt und der Zustand “erschöpft” sofort angewendet.
+		 Beispiel B: Der aktive Spieler entscheidet sich, eine Naseweis – Gigantische Fee mithilfe ihrer Gestaltwandel-Fähigkeit auf eine Naseweis –
+   Winzige Taktikerin zu spielen, die “bereit”, “unbeschädigt”, “im Spiel”, “offen” und “trocken” ist. In diesem Moment werden alle Zustände außer
+   “offen” sofort von Naseweis – Winzige Taktikerin entfernt und die Zustände “unter” und “in einem Stapel” sofort angewendet. Die Zustände
+   „bereit“, „unbeschädigt“, „oben“, „in einem Stapel“, „im Spiel“, „offen“ und „trocken“ werden sofort auf Naseweis – Gigantische Fee angewendet.
+   Die Zustände “bereit”, “unbeschädigt” und “trocken” werden sofort auf die gestaltgewandelte Naseweis angewendet, weil der Charakter, auf den
+   sie gelegt wurde, diese Zustände bereits hatte. Siehe 10.10 „Gestaltwandel“ für weitere Informationen.
+
+Alamiert Schlüsselwort-Fähigkeit
+Die technische Definition und der Standard-Erinnerungstext für die Alamiert Schlüsselwort-Fähigkeit wurden hinzugefügt.
+     10.2. Alarmiert
+            10.2.1. Das Schlüsselwort Alarmiert steht für eine statische Fähigkeit. Alarmiert bedeutet: „Dieser Charakter ignoriert die
+                    Herausforderungsbeschränkung von Wendig.“
+            10.2.2. Der Standard-Erinnerungstext für Alarmiert lautet: „(Dieser Charakter kann herausfordern, als hätte er Wendig.)“
+            10.2.3. Ein Charakter erhält nicht Wendig, nur weil er die Schlüsselwort-Fähigkeit Alarmiert besitzt. Sie können Wendig dennoch durch eine
+                    andere Fähigkeit oder einen anderen Effekt erhalten.
+
+
+disneylorcana.com
+©Disney                                                                      44
+Stärken Schlüsselwort-Fähigkeit
+Die technische Definition und der Standard-Erinnerungstext für die Stärken Schlüsselwort-Fähigkeit wurden hinzugefügt.
+     10.4. Stärken
+            10.4.1. Das Schlüsselwort Stärken steht für eine aktivierte Fähigkeit mit einer bestimmten Dauer. Stärken N {I} bedeutet: „Einmal während
+                    deines Zuges kannst du N {I} bezahlen, um die oberste Karte deines Decks verdeckt unter diese Karte zu legen.“
+            10.4.2. Der Standard-Erinnerungstext für Stärken lautet: „(Einmal während deines Zuges kannst du N {I} bezahlen, um die oberste Karte
+                    deines Decks verdeckt unter diesen Charakter zu legen.)“
+            10.4.3. Kein Spieler darf sich jemals die Vorderseite einer Karte ansehen, die verdeckt unter eine andere Karte gelegt wurde – auch nicht
+                    die eigene.
+            10.4.4. Wenn eine Karte unter einer anderen Karte liegt, gilt sie nicht als im Spiel. Eine Karte mit Stärken unter eine andere Karte zu legen,
+                    gilt nicht als Ausspielen dieser Karte.
+
+Allgemeine Aktualisierungen
+    ◊ 6.1.2.2. Folgende Klassifizierungen wurden hinzugefügt: Koloss, Gargoyle, Geist, Honig und Geflüster.
+   ◊    7.7.8. Eine Regel wurde hinzugefügt, um klarzustellen, dass mehrere Instanzen desselben Ersatz-Effekts nicht auf dasselbe Ereignis angewendet
+        werden können.
+   ◊    8.2.4.–8.2.4.1. Regeln hinzugefügt, die beschreiben, wie ein oder mehrere Stapel Karten bewegt werden, wenn Karten in beliebiger Reihenfolge
+        auf die oberste oder unterste Position eines Spieler-Decks gelegt werden.
+   ◊    10.10.3–10.10.6. Die Formulierung wurde angepasst, um die Bedingungen zu verdeutlichen, die ein Charakter mit Gestaltwandel hat, wenn er
+        oberste auf einen anderen Charakter gelegt wird.
+
+Quality-of-Life-Aktualisierungen
+   ◊ 8.5.2. Formulierung geändert, um sich stärker am Kartentext zu orientieren.
+
+Glossar-Updates
+   ◊ verdeckt: Hinzugefügt.
+   ◊    aufgedeckt: Hinzugefügt.
+   ◊    in einem Stapel: Hinzugefügt.
+   ◊    im Spiel: Geändert.
+   ◊    oberste: Hinzugefügt.
+   ◊    unter: Hinzugefügt.
+
+
+
+
+disneylorcana.com
+©Disney                                                                    45
+ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
 22. August 2025
 Zur Vorbereitung auf die Veröffentlichung von Mythenwurden die folgenden Aktualisierungen an den umfassenden Regeln für das Disney Lorcana TCG
 vorgenommen.
@@ -1736,7 +1970,7 @@ Glossar-Aktualisierungen
 
 
 disneylorcana.com
-©Disney                                                                     41
+©Disney                                                                     46
 ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
 27. Mai 2025
 Zur Vorbereitung auf die Veröffentlichung von Domäne von Dschafar wurden die folgenden Aktualisierungen an dem Umfassenden Regelwerk von
@@ -1775,16 +2009,13 @@ Die folgende Formulierung wurde zu Abschnitt 7.7 hinzugefügt.
            ursprüngliche Ereignis ausgelöst worden wären, sehen es nicht und werden daher nicht ausgelöst.
     7.7.6. Ein Effekt kann nur durch einen Ersatzeffekt ersetzt werden. Sind mehrere Ersatzeffekte für denselben Effekt vorhanden, muss sich der
            Spieler, welcher den ursprünglichen Effekt benutzt hat, für einen der Ersatzeffekte entscheiden.
-
-
-
+    7.7.7. Ein Effekt, der einen Schritt oder eine Phase des Spiels überspringt, ist ein Ersatzeffekt, der diesen Schritt oder diese Phase durch nichts
+           ersetzt. „[Schritt/Phase] überspringen“ bedeutet dasselbe wie: „Falls ein Spieler den [Schritt/die Phase] ausführen würde, geschieht
+           stattdessen nichts.“ Wenn ein Effekt einen Schritt oder eine Phase überspringt, findet kein Teil dieses Schritts oder dieser Phase statt.
+           Jegliche Fähigkeiten oder Effekte, die aufgrund dieses Schritts oder dieser Phase eintreten würden, treten nicht ein.
 
 disneylorcana.com
-©Disney                                                                        42
-     7.7.7. Ein Effekt, der einen Schritt oder eine Phase des Spiels überspringt, ist ein Ersatzeffekt, der diesen Schritt oder diese Phase durch nichts
-            ersetzt. „[Schritt/Phase] überspringen“ bedeutet dasselbe wie: „Falls ein Spieler den [Schritt/die Phase] ausführen würde, geschieht
-            stattdessen nichts.“ Wenn ein Effekt einen Schritt oder eine Phase überspringt, findet kein Teil dieses Schritts oder dieser Phase statt.
-            Jegliche Fähigkeiten oder Effekte, die aufgrund dieses Schritts oder dieser Phase eintreten würden, treten nicht ein.
+©Disney                                                                        47
 		 Beispiel: Arthur - Entschlossener Knappe“ hat die Fähigkeit „Keine Bücher mehr. Überspringe den Schritt „Ziehen“ in deinem Zug“ Wenn
    ein Spieler seine Zieh-Phase beginnt und Arthur im Spiel ist, überspringt er seine Zieh-Phase und wechselt sofort in die Hauptphase seines
    Zuges. Findet ein Spieler jedoch eine Möglichkeit, Arthur während seiner Zieh-Phase ins Spiel zu bringen, wird die aktuelle Zieh-Phase nicht
@@ -1806,310 +2037,4 @@ Glossar-Aktualisierungen
 
 
 disneylorcana.com
-©Disney                                                                      43
-ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
-28. Februar 2025
-Zur Vorbereitung der Veröffentlichung von Archazias Insel wurden die folgenden Aktualisierungen an dem Umfassenden Regelwerk von Disney Lorcana
-vorgenommen.
-    ◊ Neue Regeln und technische Definitionen: Unter, Oberste, In einem Stapel
-   ◊    Neue Regel: Karten mit mehreren Tintenfarben
-   ◊    Neue Regeln: Gestaltwandel-Varianten
-   ◊    Neue Regel: Schlüsselwortfähigkeit Verschwinden
-
-Unter, Oberste, In einem Stapel
-Die folgenden Regeln wurden zu Abschnitt 5.1 hinzugefügt.
-     5.1.5. Unter – Eine Karte, auf der eine oder mehrere Karten liegen, gilt als unter der obersten Karte eines Stapels (siehe 5.1.7). Ein Spieler kann
-            keine Karte wählen, die sich in einem Stapel unter der obersten Karte (siehe 5.1.6) befindet.
-     5.1.6. Oberste – Eine Karte, unter der sich eine oder mehrere Karten befinden, gilt als oberste aller Karten darunter. Eine Karte, die auf einer oder
-            mehreren Karten liegt, erhält nicht den Text der darunter liegenden Karten. Die Karte, die oben auf allen anderen Karten eines Stapels liegt,
-            wird als oberste Karte. bezeichnet.
-     5.1.7. In einem Stapel – Wenn eine Karte auf eine oder mehrere andere Karten im Spiel gelegt wird, gelten sie und alle Karten darunter als in einem
-            Stapel. Diese Karten gelten nur dann als Stapel, wenn sie im Spiel sind. Wenn die oberste Karte eines Stapels das Spiel verlässt, werden alle
-            Karten des Stapels in dieselbe Zone wie die oberste Karte bewegt und diese Karten gelten nicht mehr als in einem Stapel.
-
-Karten mit mehreren Tintenfarben
-Für Karten mit mehr als einer Tintenfarbe wurden die folgenden Regeln hinzugefügt.
-     6.2.3.1. Manche Karten verfügen über mehr als eine Tintenfarbe. Karten mit zwei Tintenfarben haben zwei Tintenfarben-Symbole.
-
-Gestaltwandel-Varianten
-Technische Definitionen für [Klassifizierung]-Gestaltwandel und Universal-Gestaltwandel wurden hinzugefügt.
-     10.8.7. Das Schlüsselwort Gestaltwandel hat zwei Varianten: [Klassifizierung] Gestaltwandel und Universal Gestaltwandel. Bei diesen Varianten von
-             Schlüsselwortfähigkeiten handelt es sich um Gestaltwandel-Fähigkeiten. Dies bedeutet, dass sie mit den folgenden Ausnahmen alle Regeln
-             für das Gestaltwandel-Schlüsselwort befolgen.
-            10.8.7.1. [Klassifizierung] Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der die durch diese Fähigkeit angegebene
-                      [Klassifizierung] besitzt, kannst du diesen Charakter spielen, indem du seine Gestaltwandel Kosten anstelle der Tintenkosten
-                      bezahlst. Falls du dies tust, lege diese Karte auf einen anderen Charakter mit der angegebenen Klassifizierung, den du im Spiel
-                      hast.“ Der Standard-Erinnerungstext für [Klassifizierung] Gestaltwandel lautet: „(Du kannst [Kosten zahlen], um diesen Charakter auf
-                      einen deiner [Klassifizierung] auszuspielen.)“
-            10.8.7.2. Universal Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, kannst du diesen Charakter spielen, indem du seine
-                      Gestaltwandel-Kosten anstelle der Tintenkosten zahlst. Wenn du dies tust, lege diese Karte oben auf einen anderen Charakter,
-                      den du im Spiel hast.“ Der Standard-Erinnerungstext für Universal Gestaltwandel lautet „(Du kannst [Kosten zahlen], um diesen
-                      Charakter auf irgendeinen deiner Charaktere auszuspielen.)“
-
-
-
-
-disneylorcana.com
-©Disney                                                                      44
-Schlüsselwortfähigkeit Verschwinden
-Eine technische Definition für die Schlüsselwortfähigkeit Verschwinden wurde hinzugefügt.
-     10.12. Verschwinden
-             10.12.1. Das Schlüsselwort „Verschwinden“ stellt eine auslösbare Fähigkeit dar. Verschwinden bedeutet „Wenn dieser Charakter von einer
-                      gegnerischen Aktion ausgewählt wird, verbanne diesen Charakter.“
-             10.12.2. Der Standard-Erinnerungstext für Verschwinden lautet: „(Jedes Mal, wenn dieser Charakter von einer Aktion einer gegnerischen
-                      Person ausgewählt wird, verbanne ihn.)“
-             10.12.3. Die durch Verschwinden ausgelöste Fähigkeit wird ausgeführt, nachdem der Effekt der Aktion komplett ausgeführt wurde. Wenn
-                      sich der Charakter in eine andere Zone bewegt hat, bevor die ausgelöste Fähigkeit ausgeführt wird, wird sie ohne Effekt ausgeführt.
-
-Allgemeine Aktualisierungen
-    ◊ 2.1.1.2.–2.1.1.3. Die Regel wurde zur besseren Verständlichkeit aktualisiert.
-   ◊     6.1.2.2. Die Klassifizierung "Illusion" wurde hinzugefügt.
-   ◊     7.8.1–7.8.3. Die Regel wurden für einfacheres Verständnis aktualisiert, sodass Fähigkeiten oder Effekte, die sich auf 0 {S} oder 0 {L} beziehen, wie
-         vorgesehen auf Charaktere oder Orte mit negativen Werten angewendet werden können.
-   ◊     10.8.5–10.8.6. Die Regel wurde zur besseren Verständlichkeit aktualisiert und angepasst, um sie den Regeln von „unter“ und „oberste“
-         anzupassen.
-   ◊     10.13.3. Zur Verdeutlichung wurde ein Abschnitt hinzugefügt.
-
-Glossar-Aktualisierungen
-   ◊ Tintenfarbe: Es wurden neue Abschnitte für das einfachere Verständnis von Karten mit zwei Tintenfarben hinzugefügt.
-   ◊     wird/wurde beschädigt: Es wurde ein Abschnitt hinzugefügt, um klarzustellen, dass „wurde beschädigt“ im Kartentext „wurde Schaden zugefügt“
-         bedeutet, ähnlich wie „wird beschädigt“ „wird Schaden zugefügt“ bedeutet.
-   ◊     Stapel: Die Regel wurde zur besseren Verständlichkeit aktualisiert und den technischen Definitionen von „unter“, „oberste“ und „in einem
-         Stapel“ angepasst.
-   ◊     oberste Karte: Hinzugefügt.
-
-
-
-
-disneylorcana.com
-©Disney                                                                      45
-ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
-9. August 2024
-Um uns auf die Veröffentlichung von Himmelsleuchten vorzubereiten, haben wir das Umfassende Regelwerk für Disney Lorcana in folgenden Punkten
-aktualisiert:.
-   ◊    Neue technische Definitionen: Schlüsselwort-Fähigkeiten
-   ◊    Aufklärung: Spielstatusprüfung
-   ◊    Neue Regel: Aufdecken
-   ◊    Aufklärung: Ersetzungseffekte
-   ◊    Neue Regel: Auslösbare Fähigkeiten mit zwei Bedingungen
-   ◊    Neue Regel: Schwebende auslösbare Fähigkeiten
-   ◊    Aktualisierte Regel: [A] zu [B]
-
-Schlüsselwort-Fähigkeiten
-Dem Abschnitt 10.1 wurden der folgende Abschnitt, technische Definitionen und Standard-Erinnerungstexte für jede Schlüsselwortfähigkeit hinzugefügt.
-    10.1.   Allgemeines
-		 10.1.2. Die folgenden Einträge enthalten die technischen Definitionen der Schlüsselwort-Fähigkeiten. Eine allgemeinere Beschreibung der
-           Schlüsselwort-Fähigkeiten findest du in Abschnitt 7.3, „Schlüsselwörter“.
-		 10.1.3. Der standardmäßige Erinnerungstext für jedes Schlüsselwort ist hier zur Referenz enthalten. Erinnerungstext ist kein Regeltext. Es
-           handelt sich lediglich um eine Gedächtnisstütze und kann variieren, ohne dass sich die Bedeutung der Schlüsselwortregeln ändert.
-    10.2. Beschützen
-		 10.2.1. Das Schlüsselwort Beschützen steht für zwei Fähigkeiten.
-		 10.2.2. Die erste ist eine statische Fähigkeit, die während des Spielens des Charakters wirkt und einen Ersatzeffekt erzeugt, Sie bedeutet „Du
-           darfst diesen Charakter erschöpft anstelle von bereit ausspielen“
-		 10.2.3. Die Zweite ist eine statische Fähigkeit, die eine Einschränkung für Herausforderungen erschafft. Sie bedeutet „Wenn ein Spieler
-           einen deiner Charaktere für eine Herausforderung auswählen möchte, muss er diesen Charakter, oder einen anderen Charakter mit
-           Beschützen auswählen, sofern das möglich ist.
-		 10.2.4. Der standardmäßige Erinnerungstext für Beschützen ist: „(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische Charaktere
-           müssen beim Herausfordern deiner Charaktere zuerst deine Charaktere mit Beschützen wählen, wenn möglich.)“
-     10.3. Herausfordern
-		 10.3.1. Das Schlüsselwort Herausfordern repräsentiert eine statische Fähigkeit, die wirkt, wenn ein Charakter herausfordert. Herausfordern
-           +N bedeutet: „Während dieser Charakter herausfordert, erhält er +N {S} für die Dauer der Herausforderung.“ Da dies eine +N
-           Fähigkeit ist, ist sie mit anderen Herausfordern-Effekten stapelbar.
-		 10.3.2. Der standardmäßige Erinnerungstext für Herausfordern ist: „(Während dieser Charakter herausfordert, erhält er +N {S}.)“
-		 10.3.3. Ein Charakter mit Herausfordern erhält keine +N {S}, wenn er herausgefordert wird.
-     10.4. Wendig
-		 10.4.1. Das Schlüsselwort Wendig repräsentiert eine statische Fähigkeit, die eine Herausforderungseinschränkung erzeugt. Wendig bedeutet:
-           „Dieser Charakter kann nur von einem Charakter herausgefordert werden, der ebenfalls die Fähigkeit Wendig hat.“
-
-
-disneylorcana.com
-©Disney                                                                  46
-		 10.4.2. Der standardmäßige Erinnerungstext für Wendig ist: „(Nur Charaktere mit Wendig können diesen Charakter herausfordern.)“
-    10.5. Impulsiv
-		 10.5.1. Das Schlüsselwort Impulsiv repräsentiert zwei statische Fähigkeiten.
-		 10.5.2. Die erste Fähigkeit bedeutet: „Dieser Charakter kann nicht erkunden“
-		 10.5.3. Die zweite Fähigkeit bedeutet „Du kannst deinen Zug nicht beenden, solange dieser Charakter bereit ist und einen erschöpften
-           gegnerischen Charakter oder Ort herausfordern kann.“
-		 10.5.4. Der standardmäßige Erinnerungstext für Impulsiv ist: „(Dieser Charakter kann nicht erkunden und muss in jedem Zug herausfordern,
-           wenn möglich.)“
-		 10.5.5. Ein Spieler kann einen Charakter mit Impulsiv dennoch erschöpfen, um seine Fähigkeiten zu nutzen oder Lieder zu singen.
-    10.6. Robust
-		 10.6.1. Das Schlüsselwort Robust repräsentiert eine statische Fähigkeit, die einen Ersatzeffekt erzeugt. Robust +N bedeutet: „Wenn diesem
-           Charakter oder Ort Schaden zugefügt würde, wird diesem Charakter oder Ort stattdessen N Schaden weniger zugefügt.“ Da dies eine
-           +N Fähigkeit ist, ist sie mit anderen Robust-Effekten stapelbar.
-		 10.6.2. Der standardmäßige Erinnerungstext für einen Charakter mit Robust ist: „(Reduziere jeglichen Schaden, der diesem Charakter
-           zugefügt wird, um N.)“ Der standardmäßige Erinnerungstext für einen Ort mit Robust ist: „(Reduziere jeglichen Schaden, der diesem
-           Ort zugefügt wird, um N.)“
-		 10.6.3. Wenn Schaden, der einem Charakter oder Ort zugefügt wird, auf 0 reduziert wird, gilt der Schaden als nicht zugefügt.
-    10.7. Rasant
-		 10.7.1. Das Schlüsselwort Rasant repräsentiert eine statische Fähigkeit. Rasant bedeutet: „Dieser Charakter kann herausfordern, als ob er zu
-           Beginn deines Zuges im Spiel gewesen wäre.“
-		 10.7.2. Der standardmäßige Erinnerungstext für Rasant ist: „(Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)“
-    10.8. Gestaltwandel
-		 10.8.1. Das Schlüsselwort Gestaltwandel bezeichnet das Bezahlen alternativer Kosten, um einen Charakter auszuspielen, anstatt seine
-           normalen Tintenkosten zu bezahlen. Gestaltwandelbedeutet: „Wenn du einen Charakter im Spiel hast, der denselben Namen wie diese
-           Karte hat, kannst du diese Karte für ihre Gestaltwandel-Kosten anstatt ihre Tintenkosten ausspielen. Wenn du dies tust, lege diese
-           Karte oben auf einen anderen Charakter, den du im Spiel hast und der denselben Namen hat.“ Dies wird als Gestaltwandel bezeichnet.
-		 10.8.2. Der Standard Erinnerungstext für Gestaltwandel ist: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner
-           [Charaktername]-Charaktere auszuspielen.)“
-		 10.8.3. Ein Gestaltgewandelter Charakter übernimmt den Zustand des Charakters, auf welchen er ausgespielt wurde. (Bsp. Er ist getrocknet,
-           wenn der vorherige Charakter bereits getrocknet war, er ist erschöpft, wenn der vorherige Charakter bereits erschöpft war.)
-		 10.8.4. Wenn ein Effekt auf einem gestaltgewandelten Charakter dazu führt, dass er erschöpft ins Spiel kommt, wird er erschöpft, wenn er ins
-           Spiel kommt.
-		 10.8.5. Ein gestaltwandelter Charakter behält den Schaden des Charakters, auf den er gelegt wurde. Sie verliert den gesamten Text des
-           Charakters, auf den sie gelegt wurde, behält aber alle Effekte, die auf diesen Charakter angewendet wurden, als der gestaltwandelte
-           Charakter ins Spiel kam.
-		 10.8.6. Wenn ein gestaltwandelter Charakter das Spiel verlässt, werden alle Karten in ihrem Stapel (d.h. die Karte, auf die sie gespielt wurde,
-           und alle anderen Karten darunter) in dieselbe Zone gelegt wie gestaltwandelter Charakter, und die Karten werden nicht mehr als
-           Stapel betrachtet.
-
-
-
-disneylorcana.com
-©Disney                                                                 47
-     10.9. Singen
-		 10.9.1. Das Schlüsselwort Singen repräsentiert eine statische Fähigkeit, die beeinflusst, wie ein Charakter die alternativen Kosten bezahlen
-           kann, um ein Lied zu singen. Singen N bedeutet: „Dieser Charakter kann {E}, um die alternativen Kosten einer Liedkarte zu bezahlen,
-           als ob er statt seiner normalen Tintenkosten N kostet.“
-		 10.9.2. Der standardmäßige Erinnerungstext für Singen ist: „(Die Kosten dieses Charakters gelten als N für das Singen von Liedern.)“
-		 10.9.3. Dieser Charakter zählt nur als Kosten N, um Lieder mithilfe von singen kostenlos auszuspielen. Die Tintenkosten des Charakters
-           ändern sich nicht.
-     10.10. Gemeinsam singen
-		 10.10.1. Das Schlüsselwort Gemeinsam singen repräsentiert alternative Kosten, um eine Lied-Aktionskarte auszuspielen. Gemeinsam singen
-            N bedeutet: „Anstatt die Tintenkosten dieser Karte zu bezahlen, kannst du eine Anzahl deiner Charaktere oder Charaktere deiner
-            Teammitglieder mit Gesamt-Tintenkosten von N oder mehr,{E} , um diese Karte kostenlos auszuspielen.“
-		 10.10.2. Der standardmäßige Erinnerungstext für Gemeinsam singen ist: „(Du kannst beliebig viele deiner Charaktere oder Charaktere deiner
-            Teammitglieder, die zusammen N oder mehr kosten, {E}, damit sie dieses Lied kostenlos singen.)“
-		 10.10.3. Wenn ein Lied mit Gemeinsam Singen gesungen wird, werden die Tintenkosten eines oder mehrerer bereiter Charaktere addiert.
-            Wenn die Summe den für „Gemeinsam singen“ angegebenen Kosten entspricht oder diese übersteigt, können die Charaktere das
-            Lied singen.
-		 10.10.4. Wenn ein Charakter mit „Gemeinsam singen“ein Lied singt, treten alle auslösbaren Fähigkeiten mit der Bedingung „Jedes Mal, wenn
-            dieser Charakter ein Lied singt“ ein, wenn die Auslösebedingung erfüllt ist.
-     10.11. Unterstützen
-		 10.11.1. Das Schlüsselwort Unterstützen repräsentiert eine auslösbare Fähigkeit. Unterstützen bedeutet: „Jedes Mal, wenn dieser Charakter
-            erkundet, kannst du für die Dauer dieses Zuges die {S}en ausgewählten Charakter hinzufügen.“
-		 10.11.2. Der standardmäßige Erinnerungstext für Unterstützen ist: „(Jedes Mal, wenn dieser Charakter erkundet, darfst du seine {S} in diesem
-            Zug zur {S} eines anderen Charakters deiner Wahl addieren.)“
-     10.12. Behütet
-		 10.12.1. Das Schlüsselwort Behütet repräsentiert eine statische Fähigkeit. Behütet bedeutet: „Deine Gegner können diese Karte nicht
-            auswählen, wenn sie einen Effekt ausführen.“
-		 10.12.2. Der Standard Erinnerungstext für Behütet lautet: „(Gegnerische Mitspielende können diesen Charakter nicht auswählen,außer um ihn
-            herauszufordern.)“
-		 10.12.3. Effekte, bei denen der Spieler keine Wahl treffen muss, wirken sich trotzdem auf diesen Charakter aus.
-
-Überprüfen des Spielstatus
-In den Abschnitten 1.9.1 und 1.9.2 wurde die folgende Formulierung hinzugefügt, um zu verdeutlichen, wie eine Spielstatusprüfung funktioniert:
-     1.9.1. Es gibt eine Reihe von Bedingungen, die das Spiel prüft, und bestimmte Aktionen, die ausgeführt werden müssen, wenn eine oder mehrere
-            dieser Bedingungen erfüllt sind. Dies wird als Spielstatusprüfung bezeichnet und besteht aus zwei Teilen: der Spielstatusbedingung und der
-            erforderlichen Aktion. Eine Spielstatusbedingung ist ein spezifischer Umstand, den der Spielstatus erreichen kann. Eine erforderliche Aktion
-            ist das, was im Spiel passiert, wenn eine Spielstatusbedingung erfüllt ist. Nachfolgend sind die Bedingungen aufgeführt, nach denen bei der
-            Überprüfung des Spielstatus gesucht wird, sowie die jeweilige erforderliche Aktion.
- 		         1.9.1.1. Wenn eine Person 20 oder mehr Legenden hat, gewinnt diese Person das Spiel.
- 		         1.9.1.2. Wenn ein Spieler versucht hat, seit der letzten Spielstatusprüfung von einem Deck ohne Karten zu ziehen, verliert dieser Spieler das
-                     Spiel.
-
-disneylorcana.com
 ©Disney                                                                    48
- 		         1.9.1.3. Wenn ein Charakter oder Ort Schaden erlitten hat, der seine Willenskraft {W} erreicht oder übersteigt, wird dieser Charakter oder Ort
-                     verbannt.
-     1.9.2. Eine Spielstatusprüfung erfolgt am Ende jedes Schritts, nachdem eine Aktion oder Fähigkeit vollständig ausgeführt wurde und nachdem
-            jeder Effekt im Beutel vollständig ausgeführt wurde. Während einer Spielstatusprüfung werden zuerst alle Gewinn- und Verlustbedingungen
-            sowie alle erforderlichen Aktionen überprüft und ausgeführt. Wenn keine Gewinn- oder Verlustbedingungen erfüllt sind, werden alle anderen
-            Bedingungen und erforderlichen Aktionen überprüft und ausgeführt. Sobald alle erforderlichen Aktionen abgeschlossen sind, wiederholt sich
-            die Spielstatusprüfung, bis keine weiteren erforderlichen Aktionen zu erfüllen sind. Auslösbare Fähigkeiten, die während dieses Prozesses
-            auftreten, werden dann dem Beutel zur Ausführung hinzugefügt.
- 		         1.9.2.1. Alle erforderlichen Aktionen, die durch eine Spielstatusprüfung entstehen, erfolgen in Spielreihenfolge. Wenn ein Spieler
-                     gleichzeitig durch dieselbe Spielstatusprüfung gewinnen und verlieren würde, gewinnt dieser Spieler das Spiel.
-
-Aufdecken
-Es wurde Regeltext und ein Beispiel hinzugefügt, um Effekte zu verdeutlichen, die einen Spieler dazu veranlassen, eine oder mehrere Karten aufzudecken:
-     7.1.10. Einige Effekte weisen den aktiven Spieler an, eine oder mehrere Karten aufzudecken. Um eine Karte aufzudecken, zeigt der Spieler die
-             Vorderseite der Karte allen anderen Spielern im Spiel. Der Spieler kann nur Karten aus der Gruppe von Karten aufdecken, die zuvor im Effekt
-             beschrieben wurden. Beispiel: Das Lied "Diese Familie" hat einen Effekt, der lautet: "Schau dir die obersten 5 Karten deines Decks an. Du darfst
-             bis zu 2 Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein Deck.“
-             Die Karten, die der Spieler aufdecken möchte, können nur von den obersten 5 Karten stammen, die er sich angesehen hat. Der Spieler kann keine
-             Karten aus einer anderen Kartengruppe aufdecken.
-
-Ersetzende effekte
-Die folgende Formulierung wurde zu Abschnitt 7.7.1 hinzugefügt, um das Timing von Ersetzungseffekten zu verdeutlichen:
-     7.7.1. Einige Effekte gelten als Ersatzeffekte. Diese Effekte warten darauf, dass die angegebene Bedingung eintritt, und ersetzen dann teilweise
-            oder vollständig das Ereignis, wenn derEffekt ausgeführt wird.
-
-Ausgelöste Fähigkeiten mit zwei Bedingungen
-Es wurde Regeltext und ein Beispiel hinzugefügt, um ausgelöste Fähigkeiten zu behandeln, die zwei Bedingungen haben:
-     7.4.6. Einige auslösbare Fähigkeiten sind wie folgt geschrieben: „[Auslösebedingung] und [Auslösebedingung], [Effekt].“ Diese Fähigkeiten
-            funktionieren wie zwei ausgelöste Fähigkeiten, die unabhängig voneinander sind, aber beide für denselben Effekt aufgelöst werden. Beispiel:
-            John Silver - Außerirdischer Pirat hat eine Fähigkeit namens „Streit anfangen“, die lautet: „Wenn du diesen Charakter ausspielst und jedes Mal,
-            wenn er erkundet, erhält ein gegnerischer Charakter deiner Wahl in seinem nächsten Zug Impulsiv. Die auslösbare Fähigkeit tritt auf, wenn
-            John Silver gespielt wird, und auch, wenn der aktive Spieler mit diesem Charakter erkundet. Die auslösbare Fähigkeit benötigt nicht beide
-            Auslösebedingungen gleichzeitig, zum Auslösen, sondern nur die eine oder die andere.
-
-Schwebende auslösbare Fähigkeiten
-Es wurden Regeltext und ein Beispiel hinzugefügt, um Fähigkeiten oder Effekte besser zu erklären, die eine auslösbare Bedingung erzeugen, die für eine
-bestimmte Zeitspanne anhält:
-     7.4.7. Einige Fähigkeiten und Effekte erzeugen eine Auslösebedingung, die eine bestimmte Zeit lang anhält, in der sie existieren und auftreten
-            können. Diese werden normalerweise als Ergebnis einer auflösenden Aktion erzeugt. Sie sind nur für die angegebene Dauer wirksam. Sobald
-            diese Zeitspanne verstrichen ist, hört die Auslösebedingung auf zu existieren. Dies wird als schwebend auslösbare Fähigkeit bezeichnet.
-            Beispiel: „Nimm von den Reichen“ ist eine Aktionskarte, die lautet: „Jedes Mal, wenn einer deiner Charaktere in diesem Zug erkundet, verlieren
-            alle gegnerischen Mitspielenden je 1 Legende.“ Wenn „Nimm von den Reichen“ ausgeführt wird, erzeugt es die schwebende auslösbare Fähigkeit,
-            die vom Text der Karte definiert wird. Dies gilt für den Rest der Runde.
-
-
-
-
-disneylorcana.com
-©Disney                                                                      49
-[A] zu [B]
-Es wurde eine klarstellende Formulierung hinzugefügt, um diese Regelkonstruktion besser zu vereinfachen und zu erklären.
-     7.1.1.   Jeder Satz einer Karte ist ein separater Effekt und/oder Kosten. Alle Sätze werden durch einen Punkt getrennt.
-     7.1.2. Karten mit mehreren Effekten in einem einzigen Satz werden nach dem dazwischen liegenden Wort aufgelöst.
- 		           7.1.2.1. Die meisten Karten schreiben sich wie [A].
- 			                   Beispiel: „Dein Deck darf Dalmatiner Welpe - Schwanzwedler bis zu 99-mal enthalten.“
- 		           7.1.2.2. [A] um [B] - Der Spieler muss den ersten Teil erfüllen. Gelingt ihm das nicht, kann er den zweiten Teil der Karte nicht ausführen. Der
-                       erste Teil des Satzes [A] beschreibt die Kosten, keinen Effekt. Der zweite Teil des Satzes [B] ist ein Effekt.
- 			                   Beispiel: „Verbanne einen deiner Gegenstände, um einem Charakter deiner Wahl 5 Schaden zuzufügen.“ Wenn der Spieler keinen
-                       Gegenstand im Spiel hat, den er verbannen kann, kann er auch die genannten 5 Schaden nicht verursachen..
-
-Allgemeine Aktualisierungen
-    ◊ 1.1.6. Sprache hinzugefügt, um den Zweck des Erinnerungstextes zu verdeutlichen.
-   ◊      1.2.4. Klärung des Timings in Bezug auf Entscheidungen, die als Teil eines Effekts getroffen werden.
-   ◊      1.6.1.1. Hier wurde "oder Fähigkeiten" hinzugefügt, um klarzustellen, dass ein Schlüsselwort mehr als eine Fähigkeit oder einen Effekt darstellen
-          kann.
-   ◊      1.6.2. Ein Beispiel zu 1.6.2. hinzugefügt.
-   ◊      6.1.2. Die Definition von "Charakter" wurde erweitert und die Liste der Charakterklassifizierungen aktualisiert.
-   ◊      6.2.4.1.-6.2.4.2. Es wurde Text hinzugefügt, um Charaktere mit zwei Namen anzusprechen.
-   ◊      6.3.3.1.-6.3.3.5. Die Definition eines Liedes wurde von Abschnitt 10 in diesen Abschnitt verschoben und technisch angepasst. Klarstellender
-          Erinnerungstext hinzugefügt.
-   ◊      7.5.2.-7.5.4. Es wurde ein Problem behoben, bei dem der Prozess zur Aktivierung einer Fähigkeit nicht explizit erklärt wurde.
-
-Änderungen zur besseren Lesbarkeit
-   ◊ 1.10.2.3. Fehlendes Wort hinzugefügt.
-   ◊      3.1.2. Es wurde ein Problem behoben, bei dem das Zwei-Spiele-Format so interpretiert werden konnte, dass es die Verlierer-Spielen/Ziehen-Regel
-          beinhaltet.
-   ◊      3.2.1.2. Die Regel wurde klarer formuliert, damit sie mit dem Text bezüglich der erforderlichen Aktionen in Abschnitt 1.9.1 und 1.9.2
-          übereinstimmt.
-   ◊      4.3.4.10. Der Wortlaut wurde zur Klarheit aktualisiert.
-   ◊      4.3.6.17. Der Wortlaut wurde aktualisiert, um ähnlichen Regeln zu entsprechen.
-   ◊      4.3.8.4. Die Formulierung wurde zur Klarheit aktualisiert.
-   ◊      6.1.4. Die Formulierung wurde im Interesse der Klarheit aktualisiert.
-   ◊      6.2.9. Der Text wurde aktualisiert, um klarzustellen, was passiert, wenn ein Charakter Schaden in Höhe seiner Stärke verursacht.
-   ◊      6.2.10. Die Sprache wurde aktualisiert, um ähnlichen Regeln zu entsprechen.
-   ◊      6.5.5. Die Sprache wurde aktualisiert, um ähnlichen Regeln zu entsprechen.
-   ◊      7.1.5. Es wurde ein Schreibfehler in einem Kartennamen korrigiert.
-   ◊      9.3.1. Das Beispiel wurde aktualisiert , um der Sprache in den anderen Beispielen zu entsprechen.
-
-
-disneylorcana.com
-©Disney                                                                        50
-Glossar-Aktualisierungen
-   ◊ Charakter: Die Sprache wurde aktualisiert, um auf die Klassifizierungsliste zu verweisen, die jetzt in 6.1.2.2 enthalten ist.
-   ◊     Deck: Die Sprache wurde aktualisiert, um andere Formate einzubeziehen.
-   ◊     Spielzustandsprüfung: Klärende Formulierung hinzugefügt, um mit den Aktualisierungen von 1.9.1 und 1.9.2 übereinzustimmen.
-   ◊     Schlüsselwort-Fähigkeit: Sprache hinzugefügt, um Schlüsselwörter zu verdeutlichen, die mehr als eine Fähigkeit darstellen.
-   ◊     Aufdecken: Hinzugefügt.
-
-
-
-
-disneylorcana.com
-©Disney                                                                      51

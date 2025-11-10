@@ -14,6 +14,23 @@
 - [ITALIANO](cdn_ravensburger_com/lorcana/s1-playersguide-it.pdf)
 
 
+## Card Set Release Notes
+
+### Whispers in the Well Release Notes
+
+- [English](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes_English.pdf)
+- [Deutsch](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Deutsch.pdf)
+- [Français](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Fran%C3%A7ais.pdf)
+- [Italiano](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Italiano.pdf)
+
+### Fabled Release Notes
+
+- [English](files_disneylorcana_com/Fabled_SetReleaseNotes_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Fabuleux_SetReleaseNotes_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/Leggende_SetReleaseNotes_IT.pdf)
+
+
 ## Game Rules and Documents
 
 ### Quick Start Rules
@@ -42,13 +59,6 @@
 ### Disney Lorcana TCG FAQ
 
 - [https://ravensburger-en.mindtouch.us/Disney_Lorcana](https://ravensburger-en.mindtouch.us/Disney_Lorcana)
-
-### Disney Lorcana TCG Set Release Notes: Fabled
-
-- [English](files_disneylorcana_com/Fabled_SetReleaseNotes_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Fabuleux_SetReleaseNotes_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Leggende_SetReleaseNotes_IT.pdf)
 
 
 ## Event Rules and Documents

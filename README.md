@@ -77,13 +77,13 @@
 - [Italiano](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-IT.pdf)
 - [español](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-ES.pdf)
 
-### Fabled Set Championship Instructions
+### Whispers in the Well Set Championship Instructions
 
-- [English](files_disneylorcana_com/Fabled_Champ%20Kit%20Instructions_EN.pdf)
-- [Deutsch](files_disneylorcana_com/Mythen_Champ%20Kit%20Instructions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Fabuleux_Champ%20Kit%20Instructions_FR.pdf)
-- [Italiano](files_disneylorcana_com/Leggende_Champ%20Kit%20Instructions_IT.pdf)
-- [Español](files_disneylorcana_com/Fabled_Champ%20Kit%20Instructions_ES.pdf)
+- [English](files_disneylorcana_com/DCL_Whispers_OPChampionships_Event%20Instructions-English.pdf)
+- [Deutsch](files_disneylorcana_com/DCL_Gefluster_OPChampionships_Event%20Instructions-German.pdf)
+- [FRANÇAIS](files_disneylorcana_com/DCL_Lueurs_OPChampionships_Event%20Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/DCL_Sussurri_OPChampionships_Event%20Instructions-Italian.pdf)
+- [Español](files_disneylorcana_com/DCL_Whispers_OPChampionships_Event%20Instructions-Spanish.pdf)
 
 ### Play Correction Guidelines
 

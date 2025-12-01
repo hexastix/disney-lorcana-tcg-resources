@@ -789,20 +789,23 @@ disneylorcana.com
                 Example: Mulan – Imperial Soldier reads, “During your turn, whenever this character banishes another character in a challenge,
                 your other characters get +1 {L} this turn.” Mulan must banish a character that is not herself, and she doesn’t gain the benefit of
                 this ability herself because it only applies to your “other” characters.
-        7.1.6. If an ability or effect instructs you to play a card as a part of resolving that ability, you must resolve the ability before playing
-                the card. If the instruction is followed by additional steps for resolving the ability, the card doesn’t resolve or come into play
-                until the ability is fully resolved, even if it’s moved to a different zone.
-
+        7.1.6. If an action or ability instructs a player to play a card as a part of resolving that action or ability, the card is played while the action
+                or ability is resolving. Any effects that occur as a result of playing that card are generated or added to the bag, but they wait to
+                resolve until the action or ability that instructed the player to play that card finishes resolving. This also applies to the effects of
+                the card the player was instructed to play by the initial action or ability, even if that card is moved to a different zone.
 
 
 disneylorcana.com
-©Disney                                                                   19
-                 Example: The active player has an Ursula – Deceiver of All in play and exerts her to sing Friends on the Other Side. Ursula’s
-                 ability What a Deal reads, “Whenever this character sings a song, you may play that song again from your discard for free. If you
-                 do, put that card on the bottom of your deck instead of into your discard.” Once the song has finished resolving, the player can
-                 resolve the triggered ability, which allows them to play Friends on the Other Side again. If they choose to do so, the effect of the
-                 song card waits to resolve until Ursula’s triggered ability is resolved fully. Once Friends on the Other Side is put on the bottom of
-                 the active player’s deck, then the player draws 2 cards.
+©Disney                                                                     19
+                 Example: A player has a Jim Hawkins – Space Traveler in play and a location named Sleepy Hollow – The Bridge in their discard.
+                 Jim Hawkins has an ability called Take the Helm that reads, “Whenever you play a location, this character may move there for
+                 free.” The player then plays the action Get to Safety!, which reads, “Play a location with cost 3 or less from your discard for free.
+                 Then, if you have a location named Sleepy Hollow in play, draw a card.” As the action’s effect resolves, the player plays Sleepy
+                 Hollow from their discard and puts it into play. Jim Hawkins’s Take the Helm triggered ability occurs and is added to the bag, but
+                 it doesn’t resolve yet. Get to Safety! continues resolving, and the player draws a card because Sleepy Hollow is now in play. After
+                 the action is finished resolving, the player can resolve triggered abilities like Take the Helm from the bag.
+                 7.1.6.1.   An effect generated from an action played this way resolves after the card that instructed the player to play the
+                            action finishes resolving but before any triggered abilities can be taken from the bag.
         7.1.7. Sometimes a combination of abilities can be repeated indefinitely, called a “loop.” If all players are aware of and understand
                the actions of each iteration of the loop, the player who maintains the loop proposes a specific number of iterations. The
                game is considered to proceed immediately through those iterations without the player performing each one. Then the game
@@ -832,14 +835,13 @@ disneylorcana.com
                             When the first triggered ability resolves, the song card played using Sing Together is put on the bottom of the player’s
                             deck. When the second triggered ability resolves, “that song” card is no longer in the discard, so that part of the effect
                             resolves with no effect. Similarly, “that song” doesn’t refer to a specific song card anymore, so the latter part of the
-                            effect also does nothing. Even if there’s another song card with the same name in the discard, “that song” refers only
-                            to the specific song card that was sung by Ursula when the triggered abilities were added to the bag, not any other
-                            song card with the same name.
-
 
 
 disneylorcana.com
 ©Disney                                                                   20
+                          effect also does nothing. Even if there’s another song card with the same name in the discard, “that song” refers only
+                          to the specific song card that was sung by Ursula when the triggered abilities were added to the bag, not any other
+                          song card with the same name.
         7.1.10. Some effects instruct the active player to reveal a card or cards. To reveal a card, the player shows the face of the card to all
                 other players in the game. The player can reveal cards only from the group of cards described earlier in the effect.
                 Example: The song Look at This Family has an effect that reads, “Look at the top 5 cards of your deck. You may reveal up to 2 character
@@ -875,13 +877,13 @@ disneylorcana.com
                 Example A: Moana – Of Motunui has an ability called We Can Fix It that reads, “Whenever this character quests, you may ready
                 your other Princess characters. They can’t quest for the rest of this turn.” If the active player chooses to quest with Moana, none
                 of their other Princess characters can quest this turn, regardless of whether they were readied by the effect or not.
-                Example B: Scar – Vicious Cheater has an ability called Daddy Isn’t Here to Save You that reads, “During your turn, whenever
-                this character banishes another character in a challenge, you may ready this character. He can’t quest for the rest of this turn.”
-                Because the two effects are both tied to the trigger condition, if Scar doesn’t challenge he can quest this turn as normal.
 
 
 disneylorcana.com
 ©Disney                                                                   21
+                Example B: Scar – Vicious Cheater has an ability called Daddy Isn’t Here to Save You that reads, “During your turn, whenever
+                this character banishes another character in a challenge, you may ready this character. He can’t quest for the rest of this turn.”
+                Because the two effects are both tied to the trigger condition, if Scar doesn’t challenge he can quest this turn as normal.
         7.4.6. Some triggered abilities are written as, “[Trigger Condition] and [Trigger Condition], [Effect].” These abilities function as
                 having two triggered abilities that are independent of each other but both resolve for the same effect.
                 Example: John Silver – Alien Pirate has an ability called Pick Your Fights that reads, “When you play this character and whenever
@@ -918,12 +920,10 @@ disneylorcana.com
                          with the word “ability.”
                 7.5.3.3. Once the total cost is paid, the ability is activated. The active player resolves the effect immediately.
 
-        7.5.4. If an effect would trigger as a result of any of the steps to using an activated ability, that effect waits to resolve until the
-                ability is fully resolved.
-
-
 disneylorcana.com
 ©Disney                                                                   22
+        7.5.4. If an effect would trigger as a result of any of the steps to using an activated ability, that effect waits to resolve until the
+                 ability is fully resolved.
    7.6. Static Abilities
 
         7.6.1. Static abilities are effects that could alter characteristics of a card, game rule, or game state. These are continuously active
@@ -959,13 +959,13 @@ disneylorcana.com
         7.7.7. If multiple instances of different replacement effects can apply to the same event, the player whose cards or card effects are
                being affected follows the steps listed here.
                  7.7.7.1.   First, if any self-replacement effects can apply, choose one and proceed to section 7.7.7.3. If none can apply,
-                            proceed to the next step.
-                 7.7.7.2.   Second, if any other replacement effects can apply, choose one.
 
 
 
 disneylorcana.com
 ©Disney                                                                   23
+                           proceed to the next step.
+                7.7.7.2.   Second, if any other replacement effects can apply, choose one.
                 7.7.7.3.   After the chosen replacement effect has been applied, a modified event occurs. Repeat this process, taking into
                            account other replacement effects that can apply to the modified event, until no more replacement effects can apply.
                            Example: The active player has a Seven Dwarfs’ Mine in play, and the opposing player has a Beast – Selfless Protector
@@ -999,14 +999,14 @@ disneylorcana.com
                 step, damage is dealt to each character in the challenge, resulting in the following event: The challenged character deals
                 damage equal to their {S} to Flounder. Flounder would be dealt damage, so the active player attempts to apply the two instances
                 of the same replacement effect. Because two or more instances of the same replacement effect can’t apply to the same event,
-                the active player chooses one to apply, resulting in this event: The challenged opposing character deals no damage to Flounder.
-                The remaining instance of the replacement effect can’t apply and ceases to exist.
 
 
 
 
 disneylorcana.com
 ©Disney                                                                  24
+                 the active player chooses one to apply, resulting in this event: The challenged opposing character deals no damage to Flounder.
+                 The remaining instance of the replacement effect can’t apply and ceases to exist.
         7.7.9.   An effect that skips a step or phase of the game is a replacement effect that replaces that step or phase with nothing. “Skip
                  [Step/Phase]” means the same as “If a player would perform the [Step/Phase], do nothing instead.” If the effect skips a step or
                  phase, no part of that step or phase happens. Any abilities or effects that would occur because of that step or phase don’t happen.
@@ -1043,14 +1043,14 @@ disneylorcana.com
                  Microbots. When resolving the triggered ability, the active player chooses the opponent’s character. It gets -2 {S} and, after
                  this modifier is applied immediately to its {S}, now has -1 {S} and 1 {W}. The active player then quests with Yokai. Because the
                  opposing character’s {S} is negative, the opposing character counts as having a {S} of 0 when resolving Yokai’s triggered ability,
-                 and the active player draws 1 card. Even though the character’s {S} counts as 0 for the purpose of resolving Yokai’s effect, it isn’t
-                 changed to 0 and still has a {S} of -1.
 
 
 
 
 disneylorcana.com
 ©Disney                                                                    25
+                and the active player draws 1 card. Even though the character’s {S} counts as 0 for the purpose of resolving Yokai’s effect, it isn’t
+                changed to 0 and still has a {S} of -1.
         7.8.3. If a character or location has a negative Lore value {L}, it counts as having a Lore value of 0 except for the purpose of applying
                 modifiers to determine its {L} (see 7.8.1.1 and 7.8.1.2).
                 Example: The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn
@@ -1087,14 +1087,13 @@ disneylorcana.com
                faceup cards are added to the deck must be known by all players.
                 8.2.4.1. If those faceup cards are in one or more stacks, and/or any of those stacks contain both faceup and facedown cards,
                           any of the cards in those stacks can be combined and freely ordered with the other cards being added to the deck,
-                          including cards in other stacks. No conditions are applied to or removed from those cards until they’re added to the
-                          top or bottom of the deck.
-
 
 
 
 disneylorcana.com
 ©Disney                                                                     26
+                          including cards in other stacks. No conditions are applied to or removed from those cards until they’re added to the
+                          top or bottom of the deck.
    8.3. Hand
 
         8.3.1. A player’s hand is where drawn cards are held. Cards can be added to the hand by other effects as well. Players start the game
@@ -1133,14 +1132,13 @@ disneylorcana.com
                inkwell symbol. It enters the inkwell facedown as ink.
    8.6. Discard
 
-        8.6.1. A player’s discard pile is where their cards that have left play are held.
-        8.6.2. Cards that are banished and action cards that are finished resolving are put into their player’s discard pile.
-
 
 
 
 disneylorcana.com
 ©Disney                                                                 27
+        8.6.1. A player’s discard pile is where their cards that have left play are held.
+        8.6.2. Cards that are banished and action cards that are finished resolving are put into their player’s discard pile.
         8.6.3. The discard is a public zone. The cards in a player’s discard remain faceup at all times and in a single pile. Players can look at and
                count the cards in any player’s discard pile at any time. A player can look at and rearrange the cards in their own discard at any time.
         8.6.4. If multiple cards enter a discard pile at the same time, their player adds them in any order.
@@ -1181,11 +1179,11 @@ disneylorcana.com
                  Example: The active player has Simba – Protective Cub in play with 1 damage counter on him. The opponent has The Prince –
                  Never Gives Up (which has Resist +1) in play. The active player plays the action Bestow a Gift which reads, “Move 1 damage
                  counter from chosen character to chosen opposing character.” The player then chooses to move 1 damage counter from Simba
-                 to The Prince. The player removes 1 damage counter and puts it on The Prince. The Prince’s Resist keyword ability doesn’t affect
-                 this damage as it isn’t damage dealt.
 
 disneylorcana.com
 ©Disney                                                                    28
+                 to The Prince. The player removes 1 damage counter and puts it on The Prince. The Prince’s Resist keyword ability doesn’t affect
+                 this damage as it isn’t damage dealt.
    9.4. Leaving Play
 
         9.4.1. When a card with damage leaves play, when game states are checked all damage counters on it cease to exist.
@@ -1223,13 +1221,14 @@ disneylorcana.com
                 may pay N {I} to put the top card of your deck facedown under this card.”
         10.4.2. The standard reminder text for Boost is, “(Once during your turn, you may pay N {I} to put the top card of your deck facedown
                 under this character.)”
-        10.4.3. No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
-        10.4.4. If a card is under another card, it’s not considered to be in play. Putting a card under another card with Boost doesn’t count as
-                playing that card.
+
 
 
 disneylorcana.com
 ©Disney                                                                  29
+        10.4.3. No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
+        10.4.4. If a card is under another card, it’s not considered to be in play. Putting a card under another card with Boost doesn’t count as
+                   playing that card.
    10.5. Challenger
 
         10.5.1. The Challenger keyword represents a static ability that functions while a character is challenging. Challenger +N means
@@ -1270,15 +1269,15 @@ disneylorcana.com
    10.10. Shift
 
          10.10.1. The Shift keyword represents paying an alternate cost to play a character instead of paying the character’s ink cost. Shift
-                  means “If you have a character in play with the same name as this card, you may play this character by paying their Shift cost
+                    means “If you have a character in play with the same name as this card, you may play this character by paying their Shift cost
+
+
+disneylorcana.com
+©Disney                                                                  30
                   instead of their ink cost. If you do, put this card on top of another character you have in play with the same name.” This is
                   called shifting.
          10.10.2. The standard reminder text for Shift is “(You may [Pay Cost] to play this on top of one of your characters named [Character
                   Name].)”
-
-
-disneylorcana.com
-©Disney                                                                 30
          10.10.3. If a shifted character is put on top of an exerted character, the shifted character enters play exerted.
          10.10.4. If an effect on a shifted character causes it to enter play exerted, it becomes exerted as it enters play, even if the character it
                   was on top of is ready.
@@ -1314,14 +1313,14 @@ disneylorcana.com
                  your teammates’ characters with total ink cost N or greater to play this card without paying its ink cost.”
         10.12.2. The standard reminder text for Sing Together is “(Any number of your or your teammates’ characters with total cost N or more
                  may {E} to sing this song for free.)”
-        10.12.3. When playing a song using Sing Together, add the ink costs of one or more of your ready characters together. If the total
-                 meets or exceeds the cost listed for Sing Together, the character or characters can sing the song.
-        10.12.4. When a character sings a song with Sing Together, any triggered abilities on it that have the condition “Whenever this
-                 character sings a song” occur when the trigger condition is met.
 
 
 disneylorcana.com
 ©Disney                                                                    31
+        10.12.3. When playing a song using Sing Together, add the ink costs of one or more of your ready characters together. If the total
+                 meets or exceeds the cost listed for Sing Together, the character or characters can sing the song.
+        10.12.4. When a character sings a song with Sing Together, any triggered abilities on it that have the condition “Whenever this
+                 character sings a song” occur when the trigger condition is met.
    10.13. Support
 
         10.13.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this
@@ -1715,6 +1714,7 @@ disneylorcana.com
 ©Disney                                                                       41
 General Updates
    ◊ 6.1.2.2. Added the following classifications: Colossus, Gargoyle, Ghost, Hunny, and Whisper.
+   ◊    7.1.6. Adjusted language to clarify what happens when an action or ability instructs a player to play a card.
    ◊    7.7.8. Added a rule to clarify that multiple instances of the same replacement effect can’t apply to the same event.
    ◊    8.2.4.–8.2.4.1. Added rules detailing how to move one or more stacks of cards when putting cards in any order on the top or bottom of a player’s
         deck.
@@ -1735,7 +1735,7 @@ Glossary Updates
 
 
 disneylorcana.com
-©Disney                                                                     42
+©Disney                                                                      42
 PREVIOUS UPDATE SUMMARY
 August 22, 2025
 To prepare for the release of Fabled, the following updates were made to the Disney Lorcana TCG Comprehensive Rules.

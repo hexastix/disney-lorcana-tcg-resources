@@ -877,30 +877,36 @@ disneylorcana.com
                  your other characters get +1 {L} this turn.” (“Durante il tuo turno, ogni volta che questo personaggio esilia un altro personaggio in
                  una sfida, i tuoi altri personaggi ricevono +1 {L} per questo turno.”). Mulan deve esiliare un personaggio che non sia sé stessa, e
                  lei stessa non ottiene i benefici di questa abilità perché si applica solo ai tuoi “altri” personaggi.
-        7.1.6. Se un’abilità o un effetto ti indica di giocare una carta come parte della risoluzione di quell’abilità, l’abilità va risolta prima di
-                 giocare la carta. Se l’istruzione è seguita da altri passaggi per risolvere l’abilità, la carta non si risolve né entra in gioco finché
-                 l’abilità non viene completamente risolta, anche se viene spostata in una zona diversa.
-                 Esempio: Il giocatore attivo ha in gioco una Ursula – Ingannatrice di Tutti e la impegna per cantare Gli Amici nell’Aldilà. L’abilità
-                 Che Affare di Ursula recita: “Ogni volta che questo personaggio canta una canzone, puoi giocare nuovamente quella canzone
-                 dagli scarti, gratis. Se lo fai, metti quella carta in fondo al tuo mazzo invece che nei tuoi scarti.” Una volta che la canzone ha
-                 finito di risolversi, il giocatore può risolvere l’abilità innescata, che gli consente di giocare di nuovo Gli Amici nell’Aldilà. Se decide
-                 di farlo, l’effetto della carta canzone attende di risolversi finché l’abilità innescata di Ursula non si risolve completamente. Una
-                 volta che Gli Amici nell’Aldilà viene messa in fondo al mazzo del giocatore attivo, il giocatore pesca 2 carte.
-        7.1.7. A volte una combinazione di abilità può essere ripetuta all’infinito, creando un “loop”. Se tutti i giocatori sono consapevoli e
-               comprendono le azioni di ogni iterazione del loop, il giocatore che origina il loop propone un numero specifico di iterazioni.
-               Si considera che il gioco proceda immediatamente attraverso tali iterazioni senza che il giocatore le esegua tutte. Quindi la
-               partita continua e deve essere eseguita una nuova azione.
-        7.1.8. Se la risoluzione di un effetto permette a un giocatore di scegliere “fino a” N di qualcosa, il giocatore non può scegliere lo
-               stesso bersaglio più volte per le N scelte. “Fino a” include 0 come scelta legale.
-                 Esempio: La canzone Painting the Roses Red recita: “Up to 2 chosen characters get -1 {S} this turn. Draw a card.” (“Fino a 2
-                 personaggi a tua scelta ricevono -1 {S} per questo turno. Pesca 1 carta.”). Lo stesso personaggio non può essere scelto due volte.
-                 Il giocatore della carta può anche scegliere 0 personaggi.
+        7.1.6. Se un’azione o un’abilità richiede a un giocatore di giocare una carta come parte della risoluzione di quell’azione o abilità, la
+                 carta viene giocata mentre l’azione o l’abilità viene risolta. Qualsiasi effetto che si verifica come risultato dell’aver giocato
+                 quella carta va generato o aggiunto al sacchetto, ma deve attendere per essere risolto fino a quando l’azione o l’abilità che ha
+                 indicato al giocatore di giocare quella carta non è stato completamente risolto. Questo vale anche per gli effetti della carta
+                 che l’azione o l’abilità iniziale aveva indicato al giocatore di giocare, anche se quella carta viene spostata in una zona diversa.
+                 Esempio: Un giocatore ha in gioco Jim Hawkins – Viaggiatore Spaziale e un luogo chiamato La Valle Addormentata – Il Ponte nei
+                 suoi scarti. Jim Hawkins ha un’abilità chiamata Prendere in Mano il Timone che recita: “Ogni volta che giochi un luogo, questo
+                 personaggio può spostarsi in quel luogo gratis”. Il giocatore gioca quindi l’azione Mettiti in Salvo!, che recita: “Gioca un luogo con
+                 costo 3 o inferiore dai tuoi scarti gratis. Poi, se hai in gioco un luogo chiamato La Valle Addormentata, pesca una carta. Quando
+                 l’effetto dell’azione si risolve, il giocatore gioca La Valle Addormentata dalla sua pila degli scarti e la mette in gioco. L’abilità
+                 innescata di Jim Hawkins, Prendere in Mano il Timone, si attiva e viene aggiunta al sacchetto, ma non viene ancora risolta. Mettiti
+                 in Salvo! continua a risolversi e il giocatore pesca una carta perché La Valle Addormentata è ora in gioco. Una volta che l’azione ha
+                 finito di risolversi, il giocatore può risolvere le abilità innescate dal sacchetto, come Prendere in Mano il Timone.
+                 7.1.6.1.   Un effetto generato da un’azione giocata in questo modo si risolve dopo che la carta che ha istruito il giocatore a
+                            giocare l’azione ha finito di essere risolta, ma prima che qualsiasi abilità innescata possa essere presa dal sacchetto.
+        7.1.7.   A volte una combinazione di abilità può essere ripetuta all’infinito, creando un “loop”. Se tutti i giocatori sono consapevoli e
+                 comprendono le azioni di ogni iterazione del loop, il giocatore che origina il loop propone un numero specifico di iterazioni.
+                 Si considera che il gioco proceda immediatamente attraverso tali iterazioni senza che il giocatore le esegua tutte. Quindi la
+                 partita continua e deve essere eseguita una nuova azione.
 
 
 
 
 disneylorcana.com
 ©Disney                                                                      21
+        7.1.8. Se la risoluzione di un effetto permette a un giocatore di scegliere “fino a” N di qualcosa, il giocatore non può scegliere lo
+                 stesso bersaglio più volte per le N scelte. “Fino a” include 0 come scelta legale.
+                 Esempio: La canzone Painting the Roses Red recita: “Up to 2 chosen characters get -1 {S} this turn. Draw a card.” (“Fino a 2
+                 personaggi a tua scelta ricevono -1 {S} per questo turno. Pesca 1 carta.”). Lo stesso personaggio non può essere scelto due volte.
+                 Il giocatore della carta può anche scegliere 0 personaggi.
         7.1.9.   Alcune abilità ed effetti usano “quel/quello/quella/quei/quelli/quelle” nel testo per riferirsi a uno specifico termine di gioco.
                  Quando si risolvono abilità ed effetti, la determinazione di ciò a cui si riferisce “quel/quello/quella (ecc.) [Termine di Gioco]”
                  avviene dopo che le scelte sono state fatte mentre l’abilità o l’effetto sta venendo risolta (vedi 1.2.4).
@@ -917,19 +923,17 @@ disneylorcana.com
                             solo quella zona. Se la carta a cui si riferisce “quella” ha cambiato zona, la parte dell’effetto che controlla la zona
                             per “quella” carta fallisce e si risolve senza effetto, anche se ci sono altre carte il cui nome completo corrisponde al
                             nome completo di “quella” carta. Il giocatore fa tutto il possibile per risolvere il resto dell’effetto.
-                            Esempio: Un giocatore ha in gioco 2 copie di Ursula – Ingannatrice di Tutti e le impegna entrambe per cantare
-                            una canzone usando la sua abilità Cantare Insieme. L’abilità Che Affare di Ursula recita: “Ogni volta che questo
-                            personaggio canta una canzone, puoi giocare nuovamente quella canzone dagli scarti, gratis. Se lo fai, metti quella
-                            carta in fondo al tuo mazzo invece che nei tuoi scarti.” Siccome entrambe le copie di Ursula sono state impegnate
-                            per cantare insieme, entrambe le loro abilità Che Affare si innescano e vengono aggiunte al sacchetto per poi essere
-                            risolte.
-                            Quando la prima abilità innescata viene risolta, la carta canzone giocata con Cantare Insieme viene messa in fondo
-                            al mazzo del giocatore. Quando la seconda abilità innescata viene risolta, la carta “quella canzone” non è più negli
-                            scarti, quindi quella parte dell’effetto si risolve senza effetto. Allo stesso modo, “quella canzone” non si riferisce più a
-                            una carta canzone specifica, quindi anche l’ultima parte dell’effetto non ha alcun effetto. Anche se ci fosse un’altra
-                            carta canzone con lo stesso nome negli scarti, “quella canzone” si riferisce solo alla carta canzone specifica che è
-                            stata cantata da Ursula quando le abilità innescate sono state aggiunte al sacchetto, non a qualsiasi altra carta
-                            canzone con lo stesso nome.
+                            Esempio: Un giocatore ha in gioco 2 copie di Ursula – Ingannatrice di Tutti e le impegna entrambe per cantare una
+                            canzone usando la sua abilità Cantare Insieme. L’abilità Che Affare di Ursula recita: “Ogni volta che questo personaggio
+                            canta una canzone, puoi giocare nuovamente quella canzone dagli scarti, gratis. Se lo fai, metti quella carta in fondo al
+                            tuo mazzo invece che nei tuoi scarti.” Siccome entrambe le copie di Ursula sono state impegnate per cantare insieme,
+                            entrambe le loro abilità Che Affare si innescano e vengono aggiunte al sacchetto per poi essere risolte.
+                            Quando la prima abilità innescata viene risolta, la carta canzone giocata con Cantare Insieme viene messa in fondo al
+                            mazzo del giocatore. Quando la seconda abilità innescata viene risolta, la carta “quella canzone” non è più negli scarti,
+                            quindi quella parte dell’effetto si risolve senza effetto. Allo stesso modo, “quella canzone” non si riferisce più a una carta
+                            canzone specifica, quindi anche l’ultima parte dell’effetto non ha alcun effetto. Anche se ci fosse un’altra carta canzone
+                            con lo stesso nome negli scarti, “quella canzone” si riferisce solo alla carta canzone specifica che è stata cantata da Ursula
+                            quando le abilità innescate sono state aggiunte al sacchetto, non a qualsiasi altra carta canzone con lo stesso nome.
         7.1.10. Alcuni effetti chiedono al giocatore attivo di rivelare una o più carte. Per rivelare una carta, il giocatore mostra la faccia della
                  carta a tutti gli altri giocatori partecipanti. Il giocatore può rivelare solo le carte del gruppo di carte descritto in precedenza
                  nell’effetto.
@@ -937,9 +941,6 @@ disneylorcana.com
                  carte personaggio e aggiungerle alla tua mano. Metti il resto in fondo al tuo mazzo in qualsiasi ordine”. Le carte che il giocatore
                  sceglie di rivelare possono provenire solo dalle prime 5 carte che ha guardato. Il giocatore non può scegliere di rivelare carte di
                  altri gruppi di carte.
-
-
-
 
 disneylorcana.com
 ©Disney                                                                     22
@@ -1887,6 +1888,7 @@ Aggiunta la definizione tecnica e il testo di promemoria standard per l’abilit
 
 Aggiornamenti Generali
    ◊ 6.1.2.2. Aggiunte le seguenti Classificazioni: Colosso, Fantasma, Gargoyle, Miele e Sussurro.
+   ◊     7.1.6. Modificato il testo per chiarire cosa succede quando un’azione o un’abilità indica a un giocatore di giocare una carta.
    ◊     7.7.8. Aggiunta una regola per chiarire che più istanze dello stesso effetto sostitutivo non possono essere applicate allo stesso evento.
    ◊     8.2.4.–8.2.4.1. Aggiunte regole che spiegano come spostare una o più pile di carte quando si mettono carte in qualsiasi ordine in cima o in fondo
          al mazzo di un giocatore.
@@ -1908,7 +1910,7 @@ Aggiornamenti del Glossario
 
 
 disneylorcana.com
-©Disney                                                                      45
+©Disney                                                                       45
 RIEPILOGHI PRECEDENTI
 22 agosto 2025
 In preparazione all’uscita di Leggende, sono stati apportati i seguenti aggiornamenti alle Regole Complete di Disney Lorcana TCG.

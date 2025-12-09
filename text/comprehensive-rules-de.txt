@@ -877,12 +877,12 @@ disneylorcana.com
 
 disneylorcana.com
 ©Disney                                                                 20
-                           Beispiel A: Die Königin - Imposantes Auftreten mit ihrer Fähigkeit Wer ist die Schönste? die lautet: „Jedes Mal, wenn
-                           dieser Charakter erkundet, darfst du in diesem Zug einem gegnerischen Charakter deiner Wahl -4 {S} und einem
-                           Charakter deiner Wahl +4 {S} geben.“ Wenn der Gegner keinen Charakter im Spiel hat, der für den ersten Teil dieses
-                           Effekts gewählt werden kann, gibt der aktive Spieler trotzdem einem gewählten Charakter +4 {S}.
-                           Beispiel B: Die Fähigkeit von John Silver - Habgieriger Schatzsucher lautet: „Für jeden Ort den du im Spiel hast, erhält
-                           dieser Charakter +1 {L} und Robust +1.“ Dieses „und“ hat keine besondere spielerische Bedeutung.
+                            Beispiel A: Die Königin - Imposantes Auftreten mit ihrer Fähigkeit Wer ist die Schönste? die lautet: „Jedes Mal, wenn
+                            dieser Charakter erkundet, darfst du in diesem Zug einem gegnerischen Charakter deiner Wahl -4 {S} und einem
+                            Charakter deiner Wahl +4 {S} geben.“ Wenn der Gegner keinen Charakter im Spiel hat, der für den ersten Teil dieses
+                            Effekts gewählt werden kann, gibt der aktive Spieler trotzdem einem gewählten Charakter +4 {S}.
+                            Beispiel B: Die Fähigkeit von John Silver - Habgieriger Schatzsucher lautet: „Für jeden Ort den du im Spiel hast, erhält
+                            dieser Charakter +1 {L} und Robust +1.“ Dieses „und“ hat keine besondere spielerische Bedeutung.
         7.1.3. Wenn eine Fähigkeit oder ein Effekt das Wort „kannst“ oder „darfst“ enthält, kann der Spieler, der die Karte gespielt hat, die
                den Effekt ausgelöst hat, wählen, ob er den Effekt ausführen möchte oder nicht. Wenn der Spieler sich dafür entscheidet, den
                Effekt nicht auszuführen, wird kein Teil der „darfst“- oder „kannst“-Klausel ausgeführt.
@@ -894,32 +894,37 @@ disneylorcana.com
                  wenn dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, erhalten deine anderen
                  Charaktere in diesem Zug je +1 {L}.“ Mulan muss einen Charakter verbannen, der nicht sie selbst ist, und sie profitiert nicht von
                  dieser Fähigkeit, da sie nur für deine „anderen“ Charaktere gilt.
-        7.1.6. Wenn eine Fähigkeit oder ein Effekt dich anweist, eine Karte als Teil der Ausführung dieses Effektes zu spielen, musst du den
-                 Effekt zuerst vollständig ausführen, bevor du die Karte spielst. Wenn auf die Anweisung zusätzliche Schritte zur Ausführung
-                 des Effektes folgen, kommt die Karte nicht ins Spiel, bevor der Effekt vollständig ausgeführt ist, selbst wenn sie in eine
-                 andere Zone verschoben wurde.
-                 Beispiel: Der aktive Spieler hat eine Ursula - Täuscht alle im Spiel und erschöpft sie, um Freunde im Schattenreich zu singen.
-                 Ursulas Fähigkeit Was für ein Deal lautet: „Jedes Mal, wenn dieser Charakter ein Lied singt, darfst du dieses Lied erneut von
-                 deinem Ablagestapel kostenlos ausspielen. Lege es danach unter dein Deck.“ Sobald die Ausführung des Liedes beendet ist,
-                 kann der Spieler die ausgelöste Fähigkeit ausführen, was ihm erlaubt, Freunde im Schattenreich erneut zu spielen. Wenn er sich
-                 dafür entscheidet, wird der Effekt des Liedes erst dann ausgeführt, wenn Ursulas auslösbare Fähigkeit vollständig ausgeführt ist.
-                 Sobald Freunde im Schattenreich unter das Deck des aktiven Spielers gelegt wird, zieht dieser 2 Karten.
-        7.1.7. Manchmal kann eine Kombination von Fähigkeiten unendlich oft wiederholt werden, was als „Schleife“ bezeichnet wird. Wenn
-               alle Spieler die Aktionen jeder Iteration der Schleife kennen und verstehen, schlägt der Spieler, der die Schleife ausführt, eine
-               bestimmte Anzahl von Iterationen vor. Es wird davon ausgegangen, dass das Spiel diese Iterationen unmittelbar durchläuft,
-               ohne dass der Spieler jede einzelne davon ausführt. Anschließend wird das Spiel fortgesetzt und es muss eine neue Zugaktion
-               ausgeführt werden.
-        7.1.8. Wenn die Ausführung eines Effekts einem Spieler erlaubt, „bis zu“ N von etwas zu wählen, muss der Spieler für jede Iteration
-               von N eine andere Wahl treffen. „Bis zu“ schließt 0 als legale Wahl ein.
-                 Beispiel: Der Effekt des Liedes Wir malen die Rosen rot lautet: „Gib bis zu 2 Charakteren deiner Wahl in diesem Zug jeweils -1 {S}.
-                 Ziehe 1 Karte.“ Man kann hiermit nicht zweimal denselben Charakter auswählen. Der Spieler der Karte könnte auch 0 Charaktere
-                 wählen.
-
-
+        7.1.6. Wenn eine Aktion oder Fähigkeit einen Spieler anweist, eine Karte als Teil der Ausführung dieser Aktion oder Fähigkeit zu
+                 spielen, wird die Karte gespielt, während die Aktion oder Fähigkeit ausgeführt wird. Alle Effekte, die durch das Ausspielen
+                 dieser Karte entstehen, werden generiert oder dem Beutel hinzugefügt, aber sie warten mit ihrer Ausführung, bis die Aktion
+                 oder Fähigkeit, die den Spieler zum Ausspielen dieser Karte aufgefordert hat, vollständig ausgeführt ist. Dies gilt auch für die
+                 Effekte der Karte, die der Spieler aufgrund der ursprünglichen Aktion oder Fähigkeit spielen musste, selbst wenn diese Karte
+                 in eine andere Zone verschoben wird.
+                 Beispiel: Ein Spieler hat einen „Jim Hawkins - Raumfahrer“ im Spiel und einen Ort namens „Sleepy Hollow – Die Brücke“ in
+                 seinem Ablagestapel. Jim Hawkins hat eine Fähigkeit namens „Ans Ruder stellen“, die lautet: „Jedes Mal, wenn du einen Ort
+                 ausspielst, darfst du diesen Charakter kostenlos zu diesem Ort bewegen.“ Der Spieler spielt dann die Aktion „Bring dich in
+                 Sicherheit!“, die lautet: „Spiele eine Ortskarte aus deinem Ablagestapel, die 3 oder weniger kostet, kostenlos aus.” Falls du
+                 danach einen Sleepy-Hollow-Ort im Spiel hast, ziehe eine Karte. Während der Effekt der Aktion ausgeführt wird, spielt der Spieler
+                 „Sleepy Hollow - Die Brücke“ aus seinem Ablagestapel und bringt ihn ins Spiel. Die auslösbare Fähigkeit „Ans Ruder stellen“ von
+                 Jim Hawkins wird ausgelöst und dem Beutel hinzugefügt, aber noch nicht ausgeführt. Die Aktion „Bring dich in Sicherheit!“ wird
+                 zuerst fertig ausgeführt und der Spieler zieht eine Karte, da er nun einen Ort namens Sleepy Hollow im Spiel hat. Nachdem die
+                 Aktion vollständig ausgeführt wurde, kann der Spieler auslösbare Fähigkeiten wie „Ans Ruder stellen“ aus dem Beutel ausführen.
+                 7.1.6.1.   Ein Effekt, der durch eine auf diese Weise gespielte Aktion erzeugt wird, wird ausgeführt, nachdem die Karte, die
+                            den Spieler angewiesen hat, die Aktion zu spielen, ausgeführt wurde, aber bevor auslösbare Fähigkeiten aus dem
+                            Beutel genommen werden können.
+        7.1.7.   Manchmal kann eine Kombination von Fähigkeiten unendlich oft wiederholt werden, was als „Schleife“ bezeichnet wird. Wenn alle
+                 Spieler die Aktionen jeder Iteration der Schleife kennen und verstehen, schlägt der Spieler, der die Schleife ausführt, eine bestimmte
+                 Anzahl von Iterationen vor. Es wird davon ausgegangen, dass das Spiel diese Iterationen unmittelbar durchläuft, ohne dass der
+                 Spieler jede einzelne davon ausführt. Anschließend wird das Spiel fortgesetzt und es muss eine neue Zugaktion ausgeführt werden.
 
 
 disneylorcana.com
 ©Disney                                                                   21
+        7.1.8. Wenn die Ausführung eines Effekts einem Spieler erlaubt, „bis zu“ N von etwas zu wählen, muss der Spieler für jede Iteration
+                 von N eine andere Wahl treffen. „Bis zu“ schließt 0 als legale Wahl ein.
+                 Beispiel: Der Effekt des Liedes Wir malen die Rosen rot lautet: „Gib bis zu 2 Charakteren deiner Wahl in diesem Zug jeweils -1 {S}.
+                 Ziehe 1 Karte.“ Man kann hiermit nicht zweimal denselben Charakter auswählen. Der Spieler der Karte könnte auch 0 Charaktere
+                 wählen.
         7.1.9.   Einige Fähigkeiten und Effekte verwenden Worte wie „dieser“, „dieses“ oder „jener“ in ihrem Text, um sich auf etwas
                  Bestimmtes zu beziehen. Beim Ausführen von Fähigkeiten und Effekten wird bestimmt, worauf sich „dieser [Spielbegriff]“
                  bezieht, nachdem Entscheidungen getroffen wurden, während die Fähigkeit oder der Effekt ausgeführt wird (siehe 1.2.4).
@@ -953,16 +958,15 @@ disneylorcana.com
         7.1.10. Einige Effekte weisen den aktiven Spieler an, eine oder mehrere Karten aufzudecken. Um eine Karte aufzudecken, zeigt
                  der Spieler die Vorderseite der Karte allen anderen Spielern im Spiel. Der Spieler kann nur Karten aus der Kartengruppe
                  aufdecken, die zuvor im Effekt beschrieben wurde.
-                 Beispiel: Das Lied "Diese Familie" hat einen Effekt, der lautet: "Schau dir die obersten 5 Karten deines Decks an. Du darfst bis zu
-                 2 Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein
-                 Deck.“ Die Karten, die der Spieler aufdecken möchte, können nur von den obersten 5 Karten stammen, die er sich angesehen hat.
-                 Der Spieler kann keine Karten aus einer anderen Kartengruppe aufdecken.
-
 
 
 
 disneylorcana.com
 ©Disney                                                                  22
+                Beispiel: Das Lied "Diese Familie" hat einen Effekt, der lautet: "Schau dir die obersten 5 Karten deines Decks an. Du darfst bis zu
+                2 Charakterkarten daraus aufdecken und auf deine Hand nehmen. Lege die restlichen Karten in beliebiger Reihenfolge unter dein
+                Deck.“ Die Karten, die der Spieler aufdecken möchte, können nur von den obersten 5 Karten stammen, die er sich angesehen hat.
+                Der Spieler kann keine Karten aus einer anderen Kartengruppe aufdecken.
    7.2. Aktionskarten
 
         7.2.1. Das Spielen einer Aktion kann andere Fähigkeiten auslösen. In diesem Fall führt der aktive Spieler die Aktion sofort
@@ -999,13 +1003,13 @@ disneylorcana.com
                            ohne Effekt ausgeführt.
         7.4.5. Einige Auslösbare Fähigkeiten sind wie folgt strukturiert: „[Auslösebedingung], [Effekt]. [Effekt]" Beide Effekte einer solchen
                 Fähigkeit sind an die Auslösebedingung gebunden, aber unabhängig vom jeweils anderen Effekt.
+
+disneylorcana.com
+©Disney                                                                  23
                 Beispiel A: Moana - Von Motunui hat eine Fähigkeit namens Wir kriegen das hin, die lautet: „Jedes Mal, wenn dieser Charakter
                 erkundet, darfst du deine anderen Prinzessinnen bereit machen. Sie können in diesem Zug nicht mehr erkunden.“ Wenn der
                 aktive Spieler sich entscheidet, Vaiana erkunden zu lassen, können seine anderen Prinzessinen in diesem Zug nicht mehr
                 erkunden, unabhängig davon, ob sie durch den ersten Effekt bereit gemacht wurden, oder nicht.
-
-disneylorcana.com
-©Disney                                                                  23
                 Beispiel B: Scar - Übler Betrüger hat eine Fähigkeit namens Papi kann dich diesmal nicht retten, die lautet: „Jedes Mal, wenn
                 dieser Charakter in deinem Zug durch eine Herausforderung einen anderen Charakter verbannt, darfst du ihn bereit machen. Er
                 kann in diesem Zug nicht mehr erkunden.“ Da beide Effekte an die Auslösebedingung gebunden sind, kann Scar normal erkunden,
@@ -1039,32 +1043,35 @@ disneylorcana.com
                            auslösbare Fähigkeit: "Verbanne ihn am Ende deines Zuges." Die auslösbare Fähigkeit existiert außerhalb des Beutels
                            bis zu dem Punkt am Ende des Zuges, wo die am Ende des Zuges Fähigkeiten aufgelöst werden. Dann wird diese
                            Fähigkeit dem Beutel hinzugefügt und aufgelöst.
+
+
+
+
+disneylorcana.com
+©Disney                                                                 24
    7.5. Aktivierbare Fähigkeiten
 
         7.5.1. Aktivierbare Fähigkeiten sind Fähigkeiten, für deren Einsatz sich ein Spieler entscheidet. Sie sind normalerweise wie folgt
                strukturiert: [Kosten] — [Effekt].
         7.5.2. Solange keine Effekte auf ihre Ausführung warten und ein Charakter nicht erkundet oder in einer Herausforderung ist, kann
                der aktive Spieler eine aktivierbare Fähigkeit verwenden.
-
-disneylorcana.com
-©Disney                                                                 24
         7.5.3. Um eine aktivierbare Fähigkeit zu verwenden, führt der aktive Spieler diese Schritte der Reihe nach aus. Wenn ein Teil dieses
-                 Prozesses nicht durchgeführt werden kann, ist es nicht erlaubt, die Fähigkeit zu verwenden. Diese Schritte gelten für alle
-                 aktivierbaren Fähigkeiten. Nur der aktive Spieler kann aktivierbare Fähigkeiten verwenden.
-                 7.5.3.1. Zuerst kündigt der aktive Spieler die Fähigkeit an, die er verwenden möchte.
-                 7.5.3.2. Zweitens folgt der Spieler den Schritten in 4.3.4.4 bis 4.3.4.6, wobei jedes Vorkommen des Wortes „Karte“ durch
-                          das Wort „Fähigkeit“ ersetzt wird.
-                 7.5.3.3. Sobald die Gesamtkosten bezahlt sind, wird die Fähigkeit aktiviert. Der aktive Spieler führt den Effekt sofort aus.
+               Prozesses nicht durchgeführt werden kann, ist es nicht erlaubt, die Fähigkeit zu verwenden. Diese Schritte gelten für alle
+               aktivierbaren Fähigkeiten. Nur der aktive Spieler kann aktivierbare Fähigkeiten verwenden.
+                7.5.3.1. Zuerst kündigt der aktive Spieler die Fähigkeit an, die er verwenden möchte.
+                7.5.3.2. Zweitens folgt der Spieler den Schritten in 4.3.4.4 bis 4.3.4.6, wobei jedes Vorkommen des Wortes „Karte“ durch
+                         das Wort „Fähigkeit“ ersetzt wird.
+                7.5.3.3. Sobald die Gesamtkosten bezahlt sind, wird die Fähigkeit aktiviert. Der aktive Spieler führt den Effekt sofort aus.
 
         7.5.4. Wenn ein Effekt durch einen der Schritte zur Verwendung einer aktivierbaren Fähigkeit ausgelöst würde, wartet dieser Effekt
-                 mit der Ausführung, bis die Fähigkeit vollständig ausgeführt ist.
+                mit der Ausführung, bis die Fähigkeit vollständig ausgeführt ist.
    7.6. Statische Fähigkeiten
 
         7.6.1. Statische Fähigkeiten sind Fähigkeiten, welche die Eigenschaften einer Karte, einer Spielregel oder eines Spielzustands
-                 verändern können. Diese sind für die angegebene Zeitspanne durchgehend aktiv. Eine statische Fähigkeit ohne angegebene
-                 Zeitspanne ist so lange aktiv, wie die Karte mit der Fähigkeit im Spiel ist.
-                 Beispiel: Eine Fähigkeit, die lautet: „Deine erschöpften Charaktere erhalten bis zum Ende des Zuges Behütet“ und eine Fähigkeit,
-                 die lautet: „Deine erschöpften Charaktere erhalten Behütet“ sind beides statische Fähigkeiten.
+                verändern können. Diese sind für die angegebene Zeitspanne durchgehend aktiv. Eine statische Fähigkeit ohne angegebene
+                Zeitspanne ist so lange aktiv, wie die Karte mit der Fähigkeit im Spiel ist.
+                Beispiel: Eine Fähigkeit, die lautet: „Deine erschöpften Charaktere erhalten bis zum Ende des Zuges Behütet“ und eine Fähigkeit,
+                die lautet: „Deine erschöpften Charaktere erhalten Behütet“ sind beides statische Fähigkeiten.
         7.6.2. Wenn du eine Karte spielst, die von einer statischen Fähigkeit beeinflusst wird, erhält sie den Effekt von dem Moment an, wo
                sie gespielt wird. Wenn sich dieser Effekt auf die {S} oder {W} eines Charakters auswirkt, dann kommt der Charakter mit dieser
                modifizierten {S} oder {W} ins Spiel.
@@ -1076,9 +1083,15 @@ disneylorcana.com
                die Karte, die den Effekt erzeugt, im Spiel ist. Sobald eine Karte, die eine statische Fähigkeit erzeugt, das Spiel verlässt, endet
                der Effekt. Es gibt keinen Punkt, an dem eine betroffene Karte die Fähigkeit noch hat und sie dann verliert.
         7.6.5. Einige statische Effekte gelten auch außerhalb des Spiels. Diese geben an, wann und wie diese Effekte wirken.
-                 Beispiel: Chernabog - Übeltäter hat eine Fähigkeit namens Die Macht des Bösen, die lautet: „Für jede Charakterkarte in deinem
-                 Ablagestapel zahlst du 1 {I} weniger, um diesen Charakter auszuspielen.“ Dieser Effekt wirkt außerhalb des Spiels, solange
-                 Chernabog auf deiner Hand ist.
+                Beispiel: Chernabog - Übeltäter hat eine Fähigkeit namens Die Macht des Bösen, die lautet: „Für jede Charakterkarte in deinem
+                Ablagestapel zahlst du 1 {I} weniger, um diesen Charakter auszuspielen.“ Dieser Effekt wirkt außerhalb des Spiels, solange
+                Chernabog auf deiner Hand ist.
+
+
+
+
+disneylorcana.com
+©Disney                                                                25
    7.7. Ersetzungseffekten
 
         7.7.1. Einige Effekte gelten als Ersetzungseffekte. Diese Effekte warten darauf, dass die angegebene Bedingung eintritt, und
@@ -1086,11 +1099,6 @@ disneylorcana.com
         7.7.2. Effekte die das Wort „stattdessen“ enthalten, sind die häufigste Art von Ersetzungseffekten.
                  Beispiel: Gestohlener Säbel hat eine Fähigkeit namens Hieb, die lautet: „{E} — Gib einem Charakter deiner Wahl in diesem Zug
                  +1 {S}. Wählst du einen Aladdin-Charakter, dann gib ihm stattdessen +2 {S}.“
-
-
-
-disneylorcana.com
-©Disney                                                                 25
         7.7.3. Fähigkeiten, die das Wort „Überspringe“ beinhalten sind Ersetzungseffekte.
         7.7.4. Fähigkeiten, die wie folgt lauten: „Dieser Charakter kommt [...]“ oder „Du darfst diesen Charakter [...]“ sind
                Ersetzungseffekte.
@@ -1101,40 +1109,40 @@ disneylorcana.com
                Selbstersetzungseffekte. Diese Effekte werden immer zuerst angewendet.
         7.7.7. Wenn mehrere Instanzen verschiedener Ersatzeffekte auf dasselbe Ereignis angewendet werden können, befolgt der Spieler,
                dessen Karten oder Karteneffekte betroffen sind, die hier aufgeführten Schritte.
-                7.7.7.1.   Wähle zunächst einen Selbstersetzungseffekt aus, falls vorhanden, und fahre mit Abschnitt 7.7.7.3 fort. Wenn kein
-                           Selbstersetzungseffekt vorhanden ist, fahre mit dem nächsten Schritt fort.
-                7.7.7.2.   Wähle dann einen anderen Ersetzungseffekt aus, falls vorhanden.
-                7.7.7.3.   Nachdem der ausgewählte Ersetzungseffekt angewendet wurde, tritt ein modifiziertes Ereignis ein. Wiederhole diesen
-                           Vorgang unter Berücksichtigung anderer Ersetzungseffekte, die auf das geänderte Ereignis angewendet werden
-                           können, bis keine Ersetzungseffekte mehr angewendet werden können.
-                           Beispiel: Der aktive Spieler hat eine Mine der sieben Zwerge im Spiel, und der gegnerische Spieler hat ein Biest –
-                           Selbstloser Beschützer und einen Fabius – Stimme der Vernunft im Spiel. Die Mine der sieben Zwerge hat die Fähigkeit
-                           „Gebirgsverteidigung“, die lautet: „Jedes erste Mal, wenn einer deiner Charaktere in deinem Zug an diesen Ort
-                           bewegt wird, darfst du einem Charakter deiner Wahl 1 Schaden zufügen. Wenn du so einen Ritter bewegt hast, darfst
-                           du einem Charakter deiner Wahl stattdessen 2 Schaden zufügen.“ Biest – Selbstloser Beschützer hat die Fähigkeit
-                           „Andere schützen“ die lautet: „Jedes Mal, wenn einer deiner anderen Charaktere Schaden erhalten würde, lege die
-                           entsprechenden Schadensmarker stattdessen auf diesen Charakter.“
-                           Der aktive Spieler spielt dann Schlafmütz – Ritter der Müdigkeit, einen Charakter mit der Klassifizierung Ritter,
-                           und bewegt ihn zur Mine der sieben Zwerge. Wenn die ausgelöste Fähigkeit des Ortes verrechnet wird, entscheidet
-                           sich der aktive Spieler, Fabius Schaden zuzufügen, was zu folgendem Ereignis führt: Füge Fabius – Stimme der
-                           Vernunft 1 Schaden zu. Die Ersetzungseffekte von der Mine der sieben Zwerge und vom Biest können auf diesen
-                           Effekt angewendet werden. Fabius ist betroffen, daher befolgt der gegnerische Spieler die in den Abschnitten 7.7.7.1
-                           bis 7.7.7.3 aufgeführten Schritte. Zunächst überprüft der gegnerische Spieler, ob es Selbstersetzungseffekte gibt.
-                           Der Effekt der Mine „stattdessen 2 Schaden zufügen“ ist ein Selbstersetzungseffekt, der angewendet werden kann,
-                           also wählt der gegnerische Spieler ihn aus und wendet ihn an. Das geänderte Ereignis lautet somit: Füge Fabius -
-                           Stimme der Vernunft 2 Schaden zu. Die Schritte werden wiederholt, und der gegnerische Spieler überprüft, ob weitere
-                           Selbstersetzungseffekte vorliegen. Da keine gefunden werden, fährt der gegnerische Spieler mit dem nächsten Schritt
-                           fort und prüft, ob weitere Ersetzungseffekte vorliegen. Biest – Selbstloser Beschützer hat einen Ersetzungseffekt, der
-                           angewendet werden kann, also wählt der gegnerische Spieler ihn aus und wendet ihn an, was zu folgendem Ereignis
-                           führt: Lege 2 Schadensmarker auf Biest – Selbstloser Beschützer. Der gegnerische Spieler wiederholt die Schritte, aber
-                           da keine Ersetzungseffekte anwendbar sind, wird der Effekt verrechnet und das Spiel wird fortgesetzt.
-        7.7.8. Zwei oder mehr Instanzen desselben Ersatzeffekts können nicht auf dasselbe Ereignis angewendet werden. Wenn mehrere
-                Instanzen desselben Ersatzeffekts auf dasselbe Ereignis angewendet werden könnten, wählt der Spieler, dessen Karten oder
-                Karteneffekte betroffen sind, einen davon aus, der angewendet wird. Die übrigen verfallen.
+                 7.7.7.1.   Wähle zunächst einen Selbstersetzungseffekt aus, falls vorhanden, und fahre mit Abschnitt 7.7.7.3 fort. Wenn kein
+                            Selbstersetzungseffekt vorhanden ist, fahre mit dem nächsten Schritt fort.
+                 7.7.7.2.   Wähle dann einen anderen Ersetzungseffekt aus, falls vorhanden.
+                 7.7.7.3.   Nachdem der ausgewählte Ersetzungseffekt angewendet wurde, tritt ein modifiziertes Ereignis ein. Wiederhole diesen
+                            Vorgang unter Berücksichtigung anderer Ersetzungseffekte, die auf das geänderte Ereignis angewendet werden
+                            können, bis keine Ersetzungseffekte mehr angewendet werden können.
+                            Beispiel: Der aktive Spieler hat eine Mine der sieben Zwerge im Spiel, und der gegnerische Spieler hat ein Biest –
+                            Selbstloser Beschützer und einen Fabius – Stimme der Vernunft im Spiel. Die Mine der sieben Zwerge hat die Fähigkeit
+                            „Gebirgsverteidigung“, die lautet: „Jedes erste Mal, wenn einer deiner Charaktere in deinem Zug an diesen Ort
+                            bewegt wird, darfst du einem Charakter deiner Wahl 1 Schaden zufügen. Wenn du so einen Ritter bewegt hast, darfst
+                            du einem Charakter deiner Wahl stattdessen 2 Schaden zufügen.“ Biest – Selbstloser Beschützer hat die Fähigkeit
+                            „Andere schützen“ die lautet: „Jedes Mal, wenn einer deiner anderen Charaktere Schaden erhalten würde, lege die
+                            entsprechenden Schadensmarker stattdessen auf diesen Charakter.“
+                            Der aktive Spieler spielt dann Schlafmütz – Ritter der Müdigkeit, einen Charakter mit der Klassifizierung Ritter,
+                            und bewegt ihn zur Mine der sieben Zwerge. Wenn die ausgelöste Fähigkeit des Ortes verrechnet wird, entscheidet
+                            sich der aktive Spieler, Fabius Schaden zuzufügen, was zu folgendem Ereignis führt: Füge Fabius – Stimme der
+                            Vernunft 1 Schaden zu. Die Ersetzungseffekte von der Mine der sieben Zwerge und vom Biest können auf diesen
+                            Effekt angewendet werden. Fabius ist betroffen, daher befolgt der gegnerische Spieler die in den Abschnitten 7.7.7.1
+                            bis 7.7.7.3 aufgeführten Schritte. Zunächst überprüft der gegnerische Spieler, ob es Selbstersetzungseffekte gibt.
+                            Der Effekt der Mine „stattdessen 2 Schaden zufügen“ ist ein Selbstersetzungseffekt, der angewendet werden kann,
+                            also wählt der gegnerische Spieler ihn aus und wendet ihn an. Das geänderte Ereignis lautet somit: Füge Fabius -
+                            Stimme der Vernunft 2 Schaden zu. Die Schritte werden wiederholt, und der gegnerische Spieler überprüft, ob weitere
 
 
 disneylorcana.com
 ©Disney                                                                 26
+                            Selbstersetzungseffekte vorliegen. Da keine gefunden werden, fährt der gegnerische Spieler mit dem nächsten Schritt
+                            fort und prüft, ob weitere Ersetzungseffekte vorliegen. Biest – Selbstloser Beschützer hat einen Ersetzungseffekt, der
+                            angewendet werden kann, also wählt der gegnerische Spieler ihn aus und wendet ihn an, was zu folgendem Ereignis
+                            führt: Lege 2 Schadensmarker auf Biest – Selbstloser Beschützer. Der gegnerische Spieler wiederholt die Schritte, aber
+                            da keine Ersetzungseffekte anwendbar sind, wird der Effekt verrechnet und das Spiel wird fortgesetzt.
+        7.7.8. Zwei oder mehr Instanzen desselben Ersatzeffekts können nicht auf dasselbe Ereignis angewendet werden. Wenn mehrere
+                 Instanzen desselben Ersatzeffekts auf dasselbe Ereignis angewendet werden könnten, wählt der Spieler, dessen Karten oder
+                 Karteneffekte betroffen sind, einen davon aus, der angewendet wird. Die übrigen verfallen.
                  Beispiel: Der aktive Spieler hat eine Rapunzel – Bereit für Abenteuer, Fabius – Stimme der Vernunft und 2 Exemplare von
                  HeiHei – Bootssnack im Spiel. Rapunzel hat eine ausgelöste Fähigkeit namens „Akt der Freundlichkeit“, die lautet: „Jedes
                  Mal, wenn einer deiner Charaktere für Unterstützen ausgewählt wird, erhält er bis zu Beginn deines nächsten Zuges das
@@ -1167,25 +1175,25 @@ disneylorcana.com
                             lange die Karte, die den Modifikator erzeugt, im Spiel ist. Immer wenn ein Modifikator auf die Eigenschaft einer
                             Karte angewendet wird, ändert sich diese Eigenschaft sofort. Bei diesem Vorgang wird der Beutel nicht verwendet
                             (siehe 8.7, „Beutel“).
-                 7.8.1.2.   Wenn mehrere Modifikatoren auf die selbe Eigenschaft einer Karte angewendet werden, geschieht dies nicht
-                            in einer bestimmten Reihenfolge, sondern sie werden kombiniert angewendet. Wenn ein neuer Modifikator auf
-                            die Eigenschaft einer Karte angewendet wird, wird er mit allen anderen darauf angewendeten Modifikatoren
-                            kombiniert.
-                            Beispiel A: Der aktive Spieler spielt Großherzog - Berater des Königs. Er verfügt über eine Fähigkeit namens „Ja,
-                            Euer Majestät“, die lautet: „Deine Prinzessinnen, Prinzen, Königinnen und Könige erhalten +1 {S}.“ Der durch den
-                            Effekt der Fähigkeit generierte Modifikator +1 {S} wird sofort auf die {S} aller Charaktere mit den Klassifizierungen
-                            Prinz, Prinzessin, König und Königin, die der aktive Spieler im Spiel hat, angewendet. Wenn dieser Spieler einen
 
 
 disneylorcana.com
 ©Disney                                                                   27
-                          anderen Charakter mit einer dieser Klassifikationen spielt, während der Großherzog noch im Spiel ist, kommt der neue
-                          Charakter mit dem Modifikator +1 {S} ins Spiel und behält diese Modifikation, bis der Großherzog das Spiel verlässt.
-                          Beispiel B: Der aktive Spieler hat einen HeiHei - Wandernder Hahn mit 2 {S} und 2 {W} im Spiel. HeiHei erhält
-                          +1 {S} durch einen Effekt. Er hat jetzt 3 {S} und 2 {W}. Später im selben Zug gibt ein zusätzlicher Effekt HeiHei -5 {S}.
-                          Damit wird seine {S} zu -2 {S}. modifiziert. Ein weiterer Effekt gibt HeiHei +1 {S}, was ihn insgesamt auf -1 {S} bringt.
-                          Jedes Mal, wenn ein Modifikator auf HeiHei angewendet wird, werden alle anderen auf ihn wirkenden Modifikatoren
-                          gleichzeitig damit kombiniert.
+                7.8.1.2.   Wenn mehrere Modifikatoren auf die selbe Eigenschaft einer Karte angewendet werden, geschieht dies nicht
+                           in einer bestimmten Reihenfolge, sondern sie werden kombiniert angewendet. Wenn ein neuer Modifikator auf
+                           die Eigenschaft einer Karte angewendet wird, wird er mit allen anderen darauf angewendeten Modifikatoren
+                           kombiniert.
+                           Beispiel A: Der aktive Spieler spielt Großherzog - Berater des Königs. Er verfügt über eine Fähigkeit namens „Ja,
+                           Euer Majestät“, die lautet: „Deine Prinzessinnen, Prinzen, Königinnen und Könige erhalten +1 {S}.“ Der durch den
+                           Effekt der Fähigkeit generierte Modifikator +1 {S} wird sofort auf die {S} aller Charaktere mit den Klassifizierungen
+                           Prinz, Prinzessin, König und Königin, die der aktive Spieler im Spiel hat, angewendet. Wenn dieser Spieler einen
+                           anderen Charakter mit einer dieser Klassifikationen spielt, während der Großherzog noch im Spiel ist, kommt der neue
+                           Charakter mit dem Modifikator +1 {S} ins Spiel und behält diese Modifikation, bis der Großherzog das Spiel verlässt.
+                           Beispiel B: Der aktive Spieler hat einen HeiHei - Wandernder Hahn mit 2 {S} und 2 {W} im Spiel. HeiHei erhält
+                           +1 {S} durch einen Effekt. Er hat jetzt 3 {S} und 2 {W}. Später im selben Zug gibt ein zusätzlicher Effekt HeiHei -5 {S}.
+                           Damit wird seine {S} zu -2 {S}. modifiziert. Ein weiterer Effekt gibt HeiHei +1 {S}, was ihn insgesamt auf -1 {S} bringt.
+                           Jedes Mal, wenn ein Modifikator auf HeiHei angewendet wird, werden alle anderen auf ihn wirkenden Modifikatoren
+                           gleichzeitig damit kombiniert.
         7.8.2. Wenn ein Charakter eine negative {S} hat, verursacht er bei Herausforderungen keinen Schaden und die Stärke wird als 0
                 gewertet, außer beim Anwenden weiterer Modifikatoren zum Bestimmen seiner gesamt-{S} (siehe 7.8.1.1 und 7.8.1.2).
                 Beispiel: Der aktive Spieler hat einen Yokai - Wissenschaftlicher Superschurke und einen Microbots im Spiel. Yokai hat eine
@@ -1210,6 +1218,10 @@ disneylorcana.com
                 angewendet wird.
 
 
+
+
+disneylorcana.com
+©Disney                                                                  28
 8. ZONEN
    8.1. Allgemeines
 
@@ -1218,11 +1230,7 @@ disneylorcana.com
                 Beispiel: Der Tisch stellt den Spielbereich der Spieler dar. Obwohl die Decks, Tintenvorräte und Ablagestapel der Spieler physisch
                 diesen Raum einnehmen, sind sie nicht im Spiel, da es sich um separate Zonen handelt.
         8.1.2. Karten in einer öffentlichen Zone sind öffentlich bekannt. Jeder Spieler kann sich die Karten in jeder öffentlichen Zone
-                jederzeit ansehen oder zählen.
-
-
-disneylorcana.com
-©Disney                                                                 28
+               jederzeit ansehen oder zählen.
         8.1.3. Karten in einer privaten Zone sind nicht öffentlich bekannt. Die Spieler dürfen sie nicht ansehen, es sei denn, sie werden durch
                eine Spielregel (z. B. das Ziehen einer Karte) oder einen Effekt dazu aufgefordert. Die Spieler können jederzeit die Anzahl der
                Karten in einer privaten Zone zählen. Solange eine private Zone offen liegt, gilt sie nicht als privat.
@@ -1242,9 +1250,9 @@ disneylorcana.com
         8.2.4. Wenn Karten „in beliebiger Reihenfolge“ auf das Deck gelegt werden – oben oder unten – und mindestens eine der Karten
                offen ist, muss allen Spielern die Reihenfolge bekannt sein, in der die offenen Karten auf oder unter das Deck gelegt werden.
                 8.2.4.1. Befinden sich diese offenen Karten in einem oder mehreren Stapeln und/oder enthalten diese Stapel sowohl offene
-                         als auch verdeckte Karten, können alle Karten in diesen Stapeln mit den anderen Karten, die dem Deck hinzugefügt
-                         werden, einschließlich Karten in anderen Stapeln, kombiniert und beliebig angeordnet werden. Auf diese Karten
-                         werden keine Bedingungen angewendet oder entfernt, bis sie oben oder unten auf das Deck gelegt werden.
+                          als auch verdeckte Karten, können alle Karten in diesen Stapeln mit den anderen Karten, die dem Deck hinzugefügt
+                          werden, einschließlich Karten in anderen Stapeln, kombiniert und beliebig angeordnet werden. Auf diese Karten
+                          werden keine Bedingungen angewendet oder entfernt, bis sie oben oder unten auf das Deck gelegt werden.
    8.3. Hand
 
         8.3.1. Die Hand eines Spielers ist der Ort, an dem die gezogenen Karten aufbewahrt werden. Karten können auch durch andere
@@ -1253,9 +1261,13 @@ disneylorcana.com
         8.3.2. Die Hand ist eine private Zone. Die Spieler können sich die Karten auf ihrer eigenen Hand ansehen, aber zu keiner Zeit die
                Karten auf der Hand eines anderen Spielers. Die Spieler können jederzeit die Anzahl der Karten in jeder Hand zählen. Die
                Spieler können ihre Hände auf jede bequeme und/oder praktische Weise halten und neu anordnen.
+
+
+disneylorcana.com
+©Disney                                                                 29
         8.3.3. Es gibt keine maximale Handgröße. Eine Hand kann nicht weniger als 0 Karten enthalten.
         8.3.4. Wenn ein Effekt einen Spieler zum Abwerfen auffordert, wählt dieser Spieler die angegebene Anzahl von Karten aus seiner
-               Hand und legt sie auf seinen Ablagestapel.
+                Hand und legt sie auf seinen Ablagestapel.
    8.4. Spielzone
 
         8.4.1. Die Spielzone eines Spielers ist der Ort, an dem seine Charaktere, Gegenstände und Orte gespielt werden. Nur Charaktere,
@@ -1263,9 +1275,6 @@ disneylorcana.com
                spielen.
         8.4.2. Nur Karten, die sich in der Spielzone eines Spielers befinden, gelten als im Spiel. Karten außerhalb des Spiels sind nicht im
                Spiel. Karten im Beutel, im Deck, auf dem Ablagestapel, auf der Hand und im Tintenvorrat eines Spielers sind nicht im Spiel.
-
-disneylorcana.com
-©Disney                                                               29
         8.4.3. Die Spielzone ist eine öffentliche Zone. Die Spieler können sich die Karten, die jeder Spieler im Spiel hat, jederzeit ansehen.
                Die Spieler können jederzeit die Anzahl der Karten zählen, die ein Spieler im Spiel hat.
         8.4.4. Immer, wenn eine oder mehrere Karten das Spiel verlassen, wird zuerst geprüft, ob sie oder andere Karten, eine Fähigkeit
@@ -1297,6 +1306,9 @@ disneylorcana.com
                Spieler kann sich die Karten in seinem eigenen Ablagestapel jederzeit ansehen und neu anordnen.
         8.6.4. Wenn mehrere Karten gleichzeitig auf einen Ablagestapel gelegt werden, legt der Spieler sie in beliebiger Reihenfolge dazu.
 
+
+disneylorcana.com
+©Disney                                                               30
    8.7. Beutel
 
         8.7.1. Im Gegensatz zu anderen Zonen ist der Beutel kein physischer Raum, sondern nur ein metaphorischer Ort, an dem die vom
@@ -1306,11 +1318,6 @@ disneylorcana.com
         8.7.3. Immer wenn die Bedingung einer ausgelösten Fähigkeit erfüllt ist, wird die Fähigkeit von dem Spieler, der die Karte mit der
                ausgelösten Fähigkeit gespielt hat, in den Beutel gelegt. Wenn mehrere Fähigkeiten gleichzeitig ausgelöst werden, werden sie
                von den jeweiligen Spielern gleichzeitig in den Beutel gelegt.
-
-
-
-disneylorcana.com
-©Disney                                                                30
         8.7.4. Dann wählt der aktive Spieler eine beliebige seiner ausgelösten Fähigkeiten aus, und führt diese vollständig aus. Wenn die
                Ausführung einer Fähigkeit eine andere Fähigkeit auslöst, wird die neue ausgelöste Fähigkeit in den Beutel gelegt, sobald die
                Ausführung der aktuellen Fähigkeit abgeschlossen ist.
@@ -1341,21 +1348,24 @@ disneylorcana.com
 
         9.3.1. Das Verschieben von Schadensmarkern hat den Effekt, dass eine bestimmte Anzahl von Schadensmarkern von einem
                  ausgewählten Charakter entfernt und die selbe Anzahl auf einen anderen, ausgewählten Charakter hinzugefügt werden.
-                 Beispiel: Der aktive Spieler hat „Simba – Schützender Welpe“ im Spiel mit 1 Schadensmarker auf ihm. Der Gegner hat „Der
-                 Prinz – Gibt niemals auf“ im Spiel, der die Fähigkeit Robust +1 hat. Der aktive Spieler spielt die Aktion „Ein Geschenk machen“,
-                 die lautet: „Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.“ Der
-                 Spieler entscheidet sich dann, 1 Schadensmarker von Simba auf den Prinzen zu verschieben. Der aktive Spieler entfernt also 1
-                 Schadensmarker von Simba und legt ihn auf den Prinzen. Die Robust-Fähigkeitdes Prinzen beeinflusst diesen Schaden nicht, da
-                 es sich nicht um zugefügten Schaden handelt.
-   9.4. Das Spiel verlassen
 
-        9.4.1. Wenn eine Karte mit Schaden das Spiel verlässt, werden bei der Überprüfung des Spielstatus alle Schadensmarker auf der
-                 Karte ungültig.
 
 
 
 disneylorcana.com
-©Disney                                                                 31
+©Disney                                                               31
+                Beispiel: Der aktive Spieler hat „Simba – Schützender Welpe“ im Spiel mit 1 Schadensmarker auf ihm. Der Gegner hat „Der
+                Prinz – Gibt niemals auf“ im Spiel, der die Fähigkeit Robust +1 hat. Der aktive Spieler spielt die Aktion „Ein Geschenk machen“,
+                die lautet: „Verschiebe 1 Schadensmarker von einem Charakter deiner Wahl zu einem gegnerischen Charakter deiner Wahl.“ Der
+                Spieler entscheidet sich dann, 1 Schadensmarker von Simba auf den Prinzen zu verschieben. Der aktive Spieler entfernt also 1
+                Schadensmarker von Simba und legt ihn auf den Prinzen. Die Robust-Fähigkeitdes Prinzen beeinflusst diesen Schaden nicht, da
+                es sich nicht um zugefügten Schaden handelt.
+   9.4. Das Spiel verlassen
+
+        9.4.1. Wenn eine Karte mit Schaden das Spiel verlässt, werden bei der Überprüfung des Spielstatus alle Schadensmarker auf der
+                Karte ungültig.
+
+
 10. SCHLÜSSELWÖRTER
    10.1. Allgemeines
 
@@ -1383,6 +1393,12 @@ disneylorcana.com
         10.3.2. Die erste ist eine statische Fähigkeit, die während des Spielens des Charakters wirkt und einen Ersetzungseffekt erzeugt, Sie
                 bedeutet „Du darfst diesen Charakter erschöpft anstelle von bereit ausspielen“
         10.3.3. Die Zweite ist eine statische Fähigkeit, die eine Einschränkung für Herausforderungen erschafft. Sie bedeutet „Wenn ein
+
+
+
+
+disneylorcana.com
+©Disney                                                                32
                 Spieler einen deiner Charaktere für eine Herausforderung auswählen möchte, muss er diesen Charakter, oder einen anderen
                 Charakter mit Beschützen auswählen, sofern das möglich ist.
         10.3.4. Der standardmäßige Erinnerungstext für Beschützen ist: „(Du darfst diesen Charakter erschöpft ausspielen. Gegnerische
@@ -1395,12 +1411,8 @@ disneylorcana.com
                 Karte deines Decks verdeckt unter diesen Charakter zu legen.)“
         10.4.3. Kein Spieler darf sich jemals die Vorderseite einer Karte ansehen, die verdeckt unter eine andere Karte gelegt wurde – auch
                 nicht die eigene.
-
-
-disneylorcana.com
-©Disney                                                                32
         10.4.4. Wenn eine Karte unter einer anderen Karte liegt, gilt sie nicht als im Spiel. Eine Karte mit Stärken unter eine andere Karte zu
-                  legen, gilt nicht als Ausspielen dieser Karte.
+                legen, gilt nicht als Ausspielen dieser Karte.
    10.5. Herausfordern
 
         10.5.1. Das Schlüsselwort Herausfordern repräsentiert eine statische Fähigkeit, die wirkt, wenn ein Charakter herausfordert.
@@ -1428,8 +1440,12 @@ disneylorcana.com
    10.8. Robust
 
         10.8.1. Das Schlüsselwort Robust repräsentiert eine statische Fähigkeit, die einen Ersetzungseffekt erzeugt. Robust +N bedeutet:
-                „Wenn diesem Charakter oder Ort Schaden zugefügt würde, wird diesem Charakter oder Ort stattdessen N Schaden weniger
-                zugefügt.“ Da dies eine +N Fähigkeit ist, ist sie mit anderen Robust-Effekten stapelbar.
+                  „Wenn diesem Charakter oder Ort Schaden zugefügt würde, wird diesem Charakter oder Ort stattdessen N Schaden weniger
+                  zugefügt.“ Da dies eine +N Fähigkeit ist, ist sie mit anderen Robust-Effekten stapelbar.
+
+
+disneylorcana.com
+©Disney                                                                33
         10.8.2. Der standardmäßige Erinnerungstext für einen Charakter mit Robust ist: „(Reduziere jeglichen Schaden, der diesem Charakter
                 zugefügt wird, um N.)“ Der standardmäßige Erinnerungstext für einen Ort mit Robust ist: „(Reduziere jeglichen Schaden, der
                 diesem Ort zugefügt wird, um N.)“
@@ -1441,11 +1457,6 @@ disneylorcana.com
                 ob er zu Beginn deines Zuges im Spiel gewesen wäre.“
         10.9.2. Der standardmäßige Erinnerungstext für Rasantist: „(Dieser Charakter kann im selben Zug herausfordern, in dem er ausgespielt wird.)“
 
-
-
-
-disneylorcana.com
-©Disney                                                                 33
    10.10. Gestaltwandel
 
         10.10.1. Das Schlüsselwort Gestaltwandel bezeichnet das Bezahlen alternativer Kosten, um einen Charakter auszuspielen, anstatt seine
@@ -1474,22 +1485,22 @@ disneylorcana.com
          10.10.9. Das Schlüsselwort Gestaltwandel hat zwei Varianten: [Klassifizierung] Gestaltwandel und Universal Gestaltwandel. Bei diesen
                   Varianten von Schlüsselwortfähigkeiten handelt es sich um Gestaltwandel-Fähigkeiten. Dies bedeutet, dass sie mit den
                   folgenden Ausnahmen alle Regeln für das Gestaltwandel-Schlüsselwort befolgen.
-                10.10.9.1. [Klassifizierung] Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der die durch diese Fähigkeit
-                           angegebene [Klassifizierung] besitzt, kannst du diesen Charakter spielen, indem du seine Gestaltwandel
-                           Kosten anstelle der Tintenkosten bezahlst. Falls du dies tust, lege diese Karte auf einen anderen Charakter mit
-                           der angegebenen Klassifizierung, den du im Spiel hast.“ Der Standard-Erinnerungstext für [Klassifizierung]
-                           Gestaltwandel lautet: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner [Klassifizierung]
-                           auszuspielen.)“
-                10.10.9.2. Universal Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, kannst du diesen Charakter spielen,
-                           indem du seine Gestaltwandel-Kosten anstelle der Tintenkosten zahlst. Wenn du dies tust, lege diese Karte oben auf
-                           einen anderen Charakter, den du im Spiel hast.“ Der Standard-Erinnerungstext für Universal Gestaltwandel lautet
-                           „(Du kannst [Kosten zahlen], um diesen Charakter auf irgendeinen deiner Charaktere auszuspielen.)“
 
 
 
 
 disneylorcana.com
-©Disney                                                               34
+©Disney                                                                 34
+                  10.10.9.1. [Klassifizierung] Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, der die durch diese Fähigkeit
+                             angegebene [Klassifizierung] besitzt, kannst du diesen Charakter spielen, indem du seine Gestaltwandel
+                             Kosten anstelle der Tintenkosten bezahlst. Falls du dies tust, lege diese Karte auf einen anderen Charakter mit
+                             der angegebenen Klassifizierung, den du im Spiel hast.“ Der Standard-Erinnerungstext für [Klassifizierung]
+                             Gestaltwandel lautet: „(Du kannst [Kosten zahlen], um diesen Charakter auf einen deiner [Klassifizierung]
+                             auszuspielen.)“
+                  10.10.9.2. Universal Gestaltwandel bedeutet: „Wenn du einen Charakter im Spiel hast, kannst du diesen Charakter spielen,
+                             indem du seine Gestaltwandel-Kosten anstelle der Tintenkosten zahlst. Wenn du dies tust, lege diese Karte oben auf
+                             einen anderen Charakter, den du im Spiel hast.“ Der Standard-Erinnerungstext für Universal Gestaltwandel lautet
+                             „(Du kannst [Kosten zahlen], um diesen Charakter auf irgendeinen deiner Charaktere auszuspielen.)“
    10.11.Singen
 
         10.11.1. Das Schlüsselwort Singen repräsentiert eine statische Fähigkeit, die beeinflusst, wie ein Charakter die alternativen Kosten
@@ -1519,7 +1530,11 @@ disneylorcana.com
    10.14. Verschwinden
 
         10.14.1. Das Schlüsselwort „Verschwinden“ stellt eine auslösbare Fähigkeit dar. Verschwinden bedeutet „Wenn dieser Charakter von
-                 einer gegnerischen Aktion ausgewählt wird, verbanne diesen Charakter.“
+                  einer gegnerischen Aktion ausgewählt wird, verbanne diesen Charakter.“
+
+
+disneylorcana.com
+©Disney                                                                 35
         10.14.2. Der Standard-Erinnerungstext für Verschwinden lautet: „(Jedes Mal, wenn dieser Charakter von einer Aktion einer
                  gegnerischen Person ausgewählt wird, verbanne ihn.)“
         10.14.3. Die durch Verschwinden ausgelöste Fähigkeit wird ausgeführt, nachdem der Effekt der Aktion komplett ausgeführt wurde. Wenn
@@ -1532,8 +1547,11 @@ disneylorcana.com
                  um ihn herauszufordern.)“
         10.15.3. Effekte, die nicht auswählen, betreffen einen Charakter mit Behütetweiterhin.
 
+
+
+
 disneylorcana.com
-©Disney                                                                 35
+©Disney                                                                 36
 GLOSSAR
 Ablagestapel
 Der einzige offene Stapel, auf den Aktionen gelegt werden, nachdem sie ausgeführt wurden, und auf den jene Karten gelegt werden, welche aus
@@ -1576,7 +1594,7 @@ kann mehrere Kopien eines Charakters mit demselben Namen in seinem Deck haben, a
 
 
 disneylorcana.com
-©Disney                                                                       36
+©Disney                                                                       37
 Deck
 Ein Satz von Karten, den ein Spieler im Spiel verwendet. Die Parameter des Decks werden durch das gespielte Format definiert. Beispielsweise
 besteht ein Deck im Core Constructed aus 60 oder mehr Karten, bis zu zwei Tintenfarben und bis zu 4 Karten mit demselben Namen und Version
@@ -1618,7 +1636,7 @@ Ein Zug in einigen Mehrspieler-Spielen in welchem alle Spieler im selben Team gl
 Fähigkeiten und Effekte werden vom Team als Ganzes in den Beutel gelegt, und das Team wählt gemeinsam die Reihenfolge, in der sie ausgeführt werden.
 
 disneylorcana.com
-©Disney                                                                       37
+©Disney                                                                       38
 Hand
 Die private Zone, in der die von einem Spieler gezogenen Karten aufbewahrt werden.
 Herausfordernder/herausgeforderter Charakter
@@ -1662,7 +1680,7 @@ Mehrspieler-Spiele werden mit 3 oder mehr Spielern gespielt.
 
 
 disneylorcana.com
-©Disney                                                                       38
+©Disney                                                                       39
 Mischen
 Das zufällige Anordnen der Karten in einem Deck.
 Name
@@ -1706,7 +1724,7 @@ Solange eine private Zone offen liegt, gilt sie nicht als privat.
 
 
 disneylorcana.com
-©Disney                                                                  39
+©Disney                                                                  40
 Schaden
 Schaden an einem Charakter oder einem Ort wird durch Schadensmarker dargestellt und wird gegen seine Willenskraft {W} berechnet. Schaden
 wird durch Charaktere in einer Herausforderung und durch einige Effekte zugefügt. Wenn eine Karte mit Schaden aus dem Spiel in eine beliebige
@@ -1750,7 +1768,7 @@ Der Spieler, der als erster an der Reihe ist, wird vor Spielbeginn zufällig bes
 
 
 disneylorcana.com
-©Disney                                                                       40
+©Disney                                                                       41
 Statische Fähigkeit
 Statische Fähigkeiten sind Fähigkeiten, welche die Eigenschaften einer Karte, einer Spielregel oder eines Spielzustands verändern können.
 Statische Fähigkeiten sind Effekte, die ständig vorhanden sind, entweder für eine bestimmte Zeit oder so lange, wie die Karte, die den Effekt
@@ -1795,7 +1813,7 @@ verdeckte Karte gilt niemals als im Spiel.
 
 
 disneylorcana.com
-©Disney                                                                   41
+©Disney                                                                   42
 Version
 Eine Zusatz zum Namen, der dazu dient bei der Zusammenstellung eines Decks Karten mit demselben Namen zu unterscheiden. Der Name eines
 Charakters oder eines Ortes und die Version bilden zusammen den vollständigen Namen der Karte.
@@ -1826,7 +1844,7 @@ Erkunden, das Herausfordern, das Bewegen eines Charakters an einen Ort und das B
 
 
 disneylorcana.com
-©Disney                                                                    42
+©Disney                                                                    43
 UPDATE-ZUSAMMENFASSUNG
 31. Oktober 2025
 Zur Vorbereitung auf die Veröffentlichung von Geflüster aus der Tiefe wurden die folgenden Aktualisierungen an den Disney Lorcana TCG-Umfassenden
@@ -1869,7 +1887,7 @@ identifizieren und zu definieren.
 
 
 disneylorcana.com
-©Disney                                                                      43
+©Disney                                                                      44
      5.1.10. Mit der Rückseite nach oben – Eine Karte im Spielbereich, deren Rückseite (d. h. die Seite mit dem Luminarium-Symbol) zu den Spielern zeigt
              und deren Vorderseite (d. h. die Seite mit den Kosten und Klassifizierungen der Karte) nach unten zur Spielfläche zeigt, gilt als verdeckt. Kein
              Spieler darf zu irgendeinem Zeitpunkt die Vorderseite einer verdeckten Karte betrachten, die unter einer anderen Karte liegt, auch nicht seine
@@ -1913,7 +1931,7 @@ Die technische Definition und der Standard-Erinnerungstext für die Alamiert Sch
 
 
 disneylorcana.com
-©Disney                                                                      44
+©Disney                                                                      45
 Stärken Schlüsselwort-Fähigkeit
 Die technische Definition und der Standard-Erinnerungstext für die Stärken Schlüsselwort-Fähigkeit wurden hinzugefügt.
      10.4. Stärken
@@ -1928,6 +1946,8 @@ Die technische Definition und der Standard-Erinnerungstext für die Stärken Sch
 
 Allgemeine Aktualisierungen
     ◊ 6.1.2.2. Folgende Klassifizierungen wurden hinzugefügt: Koloss, Gargoyle, Geist, Honig und Geflüster.
+   ◊    7.1.6. Die Formulierung wurde angepasst, um zu verdeutlichen, was passiert, wenn eine Aktion oder Fähigkeit einen Spieler anweist, eine Karte zu
+        spielen.
    ◊    7.7.8. Eine Regel wurde hinzugefügt, um klarzustellen, dass mehrere Instanzen desselben Ersatz-Effekts nicht auf dasselbe Ereignis angewendet
         werden können.
    ◊    8.2.4.–8.2.4.1. Regeln hinzugefügt, die beschreiben, wie ein oder mehrere Stapel Karten bewegt werden, wenn Karten in beliebiger Reihenfolge
@@ -1950,7 +1970,7 @@ Glossar-Updates
 
 
 disneylorcana.com
-©Disney                                                                    45
+©Disney                                                                    46
 ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
 22. August 2025
 Zur Vorbereitung auf die Veröffentlichung von Mythenwurden die folgenden Aktualisierungen an den umfassenden Regeln für das Disney Lorcana TCG
@@ -1970,7 +1990,7 @@ Glossar-Aktualisierungen
 
 
 disneylorcana.com
-©Disney                                                                     46
+©Disney                                                                     47
 ZUSAMMENFASSUNG DER VORHERIGEN AKTUALISIERUNG
 27. Mai 2025
 Zur Vorbereitung auf die Veröffentlichung von Domäne von Dschafar wurden die folgenden Aktualisierungen an dem Umfassenden Regelwerk von
@@ -2015,7 +2035,7 @@ Die folgende Formulierung wurde zu Abschnitt 7.7 hinzugefügt.
            Jegliche Fähigkeiten oder Effekte, die aufgrund dieses Schritts oder dieser Phase eintreten würden, treten nicht ein.
 
 disneylorcana.com
-©Disney                                                                        47
+©Disney                                                                        48
 		 Beispiel: Arthur - Entschlossener Knappe“ hat die Fähigkeit „Keine Bücher mehr. Überspringe den Schritt „Ziehen“ in deinem Zug“ Wenn
    ein Spieler seine Zieh-Phase beginnt und Arthur im Spiel ist, überspringt er seine Zieh-Phase und wechselt sofort in die Hauptphase seines
    Zuges. Findet ein Spieler jedoch eine Möglichkeit, Arthur während seiner Zieh-Phase ins Spiel zu bringen, wird die aktuelle Zieh-Phase nicht
@@ -2037,4 +2057,4 @@ Glossar-Aktualisierungen
 
 
 disneylorcana.com
-©Disney                                                                    48
+©Disney                                                                    49

@@ -853,13 +853,13 @@ disneylorcana.com
 
 disneylorcana.com
 ©Disney                                                                   20
-                           Exemple A : La capacité ‘Qui est la plus belle ?’ de la Reine - Autorité naturelle indique “Lorsque ce personnage est
-                           envoyé à l’aventure, choisissez un personnage qui gagne +4 {S} et un personnage adverse qui subit -4 {S}, pour le reste
-                           de ce tour.” Même si l’adversaire n’a pas de personnage en jeu pouvant subir l’effet indiqué dans la deuxième partie, le
-                           joueur actif peut quand même choisir un personnage et lui donner +4 {S}.
-                           Exemple B : La capacité ‘Choisis toi-même ton cap’ de John Silver - Chasseur de trésor avide indique “Ce personnage
-                           gagne +1 {L} et Résistance +1 pour chaque lieu que vous avez en jeu.” Le “et” dans cet exemple n’a aucune signification
-                           particulière pour le jeu.
+                            Exemple A : La capacité ‘Qui est la plus belle ?’ de la Reine - Autorité naturelle indique “Lorsque ce personnage est
+                            envoyé à l’aventure, choisissez un personnage qui gagne +4 {S} et un personnage adverse qui subit -4 {S}, pour le reste
+                            de ce tour.” Même si l’adversaire n’a pas de personnage en jeu pouvant subir l’effet indiqué dans la deuxième partie, le
+                            joueur actif peut quand même choisir un personnage et lui donner +4 {S}.
+                            Exemple B : La capacité ‘Choisis toi-même ton cap’ de John Silver - Chasseur de trésor avide indique “Ce personnage
+                            gagne +1 {L} et Résistance +1 pour chaque lieu que vous avez en jeu.” Le “et” dans cet exemple n’a aucune signification
+                            particulière pour le jeu.
         7.1.3. Si une capacité ou un effet contient le mot “peut”, le joueur ayant joué la carte à l’origine choisit s’il réalise cet effet ou non. Si
                le joueur choisit de ne pas appliquer l’effet, aucun élément de la clause commençant par “vous pouvez” ne peut être réalisé.
         7.1.4. Si une capacité ou un effet place une carte “dans votre main” depuis n’importe quelle zone autre que la pioche, ce n’est pas
@@ -869,16 +869,21 @@ disneylorcana.com
                  Exemple : Mulan - Soldat impérial indique : “Lorsque ce personnage en bannit un autre via un défi durant votre tour, tous vos
                  autres personnages gagnent +1 {L} pour le reste de ce tour.” Mulan doit bannir un personnage autre qu’elle-même et ne bénéficie
                  pas du bonus apporté par sa capacité, qui ne s’applique qu’à vos autres personnages.
-        7.1.6. Si une capacité ou un effet vous demande de jouer une carte dans le cadre de la résolution de cette capacité, vous devez
-                 résoudre la capacité avant de jouer la carte. Si l’instruction est suivie d’étapes supplémentaires pour la résolution de la
-                 capacité, la carte n’est pas résolue et n’entre pas en jeu tant que la capacité n’est pas entièrement résolue, même si elle est
-                 déplacée dans une zone différente.
-                 Exemple : Le joueur actif a Ursula - La plus perfide de toutes en jeu et l’épuise pour chanter Mes Amis de l’Au-Delà. La capacité
-                 ‘Quel contrat’ d’Ursula indique : “Chaque fois que ce personnage chante une chanson, vous pouvez rejouer gratuitement cette
-                 chanson depuis votre défausse. Si vous le faites, mettez cette carte sous votre pioche au lieu de la mettre dans votre défausse.”
-                 Une fois la chanson résolue, le joueur peut résoudre la capacité déclenchée, ce qui lui permet de rejouer Mes Amis de l’Au-Delà.
-                 S’il choisit de le faire, l’effet de la carte Chanson attend pour se résoudre que la capacité déclenchée d’Ursula soit entièrement
-                 résolue. Une fois que Mes Amis de l’Au-Delà est placé sous la pioche du joueur actif, ce dernier pioche 2 cartes.
+        7.1.6. Si une action ou une capacité demande à un joueur de jouer une carte dans le cadre de la résolution de cette action ou
+                 capacité, la carte est jouée pendant la résolution de l’action ou de la capacité. Tous les effets résultant du fait d’avoir jouer
+                 cette carte sont générés ou ajoutés au sac, mais ils attendent que l’action ou la capacité qui a demandé au joueur de jouer
+                 cette carte soit résolue pour être résolus. Cela s’applique également aux effets de la carte que le joueur a été demandé de
+                 jouer par l’action ou la capacité initiale, même si cette carte est déplacée vers une autre zone.
+                 Exemple : Un joueur a un Jim Hawkins – Voyageur de l’espace en jeu et un lieu nommé Sleepy Hollow – Le Pont dans sa défausse.
+                 Jim Hawkins possède a capacité ‘Il faut te mettre à la barre’ qui indique : “Chaque fois que vous jouez un lieu, vous pouvez y
+                 déplacer ce personnage gratuitement.” Le joueur joue ensuite l’action Vite à l’abri ! dont l’effet indique : “Jouez gratuitement un
+                 lieu de votre défausse coûtant 3 ou moins. Ensuite, si vous avez un lieu nommé Sleepy Hollow en jeu, piochez une carte.” Lorsque
+                 l’effet de l’action se résout, le joueur joue le lieu Sleepy Hollow depuis sa défausse et le met en jeu. La capacité déclenchée ‘Il
+                 faut te mettre à la barre’ de Jim Hawkins se déclenche et est ajoutée au sac, mais elle ne se résout pas encore. La résolution de
+                 Vite à l’abri ! se poursuit, et le joueur pioche une carte car Sleepy Hollow est désormais en jeu. Une fois l’action résolue, le joueur
+                 peut résoudre les capacités déclenchées telles que ‘Il faut te mettre à la barre’ depuis le sac.
+                 7.1.6.1.   Un effet généré par une action jouée de cette manière se résout après que la carte qui a demandé au joueur de
+                            jouer l’action a fini de se résoudre, mais avant que les capacités déclenchées puissent être prises dans le sac.
         7.1.7. Parfois, une combinaison de capacités peut être répétée indéfiniment, ce que l’on appelle une “boucle”. Si tous les joueurs
                connaissent et comprennent les actions de chaque répétitions de la boucle, le joueur qui maintient la boucle propose un
                nombre spécifique d’itérations. La partie progresse alors à la fin du nombre de répétitions défini sans qu’il ne soit nécessaire
@@ -887,57 +892,51 @@ disneylorcana.com
                choix pour chaque itération de N. “Jusqu’à” autorise 0 comme choix légal.
                  Exemple : La chanson Peignons les roses en rouge indique : “Choisissez jusqu’à 2 personnages, ils subissent -1 {S} pour le reste de ce
                  tour. Piochez 1 carte.” Le même personnage ne peut être choisi deux fois. Le joueur de la carte peut également choisir 0 personnage.
+
+disneylorcana.com
+©Disney                                                                     21
         7.1.9.   Certaines capacités et certains effets utilisent “ça/cette/ce” dans leur texte pour faire référence à un terme de jeu spécifique.
                  Lors de la résolution des capacités et des effets, la détermination de ce que “ce/cette [terme]” désigne se fait après que les
                  choix ont été faits lors de la résolution de la capacité ou de l’effet (voir 1.2.4).
-
-
-
-disneylorcana.com
-©Disney                                                                    21
-                Exemple A : La capacité Quel Contrat d’Ursula - La Plus Perfid de Toutes se lit comme suit, “Chaque fois que ce personnage
-                chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si vous le faites, mettez cette carte
-                sous votre pioche au lieu de la mettre dans votre défausse.” Ici, “cette chanson” fait référence à la chanson qui vient d’être
-                chantée par Ursula, et pas d’une autre chanson présente dans votre défausse.
-                Exemple B : Yzma – Au-dessus de Tout a la capacité ‘Au Boulot’, qui indique “Chaque fois qu’un autre personnage est banni via
-                un défi, renvoyez-le dans la main de son joueur, puis ce joueur se défausse d’une carte au hasard.” Lorsque la capacité d’Yzma
-                se résout, le joueur d’Yzma commence par déterminer quels sont les choix à effectuer. Ensuite, il détermine que la carte à être
-                renvoyée, désignée par “le”, est le personnage banni via un défi, et que “ce joueur” est le joueur dont le personnage vient d’être
-                banni. Ces désignations sont effectuées lorsque l’effet se résout.
-                7.1.9.1.   Si le texte de la carte fait référence à une zone spécifique où “cette” carte est posée ou située, seule cette zone est
-                           vérifiée. Si la carte référencée par “ça/ce/cette” a changé de zone, la partie de l’effet vérifiant la zone pour “cette”
-                           carte échoue et se résout sans effet, même s’il y a d’autres cartes dont le nom complet correspond au nom complet
-                           de “cette” carte. Le joueur résout le restant de l’effet autant qu’il lui est possible de le faire.
-                           Exemple : Un joueur a 2 exemplaires d’Ursula - La plus perfide de toutes en jeu et les utilise toutes les deux pour
-                           chanter une chanson en utilisant sa capacité À l’unisson. La capacité ‘Quel Contrat’ d’Ursula indique : “Chaque fois
-                           que ce personnage chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si
-                           vous le faites, mettez cette carte sous votre pioche au lieu de la mettre dans votre défausse” Comme les deux copies
-                           d’Ursula ont été utilisées pour chanter ensemble, leurs deux capacités “Quel contrat” sont déclenchées et ajoutées au
-                           sac pour être résolues.
-                           Lorsque la première capacité déclenchée se résout, la carte Chanson jouée en utilisant À l’unisson est placée sous
-                           la pioche du joueur. Lorsque la deuxième capacité déclenchée se résout, la carte “cette chanson” n’est plus dans la
-                           défausse, donc cette partie de l’effet se résout sans effet. De la même manière, “cette chanson” ne fait désormais plus
-                           référence à une chanson spécifique ; la portion suivante de l’effet échoue à se résoudre elle aussi. Même s’il y a une
-                           autre carte chanson portant le même nom dans la défausse, “cette chanson” ne fait référence qu’à la carte Chanson
-                           spécifique qui a été chantée par Ursula lorsque les capacités déclenchées ont été ajoutées au sac, et non à une autre
-                           carte Chanson portant le même nom.
-                7.1.9.2.   Certaines capacités et effets utilisent “-ci” pour désigner la carte ayant produit l’effet, ou pour désigner un élément
-                           avec plus de proximité qu’une cible plus lointaine.
-                           Exemple : Chef Bogo – Fan de Gazelle a une capacité nommée ‘’Vous aussi, vous aimez Gazelle ?’’ qui a pour effet :
-                           ‘’Tant que vous avez un personnage Gazelle en jeu, ce personnage-ci gagne Mélomane 6.’’ Chef Bogo – Fan de Gazelle
-                           se confère Mélomane 6 à lui-même, et non aux personnages Gazelle en jeu.
+                 Exemple A : La capacité Quel Contrat d’Ursula - La Plus Perfid de Toutes se lit comme suit, “Chaque fois que ce personnage
+                 chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si vous le faites, mettez cette carte
+                 sous votre pioche au lieu de la mettre dans votre défausse.” Ici, “cette chanson” fait référence à la chanson qui vient d’être
+                 chantée par Ursula, et pas d’une autre chanson présente dans votre défausse.
+                 Exemple B : Yzma – Au-dessus de Tout a la capacité ‘Au Boulot’, qui indique “Chaque fois qu’un autre personnage est banni via
+                 un défi, renvoyez-le dans la main de son joueur, puis ce joueur se défausse d’une carte au hasard.” Lorsque la capacité d’Yzma
+                 se résout, le joueur d’Yzma commence par déterminer quels sont les choix à effectuer. Ensuite, il détermine que la carte à être
+                 renvoyée, désignée par “le”, est le personnage banni via un défi, et que “ce joueur” est le joueur dont le personnage vient d’être
+                 banni. Ces désignations sont effectuées lorsque l’effet se résout.
+                 7.1.9.1.   Si le texte de la carte fait référence à une zone spécifique où “cette” carte est posée ou située, seule cette zone est
+                            vérifiée. Si la carte référencée par “ça/ce/cette” a changé de zone, la partie de l’effet vérifiant la zone pour “cette”
+                            carte échoue et se résout sans effet, même s’il y a d’autres cartes dont le nom complet correspond au nom complet
+                            de “cette” carte. Le joueur résout le restant de l’effet autant qu’il lui est possible de le faire.
+                            Exemple : Un joueur a 2 exemplaires d’Ursula - La plus perfide de toutes en jeu et les utilise toutes les deux pour chanter une
+                            chanson en utilisant sa capacité À l’unisson. La capacité ‘Quel Contrat’ d’Ursula indique : “Chaque fois que ce personnage
+                            chante une chanson, vous pouvez rejouer gratuitement cette chanson depuis votre défausse. Si vous le faites, mettez cette
+                            carte sous votre pioche au lieu de la mettre dans votre défausse” Comme les deux copies d’Ursula ont été utilisées pour
+                            chanter ensemble, leurs deux capacités “Quel contrat” sont déclenchées et ajoutées au sac pour être résolues.
+                            Lorsque la première capacité déclenchée se résout, la carte Chanson jouée en utilisant À l’unisson est placée sous la pioche du
+                            joueur. Lorsque la deuxième capacité déclenchée se résout, la carte “cette chanson” n’est plus dans la défausse, donc cette
+                            partie de l’effet se résout sans effet. De la même manière, “cette chanson” ne fait désormais plus référence à une chanson
+                            spécifique ; la portion suivante de l’effet échoue à se résoudre elle aussi. Même s’il y a une autre carte chanson portant le
+                            même nom dans la défausse, “cette chanson” ne fait référence qu’à la carte Chanson spécifique qui a été chantée par Ursula
+                            lorsque les capacités déclenchées ont été ajoutées au sac, et non à une autre carte Chanson portant le même nom.
+                 7.1.9.2.   Certaines capacités et effets utilisent “-ci” pour désigner la carte ayant produit l’effet, ou pour désigner un élément
+                            avec plus de proximité qu’une cible plus lointaine.
+                            Exemple : Chef Bogo – Fan de Gazelle a une capacité nommée ‘’Vous aussi, vous aimez Gazelle ?’’ qui a pour effet :
+                            ‘’Tant que vous avez un personnage Gazelle en jeu, ce personnage-ci gagne Mélomane 6.’’ Chef Bogo – Fan de Gazelle
+                            se confère Mélomane 6 à lui-même, et non aux personnages Gazelle en jeu.
         7.1.10. Certains effets demandent au joueur actif de révéler une ou plusieurs cartes. Pour révéler une carte, le joueur montre le recto
-                de la carte à l’ensemble des joueurs de la partie. Le joueur ne peut révéler que les cartes correspondant au groupe de cartes
-                indiqué par l’effet qui a été déclenché.
-                Exemple : L’effet de la chanson “On est une famille” indique : “Regardez les 5 premières cartes de votre pioche. Vous pouvez
-                révéler jusqu’à 2 cartes Personnage parmi elles et les ajouter à votre main. Remettez le reste sous votre pioche, dans l’ordre
-                de votre choix.” Les cartes que le joueur choisit de révéler ne peuvent provenir que des 5 premières cartes qu’il a regardées. Le
-                joueur ne peut pas choisir de révéler des cartes d’un autre groupe de cartes.
-
-
+                 de la carte à l’ensemble des joueurs de la partie. Le joueur ne peut révéler que les cartes correspondant au groupe de cartes
+                 indiqué par l’effet qui a été déclenché.
+                 Exemple : L’effet de la chanson “On est une famille” indique : “Regardez les 5 premières cartes de votre pioche. Vous pouvez
+                 révéler jusqu’à 2 cartes Personnage parmi elles et les ajouter à votre main. Remettez le reste sous votre pioche, dans l’ordre
+                 de votre choix.” Les cartes que le joueur choisit de révéler ne peuvent provenir que des 5 premières cartes qu’il a regardées. Le
+                 joueur ne peut pas choisir de révéler des cartes d’un autre groupe de cartes.
 
 disneylorcana.com
-©Disney                                                                  22
+©Disney                                                                     22
    7.2. Cartes Action
 
         7.2.1. Jouer une action peut déclencher des capacités. Dans ce cas, le joueur actif doit résoudre les effets de l’action
@@ -1887,6 +1886,7 @@ Ajout de la définition technique et du texte de rappel standard pour la capacit
 
 Mises à jour générales
    ◊ 6.1.2.2. Ajout des classifications suivantes : Colosse, Gargouille, Fantôme, Miel et Lueur.
+   ◊     7.1.6. Ajustement du texte pour clarifier ce qui se passe lorsqu’une action ou une capacité demande à un joueur de jouer une carte.
    ◊     7.7.8. Ajout d’une règle pour clarifier que plusieurs occurrences du même effets de substitution ne peuvent pas s’appliquer au même événement.
    ◊     8.2.4.–8.2.4.1. Ajout de règles détaillant comment déplacer une ou plusieurs piles de cartes lors du placement de cartes dans n’importe quel
          ordre sur ou sous la pioche d’un joueur.

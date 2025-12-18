@@ -33,6 +33,7 @@ class ResourcesHTMLParser(HTMLParser):
     )
 
     TEXT_FILE_NAMES = {
+        "CORE - Lore Guide Document.pdf": "CORE-document-en.txt",
         "Disney Lorcana TCG Tournament Rules S2_09-Sep-25.pdf": "tournament-rules-en.txt",
         "Disney-Lorcana-Comprehensive-Rules-103125-DE-edited.pdf": "comprehensive-rules-de.txt",
         "Disney-Lorcana-Comprehensive-Rules-103125-FR-edited.pdf": "comprehensive-rules-fr.txt",

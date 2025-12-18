@@ -69,6 +69,10 @@
 - [DEUTSCH](files_disneylorcana_com/Season%202%20Turnierregeln%20090925-DE.pdf) ([as text](text/tournament-rules-de.txt))
 - [ITALIANO](files_disneylorcana_com/Season%202%20Tournament%20Rules%20090925%20update-Italian.pdf) ([as text](text/tournament-rules-it.txt))
 
+### CORE Document - Lore Guide Resource
+
+- [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
+
 ### Whispers in the Well OP Kit Instructions
 
 - [English](files_disneylorcana_com/10_30%20S10_OP%20Kit%20Instructions_EN.pdf)

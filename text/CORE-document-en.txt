@@ -1,0 +1,240 @@
+[Core Operations, Rules, and Enforcement]
+Introduction
+At its core, the Disney Lorcana Trading Card Game is a celebration of beloved Disney stories and
+the players who bring them to life on the table. Fan-favorite characters, called glimmers, go on
+quests to collect lore and slow down opponents by challenging their characters. This immersive
+experience combines collectible cards, strategic deck building, and a fun and accessible
+experience to create a unique game that brings fans of Disney and trading card games together.
+Players may want to take part in a more organized method of playing Disney Lorcana TCG
+through events, whether at a local game store or in an official Disney Lorcana TCG event. These
+events, while still fun and social, require an individual to help guide players through some of the
+more complex interactions they may face during play. These individuals are known as Lore
+Guides in Disney Lorcana TCG. These passionate members of our community ensure that the
+Disney Lorcana Organized Play system is held to the same standards across all events, and all
+players feel welcome.
+The Core Operations, Rules and Enforcement, or CORE document, provides basic information
+on what it means to be a Lore Guide. It includes general philosophy as well as common
+situations that may happen at events, and how to handle them. As a Lore Guide, you are the
+link between the global community of players and the way to play the game. You are uniquely
+positioned to bolster the game through kind expertise, engaging compassion, and bringing a
+sense of infectious fun to the events you assist. You will likely be a player’s first experience in
+dealing with the official Organized Play system of Disney Lorcana TCG, and it’s easy for a player
+to feel anxious or intimidated by the prospect of interacting with an official.
+
+
+   1. General Information
+There are three tournament levels in Disney Lorcana TCG—Entry-level, Competitive, and
+Premier. A player’s first introduction to the game will likely be during an Entry-level tournament
+such as local League play or a Prerelease. These tournaments should prioritize fun, fair, and
+light competition where players of all ages and skill levels are welcome. Mistakes are expected,
+and the rules should be tools to help players out, rather than barriers to an enjoyable
+experience.
+The CORE Document will focus primarily on Entry-level tournaments. Empathy and education
+are paramount, not penalties, and the role of a Lore Guide for an Entry-level event is to help
+broaden players’ understanding of the rules while maintaining that welcoming space.
+Some examples of Entry-level tournaments are those held at your local game store (LGS), at
+conventions, or some side events at larger Competitive or Premier tournaments. Entry-level
+tournaments are generally smaller in player count, and feature players of all experience levels.
+Normally, prizing is smaller than competitive tournaments, and fewer rounds are played. Entry-
+level tournaments are perfect for a quick, easy, and fun way to play Disney Lorcana for all to
+enjoy, and as Lore Guides, you will help make that happen.
+Competitive and Premier level events represent the higher levels of competition, from set
+championships to the Challenge Series, and the World Championship. Players are held to a
+higher standard at these tournaments. The emphasis is on technically correct play, and while
+education and enjoyment for the players are still priorities, there is an added level of strict
+adherence to the rules and policies. As such, a different document is used to determine the
+correct error and remedy during a game: the Play Correction Guidelines. The Play Correction
+Guidelines (PCG) document is available on the Disney Lorcana TCG Resources page, found here.
+Remember that being a Lore Guide at local levels has its own challenges. Sometimes the store
+will have unique formats for their specific communities, or perhaps they will have some
+stipulations on how they want their tournaments to operate. Sometimes you will have to bridge
+the gap between tournament organizers and the players. Ensure you explain to the group of
+players at your event any changes to rules or needs of the environment during announcements
+before play starts.
+Regardless of what level you are a Lore Guide at, the following sections on general guidelines
+and tips for being a Lore Guide are sure to help you wherever you may find yourself!
+
+
+2. Common Situations and How to Handle Them
+Below are some common examples of situations players may need assistance with at Disney
+Lorcana TCG tournaments. Keep in mind, you should always refer to the Tournament Rules and
+Play Correction Guidelines for guidance on how to apply fixes to a game.
+
+Forgotten Actions or Steps
+Example: A player forgets to ready their characters before starting to take game actions.
+
+Philosophy: We’ve all been there, sometimes we get deep into the tank of strategy, and we
+forget to do something we’re supposed to, like ready our ink or gain lore from a location. These
+are common mistakes and relatively simple to fix as well, so the focus here should be to
+educate the player and reinforce good habits, not coming down on them for improper play.
+
+Fix: Gently remind them and let them complete the step or action as long as there is minimal
+disruption. If more time has passed, adjust as needed to keep fairness, or leave the game as-is if
+too much time has passed. Remember, players are allowed to take a series of actions that,
+while not in the correct order, leads to the same legal game state as taking the actions in the
+correct order would have led to. This is known as Out-of-Order Sequencing!
+Miscounted Lore or Resources
+Example: A player’s lore total is off by a few points. Maybe a player forgot to announce a lore
+gain from an earlier quest or from a location, and only one player marked the lore change.
+
+Philosophy: This is a common error. Typically, it comes from misreading the number of lore
+gained and results in totals slightly higher or lower than they should be.
+
+Fix: Try to determine the correct number before going in for a fix—working backward through
+the turn can help here. Once you have found the source of the discrepancy, correct the total.
+Encourage players to keep track openly and communicate constantly during the game to avoid
+confusion. Remind players that lore changes should always be announced for the benefit of
+both players and that it is part of the rules of the game!
+
+Deck Problems
+Example: A player shows up with 59 cards in a Constructed deck, 39 cards in a Sealed deck, puts
+in cards that aren't legal for the format, or accidentally runs 5 copies of a card instead of the
+usual 4.
+
+Philosophy: Deck issues happen often. Maybe a card got left in the deck box, two decks got
+mixed up during testing, or someone just didn’t know the construction rules. These slip-ups are
+almost always unintentional, and they shouldn’t keep a player from enjoying their match. The
+goal is simply to get the deck back into legal shape so the game can go on—and at the same
+time, give the player a quick reminder of the correct deck-building requirements.
+
+Fix: First, remove any cards that make the deck illegal (extra copies, off-format cards, and so
+on). If that leaves the deck below the format requirements, the player needs to add legal cards
+until it meets the minimum size. Once that’s done, check that both players are good to
+continue. Encourage the player to take a moment before the next round to double-check their
+deck so the same issue doesn’t come up again.
+
+Incorrect number of cards in hand
+Example: A player draws 8 cards at the start of the game or accidentally only draws 1 from an
+effect when they should have drawn 2.
+
+Philosophy: Every once in a while, players might draw the incorrect number of cards due to a
+dexterity issue or misremembering how many cards an effect was supposed to make them
+draw. While this should not be punished harshly, the advantage gained from additional cards
+should be mitigated.
+
+Fix: If the extra cards are known to both players, return those specific cards to the appropriate
+zone. If not, then calculate how many extra cards the player has, take that number of cards
+from their hand at random, and put those cards back into the appropriate zone. If a player was
+supposed to draw or discard any cards, and they did not, those players should draw or discard
+cards now.
+
+Missed Triggers
+Example: A player forgets to draw a card from the ability when Kuzco – Wanted Llama is
+banished.
+
+Philosophy: Given that triggered abilities are “invisible,” they are easily missed. Players will
+often claim that it’s too late to trigger an ability that was forgotten. Given that education is the
+focus at Entry-level tournaments, if the missed triggered ability is noticed within a reasonable
+amount of time and resolving it now would not be too disruptive for the game, that’s the
+preferred choice of action.
+
+Fix: If the missed triggered ability was noticed before the controlling player started their next
+turn and it would not be too disruptive to resolve it now, add it to the bag. Remind players that
+triggers with “may” would normally be presumed to be declined and they should take care to
+remember their triggers at future events.
+
+Communication Mix-ups
+Example: Players accidentally confuse which card is exerted or a player is asked how many
+cards are in hand, and they absently minded reply “four” when they have five cards in hand.
+
+Philosophy: Disney Lorcana TCG is not just a trading card game, it’s a game between people
+occurring in person in real time. As such, communication mishaps are bound to come up. It’s
+helpful to encourage clear communication by using the correct game terminology and remind
+players to actively describe how they are playing to make the game state as clear as possible for
+all players involved.
+
+Fix: Help clarify the game state calmly and suggest clear communication, like speaking actions
+out loud or physically pointing to cards.
+
+General Errors
+Example: A player plays a card without paying the full ink cost. Perhaps they thought they were
+playing another card with a different cost or miscounted the ink they were exerting.
+
+Philosophy: This will cover the bulk of the interactions you’re likely to see. Always look and see
+what is currently wrong and think about whether it’s better to leave the game as-is after fixing
+the error or rewinding through the decisions to the point of the error. Most of the time, it’ll be
+more correct and less disruptive to leave as-is. Certain errors caught in enough time can easily
+be rewound, and the players will be allowed to continue from the more correct game state. In
+any case, we’re always looking to fix the error in the least disruptive way possible.
+Fix: If caught quickly, reverse the play and guide them to pay the proper cost. If it’s too late,
+adjust the game state as fairly as possible and explain.
+
+
+3. Unacceptable Behavior
+Problems like cheating or disruptive behavior can arise even at Entry-level tournaments. While
+you should always approach any such cases with the general philosophy of empathy and
+education first, you might need to take swift action to preserve a friendly and fair environment,
+including removing players from the tournament and/or the venue. Always involve the
+tournament organizer or store manager in such situations.
+
+The following are examples of actions that will not be tolerated in any Disney Lorcana TCG
+events:
+
+   •   Aggressive, malicious, or harassing behavior towards any player(s) or a group of people
+       (Unsporting Conduct)
+   •   Intentionally mispresenting the game state or the rules of the game, or lying, to gain an
+       advantage (Cheating).
+   •   Betting on the outcomes of games, tournaments, or any other function of a Disney
+       Lorcana TCG event (Wagering).
+   •   Intentionally misrepresenting a game or match result. This doesn’t have to be in the
+       offending player’s favor (Improper Match Result).
+
+If a player is removed from the tournament or the venue for any of these actions, it is known as
+a Disqualification, and the situation should be reported to Ravensburger.
+
+   •   Fill out the official Disney Lorcana TCG Tournament Disqualification Form.
+   •   If you have additional information you would like to provide that is not covered within
+       the above form, please send an email to disqualifications@ravensburger.com.
+
+
+4. Tips for Being a Lore Guide at All Levels
+Being a Lore Guide at all levels requires patience, empathy, and understanding for not only the
+rules of the game but the players as well. Balancing between a firm, yet gentle stance is key to
+improving all players’ enjoyment and understanding of the game. In Competitive and Premier
+levels, we expect players to have a firmer grasp of the rules and gameplay, but mistakes can
+and do still happen. Other than the unacceptable behaviors above, ensuring gameplay is done
+fairly and within the guidance of our rules is how we want to proceed.
+
+Here are some tips on how to approach Lore Guide situations:
+•   Approach with kindness – Players, especially in Entry-level tournaments, may be
+    nervous to call for a Lore Guide even for simple mistakes or questions. When a table
+    calls for assistance, you should approach by simply greeting the players. Ask how you
+    can help them, making it clear that you are there to support both players and resolve
+    the issue at hand.
+•   Be patient – Take the time to allow players to explain the situation to you fully instead
+    of jumping to conclusions. This will allow you to provide the correct response politely.
+•   Take your time – As with the above, taking your time will help in the long run. If you are
+    not clear on a ruling, take the time to go back and review the rules to ensure you have
+    made the right call. If possible, seek help from a fellow Lore Guide as well!
+•   Be firm – There will be times in which the right call doesn’t always feel good to make,
+    however it's important to apply the rules consistently. You must be firm with your
+    rulings and, if possible, show the references in the rules documents to defuse the
+    situation. In case of disagreements, remain calm and be respectful, ensuring the players
+    understand that you're in the event to help and maintain a fun fair environment for
+    everyone.
+•   Give extra time – when you take a Lore Guide call you should always try to give an
+    extension if the call took at least a minute to answer. Rounding up to the nearest
+    minute and maybe adding an extra on top so players can resituate themselves will help
+    them not feel the pressure of the clock or feel that they “wasted” playtime by calling for
+    a Lore Guide.
+•   Speak loudly and clearly – Practice speaking loudly at home and bring that voice to your
+    event when making announcements like how much time is left in the round, player
+    meeting calls, or trying to find someone who didn’t report their result! Your voice needs
+    to be heard over the din of players at the event. Remember, diaphragm, not throat!
+•   Engage! – Being a part of the local community and helping stores with their events is
+    also a great time to engage with players to help create fun, comfortable, and safe events
+    for all players! Talk with players, enjoy their ups, and sympathize with their downs.
+    Whether we’re Lore Guide's, players, TOs, or spectators, we all have one thing in
+    common: this wonderful game we love to play. You have a unique opportunity to build
+    up your community, so don’t be afraid to connect with every type of participant at an
+    event!
+5. Closing & Additional Resources
+Thank you for being a part of the community and wanting to learn more about the CORE
+philosophies of Disney Lorcana TCG. Here are some additional places you can find information
+and test your rules knowledge:
+
+   •   Discord – discord.gg/DisneyLorcana - Our Discord community has a wealth of areas to
+       learn more about the rules and engage with the Disney Lorcana TCG Community!
+   •   Resources – DisneyLorcana.com/en-US/resources - Our resources page lists the most up
+       to date documents including Comprehensive Rules, Tournament Rules, and Play
+       Correction Guidelines.

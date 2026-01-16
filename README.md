@@ -147,6 +147,10 @@
 - [Deutsch](files_disneylorcana_com/DLC-replacement-policy-de_2024-9-9.pdf)
 - [Italiano](files_disneylorcana_com/DLC-replacement-policy-it_2024-9-9.pdf)
 
+### Artist Policy
+
+- [English](files_disneylorcana_com/artist-policy-en.pdf)
+
 
 ## Marketing Materials
 

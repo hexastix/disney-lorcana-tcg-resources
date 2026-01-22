@@ -73,6 +73,14 @@
 
 - [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
 
+### Winterspell OP Kit Instructions
+
+- [English](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_English.pdf)
+- [Deutsch](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-German.pdf)
+- [Français](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-French.pdf)
+- [Italiano](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-Italian.pdf)
+- [Español](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_Spanish.pdf)
+
 ### Whispers in the Well OP Kit Instructions
 
 - [English](files_disneylorcana_com/10_30%20S10_OP%20Kit%20Instructions_EN.pdf)

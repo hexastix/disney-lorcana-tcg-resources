@@ -81,6 +81,14 @@
 - [Italiano](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-Italian.pdf)
 - [Español](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_Spanish.pdf)
 
+### Winterspell Set Championship Instructions
+
+- [English](files_disneylorcana_com/Winterspell_OPChampionships_Event%20Instructions-EN.pdf)
+- [Deutsch](files_disneylorcana_com/Winterspell_OPChampionships_Event%20Instructions-DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Winterspell_OPChampionships_Event%20Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/Winterspell_OPChampionships_Event%20Instructions-IT.pdf)
+- [Español](files_disneylorcana_com/Winterspell_OPChampionships_Event%20Instructions-ES.pdf)
+
 ### Whispers in the Well OP Kit Instructions
 
 - [English](files_disneylorcana_com/10_30%20S10_OP%20Kit%20Instructions_EN.pdf)

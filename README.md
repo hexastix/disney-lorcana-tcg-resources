@@ -16,6 +16,12 @@
 
 ## Card Set Release Notes
 
+### Winterspell Release Notes
+
+- [English](files_disneylorcana_com/Winterspell_SetReleaseNotes_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Winterspell_SetReleaseNotes_DE.pdf)
+- [Français](files_disneylorcana_com/Winterspell_SetReleaseNotes_FR.pdf)
+
 ### Whispers in the Well Release Notes
 
 - [English](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes_English.pdf)

@@ -1,0 +1,3156 @@
+# COMPREHENSIVE RULES
+
+Version 2.0.0.
+
+Effective February 5, 2026
+
+---
+
+## A NOTE FOR NEW PLAYERS
+
+*Welcome! There are several ways to access the rules for the* Disney Lorcana *trading card game. The information outlined in this document is meant
+for high-level* Disney Lorcana *rules questions and not as a way to learn the game.*
+
+*If you’re new to the* Disney Lorcana *TCG, we recommend you start with our introductory videos here or download the official* Disney Lorcana *Trading
+Card Game Companion app on Apple or Google Play.*
+
+---
+
+## INTRODUCTION
+
+This document covers the technical details of official *Disney Lorcana* gameplay. The rules described here are organized in a numbered format to
+make referencing and updating them easy and clear.
+
+The Comprehensive Rules is a living document. Go to the [Disney Lorcana Resources page][resources] for the most current version.
+
+---
+
+## CONTENTS
+
+- [1. CONCEPTS](#1.)
+  - [1.1. General](#1.1.)
+  - [1.2. Golden Rules](#1.2.)
+  - [1.3. Players](#1.3.)
+  - [1.4. Cards](#1.4.)
+  - [1.5. Costs](#1.5.)
+  - [1.6. Abilities](#1.6.)
+  - [1.7. Game Actions, Timing, and Illegal Actions](#1.7.)
+  - [1.8. Game State Check](#1.8.)
+  - [1.9. Damage](#1.9.)
+  - [1.10. Materials](#1.10.)
+  - [1.11. Lore](#1.11.)
+  - [1.12. Drawing](#1.12.)
+- [2. GAMEPLAY](#2.)
+  - [2.1. General](#2.1.)
+  - [2.2. Setup Stage](#2.2.)
+  - [2.3. In-Game Stage](#2.3.)
+  - [2.4. Cleanup Stage](#2.4.)
+- [3. TURN STRUCTURE](#3.)
+  - [3.1. Phases](#3.1.)
+  - [3.2. Start-of-Turn Phase](#3.2.)
+  - [3.3. Main Phase](#3.3.)
+  - [3.4. End-of-Turn Phase](#3.4.)
+- [4. TURN ACTIONS](#4.)
+  - [4.1. General](#4.1.)
+  - [4.2. Ink a Card](#4.2.)
+  - [4.3. Play a Card](#4.3.)
+  - [4.4. Use an Activated Ability](#4.4.)
+  - [4.5. Quest](#4.5.)
+  - [4.6. Challenge](#4.6.)
+  - [4.7. Move a Character](#4.7.)
+- [5. CARDS AND CARD TYPES](#5.)
+  - [5.1. Card States](#5.1.)
+  - [5.2. Parts of a Card](#5.2.)
+  - [5.3. Characters](#5.3.)
+  - [5.4. Actions](#5.4.)
+  - [5.5. Items](#5.5.)
+  - [5.6. Locations](#5.6.)
+- [6. ABILITIES, EFFECTS, AND RESOLVING](#6.)
+  - [6.1. General](#6.1.)
+  - [6.2. Triggered Abilities](#6.2.)
+  - [6.3. Activated Abilities](#6.3.)
+  - [6.4. Static Abilities](#6.4.)
+  - [6.5. Replacement Effects](#6.5.)
+  - [6.6. Ability Modifiers](#6.6.)
+  - [6.7. Resolving Cards and Effects](#6.7.)
+- [7. ZONES](#7.)
+  - [7.1. General](#7.1.)
+  - [7.2. Deck](#7.2.)
+  - [7.3. Hand](#7.3.)
+  - [7.4. Play](#7.4.)
+  - [7.5. Inkwell](#7.5.)
+  - [7.6. Discard](#7.6.)
+  - [7.7. Bag](#7.7.)
+- [8. KEYWORDS](#8.)
+  - [8.1. General](#8.1.)
+  - [8.2. Alert](#8.2.)
+  - [8.3. Bodyguard](#8.3.)
+  - [8.4. Boost](#8.4.)
+  - [8.5. Challenger](#8.5.)
+  - [8.6. Evasive](#8.6.)
+  - [8.7. Reckless](#8.7.)
+  - [8.8. Resist](#8.8.)
+  - [8.9. Rush](#8.9.)
+  - [8.10. Shift](#8.10.)
+  - [8.11. Singer](#8.11.)
+  - [8.12. Sing Together](#8.12.)
+  - [8.13. Support](#8.13.)
+  - [8.14. Vanish](#8.14.)
+  - [8.15. Ward](#8.15.)
+- [9. MULTIPLAYER](#9.)
+- [10. CASUAL GAME VARIANTS](#10.)
+  - [10.1. General](#10.1.)
+  - [10.2. Pack Rush](#10.2.)
+- [GLOSSARY](#GLOSSARY)
+
+<a name="1."></a>
+## 1. CONCEPTS
+
+<a name="1.1."></a>
+### 1.1. General
+
+<a name="1.1.1."></a>
+**1.1.1.** The *Disney Lorcana* TCG is a game played with two or more players. Each player needs a deck of *Disney Lorcana* cards that they’ll
+           use in the game (see [1.10, “Materials”](#1.10.)).
+
+<a name="1.1.2."></a>
+**1.1.2.** Each player needs a way to track their lore totals and mark damage on characters and locations. This can be any method players
+           find convenient that’s clear to all players in the game.
+
+<a name="1.1.3."></a>
+**1.1.3.** *Disney Lorcana* tournaments may have additional rules that can affect the ones in this document. Please refer to the *Disney
+           Lorcana* TCG Tournament Rules found [here][resources] for further reference.
+
+<a name="1.1.4."></a>
+**1.1.4.** *Disney Lorcana* cards are published in multiple languages. For the purposes of gameplay, the English cards, rules, rulings, and
+           clarifications are the official versions.
+
+<a name="1.1.5."></a>
+**1.1.5.** Card text and rules may be updated. The most current updated information is the official version for gameplay.
+
+<a name="1.1.6."></a>
+**1.1.6.** Games with more than two players have additional rules that apply. See [section 9, “Multiplayer”](#9.) for more information.
+
+<a name="1.1.7."></a>
+**1.1.7.** Some cards include reminder text set in *italics* and within parentheses. Reminder text isn’t rules text. It’s only a memory aid and
+           may vary without changing the meaning of the rules on any given card.
+
+<a name="1.2."></a>
+### 1.2. Golden Rules
+
+<a name="1.2.1."></a>
+**1.2.1.** If the text of a card contradicts a game rule, the card text supersedes that rule.
+
+_**Example**: Mufasa – Betrayed Leader has an ability called The Sun Will Set that reads, “When this character is banished, you may
+reveal the top card of your deck. If it’s a character card, you may play that character for free and they enter play exerted. Otherwise,
+put it on the top of your deck.” The rule in [section 4.3.2](#4.3.2.) specifies that cards can be played only during the active player’s turn.
+However, if an active player banishes an opponent’s Mufasa, the opponent can play a character even though it’s not their turn
+because the ability text allows the opponent to play it, superseding that rule._
+
+<a name="1.2.2."></a>
+**1.2.2.** If an effect prevents something from happening, that effect supersedes rules and other effects that allow it to happen.
+
+_**Example**: The opponent has a Tiana – Celebrating Princess in play. She has an ability called What You Give Is What You Get that
+reads, “While this character is exerted and you have no cards in your hand, opponents can’t play actions.” The active player has a
+Genie – Powers Unleashed in play. He has an ability called Phenomenal Cosmic Power! that reads, “Whenever this character quests,
+you may play an action with cost 5 or less for free.” If the active player quests with Genie, as long as the opponent’s Tiana is exerted
+and they have no cards in their hand, the active player can’t play actions even though Genie’s triggered ability allows it._
+
+<a name="1.2.3."></a>
+**1.2.3.** If an effect tells a player to do something, the player does as much as possible even if some part of that effect can’t be done.
+           This is known as *doing as much as you can*.
+
+_**Example**: Reflection is a song action with an effect that reads, “Look at the top 3 cards of your deck. Put them back on the top of
+your deck in any order.” If the player who plays this action has only 2 cards in their deck, they look at the top 2 cards and resolve the
+effect normally, doing as much as they can._
+
+<a name="1.3."></a>
+### 1.3. Players
+
+<a name="1.3.1."></a>
+**1.3.1.** Each person playing the game is referred to as a player. There must be at least two players in a game.
+
+<a name="1.3.2."></a>
+**1.3.2.** A player has at least one of three additional specific designations: active player, opponent (also known as opposing player), or
+           teammate. A player’s designation can change during the game and they can have more than one at a time.
+
+<a name="1.3.3."></a>
+**1.3.3.** If a card’s effect refers to “you,” “your,” or “yours,” it refers to the player who played that card. If an effect refers to a specific
+           player designation in its text, it means that player only. If an effect refers to a plural player designation, it refers to all players with
+           that designation.
+
+_**Example**: Any reference to “teammates” refers to the teammates of the player who generated the effect._
+
+<a name="1.3.4."></a>
+**1.3.4. Active player**
+
+<a name="1.3.4.1."></a>
+**1.3.4.1.** There can be only one active player at a time. When a player starts their turn, they become the active player. When the next
+             player in the game’s turn order begins their turn, they become the active player.
+
+<a name="1.3.4.2."></a>
+**1.3.4.2.** Active player is a designation that isn’t referenced in card text. The designation functions only to identify the player who’s
+             currently taking their turn.
+
+<a name="1.3.5."></a>
+**1.3.5. Opponent**
+
+<a name="1.3.5.1."></a>
+**1.3.5.1.** Anyone a player is playing against is their opponent. In a multiplayer game, a player has multiple opponents.
+
+<a name="1.3.5.2."></a>
+**1.3.5.2.** Opponent is a designation that can be referenced in card text. If an effect references an “opponent,” it refers to any player
+             other than the player who generated the effect, not including teammates.
+
+<a name="1.3.5.3."></a>
+**1.3.5.3.** The opponent designation can also be referenced in card text as “opposing player.”
+
+<a name="1.3.6."></a>
+**1.3.6. Teammate**
+
+<a name="1.3.6.1."></a>
+**1.3.6.1.** Some multiplayer game formats allow a player to designate one or more players as teammates. Such teammates are
+             identified before the game starts. Teammates play together and aren’t opponents to one another.
+
+<a name="1.3.6.2."></a>
+**1.3.6.2.** Teammate is a designation that can be referenced in card text. If an effect references a “teammate,” it refers to any player
+             who was designated as a teammate prior to the start of the game. A player can’t be their own teammate.
+
+<a name="1.4."></a>
+### 1.4. Cards
+
+<a name="1.4.1."></a>
+**1.4.1.** A *Disney Lorcana* deck is comprised entirely of standard *Disney Lorcana* cards and no other cards. A standard *Disney Lorcana* card
+           measures 2.5" by 3.5" (6.3 cm x 8.8 cm). All standard *Disney Lorcana* cards have the Illuminary icon on the back. If anything refers
+           to a “card” in the text, it’s referring to a standard *Disney Lorcana* card.
+
+<a name="1.4.2."></a>
+**1.4.2.** If a card doesn’t have the specific and exact Illuminary icon on the back defined in [section 1.4.1](#1.4.1.), has an official but different
+           illustration of the Illuminary icon (such as on the back of a card from a scenario deck in an Illumineer’s Quest), or is oversized, it’s
+           not a standard *Disney Lorcana* card.
+
+<a name="1.4.2.1."></a>
+**1.4.2.1.** Specific types of cards have additional criteria that define them. For more information, see [section 5, “Cards and
+             Card Types.”](#5.)
+
+<a name="1.4.3."></a>
+**1.4.3.** Cards a player includes in their deck are their cards. That player makes any decisions necessary for the card and its effects unless
+           otherwise specified. If an effect's instructions include any physical manipulation of a card, the player whose deck the card came
+           from physically manipulates it regardless of any other specification in the effect.
+
+_**Example**: Chernabog – Unnatural Force has the ability Dark Dance, which reads, “When you play this character, you may shuffle
+chosen opposing character into their player's deck. If you do, that player may play a character from their discard for free.” When
+the active player resolves this triggered ability, they choose the character to be shuffled into the opposing player’s deck, but the
+opposing player physically shuffles the chosen character card into their deck._
+
+<a name="1.4.3.1."></a>
+**1.4.3.1.** If a card’s text refers to “you,” “your,” or “yours,” then it’s referring to the player who played the card. If an effect refers to
+             “you,” “your,” or “yours,” then it’s referring to the player who generated that effect.
+
+<a name="1.4.3.2."></a>
+**1.4.3.2.** Player and character effects sometimes use pronouns to refer to the players and characters referenced in the effect in lieu
+             of their names. Examples of these pronouns include: he, she, they, him, her, them, his, hers, and theirs. Item and location
+             effects sometimes use pronouns in lieu of their names such as “it,” “its,” “them,” or “their.”
+
+<a name="1.5."></a>
+### 1.5. Costs
+
+<a name="1.5.1."></a>
+**1.5.1.** A cost is a payment that must be paid to play a card. The cost of a card is represented by a number in the top left corner of the
+           card. This number equals the amount of ink necessary to pay for playing the card.
+
+<a name="1.5.2."></a>
+**1.5.2.** Some abilities have a cost. This cost must be paid in order to use the ability (see [4.4](#4.4.)). Some costs are paid as part of resolving
+           an effect.
+
+<a name="1.5.3."></a>
+**1.5.3.** A cost must be paid in full. If a card’s cost can’t be paid in its entirety, then the card can’t be played. Each payment applies to only
+           one cost at a time.
+
+<a name="1.5.4."></a>
+**1.5.4.** A cost can’t be changed; however, the total amount paid can be affected. Adjustments to the total amount paid to play a card are
+           called payment modifiers and affect only the amount paid to play a card, not the cost of the card itself.
+
+<a name="1.5.5."></a>
+**1.5.5.** Some cards have an alternate cost, which is a cost a player can pay instead of paying the normal ink cost of the card. A player
+           chooses to pay an alternate cost during the process of playing a card.
+
+<a name="1.5.5.1."></a>
+**1.5.5.1.** Singing a song (see [5.4.4.2](#5.4.4.2.)) is an alternate cost.
+
+<a name="1.5.5.2."></a>
+**1.5.5.2.** Shifting a character (see [8.10](#8.1.0 ) is an alternate cost.
+
+<a name="1.5.5.3."></a>
+**1.5.5.3.** An ability or effect that allows a player to play a card “for free” is an alternate cost and means they may play that card
+             without paying its cost (see [6.1.7](#6.1.7.)).
+
+<a name="1.5.5.4."></a>
+**1.5.5.4.** An ability or effect that allows a player to use an ability “for free” is an alternate cost and means they may use that ability
+             without paying any costs except {E} (see [6.1.7.1](#6.1.7.1.)).
+
+<a name="1.6."></a>
+### 1.6. Abilities
+
+<a name="1.6.1."></a>
+**1.6.1.** There are several kinds of abilities in the *Disney Lorcana* TCG. Abilities normally apply only when the source of that ability is in play.
+           The source of an ability is normally the card or effect that generates it.
+
+<a name="1.6.1.1."></a>
+**1.6.1.1.** Triggered abilities continuously look for a specific condition and have an effect when that condition is met. Triggered
+             abilities follow the rules in [section 6.2](#6.2.).
+
+<a name="1.6.1.2."></a>
+**1.6.1.2.** Activated abilities have a cost and an effect that occurs if that cost is paid. Activated abilities follow the rules in [section 6.3](#6.3.).
+
+<a name="1.6.1.3."></a>
+**1.6.1.3.** Static abilities are effects that are continuously active, either for a fixed length of time or for as long as the card generating
+             the effect is in play. Static abilities follow the rules in [section 6.4](#6.4.).
+
+<a name="1.6.1.4."></a>
+**1.6.1.4.** Replacement effects are generated by some abilities. These replace one effect with another. Replacement effects follow the
+             rules in [section 6.5](#6.5.).
+
+<a name="1.6.1.5."></a>
+**1.6.1.5.** Keywords are words or short phrases that represent distinct abilities. See [section 8](#8.) for the full list of current keywords.
+
+<a name="1.7."></a>
+### 1.7. Game Actions, Timing, and Illegal Actions
+
+<a name="1.7.1."></a>
+**1.7.1.** When a player does something in game that’s part of a normal turn, such as draw a card, exert a character, declare a challenging
+           character, etc., it’s a game action. A game action is singular. A group of game actions that achieves a specific outcome, such as the
+           process of challenging, is known as a turn action.
+
+<a name="1.7.2."></a>
+**1.7.2.** Effects, turn actions (see [section 4](#4.)), and game actions (see [1.7.1](#1.7.1.)) must fully resolve before the next effect, turn action, or game
+           action can happen.
+
+_**Example**: Dr. Facilier – Remarkable Gentleman has an ability called Dreams Made Real that reads, “Whenever you play a song, you
+may look at the top 2 cards of your deck. Put one on the top of your deck and the other on the bottom.” If a player plays a song, they
+resolve that song’s effect fully before they resolve Dr. Facilier’s triggered ability._
+
+<a name="1.7.3."></a>
+**1.7.3.** Choices made as part of resolving an effect, including those that reference “choose” or “chosen,” are made as the effect resolves
+           (see [6.1.3](#6.1.3.)).
+
+<a name="1.7.4."></a>
+**1.7.4.** Triggered abilities wait to resolve in an additional zone called the bag. The bag isn’t a physical zone, but a place where triggered
+           abilities are held when their conditions are met. Players resolve the effects of their triggered abilities from the bag following the
+           process described in [section 7.7, “Bag.”](#7.7.)
+
+<a name="1.7.5."></a>
+**1.7.5.** Characters can’t quest, challenge, or activate any abilities with {E} as a part of their cost unless the character has been in play
+           since the beginning of their player’s turn. This is known as *drying*. A character becomes dry if they’re in play during the start of
+           their player’s next turn (see [3.2.2.1](#3.2.2.1.)).
+
+<a name="1.7.6."></a>
+**1.7.6.** If a player attempts a game action they couldn’t perform or begins a turn action they’re unable to complete fully, it’s an illegal
+           action. When an illegal action occurs, the action is undone, meaning the player reverses all actions they took until the state of the
+           game is returned to what it was before the illegal action or actions was performed, assuming the action is possible to reasonably
+           undo (see [1.8.6.2](#1.8.6.2.)). All payments are undone if applicable. Abilities that would have occurred because of the original action
+           don’t happen.
+
+<a name="1.7.6.1."></a>
+**1.7.6.1.** The player may attempt to redo what was attempted but in the correct way.
+
+<a name="1.7.6.2."></a>
+**1.7.6.2.** A player may not undo any game actions that are impossible to fully undo, such as shuffling a deck or revealing a card.
+             The player undoes as much as they can.
+
+<a name="1.7.7."></a>
+**1.7.7.** If an illegal choice was made as part of resolving an effect, the player undoes all operations back to the point that they made the
+           original choice, where a new choice can be made. If no legal choices exist, then the effect resolves with no effect. If there are
+           other effects to resolve that don’t involve the choice, then the player does as much as they can in resolving all effects.
+
+_**Example A:** A player attempts to play a character with a cost of 4 {I}. When they exert their ink to pay for playing the character,
+they realize they only have 3 unexerted cards (3 {I}) in their inkwell. Because the turn action for playing the character can’t be fully
+completed, it’s considered illegal. The player undoes their attempt to play the character, readies any ink that was exerted to play the
+character, and places the character back in their hand._
+
+_**Example B:** Let The Storm Rage On is a song with an effect that reads, “Deal 2 damage to chosen character. Draw a card.” When
+a player plays this action and resolves the effect, they must choose a character. If they choose a character with Ward, a keyword
+ability that protects the character from being chosen, then the choice is considered illegal. The player undoes all actions to the point
+when the choice was made and must make a new choice. Note that the player doesn’t undo the playing of the action itself, as that
+part was performed legally. Only the illegal part of the game action, the choice, is undone and a new choice is made if able._
+
+<a name="1.8."></a>
+### 1.8. Game State Check
+
+<a name="1.8.1."></a>
+**1.8.1.** There is a set of conditions the game constantly checks for, and a result that occurs if the condition is met. The game checks for
+           the listed conditions at the end of every step of the Start-of-Turn Phase, after the Challenge Declaration and Challenge Damage
+           steps (see [4.6.4](#4.6.4.) through [4.6.6](#4.6.6.)), after every turn action is completed, after any effect resolves, and when the turn ends. The
+           following are the conditions and corresponding results:
+
+<a name="1.8.1.1."></a>
+**1.8.1.1.** If a player has 20 or more lore, that player wins the game.
+
+<a name="1.8.1.2."></a>
+**1.8.1.2.** If a player’s turn ends with no cards in their deck, that player loses the game.
+
+<a name="1.8.1.3."></a>
+**1.8.1.3.** In a multiplayer game, if a player is the last player remaining in the game, that player wins the game.
+
+<a name="1.8.1.4."></a>
+**1.8.1.4.** If a character or location has damage equal to or greater than its Willpower {W}, that character or location is banished.
+             A character or location banished as a result of taking damage from a character in a challenge since the last game state
+             check or as a result of taking damage from a character’s ability since the last game state check is considered banished by
+             that character.
+
+<a name="1.8.2."></a>
+**1.8.2.** Triggered abilities that occur as a result of a game state check are added to the bag when their condition is met but won’t resolve
+           until after the game state check or checks are completed.
+
+<a name="1.8.3."></a>
+**1.8.3.** After a game state check is completed, the game state check immediately occurs again. If no conditions are met during a game
+           state check, players then resolve any triggered abilities in the bag. Once all triggered abilities have been resolved from the bag
+           and there are no further conditions met from a game state check, the game continues.
+
+_**Example A:** A player has a Flounder – Voice of Reason in play, a character with 2 {W}. Their opponent plays Fire the Cannons!,
+an action with an effect that reads, “Deal 2 damage to chosen character,” and chooses Flounder as the action’s effect resolves.
+Immediately after the action has finished resolving, a game state check occurs. Flounder has 2 damage counters on him and 2 {W}.
+Flounder has damage equal to or greater than his Willpower, meeting the condition in [section 1.8.1.4](#1.8.1.4.) and is banished as a result.
+Another game state check occurs. No other conditions have been met, so the game continues._
+
+_**Example B:** A player has a Pride Lands – Pride Rock and a Flounder – Voice of Reason in play. Pride Lands has an ability We Are All
+Connected that reads, “Characters get +2 {W} while here.” Flounder has 2 damage counters on him and is also at the location, giving
+him a total of 4 {W}. The opponent has a Lumiere – Hotheaded Candelabra in play, a character with 7 {S}. During the opponents turn,
+Lumiere challenges Pride Lands, dealing 7 damage to the location. Once the challenge is over, a game state check occurs. Pride
+Lands has damage equal to or greater than its Willpower, meeting the condition in [section 1.8.1.5](#1.8.1.5.) and is banished as a result. Once
+the first game state check is completed, another game state check occurs. Without Pride Lands in play, Flounder has damage equal
+to or greater than his Willpower, meeting the condition in [section 1.8.1.4](#1.8.1.4.) and is banished as a result. Another game state check
+occurs. No other conditions have been met, so the game continues._
+
+<a name="1.8.4."></a>
+**1.8.4.** If multiple conditions are met by a player during a game state check, a single game state check occurs and all results occur
+           simultaneously. If multiple conditions are met by multiple players during a game state check, a single game state check occurs
+           and each player’s results occur in turn order.
+
+<a name="1.9."></a>
+### 1.9. Damage
+
+<a name="1.9.1."></a>
+**1.9.1.** Damage on a character or location is represented by damage counters. Each damage counter normally represents 1 damage; any
+           damage counter intended to represent more than 1 damage counts as a separate damage counter for each 1 damage it represents.
+           Damage can be dealt, put, removed, moved, or taken.
+
+<a name="1.9.1.1."></a>
+**1.9.1.1.** *Deal/Dealt* – Placing a number of damage counters on a character or location during a challenge (see [4.6](#4.6.)) or as a result of
+             resolving an effect that deals/dealt damage.
+
+<a name="1.9.1.2."></a>
+**1.9.1.2.** *Put* – Placing a number of damage counters on a character or location as a result of an effect that puts damage on them.
+
+<a name="1.9.1.3."></a>
+**1.9.1.3.** *Remove/Removed* – Taking a number of damage counters off a character or location as a result of an effect that
+             removes/removed damage from them.
+
+<a name="1.9.1.4."></a>
+**1.9.1.4.** *Move* – Taking off a number of damage counters from one character or location and placing them on another character or
+             location as a result of an effect that moved damage to them.
+
+<a name="1.9.1.5."></a>
+**1.9.1.5.** *Take* – A character or location takes damage whenever damage is dealt to, put on, or moved to that character or location.
+
+<a name="1.9.2."></a>
+**1.9.2.** Some card text refers to a character or location that “is damaged,” “was damaged,” “is dealt damage,” or “was dealt damaged.”
+           These references mean the same as “takes damage” for cards printed with that text.
+
+<a name="1.9.3."></a>
+**1.9.3.** When a character or location with damage leaves play for any reason, all damage counters on that character or location cease
+           to exist.
+
+<a name="1.10."></a>
+### 1.10. Materials
+
+<a name="1.10.1."></a>
+**1.10.1.** Each player needs to have a deck of *Disney Lorcana* cards to play with. A deck of *Disney Lorcana* cards must adhere to the
+            construction requirements of the format being played, either Constructed or Limited. In Constructed, players use a previously
+            constructed deck of *Disney Lorcana* cards. In Limited, players are provided a set number of unopened *Disney Lorcana* products to
+            build a deck using the cards inside.
+
+<a name="1.10.1.1."></a>
+**1.10.1.1.** In the Constructed format, each player’s deck must contain at least 60 cards, can’t contain more than two ink types, can’t
+              contain more than 4 cards with the same full name, and can’t contain any banned cards.
+
+<a name="1.10.1.2."></a>
+**1.10.1.2.** In the Limited format, each player’s deck must contain at least 35 cards for Draft or 40 cards for Sealed, may contain any
+              number of ink types, and may contain any number of cards with the same full name.
+
+<a name="1.10.2."></a>
+**1.10.2.** Each player needs a method to track their lore totals. A player may use any reasonable method to do so that’s comfortable for
+            and accessible to them. The lore-tracking method a player uses must always reflect the players current lore total during the
+            game. Such methods can include, but aren’t limited to, pen and paper, lore trackers, and the *Disney Lorcana* Trading Card Game
+            Companion app. Specific formats may identify what methods for tracking lore totals are allowed.
+
+<a name="1.10.3."></a>
+**1.10.3.** Each player needs a method to track damage counters on characters or locations. A player may use any reasonable method to do
+            so that’s comfortable for and accessible to them. The damage-tracking method a player uses must clearly represent the amount of
+            damage on each of their characters or locations to all players.
+
+<a name="1.11."></a>
+### 1.11. Lore
+
+<a name="1.11.1."></a>
+**1.11.1.** A player's lore total is the amount of lore they currently have in the game. A player’s lore total changes as they gain or lose lore.
+            Each player starts the game with 0 lore and can’t have less than that. If a player would lose lore while they have 0 lore, they don’t
+           lose any.
+
+<a name="1.11.2."></a>
+**1.11.2.** Some characters and locations have a Lore value represented by {L} on the card. A questing character with a Lore value causes that
+            player to gain the amount of lore represented by the character’s Lore value. If a questing character doesn’t have a Lore value or
+            their Lore value has been reduced to 0, the player doesn’t gain any lore and their lore total doesn’t increase. A location with a Lore
+            value causes that player to gain the amount of lore represented by the location’s Lore value at the start of that player’s turn
+            (see [3.2.2](#3.2.2.)).
+
+<a name="1.11.3."></a>
+**1.11.3.** If a player has 20 or more lore, they win the game (see [1.8.1.1](#1.8.1.1.)).
+
+<a name="1.12."></a>
+### 1.12. Drawing
+
+<a name="1.12.1."></a>
+**1.12.1.** To draw a card, a player places the top card of their deck into their hand. A player can draw cards only from their own deck.
+
+<a name="1.12.2."></a>
+**1.12.2.** Cards are drawn one at a time. If an effect instructs a player to draw more than one card, they draw the number of individual cards
+            in succession.
+
+<a name="1.12.3."></a>
+**1.12.3.** If an effect instructs a player to “put” a card into their hand, this isn’t considered “drawing” a card, even though the mechanics
+            are similar.
+
+<a name="2."></a>
+## 2. GAMEPLAY
+
+<a name="2.1."></a>
+### 2.1. General
+
+<a name="2.1.1."></a>
+**2.1.1.** A game of *Disney Lorcana* is divided into three distinct stages: Setup, In-Game, and Cleanup. Each stage follows a list of
+           procedures each player must follow. These stages occur independently and don’t overlap.
+
+<a name="2.1.2."></a>
+**2.1.2.** Games have a set structure for selecting a starting player and determining turn order, specified by the format of the game being
+           played and the series, that is the number of games being played.
+
+<a name="2.1.3."></a>
+**2.1.3.** In a two-player game, the turn order is: starting player, then non-starting player. In a multiplayer game, every player who isn’t
+           the starting player is a non-starting player. Turn order begins with the starting player and then moves to the starting player’s left,
+           continuing clockwise until all players have taken their turn.
+
+<a name="2.1.3.1."></a>
+**2.1.3.1.** In a two-game series, the player who wasn’t the starting player for the first game is the starting player for the second game.
+
+<a name="2.1.3.2."></a>
+**2.1.3.2.** In a best-of-N series, the losing player selects whether to be the starting player or not for the next game. This is known as
+             the “play-draw” rule.
+
+<a name="2.2."></a>
+### 2.2. Setup Stage
+
+<a name="2.2.1."></a>
+**2.2.1.** During the Setup stage, players prepare to play a game of *Disney Lorcana* by following the steps listed here.
+
+<a name="2.2.1.1."></a>
+**2.2.1.1.** First, the players agree upon a method for randomly determining who is the starting player of the game. This can include
+             rolling dice, flipping a coin, or other safe and reasonable methods that can be performed easily within the play area. Once
+             the starting player of the game is determined, the game’s turn order has been established.
+
+<a name="2.2.1.2."></a>
+**2.2.1.2.** Second, each player shuffles their deck. Players may use any reasonable form of shuffling they find convenient and
+             comfortable, but the method chosen must sufficiently randomize the deck. Once done, each player must be offered an
+             opportunity to shuffle, cut, or shuffle and cut their opponent’s deck. Once both decks are randomized sufficiently, they’re
+             considered ready to play and are placed in the play area. All cards in a player’s deck should be oriented the same way.
+
+<a name="2.2.1.3."></a>
+**2.2.1.3.** Third, each player begins the game with 0 lore.
+
+<a name="2.2.1.4."></a>
+**2.2.1.4.** Fourth, each player draws 7 cards. These cards are known as each player’s “opening hand.”
+
+<a name="2.2.2."></a>
+**2.2.2.** Once each player has drawn their opening hands, they each may alter their hands, beginning with the starting player and then
+           proceeding in turn order. Each player can alter their hand only once in each game, following the steps listed here.
+
+<a name="2.2.2.1."></a>
+**2.2.2.1.** First, the starting player selects any number of cards from their hand and places them on the bottom of their deck without
+             revealing them. Then, they draw until they have 7 cards in their hand.
+
+<a name="2.2.2.2."></a>
+**2.2.2.2.** Second, in turn order, each other non-starting player decides whether they’re going to alter their hand, and if so, completes
+             the step in [2.2.2.1](#2.2.2.1.).
+
+<a name="2.2.2.3."></a>
+**2.2.2.3.** Third, each player who altered their hand by 1 or more cards shuffles their deck. Each player who shuffled their deck must
+             give an opposing player an opportunity to cut, shuffle, or shuffle and cut the deck.
+
+<a name="2.2.3."></a>
+**2.2.3.** After each player completed the steps in [2.2.2.1](#2.2.2.1.) through [2.2.2.3](#2.2.2.3.), the game enters the In-Game stage and opens with the starting
+           player’s Beginning Phase.
+
+<a name="2.3."></a>
+### 2.3. In-Game Stage
+
+<a name="2.3.1."></a>
+**2.3.1.** In the In-Game stage, players play the game of *Disney Lorcana*.
+
+<a name="2.3.2."></a>
+**2.3.2.** Each player, in turn order, takes their turn as described in [section 3, “Turn Structure.”](#3.)
+
+<a name="2.3.3."></a>
+**2.3.3.** Players continue to take turns in turn order until the game ends. A game can end in one of the following ways:
+
+<a name="2.3.3.1."></a>
+**2.3.3.1.** A player who has 20 or more lore wins the game.
+
+<a name="2.3.3.2."></a>
+**2.3.3.2.** A player who ends their turn with no cards in their deck loses the game.
+
+<a name="2.3.3.3."></a>
+**2.3.3.3.** A player who is the last player in a multiplayer game wins the game.
+
+<a name="2.3.3.4."></a>
+**2.3.3.4.** A player who decides to concede the game at any point, including during the Setup or Cleanup stages, loses the game.
+
+<a name="2.4."></a>
+### 2.4. Cleanup Stage
+
+<a name="2.4.1."></a>
+**2.4.1.** In the Cleanup stage, each player prepares the play area for the next game, if applicable.
+
+<a name="2.4.1.1."></a>
+**2.4.1.1.** Each player puts all cards from their Hand, Play, Inkwell, and Discard zones into their deck, oriented the same way.
+
+<a name="2.4.1.2."></a>
+**2.4.1.2.** Each player removes all counters from the play area.
+
+<a name="2.4.2."></a>
+**2.4.2.** After each player has recombined all their cards into a single deck and the play area is clear of all cards and counters, the next
+           game can begin, if applicable.
+
+<a name="3."></a>
+## 3. TURN STRUCTURE
+
+<a name="3.1."></a>
+### 3.1. Phases
+
+<a name="3.1.1."></a>
+**3.1.1.** A turn has three phases, which occur in this order: Start-of-Turn Phase, Main Phase, and End-of-Turn Phase.
+
+<a name="3.1.2."></a>
+**3.1.2.** The Start-of-Turn Phase is where a player resets their cards as appropriate for their new turn. This is where all effects that end at
+           the start of the player’s turn end and where effects that occur or begin at the start of their turn happen. The Start-of-Turn Phase
+           has three steps: Ready, Set, and Draw. Each of these steps is performed in the order listed in sections [3.2.1](#3.2.1.) through [3.2.3](#3.2.3.).
+
+<a name="3.1.3."></a>
+**3.1.3.** The Main Phase is where a player can act on their turn, choosing to take any of the Main Phase turn actions. (See [3.3,
+           “Main Phase.”](#3.3.))
+
+<a name="3.1.4."></a>
+**3.1.4.** The End-of-Turn Phase is where all effects that end at the current turn end and the next player in the turn order becomes the
+           active player. (See [3.4 “End-of-Turn Phase.”](#3.4.))
+
+<a name="3.2."></a>
+### 3.2. Start-of-Turn Phase
+
+<a name="3.2.1."></a>
+**3.2.1. Ready**
+
+<a name="3.2.1.1."></a>
+**3.2.1.1.** The active player readies all their cards in play and in their inkwell.
+
+<a name="3.2.1.2."></a>
+**3.2.1.2.** Effects that apply “during your turn” start applying.
+
+<a name="3.2.1.3."></a>
+**3.2.1.3.** Effects that end at “the start of your turn” or at “the start of your next turn” end.
+
+<a name="3.2.1.4."></a>
+**3.2.1.4.** Triggered abilities that happen “at the start of your turn” or that occur at any time during the Ready step are added to the
+             bag but don’t yet resolve.
+
+<a name="3.2.2."></a>
+**3.2.2. Set**
+
+<a name="3.2.2.1."></a>
+**3.2.2.1.** The active player’s characters that are in play are no longer “drying” and will be able to quest, challenge, or {E} to pay costs
+             for activated abilities or song cards.
+
+<a name="3.2.2.2."></a>
+**3.2.2.2.** The active player gains lore from locations they have in play with a {L} characteristic. This isn’t a triggered ability and doesn’t
+             use the bag.
+
+<a name="3.2.2.3."></a>
+**3.2.2.3.** The active player resolves any triggered abilities in the bag that were added during the Set step or the Ready step.
+
+<a name="3.2.3."></a>
+**3.2.3. Draw**
+
+<a name="3.2.3.1."></a>
+**3.2.3.1.** The active player draws a card from their deck. If this turn is the first turn of the game, the starting player skips this step.
+
+<a name="3.2.3.2."></a>
+**3.2.3.2.** Once all effects have been resolved and there are no more abilities in the bag, the game moves into the Main Phase.
+
+<a name="3.3."></a>
+### 3.3. Main Phase
+
+<a name="3.3.1."></a>
+**3.3.1.** During the Main Phase, a player can perform the turn actions listed in [section 4, “Turn Actions.”](#4.)
+
+<a name="3.3.2."></a>
+**3.3.2.** The active player can declare the end of their turn at any time during the Main Phase of their turn as long as they follow the rules
+           listed in [section 3.3.2.1](#3.3.2.1.). Once they do so, the game moves to the End-of-Turn Phase.
+
+<a name="3.3.2.1."></a>
+**3.3.2.1.** If the active player is performing a turn action and/or there are abilities in the bag waiting to resolve, the active player can’t
+             declare the end of their turn and move to the End-of-Turn phase until the turn action is fully complete and there are no more
+             abilities in the bag waiting to resolve.
+
+<a name="3.4."></a>
+### 3.4. End-of-Turn Phase
+
+<a name="3.4.1."></a>
+**3.4.1.** Once the active player has declared the end of their turn, they end their turn using the following process.
+
+<a name="3.4.1.1."></a>
+**3.4.1.1.** First, triggered abilities that would occur “At the end of the turn” and “At the end of your turn” are added to and resolve
+             from the bag.
+
+<a name="3.4.1.2."></a>
+**3.4.1.2.** Second, effects that would end at the end of the active player’s turn end. This includes effects with a stated duration of
+             “this turn” (e.g., **Support**). Any triggered abilities that would occur are added to and resolve from the bag.
+
+<a name="3.4.2."></a>
+**3.4.2.** Once there are no more triggered abilities to resolve from the bag, the turn ends for the active player and there is a final game
+           state check (see [1.9.1](#1.9.1.)). Then, the next player becomes the active player and starts their turn.
+
+<a name="4."></a>
+## 4. TURN ACTIONS
+
+<a name="4.1."></a>
+### 4.1. General
+
+<a name="4.1.1."></a>
+**4.1.1.** Turn actions are the actions that the game allows a player to take during their turn. No effect or other card is needed to take these
+           turn actions. All turn actions can be taken any number of times by the active player, except for inking a card (see [4.2.3](#4.2.3.)).
+
+<a name="4.1.2."></a>
+**4.1.2.** The active player can take turn actions only during the Main Phase of their turn and can take them in any order. The active player
+           must complete each turn action in its entirety and players must resolve anything in the bag that resulted from a turn action before
+           the active player takes their next turn action.
+
+<a name="4.1.3."></a>
+**4.1.3.** The active player can take the following turn actions during their turn: ink a card, play a card, use a card’s activated ability, quest,
+           challenge, and move a character to a location.
+
+<a name="4.1.4."></a>
+**4.1.4.** If any part of a turn action process can’t be performed, it’s illegal to continue the turn action and the game goes back to the
+           moment right before the turn action was started (see [1.7.6](#1.7.6.)).
+
+<a name="4.1.5."></a>
+**4.1.5.** If a triggered ability occurs during the process used to complete a turn action, the triggered ability is added to the bag but won’t
+           resolve until the process is complete. Each process within a turn action defines when it’s complete.
+
+<a name="4.2."></a>
+### 4.2. Ink a Card
+
+<a name="4.2.1."></a>
+**4.2.1.** The player declares they’re putting a card into their inkwell. To do so, the player follows the process listed in sections [4.2.1.1](#4.2.1.1.)
+           through [4.2.1.3](#4.2.1.3.):
+
+<a name="4.2.1.1."></a>
+**4.2.1.1.** First, the player chooses and reveals a card from their hand with the inkwell symbol.
+
+<a name="4.2.1.2."></a>
+**4.2.1.2.** Second, all players verify that the inkwell symbol is present on the revealed card.
+
+<a name="4.2.1.3."></a>
+**4.2.1.3.** Third, the player puts the revealed card into their inkwell facedown and ready. This marks the end of the process.
+
+<a name="4.2.2."></a>
+**4.2.2.** Once the process of inking a card is complete, the player can resolve any triggered abilities that were added to the bag. When all
+           abilities have been resolved, the turn action is complete.
+
+<a name="4.2.3."></a>
+**4.2.3.** This turn action is limited to once during the active player’s turn.
+
+<a name="4.2.3.1."></a>
+**4.2.3.1.** Some effects allow a player to put “additional” cards into their inkwell. These effects continually adjust the once-per-turn
+             limit of the turn action for as long as the effect allowing the additional cards into the inkwell applies.
+
+_**Example**: Belle – Strange But Special has an ability Read a Book that reads, “During your turn, you may put an additional card
+from your hand into your inkwell facedown.” A player can put two cards into their inkwell during their turn: one from the turn
+action and one from Belle’s ability. If an effect returns Belle to a player’s hand and the card is replayed, the player can’t put
+another card into their inkwell because the additional card was already added to their inkwell for the turn. If the player has two
+copies of Belle in play, then they could put a third card into their inkwell._
+
+<a name="4.2.3.2."></a>
+**4.2.3.2.** Some effects allow a player to put a card directly into their inkwell. These effects aren’t counted toward the once-per-turn
+             limit of the turn action, and the card isn’t revealed as it’s put into the player’s inkwell.
+
+_**Example**: Fishbone Quill is an item that has the ability Go Ahead and Sign, which reads, “{E} — Put any card from your hand
+into your inkwell facedown.” A player may use this ability as many times as they can pay its cost. Cards added to the inkwell
+this way aren’t revealed._
+
+<a name="4.3."></a>
+### 4.3. Play a Card
+
+<a name="4.3.1."></a>
+**4.3.1.** The active player can play a card from their hand by announcing the card and paying its cost.
+
+<a name="4.3.2."></a>
+**4.3.2.** The process for playing a card listed in sections [4.3.2.1](#4.3.2.1.) through [4.3.2.4](#4.3.2.4.) applies to all cards that can be played. Cards can normally
+           be played only from a player’s hand. Only the active player can play a card during their turn.
+
+<a name="4.3.2.1."></a>
+**4.3.2.1.** First, the active player announces the card they intend to play and reveals it from their hand.
+
+<a name="4.3.2.2."></a>
+**4.3.2.2.** Second, the player announces how they intend to play the card, whether for its ink cost or an alternate cost. If multiple
+             alternate costs could apply, the player chooses one and ignores the others. If the card is played for the alternate cost of “for
+             free,” that alternate cost is immediately chosen, and the player ignores all costs to play the card and skips directly to [4.3.3](#4.3.3.)
+             (see [1.5.5](#1.5.5.)).
+
+<a name="4.3.2.3."></a>
+**4.3.2.3.** Third, the player determines the total cost needed to play the card. The total cost is the ink cost or alternate cost plus any
+             payment modifiers. The resulting cost is the total cost.
+
+<a name="4.3.2.4."></a>
+**4.3.2.4.** Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards
+             equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be
+             paid in any order but must be paid in full.
+
+<a name="4.3.3."></a>
+**4.3.3.** Once the total card cost is paid, the card enters play based on its type and is now considered “played.”
+
+<a name="4.3.3.1."></a>
+**4.3.3.1.** If the card is a character, item, or location, the card enters the Play zone. If it’s a character card being played using its Shift
+             ability, it must be put on top of the card referenced in the alternate cost to play it. This marks the end of the process.
+
+<a name="4.3.3.2."></a>
+**4.3.3.2.** If the card is an action, the card enters the Play zone and its effect resolves immediately. Then, the card moves to the
+             player’s discard pile. This marks the end of the process.
+
+<a name="4.3.4."></a>
+**4.3.4.** Once all steps in [4.3.2](#4.3.2.) and [4.3.3](#4.3.3.) are completed, triggered abilities that were added to the bag can now resolve.
+
+<a name="4.3.4.1."></a>
+**4.3.4.1.** If a card being played has a triggered ability that reads, “When [The Player] play(s) this [Card Type],” the triggered condition
+             is met during step [4.3.3](#4.3.3.) as the card comes into play and is added to the bag. This is an exception to [section 1.6.1](#1.6.1.).
+
+<a name="4.3.5."></a>
+**4.3.5.** Effects that change how a player pays the cost of a card (e.g., Singer) don’t change the ink cost of the card.
+
+<a name="4.3.6."></a>
+**4.3.6.** Payment modifiers that apply to “the next [Card Type] you play” always apply to the next card of that type you play within the
+           specified duration, even if you pay an alternate cost to play that card. If the payment modifier applies to a card with a specific
+           classification, it applies to the next card with that classification, even if other cards of the same type are played before it. Some
+           cards have a self-referential payment modifier that functions while the card is in a non-Play zone, meaning it applies to the card
+           it’s listed on only when that card is played. A modifier that isn’t self-referential functions only while the card it’s listed on is in play.
+
+_**Example A:** Doc – Leader of the Seven Dwarfs has an ability called Share and Share Alike that reads, “Whenever this character
+quests, you pay 1 {I} less for the next character you play this turn.” If the active player exerted Doc to quest this turn and then played
+a character for free as a result of another effect (such as from playing Just in Time), the 1 {I} payment reduction still applies._
+
+_**Example B:** Perdita – Playful Mother has an ability called Who’s Next? that reads, “Whenever this character quests, you pay 2 {I} less
+for the next Puppy character you play this turn.” If the active player quests with Perdita and then plays a Flounder – Voice of Reason,
+the payment modifier for a Puppy character would still apply to the next Puppy character they play, since Flounder doesn’t have the
+Puppy classification._
+
+_**Example C:** Lefou – Bumbler has an ability called Loyal that reads, “If you have a character named Gaston in play, you pay 1 {I} less
+to play this character.” This payment modifier is self-referential because it can apply only to playing that specific card. In contrast,
+Gadget Hackwrench – Brilliant Bosun has an ability called Mechanically Savvy that reads, “While you have 3 or more items in play,
+you pay 1 {I} less to play Inventor characters.” Even though Gadget has the Inventor classification, the ability doesn’t refer to itself
+when playing and begins to apply only when Gadget is in play._
+
+<a name="4.4."></a>
+### 4.4. Use an Activated Ability
+
+<a name="4.4.1."></a>
+**4.4.1.** An activated ability is an ability listed on a card the active player has in play that they can use to pay a cost to generate an effect.
+           Activated abilities are normally written as [Cost] — [Effect].
+
+<a name="4.4.2."></a>
+**4.4.2.** An activated ability with an {E} cost on a character can be used only if the character is dry. An activated ability on an item or
+           location can be used during the turn the item or location is played.
+
+<a name="4.4.2.1."></a>
+**4.4.2.1.** Some activated abilities {E} a character as a part of its cost. Only dry characters can be used to pay that cost.
+
+<a name="4.4.3."></a>
+**4.4.3.** To use an activated ability, the active player follows the steps of the process listed here in order. These steps apply to all activated
+           abilities. Only the active player can use activated abilities.
+
+<a name="4.4.3.1."></a>
+**4.4.3.1.** First, the active player announces the ability they intend to use.
+
+<a name="4.4.3.2."></a>
+**4.4.3.2.** Second, the player announces how they intend to activate the ability, whether for its ink cost or an alternate cost. If multiple
+             alternate costs could apply to the activated ability, the player chooses one and ignores the others for the purposes of
+             activating the ability. If the ability can be activated “for free,” ignore all costs except for {E} to activate the ability and skip
+             directly to [section 4.4.4](#4.4.4.).
+
+<a name="4.4.3.3."></a>
+**4.4.3.3.** Third, the player determines the total cost needed to activate the ability. The total cost is the ink cost or alternate cost plus
+             any payment modifiers. The resulting cost is the total cost.
+
+<a name="4.4.3.4."></a>
+**4.4.3.4.** Fourth, the player pays the total cost. If the total cost includes any ink, the player must exert a number of ready ink cards
+             equal to the ink cost. If any other costs are included, the player pays those costs as instructed by the card text. Costs can be
+             paid in any order but must be paid in full.
+
+<a name="4.4.4."></a>
+**4.4.4.** Once the total cost is paid, the ability is activated. The active player resolves the effect immediately. This marks the end of
+           the process.
+
+<a name="4.4.5."></a>
+**4.4.5.** Once all steps in sections [4.4.3](#4.4.3.) and [4.4.4](#4.4.4.) are completed, triggered abilities added to the bag can now resolve.
+
+<a name="4.5."></a>
+### 4.5. Quest
+
+<a name="4.5.1."></a>
+**4.5.1.** Only characters can quest. A character chosen to quest is the *questing character*. The active player who declares a questing
+           character is the *questing player*. To quest with a character, the player follows the process listed below in order.
+
+<a name="4.5.1.1."></a>
+**4.5.1.1.** First, the player declares the character they plan to quest with.
+
+<a name="4.5.1.2."></a>
+**4.5.1.2.** Second, the player checks for any restrictions that prevent them from questing (e.g., they aren’t dry yet, they have
+             **Reckless**, etc.).
+
+<a name="4.5.1.3."></a>
+**4.5.1.3.** Third, the player exerts the questing character.
+
+<a name="4.5.1.4."></a>
+**4.5.1.4.** Fourth, the player gains lore equal to the {L} of the questing character. This marks the end of the process.
+
+<a name="4.5.2."></a>
+**4.5.2.** Once the lore is gained by the questing player, the questing character has “quested.” Triggered abilities that were added to the
+           bag during the process can now resolve.
+
+<a name="4.5.3."></a>
+**4.5.3.** Once all effects have been resolved, the quest turn action is complete.
+
+<a name="4.5.3.1."></a>
+**4.5.3.1.** If a questing character has a negative lore value, the questing player gains no lore (see [1.11.2](#1.11.2.)).
+
+<a name="4.6."></a>
+### 4.6. Challenge
+
+<a name="4.6.1."></a>
+**4.6.1.** Only characters can challenge. A character declared by a player to challenge is the *challenging character*. The player who declares
+           a challenging character is the *challenging player*. The opposing character or location is *being challenged*, and the player whose
+           character or location is being challenged is the *challenged player*.
+
+<a name="4.6.2."></a>
+**4.6.2.** Only the challenging character and the character or location being challenged are considered to be in the challenge. If an ability or
+           effect refers to a character “in a challenge,” it’s referring only to one of the characters in the current challenge.
+
+<a name="4.6.3."></a>
+**4.6.3.** Challenges are divided into two steps: the Challenge Declaration step and the Challenge Damage step. In the Challenge
+           Declaration step, players follow the process to establish what character is challenging and what opposing character or location is
+           being challenged. In the Challenge Damage step, players follow the process to deal damage, if applicable, and fully complete the
+           challenge. These steps are always followed in this order.
+
+<a name="4.6.4."></a>
+**4.6.4.** Challenge Declaration step
+
+<a name="4.6.4.1."></a>
+**4.6.4.1.** First, the player declares one of their characters is challenging a character. A character must have been in play at the
+             beginning of the Set step of their player’s turn and ready in order to challenge (see [3.2.2.1](#3.2.2.1.)).
+
+<a name="4.6.4.2."></a>
+**4.6.4.2.** Second, the player chooses an exerted opposing character to be challenged.
+
+<a name="4.6.4.3."></a>
+**4.6.4.3.** Third, the players check for challenging restrictions (e.g. **Evasive**).
+
+<a name="4.6.4.4."></a>
+**4.6.4.4.** Fourth, the challenging player exerts the challenging character.
+
+<a name="4.6.4.5."></a>
+**4.6.4.5.** Fifth, the challenge occurs, and any “while challenging” effects start to apply. This marks the end of the process.
+
+<a name="4.6.5."></a>
+**4.6.5.** Any “challenges” or “is challenged” triggered abilities are added to the bag and resolve from the bag along with any other
+           triggered abilities that were added to the bag during the Challenge Declaration process. Once all effects in the bag have resolved,
+           the challenge moves to the Challenge Damage step.
+
+<a name="4.6.6."></a>
+**4.6.6.** Challenge Damage step
+
+<a name="4.6.6.1."></a>
+**4.6.6.1.** First, calculate the total amount of damage dealt to each character in the challenge, taking into account any current effects
+             that modify Strength {S} and damage. Apply Strength {S} increases and {S} decreases first, then damage increases and
+             damage reductions. The resulting number is the final amount of damage that character deals. If a character’s {S} is negative,
+             it counts as 0 {S} for the purpose of determining how much damage is dealt during the challenge.
+
+<a name="4.6.6.2."></a>
+**4.6.6.2.** Second, all damage is dealt simultaneously. The challenging character deals damage to the character being challenged, and
+             the character being challenged deals damage to the challenging character. Place a number of damage counters equal to the
+             damage dealt on each character in the challenge (see [1.9, “Damage”](#1.9.)). This marks the end of the process.
+
+<a name="4.6.6.3."></a>
+**4.6.6.3.** Third, a game state check occurs.
+
+<a name="4.6.7."></a>
+**4.6.7.** After the Challenge Damage step and once all effects have been resolved and there are no more abilities in the bag, effects that
+           apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that occur “after the challenge”
+           happen now and resolve. Then, the player can choose their next turn action.
+
+<a name="4.6.8."></a>
+**4.6.8.** Characters can challenge locations. This follows all of the normal rules and processes of challenging with the following exceptions.
+
+<a name="4.6.8.1."></a>
+**4.6.8.1.** When a challenging player would choose an exerted opposing character to challenge, the player chooses an opposing
+             location to challenge instead.
+
+<a name="4.6.8.2."></a>
+**4.6.8.2.** Locations aren’t considered ready or exerted and can be challenged at any time during the Main Phase.
+
+<a name="4.6.8.3."></a>
+**4.6.8.3.** Locations don’t have a {S} characteristic and don’t deal damage to the challenging character during the Challenge Damage
+             step. Locations have a {W} characteristic and can be dealt damage during the Challenge Damage step.
+
+<a name="4.6.9."></a>
+**4.6.9.** If a character in a challenge is removed from the challenge for any reason, that challenge ends, following the process below.
+
+<a name="4.6.9.1."></a>
+**4.6.9.1.** First, resolve any remaining triggered abilities in the bag.
+
+<a name="4.6.9.2."></a>
+**4.6.9.2.** Then, effects that apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that
+             occur “after the challenge” happen now and resolve. Then, the player can choose their next turn action.
+
+_**Example A:** The active player has a ready Stitch – New Dog in play, and an opponent has an exerted Milo Thatch – Clever
+Cartographer in play. The active player announces Stitch is challenging and chooses Milo Thatch as the character being
+challenged. There are no restrictions or requirements to satisfy. The active player exerts Stitch. No effects trigger as a result of
+these declarations. Stitch and Milo Thatch deal damage equal to their Strength {S} to each other. The active player and the
+opponent each place damage counters on their character. A game state check is performed and no effects trigger from the
+check. The challenge is over._
+
+![CHALLENGE EXAMPLE A](./images/challenge-example-a.png)
+
+_**Example B:** The active player declares Marshmallow – Persistent Guardian is challenging an opposing Cheshire Cat – Not All
+There. Cheshire Cat’s ability Lose Something? reads, “When this character is challenged and banished, banish the challenging
+character.” Marshmallow’s ability Durable reads, “When this character is banished in a challenge, you may return this card to
+your hand.” Marshmallow has 5 {S}, so he deals 5 damage to Cheshire Cat, who has 3 {W}. When the game state check is made,
+Cheshire Cat is banished. This triggers his ability, and the opponent adds it to the bag. The opponent resolves the ability’s
+effect, banishing Marshmallow. Because the players haven’t reached the step of the challenge in which effects in the bag are
+resolved, they’re still in the challenge, and the active player adds Marshmallow’s ability to the bag. The active player can then
+resolve it, returning Marshmallow to their hand. There are no more effects to add, and the bag is empty. The challenge is over._
+
+![CHALLENGE EXAMPLE B](./images/challenge-example-b.png)
+
+_**Example C:** The active player declares Rafiki – Mystical Fighter is challenging an opposing Shenzi – Hyena Pack Leader, who
+has 0 {S} and is at De Vil Manor – Cruella’s Estate. De Vil Manor has no abilities, but Shenzi’s ability I’ll Handle This gives her
++3 {S} while she’s at a location. Rafiki’s ability Ancient Skills reads, “Whenever he challenges a Hyena character, this character
+takes no damage from the challenge.” After restrictions and requirements are checked and Rafiki is exerted, the active player
+adds this triggered ability to the bag. The active player then resolves that effect. When the challenge proceeds to the Challenge
+Damage step, Rafiki won’t be dealt any damage._
+
+![CHALLENGE EXAMPLE C](./images/challenge-example-c.png)
+
+<a name="4.7."></a>
+### 4.7. Move a Character
+
+<a name="4.7.1."></a>
+**4.7.1.** A player can move only their characters. A player can move characters only to their locations. A player can’t move opposing
+           characters, and they can’t move their characters to opposing locations.
+
+<a name="4.7.2."></a>
+**4.7.2.** Players can’t move a character from a location unless that character is being moved to another location.
+
+<a name="4.7.3."></a>
+**4.7.3.** To move a character to a location, the active player follows the process listed below in order.
+
+<a name="4.7.3.1."></a>
+**4.7.3.1.** First, the player chooses one of their characters and one of their locations and declares that the character is moving to
+             that location.
+
+<a name="4.7.3.2."></a>
+**4.7.3.2.** Second, the player pays the chosen location’s move cost. If the character can move “for free,” the player ignores all costs to
+             move the character and skips directly to [4.7.3.3](#4.7.3.3.).
+
+<a name="4.7.3.3."></a>
+**4.7.3.3.** Third, once the cost is paid, the chosen character moves to the chosen location. This marks the end of the process.
+
+<a name="4.7.4."></a>
+**4.7.4.** Triggered abilities that were added to the bag during the process can now resolve. Once all effects have been resolved, the move
+           is complete.
+
+<a name="5."></a>
+## 5. CARDS AND CARD TYPES
+
+<a name="5.1."></a>
+### 5.1. Card States
+
+![CARD ORIENTATION](./images/card-orientation.png)
+
+<a name="5.1.1."></a>
+**5.1.1.** While in any zone except for a player’s hand, a card can have one or more specific states.
+
+<a name="5.1.1.1."></a>
+**5.1.1.1.** *Ready* – When a card is readied, it’s turned upright and is known as a *ready* card. Characters and items enter play ready.
+
+<a name="5.1.1.2."></a>
+**5.1.1.2.** *Exerted* – When a card is *exerted*, it’s turned sideways. A player can use an exerted card’s abilities that don’t require {E} as
+             part of the cost. A player can’t use any of an exerted card’s abilities that include {E} as part of the cost.
+
+<a name="5.1.1.3."></a>
+**5.1.1.3.** *Damaged* – A card that has at least 1 damage is considered to be *damaged*.
+
+<a name="5.1.1.4."></a>
+**5.1.1.4.** *Undamaged* – A card that has no damage is considered to be *undamaged*.
+
+<a name="5.1.1.5."></a>
+**5.1.1.5.** *Under* – A card that has one or more cards on top of it is considered to be *under* the top card in a stack (see [5.1.7](#5.1.7.)). A player
+             can’t choose any card that’s under the top card (see [5.1.6](#5.1.6.)) in a stack. A card that’s under another card and in the Play zone
+             isn’t considered to be in play. Any player can look at a faceup card that’s under another card at any time. No player can look
+             at the front of a facedown card that’s under another card at any time, not even their own.
+
+<a name="5.1.1.6."></a>
+**5.1.1.6.** *On Top* – A card that has one or more cards under it is considered to be *on top* of all cards under it. A card that’s on top of
+             one or more cards doesn’t gain the text of any card under it. The card that’s on top of all other cards in a stack is called the
+           *top card*.
+
+<a name="5.1.1.7."></a>
+**5.1.1.7.** *In a stack* - When a card is on top of or under one or more other cards in play, it and all cards under or on top of it are
+             considered to be *in a stack*. These cards are considered to be in a stack only while in play. If the top card in a stack leaves
+             play, all cards in the stack move to the same zone as the top card, and these cards are no longer considered to be in a stack.
+
+<a name="5.1.1.8."></a>
+**5.1.1.8.** *In Play* – A card that’s faceup in the Play zone with no cards on top of it is considered to be *in play*. If a card is facedown,
+             under another card, or in any zone other than the Play zone, it’s not considered to be in play.
+
+<a name="5.1.1.9."></a>
+**5.1.1.9.** *Faceup* – A card in the play area with its back (i.e., the side with the Illuminary icon) facing down toward the play surface and
+             its front (i.e., the side with the card’s cost and classifications) facing up toward the players is considered to be *faceup*. If a
+             card is put under another card faceup or has another card put on top of it while faceup, it’s still considered to be faceup.
+             A card that’s faceup is publicly known to all players. Any player can look at a faceup card at any time, even if the faceup card
+             is under another card.
+
+<a name="5.1.1.10."></a>
+**5.1.1.10.** *Facedown* – A card in the play area with its back (i.e., the side with the Illuminary icon) facing up toward the players and
+              its front (i.e., the side with the card’s cost and classifications) facing down toward the play surface is considered to be
+              *facedown*. No player can look at the front of a facedown card at any time, not even their own. A facedown card is never
+              considered to be in play.
+
+<a name="5.1.1.11."></a>
+**5.1.1.11.** *Drying* – A character that entered play during their player’s current turn is considered to be *drying*. A drying character can't
+              quest, can’t be declared as a challenging character, and can't {E} to pay any cost.
+
+<a name="5.1.1.12."></a>
+**5.1.1.12.** *Dry* – A character that’s been in play since the start of their player’s turn is considered to be *dry*. A dry character can quest
+              and can be declared as a challenging character. Items and dry characters can {E} to pay any cost.
+
+<a name="5.1.2."></a>
+**5.1.2.** A card in any zone except a player’s hand can have the state(s) described below. A card can have multiple states at the same time.
+
+<a name="5.1.2.1."></a>
+**5.1.2.1.** A character enters play with the ready, undamaged, in play, faceup, and drying states. A character that’s in play can have any
+             of the states listed in sections [5.1.1](#5.1.1.) through [5.1.12](#5.1.12.) except under and facedown.
+
+<a name="5.1.2.2."></a>
+**5.1.2.2.** An item enters play with the ready, in play, and faceup states. An item that’s in play can’t have the damaged, undamaged,
+             under, or facedown states.
+
+<a name="5.1.2.3."></a>
+**5.1.2.3.** A location enters play with the undamaged, in play, and faceup states. A location that’s in play can’t have the ready, exerted,
+             under, or facedown states.
+
+<a name="5.1.2.4."></a>
+**5.1.2.4.** A card in a player’s inkwell can only have the ready, exerted, and facedown states.
+
+<a name="5.1.2.5."></a>
+**5.1.2.5.** A card in a player’s deck can only have the facedown state.
+
+<a name="5.1.2.6."></a>
+**5.1.2.6.** A card in a player’s discard can only have the faceup state.
+
+<a name="5.1.2.7."></a>
+**5.1.2.7.** A card in a player’s hand can’t have any state.
+
+<a name="5.1.3."></a>
+**5.1.3.** If a state is applied to or removed from a card for any reason, the state is applied or removed immediately.
+
+_**Example A:** The active player decides to quest with a ready Flounder – Voice of Reason. As they exert Flounder to quest, the ready
+state is removed from him immediately, and the exerted state is applied to him immediately._
+
+_**Example B:** The active player decides to play a Tinker Bell – Giant Fairy using her Shift ability on top of a Tinker Bell – Tiny Tactician
+that’s ready, undamaged, in play, faceup, and dry. As that happens, all states except faceup are immediately removed from Tinker
+Bell – Tiny Tactician and the under and in a stack states are immediately applied. The ready, undamaged, on top, in a stack, in play,
+faceup, and dry states are immediately applied to Tinker Bell – Giant Fairy. The ready, undamaged, and dry states are immediately
+applied to the shifted Tinker Bell because the character she’s put on top of already had those states. See [10.10 “Shift”](#10.10.) for more
+information._
+
+<a name="5.2."></a>
+### 5.2. Parts of a Card
+
+![STANDARD CARD TERMS](./images/standard-card-terms.png)
+
+<a name="5.2.1."></a>
+**5.2.1.** Most parts of a card appear on all card types. Specific differences are noted in the entry for the relevant card type.
+
+<a name="5.2.2."></a>
+**5.2.2.** *Card Cost* – The amount of ink needed to play the card.
+
+<a name="5.2.3."></a>
+**5.2.3.** *Inkwell Symbol* – If this swirl icon, {C}, is present around the card’s cost, the card can be put into its player’s inkwell. Cards in an
+           inkwell represent that player’s ink. Each card counts as 1 {I}.
+
+<a name="5.2.4."></a>
+**5.2.4.** *Art* – The art isn’t used for gameplay.
+
+<a name="5.2.5."></a>
+**5.2.5.** *Ink Type* – The ink type of the card, identified by the ink type symbol. The colored bar behind the card’s name reflects the
+           associated color. A card’s ink type is important for building a deck and may be referenced in card rules. The ink types are: Amber,
+           Amethyst, Emerald, Ruby, Sapphire, and Steel.
+
+![INK KEY](./images/ink-key.png)
+
+<a name="5.2.5.1."></a>
+**5.2.5.1.** Some cards have more than one ink type. Cards with two ink types have two ink type symbols and count as each ink type.
+
+<a name="5.2.6."></a>
+**5.2.6.** *Name* – The name of the card appears in larger print. A card’s name applies in all zones. An effect that looks for a card with a
+           specified name looks only at this line and ignores the version (see [5.3.6.1](#5.3.6.1.)). The whole character or location name must be the same
+           as the specified name to be a match. A character’s or location’s name and version together constitute its full name.
+
+_**Example A:** Tinker Bell – Peter Pan’s Ally has an ability called Loyal and Devoted that reads, “Your characters named Peter Pan gain
+Challenger +1. (They get +1 {S} while challenging.)” If you have Peter Pan – Fearless Fighter and Peter Pan – Never Land Hero in play
+with this Tinker Bell, she gives both versions of Peter Pan Challenger +1._
+
+_**Example B:** The Sorcerer’s Hat has the activated ability Incredible Energy which reads, “{E}, 1 {I} — Name a card, then reveal the top
+card of your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.” If the active player
+names Lucky for the effect and then reveals Lucky Dime from the top of their deck, that isn’t a match. Lucky Dime is then put back
+on the top of that player’s deck._
+
+<a name="5.2.6.1."></a>
+**5.2.6.1.** Some characters have two singular names in addition to their printed name. These characters have an ampersand (&) or
+             something else that’s treated as an ampersand (see [5.6.2.3](#5.6.2.3.)) between the two names listed on the name line. If an effect
+             looks for a card or character with a specified name, the specified name must exactly match one of the names on the card.
+
+<a name="5.2.6.2."></a>
+**5.2.6.2.** A character with multiple names is still a single character.
+
+_**Example A:** Flotsam & Jetsam – Entangling Eels is a character that has three names. The card is a character named “Flotsam,”
+a character named “Jetsam,” and a character named “Flotsam & Jetsam.”_
+
+_**Example B:** Bruno Madrigal – Undetected Uncle has an ability called You Just Have to See It that reads, “{E} — Name a card,
+then reveal the top card of your deck. If it's the named card, put it into your hand and gain 3 lore. Otherwise, put it on the
+top of your deck.” If the active player names “Flotsam” for the ability’s effect and then reveals either Flotsam or Flotsam &
+Jetsam from the top of their deck, the revealed card is a match and the active player puts it into their hand and gains 3 lore. If
+the player names “Flotsam & Jetsam” and then reveals Flotsam from the top of their deck, that isn’t a match, and the player
+doesn’t put the revealed card into their hand and doesn’t gain 3 lore. Flotsam is then put back on the top of that player’s deck._
+
+<a name="5.2.6.3."></a>
+**5.2.6.3.** One character, Chip ’n‘ Dale – Recovery Rangers, doesn’t have the ampersand (&) in the card’s name line but is treated as if
+             it did.
+
+<a name="5.2.7."></a>
+**5.2.7.** *Classifications* – Categories that identify some characteristics of the card and may be referenced in card rules.
+
+_**Example:** Hades – King of Olympus has an ability called Sinister Plot that reads, “This character gets +1 {L} for each other Villain
+character you have in play.” This ability references cards with the Villain classification._
+
+<a name="5.2.8."></a>
+**5.2.8.** *Rules Text* – Any abilities, effects, and rules text the card has appear in this space, called the text box. Some abilities have a cost
+           to use them. Abilities can be keywords (see [section 8](#8.)) or have a story name. The story name is used for referencing the ability and
+           isn’t used for gameplay.
+
+<a name="5.2.9."></a>
+**5.2.9.** *Flavor Text* – Flavor text isn’t used for gameplay.
+
+<a name="5.2.10."></a>
+**5.2.10.** *Ancillary Information* – Ancillary information isn’t used for gameplay.
+
+<a name="5.2.10.1."></a>
+**5.2.10.1.** *Artist Name* – Artist who illustrated the card.
+
+<a name="5.2.10.2."></a>
+**5.2.10.2.** *Collector Number* – Indicates where this card appears in the set. The number of unique standard cards in the set appears
+              after the slash.
+
+<a name="5.2.10.3."></a>
+**5.2.10.3.** *Set Number* – What number set this card is from.
+
+**Example:** The First Chapter, Rise of the Floodborn, Into the Inklands, *and* Ursula’s Return *are indicated with 1, 2, 3, and 4
+here, respectively.*
+
+<a name="5.2.10.4."></a>
+**5.2.10.4.** *Language* – The language the card is in.
+
+<a name="5.2.10.5."></a>
+**5.2.10.5.** *Legal Text* – Copyright information.
+
+<a name="5.2.10.6."></a>
+**5.2.10.6.** *Rarity Symbol* – Indicates how common the card is among the cards in the set it was printed in.
+
+![RARITY KEY](./images/rarity-key.png)
+
+<a name="5.3."></a>
+### 5.3. Characters
+
+<a name="5.3.1."></a>
+**5.3.1.** *Characters* are a type of card that can be in play. A character card that’s in the Play zone is a character; in all other zones it’s a
+           character card.
+
+<a name="5.3.2."></a>
+**5.3.2.** Characters are generally played during a player’s Main Phase (see [3.3](#3.3.)).
+
+<a name="5.3.3."></a>
+**5.3.3.** Characters don’t list “Character” on their classification line. A card needs to have both characteristics outlined in [5.3.3.1](#5.3.3.1.) and
+           [5.3.3.2](#5.3.3.2.) to be a character. If not, the card isn’t a character.
+
+<a name="5.3.3.1."></a>
+**5.3.3.1.** A character has a {S} value and a {W} value.
+
+<a name="5.3.3.2."></a>
+**5.3.3.2.** A character has at least one of the following listed on the classification line: Alien, Ally, Broom, Captain, Colossus, Deity,
+             Detective, Dinosaur, Dragon, Dreamborn, Entangled, Fairy, Floodborn, Gargoyle, Ghost, Giant, Hero, Hunny, Hyena, Illusion,
+             Inventor, King, Knight, Madrigal, Mentor, Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Robot, Seven Dwarfs,
+             Sorcerer, Storyborn, Super, Tigger, Titan, Villain, Whisper.
+
+<a name="5.3.4."></a>
+**5.3.4.** Only characters can quest or challenge.
+
+<a name="5.3.5."></a>
+**5.3.5.** A character must have been in play at the beginning of the Set step of their player’s turn in order to quest, challenge, or {E} as part
+           of a cost (see [3.2.2, “Set”](#3.2.2.)).
+
+<a name="5.3.6."></a>
+**5.3.6.** Characters have additional parts on their cards.
+
+<a name="5.3.6.1."></a>
+**5.3.6.1.** *Version* – A card’s version differentiates cards with the same name. A card’s version name applies in all zones. A character’s
+             name and version together constitute its *full name*.
+
+<a name="5.3.6.2."></a>
+**5.3.6.2.** *Strength* {S} – Primarily, how much damage this character deals in a challenge, though card effects can also reference this
+             value. If a character would deal damage equal to its {S} and it has 0 or less {S}, it deals no damage.
+
+<a name="5.3.6.3."></a>
+**5.3.6.3.** *Willpower* {W} – Damage on a character is persistent, which means it accumulates over the course of the game. If a character
+             has damage equal to or higher than their {W}, they’re banished as a result of a game state check. Card effects can also
+             reference this value.
+
+<a name="5.3.6.4."></a>
+**5.3.6.4.** *Lore Value* – How much lore their player gains when the character quests.
+
+<a name="5.4."></a>
+### 5.4. Actions
+
+<a name="5.4.1."></a>
+**5.4.1.** *Actions* are a type of card that enters play briefly to generate an immediate effect. An action card that’s in the Play zone is an
+           action; in all other zones it’s an action card.
+
+<a name="5.4.1.1."></a>
+**5.4.1.1.** An action is defined as having “Action” on the card’s classification line.
+
+<a name="5.4.1.2."></a>
+**5.4.1.2.** Actions are played from a player’s hand. When an action is played, its effect resolves immediately. An action is put into the
+             Play zone while the effect resolves. After the effect resolves, the action is put into the player’s discard pile. An effect from an
+             action doesn’t enter the bag. (See [7.7, “Bag.”](#7.7.))
+
+<a name="5.4.2."></a>
+**5.4.2.** Actions are generally played during a player’s Main Phase (see [3.3](#3.3.)).
+
+<a name="5.4.3."></a>
+**5.4.3.** Effects – Actions have effects rather than abilities.
+
+<a name="5.4.4."></a>
+**5.4.4.** Songs
+
+<a name="5.4.4.1."></a>
+**5.4.4.1.** *Songs* are a type of action that are defined as having both “Action” and “Song” on the classification line.
+
+<a name="5.4.4.2."></a>
+**5.4.4.2.** Songs have a special rule in addition to the normal rules for actions (see [5.4.1](#5.4.1.) through [5.4.3](#5.4.3.)). All songs allow the player to
+             pay an alternate cost instead of their ink cost to play them. Being a song means “You may pay, ‘{E} a character with ink cost
+             N or greater’ to play this card instead of its ink cost,” where N equals the ink cost of the song. This is called *singing* the song.
+
+<a name="5.4.4.3."></a>
+**5.4.4.3.** Some songs also have the keyword **Sing Together**, which functions similarly to the special rule. (See [8.12, “Sing Together.”](#8.12.))
+
+<a name="5.4.5."></a>
+**5.4.5.** Triggered abilities that occur from playing an action are added to the bag but won’t resolve until after the action is played
+           (see [4.3.4](#4.3.4.)).
+
+<a name="5.5."></a>
+### 5.5. Items
+
+<a name="5.5.1."></a>
+**5.5.1.** *Items* are a type of card that can be in play. An item is an item only while in the Play zone; in all other zones it’s an item card.
+
+<a name="5.5.2."></a>
+**5.5.2.** Items are generally played during a player’s Main Phase (see [3.3](#3.3.)).
+
+<a name="5.5.3."></a>
+**5.5.3.** An item is defined as having “Item” on the classification line.
+
+<a name="5.5.4."></a>
+**5.5.4.** If an item has an ability, that ability can be used during the turn the item is played.
+
+<a name="5.6."></a>
+### 5.6. Locations
+
+![LOCATION CARD TERMS](./images/location-card-terms.png)
+
+<a name="5.6.1."></a>
+**5.6.1.** *Locations* are a type of card that can be in play. A location is a location while in the Play zone; in all other zones it’s a location card.
+
+<a name="5.6.2."></a>
+**5.6.2.** Locations are generally played during a player’s Main Phase (see [3.3](#3.3.)).
+
+<a name="5.6.3."></a>
+**5.6.3.** A location is defined as having “Location” on the classification line. Locations are the only card type printed in landscape (i.e., with
+           the longer sides on the top and bottom).
+
+<a name="5.6.4."></a>
+**5.6.4.** If a location has an ability, that ability can be used during the turn the location is played.
+
+<a name="5.6.5."></a>
+**5.6.5.** Locations have additional parts on their cards.
+
+<a name="5.6.5.1."></a>
+**5.6.5.1.** Move Cost – The amount of ink needed to move a character to this location.
+
+<a name="5.6.5.2."></a>
+**5.6.5.2.** *Willpower* {W} – Damage on a location is persistent, which means it accumulates over the course of the game. If a location
+             has damage equal to or higher than its {W}, it’s banished as the result of a game state check. Locations don’t have a {S}
+             characteristic and don’t deal damage.
+
+<a name="5.6.5.3."></a>
+**5.6.5.3.** *Lore Value* – How much lore its player gains at the start of their turn during the Set step.
+
+<a name="6."></a>
+## 6. ABILITIES, EFFECTS, AND RESOLVING
+
+<a name="6.1."></a>
+### 6.1. General
+
+<a name="6.1.1."></a>
+**6.1.1.** An ability is any card text in the text box on a character, item, or location that can affect the game. An ability has one or more
+           effects. An effect is the part of an ability or action that gets resolved. An ability is considered to be fully resolved if all of its effects
+           have fully resolved. If an ability has an effect that has yet to fully resolve, such as one that didn’t happen or resolved with no effect,
+           that ability isn’t fully resolved.
+
+_**Example:** Cursed Merfolk – Ursula’s Handiwork has an ability called Poor Souls that reads, “Whenever this character is challenged,
+each opponent chooses and discards a card.” The Poor Souls ability is a triggered ability. The effect of this ability is “each opponent
+chooses and discards a card.”_
+
+<a name="6.1.1.1."></a>
+**6.1.1.1.** A card can have multiple abilities. These are normally separated by paragraph breaks as well as keywords or story names.
+
+<a name="6.1.1.2."></a>
+**6.1.1.2.** Abilities generate effects. Action cards don’t have abilities; they generate effects as they resolve.
+
+_**Example A:** Huey – Savvy Nephew has two abilities: a keyword ability and an ability with a story name. The first is
+Support, a keyword ability. The second is Three Nephews, a triggered ability. These abilities are separated on the card by a
+paragraph break._
+
+_**Example B:** Ring the Bell is an action that has the effect, “Banish chosen damaged character.” This effect happens as the
+action resolves._
+
+<a name="6.1.2."></a>
+**6.1.2.** A card’s abilities and effects are made up of one or more sentences, separated by periods. Each sentence is a separate effect.
+           A sentence can have more than one effect. When an ability or effect begins to resolve, follow the order the effects are written
+           in. Once a card’s abilities and effects begin to resolve, all effects resolve as much as possible, even if part of the effect or effects
+           can’t resolve for any reason. Some actions and abilities have more than one effect to resolve as separate sentences of the action or
+           ability. These sentences resolve in the order they’re written, but all occur as part of the same resolution of the action or ability.
+           To correctly resolve an ability’s effects, the entire context and structure of the ability should be considered.
+
+<a name="6.1.3."></a>
+**6.1.3.** All choices for effects are made as the effect resolves. If resolving an effect allows a player to choose “up to” N of something, the
+           player can’t pick the same choice for more than one iteration of N. If the resolving effect includes multiple instances of the word
+           “choose” or “chosen,” then the same choice can be made for each instance. “Up to” includes 0 as a legal choice.
+
+_**Example A:** Painting the Roses Red is a song action that has the effect, “Up to 2 chosen characters get -1 {S} this turn. Draw a card.”
+The same character can’t be chosen twice. The card’s player could also choose 0 characters._
+
+_**Example B:** The Queen – Commanding Presence has an ability called Who Is the Fairest? that reads, “Whenever this character
+quests, chosen opposing character gets -4 {S} this turn and chosen character gets +4 {S} this turn.” The same character can be
+chosen for both the -4 {S} and the +4 {S} modifiers since the ability has two separate instances of the word “chosen.”_
+
+<a name="6.1.4."></a>
+**6.1.4.** If an effect contains the word “may,” the player whose ability generated the effect can choose whether they want it to happen as
+           the effect resolves. If the player chooses not to have it happen, that effect resolves with no effect, and no part of the “you may”
+           *sentence* is performed. If an ability or action has multiple effects separated by periods, and one of them contains the word “may,”
+           the choice applies only to that specific effect; the others resolve as normal.
+
+<a name="6.1.5."></a>
+**6.1.5.** Some effects are considered sequential effects. These effects require a player to make a decision or pay a cost in order to
+           resolve them. These are normally written as “[A] to [B], “[A] or [B],” or “[A]. If you do, [B].” Note that both [A] and [B] can have
+           multiple parts.
+
+<a name="6.1.5.1."></a>
+**6.1.5.1.** If the effect is “[A] to [B}” or “[A]. If you do, [B],” [A] is required as a part of the resolving effect. [A] can include paying {I},
+             and that ink is paid as the effect is resolving. If [A] can’t be completely performed, the effect can’t continue in sequence.
+
+<a name="6.1.5.2."></a>
+**6.1.5.2.** If the effect is “[A] or [B],” the player is required to choose [A] or [B] as part of the resolving effect. If [A] can’t be chosen,
+             then [B] has to be chosen, and vice versa.
+
+_**Example A:** “Banish chosen item of yours to deal 5 damage to chosen character.” If the player doesn’t have an item in play that
+they can banish for the sequential effect listed in the first part of the sentence [A], they can’t deal the 5 damage described in
+the second part of the sentence [B]._
+
+_**Example B:** “Whenever this character quests, you may shuffle this card into your deck to draw 3 cards.” This triggered ability
+is added to the bag when the character quests. When the player resolves the ability from the bag, they can choose the
+sequential effect of shuffling the card into their deck [A]. If they do, they draw three cards from part [B]. If the player chooses
+not to do [A] or is unable to do part of [A] for any reason, they don’t draw three cards from part [B]._
+
+_**Example C:** Megara – Captivating Cynic has an ability called Shady Deal that reads, “When you play this character, choose
+and discard a card or banish this character.” If the player doesn’t or can’t choose and discard a card, they must banish Megara._
+
+_**Example D:** Judy Hopps – Optimistic Officer has an ability called Don’t Call Me Cute that reads, “When you play this character,
+you may banish chosen item. If you do, its player draws a card.” If the player chooses not to banish a chosen item, its player
+doesn’t draw a card._
+
+<a name="6.1.6."></a>
+**6.1.6.** If an ability or effect refers to “another” or “other,” it refers to any card that effect or ability doesn’t originate from or one that
+           wasn’t already selected by the ability.
+
+_**Example:** Mulan – Imperial Soldier has an ability called Lead by Example that reads, “During your turn, whenever this character
+banishes another character in a challenge, your other characters get +1 {L} this turn.” Mulan must banish a character other than
+herself, and she doesn’t gain the benefit of this ability herself because it applies only to your “other” characters._
+
+<a name="6.1.7."></a>
+**6.1.7.** If an ability or effect instructs a player to play a card “for free” as a part of resolving that ability or effect, the player ignores all
+           costs and can’t choose to play that card by paying any other alternate cost (see [4.3.2.2](#4.3.2.2.)). If playing a card this way causes any
+           triggered abilities to occur, those abilities are added to the bag but wait to resolve until the card the effect instructed the player to
+           play has fully resolved.
+
+<a name="6.1.7.1."></a>
+**6.1.7.1.** If an ability or effect instructs a player to use an ability “for free,” the player ignores all costs needed to use the ability
+             except for {E}.
+
+_**Example:** During the active player’s turn, they have a Pride Lands – Jungle Oasis in play and a Donald Duck – Pie Slinger in
+their discard pile. Pride Lands is a location card and has an ability called Our Humble Home that reads, "While you have 3 or
+more characters here, you may banish this location to play a character from your discard for free.” When the active player
+banishes Pride Lands with this ability, they play Donald Duck from their discard for free. Even though Donald Duck has a Shift
+cost, the player can’t choose to pay it as an alternate cost to play him since he enters play as part of resolving
+Pride Lands’s ability._
+
+<a name="6.1.8."></a>
+**6.1.8.** Some abilities and effects have the language “for each” to define a single number used in that ability or effect. This can be used
+           on any type of ability or effect. If a non-static ability has “for each,” the number defined is counted once during the process of
+           resolving the effect. If a static ability has “for each,” the number defined is continuously counted for as long as the static ability
+           remains active.
+
+_**Example:** Prince John – Greediest of All has an ability called I Sentence You that reads, “Whenever your opponent discards 1 or more
+cards, you may draw a card for each card discarded.” If the opponent discards 2 cards, then the active player may draw 2 cards. The
+active player can’t choose to draw only 1 card. They must choose to draw either 2 cards or none at all._
+
+<a name="6.1.8.1."></a>
+**6.1.8.1.** Some abilities and effects instruct the player to draw or discard cards “until” a specified number of cards is met. This
+             functions similarly to [6.1.8](#6.1.8.), where the number of cards needed to meet the specified number is counted once during the
+             process of resolving the effect.
+
+<a name="6.1.9."></a>
+**6.1.9.** Sometimes an ability or combination of abilities is represented by a specific word or short phrase in bold text. These are known as
+           “keyword abilities.” See [section 8. “Keywords”](#8.) for more information.
+
+<a name="6.1.10."></a>
+**6.1.10.** Sometimes a combination of abilities can be repeated indefinitely, called a “loop.” If all players are aware of and understand the
+            actions of each iteration of the loop, the player who maintains the loop proposes a specific number of iterations. The game is
+            considered to proceed immediately through those iterations without the player performing each one. Then the game continues,
+            and a new action must be taken.
+
+<a name="6.1.11."></a>
+**6.1.11.** Some abilities and effects use “that” in their text to refer to something specific mentioned earlier in the text.
+
+_**Example:** Ursula – Deceiver of All’s ability What a Deal reads, “Whenever this character sings a song, you may play that song again
+from your discard for free. If you do, put that card on the bottom of your deck instead of into your discard.” Here, “that song” refers
+to the card sung by Ursula and not to any other song card that’s in her player’s discard pile._
+
+<a name="6.1.11.1."></a>
+**6.1.11.1.** If card text references a specific zone where “that” card is put or located, only that zone is checked. If the card referenced
+              by “that” has changed zones, the part of the effect checking that zone for “that” card fails and resolves with no effect, even
+              if there are other cards whose full name matches the full name of “that” card. The player does as much as they can when
+              resolving the rest of the effect.
+
+_**Example:** A player has 2 copies of Ursula – Deceiver of All in play and exerts them both to sing a song using its **Sing Together**
+ability. Ursula’s ability What a Deal reads, “Whenever this character sings a song, you may play that song again from your
+discard for free. If you do, put that card on the bottom of your deck instead of into your discard.” Because both copies of
+Ursula were exerted to sing together, both of their What a Deal abilities are triggered and added to the bag to be resolved.
+When the first triggered ability resolves, the song card played using **Sing Together** is put on the bottom of its player’s deck.
+When the second triggered ability resolves, “that song” card is no longer in the discard, so that part of the effect resolves with
+no effect. Similarly, “that song” refers to a song card that’s no longer in the discard, so the latter part of the effect also does
+nothing. Even if there’s another song card with the same name in the discard, “that song” refers only to the specific song card
+that was sung by Ursula when the triggered abilities were added to the bag, not any other song card with the same name._
+
+<a name="6.1.12."></a>
+**6.1.12.** Some abilities or effects apply only outside of the play zone. Read the entire ability to determine if it applies only outside of the
+            play zone.
+
+_**Example A:** An effect that reads “For each character card in your discard, you pay 1 {I} less to play this character” applies during the
+process of playing the character._
+
+_**Example B:** Lilo – Escape Artist has an ability called No Place I’d Rather Be that reads, “At the start of your turn, if this card is in your
+discard, you may play her and she enters play exerted.” Because the triggered ability condition is looking for the card in the discard,
+this ability functions in the discard zone, not in the play zone._
+
+<a name="6.1.13."></a>
+**6.1.13.** Some abilities or effects specify when an effect can happen, known as durations. They use certain words or phrases to define when
+            the ability’s effects occur or apply. Durations are indicated by the following words or phrases: “during,” “once,” “until,” “this turn,”
+            and “while.”
+
+<a name="6.1.13.1."></a>
+**6.1.13.1.** During – An ability with this duration applies only at the specified moment or within a specific period listed after the word
+              “during.” If the current moment or specific period doesn’t match the one listed after “during” in the ability or effect, then
+              that ability or effect doesn’t apply.
+
+_**Example:** Triton – Young Prince has an ability called Superior Swimmer that reads, “During your turn, this character gains
+**Evasive**. (They can challenge characters with **Evasive**.) This ability applies only if it’s the turn of the player who has Triton in
+play. If it’s the turn of any other player, this ability doesn’t apply._
+
+<a name="6.1.13.2."></a>
+**6.1.13.2.** Once – An ability with this duration can happen only a single time within the specified period listed after the word “once.”
+              The ability checks to see if it has fully resolved previously. If it has, it resolves with no effect. If a player has two or more
+              abilities with the same name, each ability checks independently.
+
+_**Example:** Taffyta Muttonfudge – Sour Speedster has an ability called New Roster that reads, “Once per turn, when this
+character moves to a location, gain 2 lore.” The active player moves Taffyta Muttonfudge to a location and the triggered ability
+is added to the bag. When the triggered ability resolves from the bag, it checks to see if this effect has already resolved this
+turn. It hasn’t, so the effect resolves as normal. Then the active player moves Taffyta Muttonfudge to another location and the
+triggered ability is added to the bag. When the ability resolves and checks, it has resolved already this turn, so it resolves with
+no effect. If the active player has a second Taffyta and moves her to a location, her ability checks only whether that particular
+ability has resolved, instead of any ability named New Roster. Since this is the first time the ability of the second copy of
+Taffyta checks to see if that particular ability has resolved, it resolves as normal._
+
+<a name="6.1.13.3."></a>
+**6.1.13.3.** Until – An effect with this duration applies up to a certain moment in the game defined in the effect, usually listed after the
+              word “until.” Such an effect applies as soon as it's generated.
+
+_**Example:** Dodge! is an action that has the effect, “Chosen character gains **Ward** and **Evasive** until the start of your next turn.”
+Once the action is finished resolving, the chosen character gains those keywords. The character loses them at the start of their
+player’s next turn._
+
+<a name="6.1.13.4."></a>
+**6.1.13.4.** This Turn – An effect with this duration applies from the moment it's generated until that player’s End-of-Turn Phase,
+              immediately prior to the turn passing to the next player. Sometimes these effects have a condition or requirement to meet
+              for the stated duration of “this turn” to apply.
+
+_**Example:** Good Job! is an action that has the effect, “Chosen character gets +1 {L} this turn.” As soon as the action resolves the
+effect, the character gets the +1 {L} for the rest of the turn. The character loses the +1 {L} during the player’s End-of-Turn Phase._
+
+<a name="6.1.13.5."></a>
+**6.1.13.5.** While – An ability with this duration applies only if the defined condition is true. If the defined condition is false, the ability
+              doesn’t apply. A variation of this duration, “while here,” can appear on locations.
+
+_**Example A:** Noi – Orphaned Thief has an ability called Hide and Seek that reads, “While you have an item in play, this
+character gains **Resist** +1 and **Ward**. (Damage dealt to this character is reduced by 1. Opponents can't choose this character
+except to challenge.)” As long as the player who has Noi in play also has an item in play, the ability applies. Once the item
+leaves play, Noi’s ability no longer applies._
+
+_**Example B:** Pride Lands – Pride Rock has an ability called We Are All Connected that reads, “Characters get +2 {W} while here.”
+If a character is at this location, they get the +2 {W}. If the location leaves play or the character moves to another location, the
+character immediately loses the Willpower {W} gained from the ability._
+
+<a name="6.1.13.6."></a>
+**6.1.13.6.** Some abilities and effects use a combination of the durations above. Such an ability or effect is active and functional only as
+              long as all durations apply and the conditions of those durations are true. If any of those durations don’t apply or any of their
+              conditions are false, the ability or effect doesn’t apply.
+
+_**Example A:** Jafar – Striking Illusionist has an ability called Power Beyond Measure that reads, “During your turn, while this
+character is exerted, whenever you draw a card, gain 1 lore.” The triggered ability happens only if it’s the turn of the player who
+has Jafar in play and if Jafar is exerted. If either condition is false—if Jafar is ready, for example—the triggered ability won’t
+happen and isn’t added to the bag._
+
+_**Example B:** Thebes – The Big Olive is a location that has an ability called If You Can Make It Here. . . . It reads, “During your
+turn, whenever a character banishes another character in a challenge while here, gain 2 lore.” The triggered ability happens
+only if it’s the turn of the player who has Thebes in play and only if a character at Thebes banishes another character in a
+challenge. If either condition is false—if it’s an opponent’s turn, for example— the triggered ability doesn’t happen and isn’t
+added to the bag._
+
+<a name="6.1.14."></a>
+**6.1.14.** Some effects instruct the active player to reveal a card or cards.
+
+<a name="6.1.14.1."></a>
+**6.1.14.1.** To reveal a card, the player shows the face of the card to all other players in the game. The player can reveal cards only from
+              the group of cards described earlier in the effect.
+
+<a name="6.1.14.2."></a>
+**6.1.14.2.** Cards that are revealed remain revealed only for as long as the effect applies. Once the effect stops applying, the cards are
+              no longer revealed.
+
+_**Example:** The song Look at This Family has an effect that reads, “Look at the top 5 cards of your deck. You may reveal up to
+2 character cards and put them into your hand. Put the rest on the bottom of your deck in any order.” The cards the player
+chooses to reveal can only come from the top 5 cards the player looked at. The player can’t choose to reveal any cards from
+any other group of cards._
+
+<a name="6.2."></a>
+### 6.2. Triggered Abilities
+
+<a name="6.2.1."></a>
+**6.2.1.** Triggered abilities occur when their trigger condition is met. They trigger only once per trigger condition met.
+
+<a name="6.2.2."></a>
+**6.2.2.** Triggered effects start with “When,” “Whenever,” “The first time,” "The second time," “The next time,” “At the start of,” or “At the
+           end of” and describe both the game state that causes the abilities to trigger and the effects of the abilities. The starting word
+           or phrase and the condition are collectively known as the [Trigger Condition]. These effects are normally written as "[Trigger
+           Condition], [Effect].”
+
+<a name="6.2.3."></a>
+**6.2.3.** When an ability’s trigger condition is met, it’s added to the bag to be resolved as described in [section 7.7, “Bag.”](#7.7.)
+
+<a name="6.2.4."></a>
+**6.2.4.** Some triggered abilities are written as “[Trigger Condition], if [Secondary Condition], [Effect].” Such an ability checks whether the
+           secondary condition is true only when the effect resolves. If the condition is false, the ability resolves with no effect. If an ability
+           has multiple “if [Secondary Conditions],” all of them are checked as the effect resolves.
+
+_**Example:** Stitch – Carefree Surfer has an ability called Ohana that reads, “When you play this character, if you have 2 or more
+other characters in play, you may draw 2 cards.” When the active player plays Stitch, the triggered ability is added to the bag. When
+chosen to resolve, the effect checks if the player has two or more characters in play. If they don’t, the triggered ability resolves with
+no effect._
+
+<a name="6.2.5."></a>
+**6.2.5.** Some triggered abilities are written as, “[Trigger Condition], [Effect]. [Effect].” Both effects are linked to the trigger condition, but
+           each effect is independent of the other.
+
+_**Example:** Scar – Vicious Cheater has an ability called Daddy Isn’t Here to Save You that reads, “During your turn, whenever this
+character banishes another character in a challenge, you may ready this character. He can’t quest for the rest of this turn.” Because
+the two effects are both linked to the trigger condition, if Scar doesn’t banish another character in a challenge, he can quest this turn
+as normal._
+
+<a name="6.2.6."></a>
+**6.2.6.** Some triggered abilities are written as, “[Trigger Condition] and [Trigger Condition], [Effect].” These abilities function as two
+           triggered abilities that are independent of each other, but both resolve for the same effect.
+
+_**Example:** John Silver – Alien Pirate has an ability called Pick Your Fights that reads, “When you play this character and whenever he
+quests, chosen opposing character gains **Reckless** during their next turn.” The triggered ability occurs when John Silver is played and
+also when the active player quests with this character. The triggered ability doesn’t require both trigger conditions to be true at the
+same time for it to occur, only one or the other._
+
+<a name="6.2.7."></a>
+**6.2.7.** Some abilities and effects create a triggered ability that can occur only during a specific duration or when a specific condition is
+           met at a particular moment later in the game. These are usually created as the result of resolving an action card.
+
+<a name="6.2.7.1."></a>
+**6.2.7.1.** Floating Triggered Abilities – Triggered abilities generated to exist for a specified duration. These exist outside of the bag.
+             Whenever the condition of the floating triggered ability is met, an instance of that triggered ability is added to the bag for
+             resolution. Once that duration expires, the floating triggered ability ceases to exist.
+
+_**Example:** Steal from the Rich is an action that reads, “Whenever one of your characters quests this turn, each opponent loses
+1 lore.” When Steal from the Rich resolves, it creates the floating triggered ability defined by the card. This exists for the rest of
+the turn. Whenever the player quests with one of their characters that turn, the condition of the floating triggered ability is met
+and an instance of that triggered ability is added to the bag to resolve. The floating triggered ability continues to exist outside
+of the bag until the end of the turn, when the specified duration in the condition expires._
+
+<a name="6.2.7.2."></a>
+**6.2.7.2.** *Delayed Triggered Abilities* – Triggered abilities generated to resolve at a specific moment later in the game. This moment
+             is specified in the condition of the delayed triggered ability. The ability exists outside of the bag until that condition is met.
+             When the condition is met, the delayed triggered ability is added to the bag for resolution.
+
+_**Example:** Candy Drift is an action that reads, “Draw a card. Chosen character of yours gets +5 {S} this turn. At the end of your
+turn, banish them.” When the action resolves, it generates a delayed triggered ability: “At the end of your turn, banish them.”
+The triggered ability exists outside of the bag until the step of the End-of-Turn Phase where end-of-turn triggered abilities
+occur (see [3.4.1.1](#3.4.1.1.)). At that point, the triggered ability is added to the bag and resolves._
+
+<a name="6.3."></a>
+### 6.3. Activated Abilities
+
+<a name="6.3.1."></a>
+**6.3.1.** Activated abilities are abilities listed on a card in play that a player can choose to use during their Main Phase. They’re normally
+           written as [Cost] — [Effect].
+
+<a name="6.3.1.1."></a>
+**6.3.1.1.** An activated ability with an {E} cost on a character can be used only if the character is dry. An activated ability without an {E}
+             cost on a character can be used the turn the character is played.
+
+<a name="6.3.1.2."></a>
+**6.3.1.2.** An activated ability on an item or location can be used the turn the item or location is played.
+
+<a name="6.3.2."></a>
+**6.3.2.** While there are no effects waiting to resolve and a character isn’t questing or in a challenge, the active player may use an activated
+           ability on that character as a turn action (see [4.4](#4.4.)).
+
+<a name="6.3.3."></a>
+**6.3.3.** Triggered abilities that occur from activating an ability are added to the bag, but they won’t resolve until after the effect from the
+           activated ability is resolved.
+
+_**Example:** A player has Fang Crossbow and Tinker Bell – Very Clever Fairy in play. Fang Crossbow has an ability called Stay Back!
+that reads, “{E}, Banish this item — Banish chosen Dragon character.” Tinker Bell has an ability called I Can Use That that reads,
+“Whenever one of your items is banished, you may put that card into your inkwell facedown and exerted.” If the player uses Fang
+Crossbow’s Stay Back! ability and banishes the item as part of paying the activated ability’s cost, Tinker Bell’s triggered ability is
+added to the bag but won’t resolve until the effect of Stay Back! has fully resolved._
+
+<a name="6.4."></a>
+### 6.4. Static Abilities
+
+<a name="6.4.1."></a>
+**6.4.1.** Static abilities are effects that could alter characteristics of a card, game rule, or game state. These are continuously active for a
+           specific length of time (usually a printed duration). A static ability that doesn’t specify a duration is continuously active for as long
+           as the card generating the effect is in play.
+
+_**Example:** An ability that reads, “Your exerted characters gain **Ward** until the start of your next turn” is a static ability that specifies a
+duration. An ability that reads, “Your exerted characters gain **Ward”** is a static ability that lasts for as long as the card generating the
+static effect remains in play._
+
+<a name="6.4.2."></a>
+**6.4.2.** Static abilities can come from two sources: a resolved effect or a card in play. Continuous static abilities and applied static abilities
+           from a resolved effect generally have a duration. Continuous static abilities from cards in play generally don’t have a duration.
+
+<a name="6.4.2.1."></a>
+**6.4.2.1.** Continuous static abilities generated from resolved effects affect all cards in play that the ability can affect. These static
+             abilities last for as long as their duration is active and are functional only during their existence. When the duration is over,
+             the effect ceases to exist, and all affected cards lose the effect immediately. If a card that would be affected by a continuous
+             static ability generated from a resolved effect is played after that ability has resolved, the card has that ability’s effect as it
+             comes into play.
+
+_**Example:** Restoring Atlantis is an action with the effect, “Your characters can't be challenged until the start of your next turn.”
+When the effect resolves, a continuous static effect is generated and continues to apply to all characters it could apply to until
+the duration ends. If a character is played after the effect resolves, that character is also affected by this continuous
+static effect._
+
+<a name="6.4.2.2."></a>
+**6.4.2.2.** Applied static abilities generated from resolved effects affect only cards in play at the time the effect resolved. Cards that
+             would be affected by the applied static ability but that entered play after the effect resolved aren’t affected. These kinds of
+             effects normally apply an ability or modifier to the affected cards on resolution.
+
+_**Example:** Kida – Protector of Atlantis has an ability called Perhaps We Can Save Our Future that reads, “When you play this
+character, all characters get -3 {S} until the start of your next turn.” When the triggered ability resolves, a static ability is
+generated that gives all characters -3 {S} until the start of the next turn. Because the effect applies to characters as it resolves,
+a character played after the static ability was generated isn’t affected by the static ability._
+
+<a name="6.4.2.3."></a>
+**6.4.2.3.** A continuous static ability generated from a card that’s in play affects all cards in play the ability can affect. These static
+             abilities last for as long as the card generating them is in play. If a card generating a static ability leaves play, its effect ends
+             as soon as the card is removed from the Play zone, and all affected cards lose the effect immediately. If a card that would be
+             affected by a continuous static ability generated from a card in play is played after that ability has resolved, the card has that
+             ability’s effect as it comes into play.
+
+_**Example:** A player has Weight Set and Grumpy – Bad-Tempered in play. Weight Set has an ability called Training that reads,
+“Whenever you play a character with 4 {S} or more, you may pay 1 {I} to draw a card.” Grumpy has an ability called There's
+Trouble A-Brewin' that reads, “Your other Seven Dwarfs characters get +1 {S}.” The player plays Happy – Good-Natured, which
+has 3 {S}. Happy comes into play with the static ability from Grumpy applying to him and has a {S} value of 4. Because Happy
+is played with 4 {S}, the triggered ability on Weight Set occurs._
+
+<a name="6.4.3."></a>
+**6.4.3.** For some static abilities, determining whether their effect applies depends on checking to see if a condition within the text of the
+           ability is true or false. These abilities are known as conditional static abilities. To determine if a conditional static ability is active,
+           identify the word that ties the effect and the condition together, check to see whether that condition is true or false with regard to
+           the game state, and decide if the effect applies based on the result of that check and the rules described in [section 6.4.4](#6.4.4.).
+
+<a name="6.4.4."></a>
+**6.4.4.** Conditional static abilities tie their condition and effect together with the word “unless” or the word “if.” Some conditions tied to
+           their effects by the word “if” are part of a triggered ability and require a separate process to resolve (see [6.2.4](#6.2.4.)).
+
+<a name="6.4.4.1."></a>
+**6.4.4.1.** Some conditional static abilities are written as “[Effect] unless [Condition].” For these abilities, while the checked condition
+             is true, the effect doesn’t apply. While the checked condition is false, the effect applies.
+
+<a name="6.4.4.2."></a>
+**6.4.4.2.** Some conditional static abilities are written as “If [Condition], [Effect].” For these abilities, while the checked condition is
+             true, the effect applies. While the checked condition is false, the effect doesn’t apply.
+
+<a name="6.4.4.3."></a>
+**6.4.4.3.** Some conditional static abilities are written as “[Effect] if [Condition].” For these abilities, while the checked condition is
+             true, the effect applies. While the checked condition is false, the effect doesn’t apply.
+
+_**Example A:** Bashful – Hopeless Romantic has an ability called Oh, Gosh! that reads, “This character can’t quest unless you
+have another Seven Dwarfs character in play.” The effect, “This character can’t quest,” applies and remains active for as
+long as the condition, “you have another Seven Dwarfs character in play,” is false. Once the player has another Seven Dwarfs
+character in play, the condition is true, and the effect no longer applies._
+
+_**Example B:** Lefou – Opportunistic Flunky has an ability called I Learned from the Best that reads, “During your turn, you may
+play this character for free if an opposing character was banished in a challenge this turn.” During your turn, the effect “you
+may play this character for free” applies for as long as the condition “an opposing character was banished in a challenge this
+turn” is true. If an opposing character hasn’t been banished in a challenge during your turn, the condition is false, and the
+effect doesn’t apply._
+
+<a name="6.4.5."></a>
+**6.4.5.** Effects that “skip” a step or phase of the game are static effects. “Skip [Step/Phase]” means, “This [Step/Phase] doesn’t happen.”
+           If the effect skips a step or phase, no part of that step or phase happens. Any abilities or effects that would occur because of that
+           step or phase don’t happen. If an effect would skip a step or phase but that step or phase has already started, then it’s not skipped
+           and continues as normal.
+
+_**Example:** Arthur – Determined Squire has an ability called No More Books that reads, “Skip your turn’s Draw step.” If a player would
+start their Draw step with Arthur in play, they skip their Draw step and move immediately to the Main Phase of their turn. However, if
+a player finds a way to play Arthur during their Draw step, the current Draw step isn’t skipped and proceeds normally._
+
+<a name="6.5."></a>
+### 6.5. Replacement Effects
+
+<a name="6.5.1."></a>
+**6.5.1.** Some effects are considered replacement effects. These effects wait for the stated condition to occur and then partially or
+           completely replace the event as it resolves.
+
+<a name="6.5.1.1."></a>
+**6.5.1.1.** Abilities that include the word “instead” are the most common type of replacement effect.
+
+_**Example:** Stolen Scimitar’s ability Slash reads, “{E} — Chosen character gets +1 {S} this turn. If a character named Aladdin is
+chosen, he gets +2 {S} instead.”_
+
+<a name="6.5.2."></a>
+**6.5.2.** An event is the resolution of an effect as a whole. If an event contains multiple effects, all of those effects are considered to be
+           part of the same event.
+
+_**Example:** Let the Storm Rage On is a song that reads, “Deal 2 damage to chosen character. Draw a card.” While there are two effects
+in the action, the resolution of both effects is the event. If one effect is replaced, the event is partially replaced. If both effects are
+replaced, the event is completely replaced._
+
+<a name="6.5.3."></a>
+**6.5.3.** For an event to be replaced, the replacement effect must exist and be able to apply to the event when it would happen.
+           Replacement effects can’t replace an event that has already happened.
+
+_**Example:** Snuggly Duckling – Disreputable Pub has an ability called Routine Ruckus that reads, “Whenever a character with 3 {S} or
+more challenges another character while here, gain 1 lore. If the challenging character has 6 {S} or more, gain 3 lore instead.” When
+a character challenges another character while at this location, the triggered ability is added to the bag and resolves. On resolution,
+the replacement condition “If the challenging character has 6 {S} or more” is checked to see if it’s met. If the stated condition isn’t
+met, the replacement effect doesn’t happen, even if the stated condition would be true later in the challenge._
+
+<a name="6.5.4."></a>
+**6.5.4.** When an event is replaced, it never happens. Instead, a modified event occurs. This modified event may trigger abilities or be
+           affected by other replacement effects. Because the first event is replaced, abilities that would have triggered from it don’t.
+
+<a name="6.5.5."></a>
+**6.5.5.** A replacement effect only has one chance to partially or fully replace an event. Once a replacement effect is applied and a
+           modified event occurs, that replacement effect can’t be applied to the same event again, even if the event is further modified and
+           the replacement condition is met again.
+
+<a name="6.5.6."></a>
+**6.5.6.** Some abilities have replacement effects that partially or completely replace its own ability. These are known as *self-replacement
+           effects* and are always applied first.
+
+<a name="6.5.7."></a>
+**6.5.7.** If multiple different replacement effects can apply to the same event, the player whose cards or card effects are being affected
+           follows the steps listed here.
+
+<a name="6.5.7.1."></a>
+**6.5.7.1.** First, if any self-replacement effects can apply, choose one and proceed to [section 6.5.7.2](#6.5.7.2.). If none can apply, proceed to the
+             next step.
+
+<a name="6.5.7.2."></a>
+**6.5.7.2.** Second, if any other replacement effects can apply, choose one.
+
+<a name="6.5.7.3."></a>
+**6.5.7.3.** After the chosen replacement effect has been applied, a modified event occurs. Repeat this process, taking into account
+             other replacement effects that can apply to the modified event, until no more replacement effects can apply.
+
+_**Example:** The active player has a Seven Dwarfs’ Mine in play, and the opposing player has a Beast – Selfless Protector and a
+Flounder – Voice of Reason in play. Seven Dwarfs’ Mine has the ability Mountain Defense, which reads, “During your turn, the
+first time you move a character here, you may deal 1 damage to chosen character. If the moved character is a Knight, deal 2
+damage instead.” Beast – Selfless Protector has the ability Shield Another, which reads, “If one of your other characters would
+be dealt damage, put that many damage counters on this character instead.”
+The active player then plays Sleepy – Sluggish Knight, a character with the Knight classification, and moves him to Seven
+Dwarfs’ Mine. When the location’s triggered ability resolves, the active player chooses to deal damage to Flounder, resulting
+in the following event: Deal 1 damage to Flounder – Voice of Reason. Replacement effects from Seven Dwarfs’ Mine and Beast
+can apply to this effect. Flounder is being affected, so the opposing player follows the steps listed in sections [6.5.7.1](6.5.7.1.) through
+[6.5.7.3](6.5.7.3.). First, the opposing player checks whether there are any self-replacement effects. The Mine’s effect “deal 2 damage
+instead” is a self-replacement effect that can apply, so the opposing player chooses and applies it. As a result, the modified
+event is: Deal 2 damage to Flounder – Voice of Reason.
+The steps are repeated, and the opposing player checks for other self-replacement effects. Finding none, the opposing player
+moves to the next step and checks for any other replacement effects. Beast – Selfless Protector has a replacement effect that
+can apply, so the opposing player chooses and applies it, resulting in this event: Put 2 damage counters on Beast – Selfless
+Protector. The opposing player repeats the steps, but since no replacement effects can apply, the effect resolves and the game
+continues._
+
+<a name="6.5.8."></a>
+**6.5.8.** Two or more instances of the same replacement effect can’t apply to the same event. If multiple instances of the same
+           replacement effect could apply to the same event, the player whose cards or card effects are being affected chooses one to apply.
+           The rest cease to exist.
+
+_**Example:** The active player has a Rapunzel – Ready for Adventure, a Flounder – Voice of Reason, and 2 copies of Heihei – Boat Snack
+in play. Rapunzel has a triggered ability called Act of Kindness that reads, “Whenever one of your characters is chosen for **Support**,
+until the start of your next turn, the next time they would be dealt damage they take no damage instead.” The active player quests
+with a Heihei and chooses to add his {S} to Flounder’s {S} with **Support**, causing Rapunzel’s triggered ability to occur. The ability
+is added to and resolves from the bag, creating a replacement effect: The next time Flounder would be dealt damage, he takes no
+damage instead. The active player quests with the other Heihei and chooses to add his {S} to Flounder’s {S} with **Support**. Rapunzel’s
+triggered ability is again added to and resolves from the bag, creating another instance of the same replacement effect.
+The active player exerts Flounder to challenge an opposing exerted character. During the Challenge Damage step, damage is dealt
+to each character in the challenge, resulting in the following event: The challenged character deals damage equal to their {S} to
+Flounder. Flounder would be dealt damage, so the active player attempts to apply the two instances of the same replacement effect.
+Because two or more instances of the same replacement effect can’t apply to the same event, the active player chooses one to apply,
+resulting in this event: The challenged opposing character deals no damage to Flounder. The remaining instance of the replacement
+effect can’t apply and ceases to exist._
+
+<a name="6.6."></a>
+### 6.6. Ability Modifiers
+
+<a name="6.6.1."></a>
+**6.6.1.** Some abilities and effects can modify a characteristic of a character or location in play, such as {S} or {L}.
+
+<a name="6.6.1.1."></a>
+**6.6.1.1.** A modifier applies to a card continuously, either for a fixed length of time or for as long as the card generating the modifier
+             is in play. Whenever a modifier applies to a card’s characteristic, that characteristic changes immediately. This process
+             doesn’t use the bag (see [7.7, “Bag”](#7.7.)).
+
+<a name="6.6.1.2."></a>
+**6.6.1.2.** When multiple modifiers apply to a card’s characteristic, they don’t apply in any specific order but all combine to apply
+             together. If a new modifier would apply to a card’s characteristic, it combines with all other modifiers that apply to it.
+
+_**Example A:** The active player plays Grand Duke – Advisor to the King. He has an ability called Yes, Your Majesty that reads,
+“Your Prince, Princess, King, and Queen characters get +1 {S}.” The +1 {S} modifier generated by the ability’s effect applies
+immediately to the {S} of all characters the active player has in play with the Prince, Princess, King, and Queen classifications.
+If that player plays another character with one of these classifications while their Grand Duke is still in play, the new character
+enters play with the +1 {S} modifier applied and keeps that modification until the Grand Duke leaves play._
+
+_**Example B:** The active player has a Heihei – Rambling Rooster in play with 2 {S} and 2 {W}. Heihei gets +1 {S} from an effect.
+Heihei now has 3 {S} and 2 {W}. Later in the turn, an additional effect gives Heihei -5 {S}. Heihei’s {S} is modified to be -2 {S}.
+A later effect gives Heihei +1 {S}, bringing him to -1 {S}. Each time a modifier applies to Heihei, all other modifiers that apply to
+him combine with it at the same time._
+
+<a name="6.6.2."></a>
+**6.6.2.** If a character has a negative {S}, it deals no damage during challenges and counts as having a Strength of 0 except for the purpose
+           of applying modifiers to determine its {S} (see [6.6.1.2](#6.6.1.2.)).
+
+_**Example:** The active player has a Yokai – Scientific Supervillain and a Microbots in play. Yokai has a triggered ability called Technical
+Gain that reads, “Whenever this character quests, draw a card for each opposing character with 0 {S}.” Microbots has a triggered
+ability called Inspired Tech that reads, “When you play this item, chosen character gets -1 {S} this turn for each item named
+Microbots you have in play.” The opponent has a character with 1 {S} and 1 {W} in play. The active player plays a second Microbots.
+When resolving the triggered ability, the active player chooses the opponent’s character, who immediately gets -2 {S} and now has -1
+{S} and 1 {W}. The active player then quests with Yokai. Because the opposing character’s {S} is negative, they count as having a {S}
+of 0 when resolving Yokai’s triggered ability, and the active player draws 1 card. Even though the character’s {S} counts as 0 for the
+purpose of resolving Yokai’s effect, it isn’t changed to 0; they still have a {S} of -1._
+
+<a name="6.6.3."></a>
+**6.6.3.** If a character or location has a negative Lore value {L}, it counts as having a Lore value of 0 except for the purpose of applying
+           modifiers to determine its {L} (see [6.6.1.2](#6.6.1.2.)).
+
+_**Example:** The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn has
+4 {L} and an ability called One Last, Big Score that reads, “This character gets -1 {L} for each card in your opponents’ hands.” Because
+the opponent has 5 cards in their hand, a modifier of -5 applies to Flynn’s Lore value of 4 (-1 for each of the 5 cards). Flynn now has a
+new Lore value of -1. Because Flynn’s Lore value is negative, if the player exerts him to quest, Flynn counts as having a Lore value of
+0 and the player gains 0 lore. This doesn’t change Flynn’s actual Lore value to 0, however. Flynn still has a Lore value of -1 until the
+number of cards in the opponent’s hand changes or another modifier is applied to his Lore value._
+
+<a name="6.6.4."></a>
+**6.6.4.** If an effect says a characteristic “can’t be reduced below” a specified value, that characteristic’s value can’t be less than the
+           specified value after modifiers to determine that characteristic’s value have been applied.
+
+_**Example:** The active player has an Elisa Maza – Transformed Gargoyle in play with 4 {S} and 4 {W}. She has a static ability called
+Forever Strong that reads, “Your characters’ {S} can’t be reduced below their printed value.” Elisa gets -4 {S} until the end of her
+player’s turn from an effect. After modifiers are applied, Elisa has a {S} value of 0, but because that value is less than her printed
+value, her {S} is 4. Later in the turn, Elisa gets +1 {S} until the end of her player’s turn from another effect. After both modifiers are
+applied, Elisa has a {S} value of 1, but because this modified {S} value is still lower than her printed value, her {S} is 4. Later in the
+turn, Elisa gets +4 {S} until the end of her player’s turn from one last effect. After modifiers are applied, Elisa has a {S} value of 5.
+Since this modified {S} value isn’t lower than her printed {S} value of 4, Elisa has 5 {S}._
+
+<a name="6.7."></a>
+### 6.7. Resolving Cards and Effects
+
+<a name="6.7.1."></a>
+**6.7.1.** To resolve a played card, the player takes the following actions immediately after the card is considered to have been “played”
+           (see [4.3.3](#4.3.3.)), dependent on the type of card being resolved.
+
+<a name="6.7.1.1."></a>
+**6.7.1.1.** If the card is a character, item, or location, it enters the Play zone (see [4.3.3.1](#4.3.3.1.)). If a character is being played using its **Shift**
+             ability, it must be put on top of the card indicated in [section 8.10, “Shift.”](#8.10.)
+
+<a name="6.7.1.2."></a>
+**6.7.1.2.** If the card is an action, it enters the Play zone, and its generated effect resolves immediately. Once the effect is completely
+             resolved, the action is put into the player’s discard pile (see [4.3.3.2](#4.3.3.2.)).
+
+<a name="6.7.2."></a>
+**6.7.2.** To resolve an effect, the player takes the following steps, in order, while following all instructions in the resolving effect’s text and
+           taking into account anything that could modify any step below during the process.
+
+<a name="6.7.2.1."></a>
+**6.7.2.1.** First, if an effect uses “for each” to define a single number, that number is counted as described in [section 6.1.8](#6.1.8.). Then, if
+             the effect includes a secondary “if” condition, check if the condition is true or false (see [6.2.4](#6.2.4.)). If that condition is false, the
+             effect resolves with no effect. Otherwise, proceed to the next step.
+
+<a name="6.7.2.2."></a>
+**6.7.2.2.** Second, check to see if any replacement effects would apply to the resolving effect (see [section 6.5, “Replacement
+             Effects”](#6.5.)). These effects happen before the resolving effect’s instructions are followed. If there are multiple replacement
+             effects that apply to the resolving effect, follow the rules in [section 6.5.6](#6.5.6.). Once there are no replacement effects to apply,
+             proceed to the next step.
+
+<a name="6.7.2.3."></a>
+**6.7.2.3.** Third, if the resolving effect deals damage to a character or location, calculate the total damage dealt by identifying the
+             amount of damage dealt in the effect’s text and applying any damage modifiers to it. The resulting number is the final
+             amount of damage dealt by the resolving effect. Then, proceed to the next step. If the resolving effect doesn’t deal damage,
+             ignore this step and proceed to the next one.
+
+<a name="6.7.2.4."></a>
+**6.7.2.4.** Fourth, the player performs the instructions of the resolving effect’s text and makes any choices required by the effect in
+             full and in the order written. If the effect tells the player to do something, the player does as much as possible, even if some
+             part of that effect can’t be done. If the instructions include damage that was calculated in the previous step, all damage is
+             dealt simultaneously.
+
+<a name="6.7.3."></a>
+**6.7.3.** Triggered abilities that occur during the process of resolving a card or an effect are added to the bag, but these won’t resolve until
+           after the card or the effect is resolved. If those triggered abilities occur during the process of resolving multiple effects from the
+           same action or ability, they won’t resolve until all effects from the action or ability are resolved (see [6.1.2](#6.1.2.)).
+
+<a name="6.7.4."></a>
+**6.7.4.** A game state check occurs after every effect resolves (see [1.8.1](#1.8.1.)).
+
+<a name="6.7.5."></a>
+**6.7.5.** If multiple players would act at the same time because of a resolving effect, the active player performs their part of the effect
+           first, then all other players do so in turn order (see [2.1.3](#2.1.3.)). Each part is considered a part of the same resolution, and the effect isn’t
+           fully resolved until all players have performed all instructions.
+
+_**Example:** Donald Duck – Perfect Gentleman has an ability called Allow Me that reads, “At the start of your turn, each player may
+draw a card.” While the triggered ability is resolving, the active player resolves their part of the effect first and draws a card. Then,
+in turn order, each other player resolves their part of the effect and draws a card. Once all players have finished resolving their
+respective parts of the effect, the effect has fully resolved and the game continues. A game state check occurs only after the effect
+has fully resolved._
+
+<a name="6.7.6."></a>
+**6.7.6.** If an ability or effect needs to reference a card’s characteristic from when it was in play but that card isn’t in play anymore, the
+           ability or effect references the last known value for that characteristic from before the card left play.
+
+<a name="6.7.7."></a>
+**6.7.7.** If an action or ability instructs a player to play a card as a part of resolving that action or ability, the card is played while the action
+           or ability is resolving. Any effects that occur as a result of playing that card are generated or added to the bag, but they wait to
+           resolve until the action or ability that instructed the player to play that card finishes resolving. This also applies to the effects of
+           the card the player was instructed to play by the initial action or ability, even if that card is moved to a different zone.
+
+_**Example:** A player has a location named Sleepy Hollow – The Bridge in their discard pile and a Jim Hawkins – Space Traveler in play.
+Jim Hawkins has an ability called Take the Helm that reads, “Whenever you play a location, this character may move there for free.”
+The player plays the action Get to Safety!, which reads, “Play a location with cost 3 or less from your discard for free. Then, if you
+have a location named Sleepy Hollow in play, draw a card.” As the action’s effect resolves, the player plays Sleepy Hollow from their
+discard and puts it into play. Jim Hawkins’s triggered ability Take the Helm occurs and is added to the bag, but it doesn’t resolve
+yet. Get to Safety! continues resolving, and the player draws a card because Sleepy Hollow is now in play. After the action is finished
+resolving, the player can resolve triggered abilities like Take the Helm from the bag._
+
+<a name="6.7.7.1."></a>
+**6.7.7.1.** An effect generated from an action played this way resolves after the card that instructed the player to play the action
+             finishes resolving but before any triggered abilities can be resolved from the bag.
+
+<a name="6.7.8."></a>
+**6.7.8.** Some effects modify how a card enters play. These effects resolve along with the card being played.
+
+_**Example:** Mother Gothel – Withered and Wicked has an ability called What Have You Done?! that reads, “This character enters play
+with 3 damage.” The effect resolves as Mother Gothel is put into play. There’s no moment within the game in which Mother Gothel
+enters play with no damage on her._
+
+<a name="7."></a>
+## 7. ZONES
+
+<a name="7.1."></a>
+### 7.1. General
+
+<a name="7.1.1."></a>
+**7.1.1.** All zones are considered separate from one another. Some zones may physically be present within the same space but are still
+           separate zones for gameplay purposes.
+
+_**Example:** The table represents the game area of the players. Although the players’ decks, inkwells, and discard piles physically
+occupy that space, they aren’t in play, as they’re all separate zones._
+
+<a name="7.1.2."></a>
+**7.1.2.** Cards in a *public zone* are publicly known. Players can look at or count the cards in any public zone at any time. Cards in a public
+           zone are considered public information.
+
+<a name="7.1.2.1."></a>
+**7.1.2.1.** The public zones are play, discard, and the bag.
+
+<a name="7.1.3."></a>
+**7.1.3.** Cards in a private zone aren’t publicly known. Players can’t look at them unless directed to by a game rule (e.g., drawing a card)
+           or an effect. Players can count the number of cards in a private zone at any time. A private zone isn’t considered private while
+           it’s revealed. If part of a private zone is revealed, only that part isn’t considered private. Cards in a private zone are considered
+           private information.
+
+<a name="7.1.3.1."></a>
+**7.1.3.1.** The private zones are hand, deck, and inkwell.
+
+<a name="7.1.4."></a>
+**7.1.4.** If an effect allows a player to look at one of their private zones for a specific card or type of card, they may *fail to find* that card.
+           If an effect allows a player to look at one of their public zones for a specific card or type of card, they can’t fail to find a card and
+           must choose an appropriate card if able.
+
+<a name="7.1.5."></a>
+**7.1.5.** A card can exist in only one zone at a time. Only cards in a player’s Play zone are considered *in play*. Cards outside the game aren’t
+           in play. Cards in a player’s deck, discard, hand, and inkwell aren’t in play.
+
+<a name="7.1.6."></a>
+**7.1.6.** If a card enters any other zone from play, all gained effects, damage, and other gained characteristics are removed, and that card
+           becomes a new card. Some abilities and effects may still refer to the card in its new zone.
+
+<a name="7.1.6.1."></a>
+**7.1.6.1.** If an effect that is generated and waiting to resolve is from a played action, that effect will resolve before any triggered
+             abilities can be chosen to resolve.
+
+<a name="7.2."></a>
+### 7.2. Deck
+
+<a name="7.2.1."></a>
+**7.2.1.** A player’s deck is the set of cards they start the game with. The deck is where these cards are held during the game and where a
+           player draws cards from (see [1.12](#1.12.)).
+
+<a name="7.2.2."></a>
+**7.2.2.** The deck is a private zone. The cards in a player’s deck remain facedown at all times and in a single pile. Players can’t look at or
+           change the order of cards in their decks during a game. Players can count the remaining cards in any player’s deck at any time.
+
+<a name="7.2.3."></a>
+**7.2.3.** If cards are added to the top or bottom of a deck “in any order” and any of the cards were faceup, the order in which the faceup
+           cards are added to the deck must be known by all players.
+
+_**Example:** A player has two shifted characters in play, each with 2 cards total in a stack and each with 2 {S}. Their opponent plays
+Under The Sea, a song with an effect that reads, “Put all opposing characters with 2 {S} or less on the bottom of their players’ decks
+in any order.” The player can freely order and mix the individual stacks of cards around before placing them on the bottom of the
+deck. Because all of these cards were faceup and thus known to all players, both the player and the opponent know the order the
+cards are placed in._
+
+<a name="7.2.3.1."></a>
+**7.2.3.1.** If those faceup cards are in one or more stacks, and/or any of those stacks contain both faceup and facedown cards, any of
+             the cards in those stacks can be combined and freely ordered with the other cards being added to the deck, including cards
+             in other stacks. No states are applied to or removed from those cards until they’re added to the top or bottom of the deck.
+
+<a name="7.3."></a>
+### 7.3. Hand
+
+<a name="7.3.1."></a>
+**7.3.1.** A player’s hand is where drawn cards are held. Cards can be added to the hand by other effects as well. Players start the game with
+           an “opening hand” of 7 drawn cards (see [2.2.1.4](#2.2.1.4.)).
+
+<a name="7.3.2."></a>
+**7.3.2.** The hand is a private zone. Players can look at the cards in their own hand but can’t look at the cards in another player’s hand
+           at any time. Players can count the number of cards in any hand at any time. Players can hold and rearrange their hands in any
+           comfortable and/or convenient fashion.
+
+<a name="7.3.3."></a>
+**7.3.3.** There’s no maximum hand size. A hand can’t have fewer than 0 cards in it.
+
+<a name="7.3.4."></a>
+**7.3.4.** If an effect instructs someone to discard, that player chooses the indicated number of cards from their hand and puts them into
+           their discard pile.
+
+<a name="7.4."></a>
+### 7.4. Play
+
+<a name="7.4.1."></a>
+**7.4.1.** A player’s Play zone is where their cards are played. Characters, items, and locations can be in the Play zone until they leave the
+           Play zone for any reason. Actions can be in the Play zone only for as long as their effect is resolving. Players can’t play cards into an
+           opponent’s Play zone.
+
+<a name="7.4.2."></a>
+**7.4.2.** The Play zone is a public zone. Players can look at the cards any player has in play at any time. Players can count the number of
+           cards any player has in play at any time. Players can rearrange their Play zones in any comfortable and/or convenient fashion,
+           provided that the overall layout is clear and understandable to all players. The status of cards in play can’t be hidden from
+           other players.
+
+<a name="7.4.2.1."></a>
+**7.4.2.1.** Facedown cards in play are considered to be private information, even if those cards were public information at one point.
+             Players may count the number of facedown cards in play. Players can’t look at facedown cards unless a game rule or effect
+             allows the player to do so. This is an exception to [section 7.4.2](#7.4.2.).
+
+<a name="7.4.3."></a>
+**7.4.3.** Whenever 1 or more cards would leave play, they first check whether any abilities would trigger from them and/or others
+           leaving play with them. The triggered abilities “see” the other cards leaving the Play zone along with the source card of the
+           triggered ability.
+
+_**Example:** Lyle Tiberius Rourke – Cunning Mercenary has an ability called Thanks For Volunteering that reads, “Whenever one of your
+other characters is banished, each opponent loses 1 lore.” If a player has Lyle and two other characters in play, and their opponent
+plays Be Prepared, the triggered ability on Lyle occurs twice, once for each character banished along with Lyle._
+
+<a name="7.5."></a>
+### 7.5. Inkwell
+
+<a name="7.5.1."></a>
+**7.5.1.** A player’s inkwell is where they put the cards they use as ink throughout the game. These cards are *ink cards* and each represents
+           1 {I} the player can use to pay ink costs. Nothing on the front of an ink card affects the ink it generates.
+
+<a name="7.5.2."></a>
+**7.5.2.** Cards are put into a player’s inkwell facedown and ready. If multiple cards are put into a player’s inkwell at the same time, each
+           card is treated as a separate instance.
+
+<a name="7.5.3."></a>
+**7.5.3.** There’s no limit to the number of cards a player can have in their inkwell.
+
+<a name="7.5.4."></a>
+**7.5.4.** The inkwell is a private zone. Players can’t look at a card in an inkwell at any time, even their own. Players can count the
+           number of cards in any inkwell at any time. Players can arrange the cards in their inkwell in any way, provided that ink cards are
+           kept facedown and separate from cards in all other zones at all times. The status of cards in an inkwell can’t be hidden from
+           other players.
+
+<a name="7.5.5."></a>
+**7.5.5.** If a card allows a player to put an “additional” card into their inkwell on their turn, they announce they’re using that effect, then
+           follow the normal steps of inking a card (see [4.2.3.1](#4.2.3.1.)).
+
+<a name="7.5.6."></a>
+**7.5.6.** Whenever an effect puts a card from another zone into the inkwell, the card isn’t revealed and isn’t required to have the inkwell
+           symbol. It enters the inkwell facedown as ink (see [4.2.3.2](#4.2.3.2.)).
+
+<a name="7.6."></a>
+### 7.6. Discard
+
+<a name="7.6.1."></a>
+**7.6.1.** A player’s discard (also known as their “discard pile” or their “Discard zone” is generally where their cards that have left play
+           are held.
+
+<a name="7.6.2."></a>
+**7.6.2.** The discard pile is a public zone. The cards in a player’s discard remain faceup at all times and in a single pile. Players can look at
+           and count the cards in any player’s discard pile at any time. A player can look at and rearrange the cards in their own discard pile at
+           any time.
+
+<a name="7.6.3."></a>
+**7.6.3.** If multiple cards enter a discard pile at the same time, their player puts them into the discard pile in any order.
+
+<a name="7.7."></a>
+### 7.7. Bag
+
+<a name="7.7.1."></a>
+**7.7.1.** Unlike other zones, the bag isn’t a physical space but is only where triggered abilities created by the game wait to resolve.
+
+<a name="7.7.2."></a>
+**7.7.2.** Only triggered abilities can be added to the bag. Activated abilities, resolving actions, and playing characters, locations, or items
+           aren’t added to the bag.
+
+<a name="7.7.3."></a>
+**7.7.3.** Adding abilities to the bag follows specific rules.
+
+<a name="7.7.3.1."></a>
+**7.7.3.1.** Whenever a triggered ability’s condition is met, the ability is added to the bag by the player whose card generated it. If
+             multiple triggered abilities happen at the same time, they’re added to the bag simultaneously. If the triggered ability’s
+             condition is met while another effect is resolving, it’s added to the bag but the players wait to resolve it until the current
+             effect is completely resolved.
+
+<a name="7.7.4."></a>
+**7.7.4.** The order in which effects are resolved from the bag follows a process that continues until there are no more effects to resolve
+           from the bag.
+
+<a name="7.7.4.1."></a>
+**7.7.4.1.** The bag checks to see which players have any abilities in the bag.
+
+<a name="7.7.4.2."></a>
+**7.7.4.2.** If any of those triggered abilities are from the active player, they choose any one of their triggered effects and fully resolve it
+             (see [6.7.2](#6.7.2.)).
+
+<a name="7.7.4.3."></a>
+**7.7.4.3.** After the effect has resolved and the game state check has completed, the bag checks to see if there are any other triggered
+             abilities remaining in the bag and from which player. If the last player who resolved an effect still has triggered abilities in
+             the bag, that player continues to resolve their effects from the bag until that player has no more triggered abilities in the
+             bag to resolve.
+
+<a name="7.7.4.4."></a>
+**7.7.4.4.** When the bag check returns with no more effects to resolve from that player, the bag checks to see if the next player in turn
+             order has any triggered abilities in the bag to resolve. If they do, that player begins to resolve their effects using the same
+             process the first player did in steps [7.7.4.2](#7.7.4.2.) and [7.7.4.3](#7.7.4.3.). This is known as *passing the bag*.
+
+<a name="7.7.4.5."></a>
+**7.7.4.5.** This continues through all players in turn order and until there are no more triggered effects in the bag to resolve. Once the
+             bag is empty, the game continues with the active player.
+
+<a name="7.7.5."></a>
+**7.7.5.** If a triggered ability is added to the bag by the currently resolving player, it's seen by the next bag check and can be chosen to
+           resolve next.
+
+<a name="7.7.6."></a>
+**7.7.6.** If a triggered ability is added to the bag by a player who isn’t the currently resolving player, it waits to resolve until that player’s
+           turn to resolve effects from the bag.
+
+<a name="7.7.7."></a>
+**7.7.7.** If a player leaves the game while abilities they added to the bag are still waiting to resolve, those abilities cease to exist.
+
+_**Example A:** The active player quests with a character. This meets a trigger condition on the questing character, so the triggered
+effect is added to the bag to be resolved once the quest turn action is completed. When the quest and subsequent game state
+check are completed, the bag checks for triggered effects to resolve and which players they originated from. The check returns
+with the triggered effect from the active player, who chooses and resolves it. After the subsequent game state check is completed,
+the bag checks again to see if there are any more triggered effects. The check returns with none, so the game continues with the
+active player._
+
+_**Example B:** The active player quests with a character. Three triggered effects are added to the bag: two from the active player and
+one from the opponent. When the bag checks for triggered effects to resolve, the active player chooses and resolves one of their
+effects. During resolution, another triggered effect from the active player is added to the bag. After resolution, the bag checks again
+and returns three triggered effects: two from the active player and one from the opponent. The active player was last to resolve
+an effect, so they can choose another effect to resolve. After both of the active player's effects are resolved, the bag passes to the
+opponent, who resolves their effects. During resolution, another triggered effect from the active player is added to the bag. After
+resolution, the bag checks and returns one triggered effect from the active player and that it was the opponent who last resolved an
+effect. Since there are no more triggered effects for the opponent to resolve, the bag passes back to the active player, who resolves
+their remaining effect. When the bag checks again to see if there any more triggered effects to resolve, the check returns with none,
+so the game continues with the active player._
+
+<a name="8."></a>
+## 8. KEYWORDS
+
+<a name="8.1."></a>
+### 8.1. General
+
+<a name="8.1.1."></a>
+**8.1.1.** Keywords are abilities or combinations of abilities represented by short names and provide those abilities to the card based on that
+           name. Keywords are usually followed by reminder text describing what they do. This reminder text, enclosed in parentheses and
+           set in italics, isn’t rules text but only a memory aid. The current list of keywords is: **Alert, Bodyguard, Boost, Challenger, Evasive,
+           Reckless, Resist, Rush, Shift, Singer, Sing Together, Support, Vanish, Ward.**
+
+<a name="8.1.2."></a>
+**8.1.2.** Some abilities stack, or combine; these abilities are followed by “+[N].” A keyword ability that doesn’t have a +[N] doesn’t stack
+           with other effects that provide that keyword. If a card with a keyword that doesn’t stack would get that same keyword from an
+           ability or action, it won’t get that keyword.
+
+_**Example:** If you have a character with **Support** and an effect gives that character **Support**, only the first instance of the keyword
+applies. However, if the keywords were **Resist** +1 and **Resist** +2, the abilities would stack, and that character would have **Resist** +3._
+
+<a name="8.2."></a>
+### 8.2. Alert
+
+<a name="8.2.1."></a>
+**8.2.1.** The **Alert** keyword represents a static ability. **Alert** means “This character ignores the challenging restriction of **Evasive**.”
+
+<a name="8.2.2."></a>
+**8.2.2.** A character doesn’t gain **Evasive** from having the **Alert** keyword. They can still gain **Evasive** from another ability or effect.
+
+<a name="8.3."></a>
+### 8.3. Bodyguard
+
+<a name="8.3.1."></a>
+**8.3.1.** The **Bodyguard** keyword represents two abilities.
+
+<a name="8.3.2."></a>
+**8.3.2.** The first of these is a static ability that functions while the character is being played and creates a replacement effect. This ability
+           means “This character may enter play with the exerted state rather than the ready state.”
+
+<a name="8.3.3."></a>
+**8.3.3.** The second is a static ability that creates a challenging restriction. This ability means “If an opponent would choose one of your
+           characters to challenge, they must choose this character or another character with **Bodyguard** if able.”
+
+<a name="8.4."></a>
+### 8.4. Boost
+
+<a name="8.4.1."></a>
+**8.4.1.** The **Boost** keyword represents an activated ability with a specified duration. **Boost** N {I} means “Once during your turn, you may
+           pay N {I} to put the top card of your deck facedown under this card.”
+
+<a name="8.4.2."></a>
+**8.4.2.** No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
+
+<a name="8.4.3."></a>
+**8.4.3.** If a card is under another card, it’s not considered to be in play. Putting a card under another card with **Boost** doesn’t count as
+           playing that card.
+
+<a name="8.5."></a>
+### 8.5. Challenger
+
+<a name="8.5.1."></a>
+**8.5.1.** The **Challenger** keyword represents a static ability that functions while a character is challenging. **Challenger** +N means “While
+           this character is challenging, they gain +N {S}.” Because this is a +N ability, it stacks with other **Challenger** effects.
+
+<a name="8.5.2."></a>
+**8.5.2.** A character with **Challenger** doesn’t gain +N {S} if they’re being challenged.
+
+<a name="8.6."></a>
+### 8.6. Evasive
+
+<a name="8.6.1."></a>
+**8.6.1.** The **Evasive** keyword represents a static ability that creates a challenging restriction. **Evasive** means “This [Type] can’t be
+           challenged except by a character with **Evasive**.”
+
+<a name="8.7."></a>
+### 8.7. Reckless
+
+<a name="8.7.1."></a>
+**8.7.1.** The **Reckless** keyword represents two static abilities.
+
+<a name="8.7.2."></a>
+**8.7.2.** The first ability means “This character can’t quest.”
+
+<a name="8.7.3."></a>
+**8.7.3.** The second ability means “You can’t declare the end of your turn if this character is ready and can challenge an opposing character
+           or location.”
+
+<a name="8.7.4."></a>
+**8.7.4.** A player can still exert a character with **Reckless** to use abilities or sing songs if able.
+
+<a name="8.8."></a>
+### 8.8. Resist
+
+<a name="8.8.1."></a>
+**8.8.1.** The **Resist** keyword represents a static ability that modifies the amount of damage dealt to the card with the keyword. **Resist** +N
+           means “Damage that would be dealt to this character or location is reduced by N.” **Resist** is a damage reduction (see [4.6.6.1](#4.6.6.1.)).
+           Because this is a +N ability, this stacks with other **Resist** effects.
+
+<a name="8.8.2."></a>
+**8.8.2.** If damage dealt to this character or location is reduced to 0, no damage is considered to have been dealt.
+
+<a name="8.8.3."></a>
+**8.8.3.** Damage put or moved onto a character with **Resist** isn’t affected by the ability.
+
+<a name="8.9."></a>
+### 8.9. Rush
+
+<a name="8.9.1."></a>
+**8.9.1.** The **Rush** keyword represents a static ability. **Rush** means “This character can challenge as though they were in play at the
+           beginning of your turn.”
+
+<a name="8.10."></a>
+### 8.10. Shift
+
+<a name="8.10.1."></a>
+**8.10.1.** The **Shift** keyword represents a static ability of paying an alternate cost to play a character instead of paying the character’s ink
+            cost. **Shift** means “If you have a character in play with the same name as this card, you may play this character by paying their
+            **Shift** cost instead of their ink cost. If you do, put this card on top of another character you have in play with the same name.”
+            This is called *shifting*.
+
+<a name="8.10.2."></a>
+**8.10.2.** If a shifted character is put on top of an exerted character, the shifted character enters play exerted.
+
+<a name="8.10.3."></a>
+**8.10.3.** If an effect on a shifted character causes it to enter play exerted, it becomes exerted as it enters play, even if the character it was
+            on top of is ready.
+
+<a name="8.10.4."></a>
+**8.10.4.** If a shifted character is put on top of a dry character, the shifted character enters play dry. If a shifted character is put on top of a
+            drying character, the shifted character enters play drying.
+
+<a name="8.10.5."></a>
+**8.10.5.** A player can use a shifted character to perform all turn actions of the character it was put on top of. The shifted character doesn’t
+            gain the text of the character it’s put on top of (e.g., an activated ability), but it does keep any effects that apply to that character
+            when the shifted character enters play. A player can exert a shifted character to sing a song if the character it was put on top of
+            was dry when the shifted character entered play.
+
+<a name="8.10.6."></a>
+**8.10.6.** A shifted character retains whatever damage is on the character it’s put on top of.
+
+<a name="8.10.7."></a>
+**8.10.7.** When a shifted character leaves play, all cards in its stack (i.e., all cards under it) move to the same zone as the shifted character
+            card does, and the cards are no longer considered to be in a stack (see [5.1.1.7](#5.1.1.7.)).
+
+<a name="8.10.8."></a>
+**8.10.8.** The **Shift** keyword has two variants: **[Classification] Shift** and **Universal Shift**. These variant keywords are **Shift** abilities and follow
+            all rules for the **Shift** keyword with the following exceptions.
+
+<a name="8.10.8.1."></a>
+**8.10.8.1.** **[Classification] Shift** means “If you have a character in play with the [Classification] specified by this ability, you may play
+              this character by paying their **Shift** cost instead of their ink cost. If you do, put this card on top of another character you have
+              in play with the specified classification.”
+
+<a name="8.10.8.2."></a>
+**8.10.8.2.** **Universal Shift** means, “If you have a character in play, you may play this character by paying their **Shift** cost instead of their
+              ink cost. If you do, put this card on top of another character you have in play.”
+
+<a name="8.11."></a>
+### 8.11. Singer
+
+<a name="8.11.1."></a>
+**8.11.1.** The **Singer** keyword represents a static ability that allows a player to pay an alternate cost to sing a song. **Singer** N means “This
+            character can {E} to pay the alternate cost of a song card as though they had cost N instead of their normal ink cost.”
+
+<a name="8.11.2."></a>
+**8.11.2.** This character counts as cost N only to sing songs and only during the process of playing a card. The character’s ink cost
+            doesn’t change.
+
+<a name="8.12."></a>
+### 8.12. Sing Together
+
+<a name="8.12.1."></a>
+**8.12.1.** The **Sing Together** keyword represents a static ability that allows a player to pay an alternate cost to sing a song with one or more
+            of their or their teammates’ characters. **Sing Together** N means “Instead of paying the ink cost of this card, you can {E} a number
+            of your or your teammates’ characters with total ink cost N or greater to play this card without paying its ink cost,” where N is the
+            ink cost of the song.
+
+<a name="8.12.2."></a>
+**8.12.2.** When playing a song using **Sing Together**, add the ink costs of one or more of your ready characters together. If the total meets or
+            exceeds the cost listed for **Sing Together**, the character or characters can sing the song.
+
+<a name="8.12.3."></a>
+**8.12.3.** Characters that have the triggered ability condition “Whenever this character sings a song” and are one of the characters singing
+            the song with **Sing Together**, the condition is met, and the triggered ability is added to the bag to resolve.
+
+<a name="8.13."></a>
+### 8.13. Support
+
+<a name="8.13.1."></a>
+**8.13.1.** The **Support** keyword represents a triggered ability. **Support** means “Whenever this character quests, you may add this character’s
+            {S} to another chosen character’s {S} this turn.”
+
+<a name="8.14."></a>
+### 8.14. Vanish
+
+<a name="8.14.1."></a>
+**8.14.1.** The **Vanish** keyword represents a triggered ability. **Vanish** means “When this character is chosen by an opponent as part of
+            resolving an action’s effect, banish this character.”
+
+<a name="8.14.2."></a>
+**8.14.2.** The **Vanish** triggered ability resolves after the action’s effect resolves. If the character has moved to a different zone before the
+            triggered ability resolves, it resolves with no effect.
+
+<a name="8.15."></a>
+### 8.15. Ward
+
+<a name="8.15.1."></a>
+**8.15.1.** The **Ward** keyword represents a static ability. **Ward** means “Your opponents can’t choose this card when resolving an effect.”
+
+<a name="8.15.2."></a>
+**8.15.2.** Effects that don’t require the player to choose still affect a character with **Ward**.
+
+<a name="9."></a>
+## 9. MULTIPLAYER
+
+<a name="9.1."></a>
+**9.1.** Multiplayer games are played with three or more players. Team games are a subset of multiplayer play that aren’t covered in this document.
+
+<a name="9.2."></a>
+**9.2.** Multiplayer games follow the same rules as two-player games. The following rules are additional rules for multiplayer games. These rules
+may change the official rule from above. For multiplayer games, these rules either augment or change the standard rules
+of *Disney Lorcana*.
+
+<a name="9.2.1."></a>
+**9.2.1.** At the end of each player’s turn, play proceeds to the player on their left rather than going back and forth across the table.
+
+<a name="9.2.2."></a>
+**9.2.2.** If an ability requires more than one player to do something at the same time, the active player does it first. Then, proceed to the left,
+           one player at a time, until all players are done.
+
+<a name="9.2.3."></a>
+**9.2.3.** When a player loses the game from ending their turn with no cards in their deck (see [1.8.1.2](#1.8.1.2.)), they must leave the game
+           immediately. All of that player’s cards and effects are removed from the game, including any triggered abilities they added to the bag
+           that haven’t resolved. Any generated static effects with a stated duration continue until the stated duration is finished.
+
+_**Example:** Pete – Games Referee has an ability called Blow the Whistle that reads, “When you play this character, opponents can’t play
+actions until the start of your next turn.” If a player in a multiplayer game plays Pete but then loses or leaves the game later, all their
+cards are removed, including that Pete, but the generated static ability from Pete still applies. When it would be that player’s next turn,
+the static effect ends before the next player in the turn order begins their turn._
+
+<a name="9.3."></a>
+**9.3.** Some multiplayer game formats use simultaneous turns.
+
+<a name="9.3.1."></a>
+**9.3.1.** During a simultaneous turn, all players on the same team progress through the phases and steps of the game at the same time.
+           During the Main Phase, the players can take any turn action they could take normally, in any player order they wish. A player must
+           complete one turn action in its entirety before any player can begin the next turn action.
+
+<a name="9.3.2."></a>
+**9.3.2.** If triggered abilities or effects are added to the bag by multiple players during a simultaneous turn, these triggered abilities or
+           effects are added to the bag by the team as a whole, and the order in which they’re resolved is chosen by the team. Otherwise,
+           resolving abilities and effects follows the rules listed in [section 7.7, “Bag.”](#7.7.)
+
+_**Example:** Three players are members of the same team taking a simultaneous turn. During the Ready step of the Beginning Phase, all
+three players ready their cards at the same time. During the Set step, all three players gain lore from locations they have in play with
+a {L} characteristic and then add any effects or abilities that triggered during the Ready step to the bag at the same time. In the Draw
+step, all three players draw a card from their decks at the same time._
+
+_After the game moves into the Main Phase, the three players continue with their simultaneous turn. The first player wants to put a card
+into their inkwell; the second wants to quest; and the third has decided to have one of their characters challenge an opposing
+character. The players can decide the order of these turn actions together, but each turn action must be completed in its entirety before
+the next player can act. During the End-of-Turn Phase, the players declare the end of their turn. All triggers are added to the bag at the
+same time and all “this turn” effects end at the same time._
+
+<a name="10."></a>
+## 10. CASUAL GAME VARIANTS
+
+<a name="10.1."></a>
+### 10.1. General
+
+<a name="10.1.1."></a>
+**10.1.1.** This section contains optional rules for the use in casual game variants of *Disney Lorcana*. This section isn’t meant to
+            be comprehensive.
+
+<a name="10.1.2."></a>
+**10.1.2.** All casual game variants follow the normal rules for *Disney Lorcana* except as defined in the variant's description. If the normal
+            rules and the casual game variant rules ever contradict each other, follow the casual game variant rule when playing that
+            specific variant.
+
+_**Example:** In a normal game of *Disney Lorcana*, the starting hand size is 7. In a Pack Rush game of *Disney Lorcana*, the starting hand
+size is 5. When playing Pack Rush, use the starting hand size of 5 instead of 7._
+
+<a name="10.2."></a>
+### 10.2. Pack Rush
+
+<a name="10.2.1."></a>
+**10.2.1.** In Pack Rush, each player takes two unopened *Disney Lorcana* booster packs and shuffles them together to play one game. Pack
+            Rush is considered a Limited format. Booster packs can be from any set for all players.
+
+<a name="10.2.1.1."></a>
+**10.2.1.1.** There's no minimum deck size. The deck size is determined by the total number of *Disney Lorcana* cards in the two
+              booster packs.
+
+<a name="10.2.2."></a>
+**10.2.2.** Before shuffling the cards together, players take any marketing cards in the pack and set them aside. Before drawing opening
+            hands, players take 2 of the marketing cards from the packs and put them into their inkwell. This means each player starts the
+            game with 2 cards in their inkwell.
+
+<a name="10.2.2.1."></a>
+**10.2.2.1.** Marketing cards can’t be moved from the inkwell to any other zone.
+
+<a name="10.2.2.2."></a>
+**10.2.2.2.** Marketing cards can’t be chosen for effects.
+
+<a name="10.2.3."></a>
+**10.2.3.** The starting hand size for Pack Rush is 5.
+
+<a name="10.2.4."></a>
+**10.2.4.** When a player reaches 15 or more lore, they win the game.
+
+<a name="10.2.5."></a>
+**10.2.5.** When a player runs out of cards in their deck, they don’t lose the game. Instead, they shuffle the cards in their discard and place
+            them facedown as their new deck.
+
+## GLOSSARY
+
+**ability**
+
+Special rules explaining what the card can do that differs from the game rules, such as an effect that resolves as a result of the card being
+played.
+
+**action card**
+
+A type of card that gives its player an immediate one-time advantage. When an action card is played, its player resolves its effects and then
+puts it in their discard pile.
+
+**action, game**
+
+When a player does something in game that’s part of a normal turn, such as draw a card, exert a character, declare a challenging character,
+etc., it’s a game action. A game action is singular.
+
+**action, turn**
+
+One of a set of game actions with predefined processes that arrive at a specific outcome.
+
+**activate**
+
+To use an activated ability of a card.
+
+**activated ability**
+
+An ability that a player may use after paying its cost. An activated ability can’t be used if its cost can’t be paid. Activated abilities of items may
+be used during the turn the item is played.
+
+**active player**
+
+The player who has started their turn. When a player ends their turn, they’re no longer the active player.
+
+**alter a starting hand**
+
+When a player chooses to modify their starting hand at the beginning of the game after each player has drawn their starting hand. Each player
+may take any number of those cards, put them on the bottom of their deck without revealing them, draw until they have 7 cards in their hand,
+and reshuffle their deck. A player can’t alter their starting hand more than once in a game.
+
+**alternate cost**
+
+A cost the active player can choose to pay to play a card instead of paying that card’s ink cost.
+
+**applied static ability**
+
+A static ability generated from a resolved effect that applies only to cards in play at the time that effect is resolved.
+
+**bag**
+
+A non-physical zone where triggered abilities wait before determining how their effects resolve. Whenever a triggered ability’s condition is
+met, the ability is added to the bag.
+
+**banish/banished**
+
+When a character, item, or location is put from play into their player’s discard pile, either as a result of abilities or effects or—in the case of
+characters and locations—when the card has damage equal to or greater that its Willpower {W}. A character, item, or location put into their
+player’s discard this way is considered to be banished.
+
+**Beginning Phase**
+
+The first phase of the turn, in which a player resets their cards for the turn. This is when all effects that end at the start of the player’s turn end
+and when effects that occur or begin at the start of their turn happen. The Beginning Phase has three steps: Ready, Set, and Draw.
+
+**card type**
+
+The type that each card has, such as character, action, item, or location. A card’s type determines the rules for how to play it.
+
+**challenge**
+
+When a player exerts one of their dry characters and chooses an exerted opposing character or an opposing location. Each character deals
+damage equal to their Strength {S} to the other character or the location.
+
+**challenging/challenged character**
+
+A challenging character is the character declared by the active player to challenge an opposing character or location. A challenged character
+is the opposing character who is being challenged. Both the challenging and challenged characters are considered “in a challenge” for the
+duration of the challenge.
+
+**challenging/challenged player**
+
+A challenging player is the player who declared a challenging character. A challenged player is the player whose character is challenged.
+
+**character**
+
+A card that has at least one of the classifications listed in [6.1.2.2](#6.1.2.2.) on its classification line and also has both {S} and {W} characteristics. A
+character that’s played is put into the Play zone and remains there until it’s banished or removed from play by a game effect. A player may have
+multiple copies of a character with the same name in their deck but can’t have more than 4 copies with the same full name.
+
+**classification**
+
+A category that identifies some characteristics of the card and may be referenced in rules of other cards. A card’s classification is located to
+the right of its ink type symbol.
+
+**condition**
+
+A game state that is checked to be true or false or met or unmet.
+
+**conditional static ability**
+
+A static ability that only applies if a condition within the text of that ability is true or false.
+
+**continuous static ability**
+
+A static ability that affects all cards in play that ability can effect. This type of static ability lasts for as long as its duration is active and is
+functional only while it exists.
+
+**cost**
+
+What is required in order to play a card or use an activated ability. This may be an ink cost or an alternate cost such as exerting a character.
+An activated ability can’t be used if its full cost can’t be paid.
+
+**damage**
+
+Damage on a character or location is represented by damage counters and counts against its Willpower {W}. Damage is dealt by characters in
+challenges and by some effects. When a card with damage moves from in play to any other zone, the damage ceases to exist.
+
+**damage counter**
+A counter put on a character or location card to show how much damage it has. A single damage counter normally represents 1 damage; any
+damage counter intended to represent more than 1 damage counts as a separate damage counter for each 1 damage it represents. If an effect
+puts a damage counter onto a character or location, it doesn’t count as damage dealt to the character or location and isn’t affected by
+modifications to damage dealt.
+
+**damaged/undamaged**
+
+A character or location with 1 or more damage is considered damaged. A character or location with no damage on it is considered undamaged.
+
+**deck**
+
+A set of cards a player uses in the game. The parameters of the deck are defined by the format being played. For example, in Core Constructed
+a deck consists of 60 or more cards, up to two ink types, and up to 4 cards with the same name and version (together known as a full name).
+Other formats may have different construction rules. There's no upper limit to the number of cards in a deck. The deck is a private zone.
+
+**delayed triggered ability**
+
+A triggered ability generated to resolve at a specific moment later in the game.
+
+**discard**
+
+*noun.* The single faceup pile where actions are put after they’ve finished resolving and where other cards are put after being banished or
+discarded. When a player puts a card from their hand into their discard, they’re discarding that card. The discard is considered a public zone.
+Also called the “discard pile.”
+
+*verb.* When a player chooses 1 or more cards from their hand and puts them into their discard. A player can discard only from their hand. If a
+player is instructed by the text of an ability or effect to discard their hand, the player can choose to discard a hand that has 0 cards in it.
+
+**draw**
+
+When a player takes the top card of their deck and puts that card into their hand. A player can draw only from their deck.
+
+**Draw step**
+
+The third step of the Beginning Phase of a player’s turn, when the player puts the top card of their deck into their hand. Once all effects have
+been resolved and there are no more waiting to be added, the game moves into the Main Phase. On the first turn of the game, the active
+player skips this step.
+
+**dry**
+
+A character that was in play at the start of its player’s current turn is considered to be dry.
+
+**drying**
+A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or
+{E} to pay any cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect
+while the character is drying. Drying characters may still be affected by card effects.
+
+**duration**
+
+A specified length of in-game time that describes how long an ability or effect applies.
+
+**effect**
+
+What happens as a result of resolving an action or ability.
+
+**End-of-Turn Phase**
+
+The turn structure’s third phase, which begins when the active player declares the end of their turn.
+
+**exert**
+
+To turn a card sideways, such as to quest, challenge, or pay the cost of a card or ability. Some abilities use the {E} symbol to show that the card
+must be exerted as part of the ability’s cost. While a card is exerted, its player may still use abilities on it that don’t require them to {E}.
+
+**exerted**
+
+A card that is or has been turned sideways.
+
+**facedown**
+
+A card in the play area with its back facing up toward the players and its front facing down toward the play surface. No player can look at the
+front of a facedown card at any time, not even their own. A facedown card is never considered to be in play.
+
+**faceup**
+
+A card in the play area with its back facing down toward the play surface and its front facing up toward the players. A faceup card is publicly
+known and can be looked at by any player at any time.
+
+**floating triggered ability**
+
+A triggered ability generated to exist for a specified duration.
+
+**for free**
+
+An effect that allows a player to play a card or use an activated ability without having to pay its listed ink cost. A player who plays a card or uses
+an activated ability for free must still pay any other costs.
+
+**full name**
+
+For cards that have a version in addition to a name, the combination of the two.
+
+**game state check**
+
+The check the game performs to verify a set of conditions and the required actions when one or more of those conditions are met. This check
+occurs at the end of each step, after each action or ability is finished resolving, and after each effect in the bag is finished resolving (see [1.8](#1.8.)).
+
+**hand**
+
+The zone where cards drawn by a player are held.
+
+**Illuminary icon**
+
+The icon on the back of a standard *Disney Lorcana* card.
+
+**in a stack**
+
+Two or more cards that are in play and in a single pile comprising a top card and all cards under it. If the top card in a stack moves to a specific
+zone, all cards under that card move to the same zone, and the cards are no longer considered to be in a stack.
+
+**in play**
+
+A card in the Play zone without any cards on top of it. If a card is under another card, it’s not considered to be in play. If a card is facedown,
+under another card, or in any zone other than the Play zone, it’s not considered to be in play.
+
+**ink**
+
+*noun.* The resource that players use to pay the cost of playing cards and using certain abilities. A player’s ink is represented by the cards
+they’ve put into their inkwell, also called *ink cards*.
+
+*verb.* When a player puts a card from their hand into their inkwell as a turn action, also called *inking a card*. A player can ink only 1 card during
+their turn, and that card must have the inkwell symbol around its cost to indicate that it’s inkable.
+
+**ink type**
+
+The ink type of a card as shown by the ink type symbol at the left edge of the card, just above the text box. The six ink types are Amber,
+Amethyst, Emerald, Ruby, Sapphire, and Steel, and each has its own symbol on the cards. A deck can have up to two ink types.
+
+**inkwell**
+
+The private zone where a player puts their ink cards, facedown. Each card in a player’s inkwell represents 1 {I}, no matter what’s on the front of
+the card, and players can’t look at the front of the cards in any inkwell.
+
+**inkwell symbol {C}**
+
+A circular symbol that’s present around a card’s cost if that card can be inked, or put into its player’s inkwell and used as ink.
+
+**is/was damaged**
+
+Takes/took damage.
+
+**item**
+
+A card that lists “Item” on its classification line. When a player plays an item, they put it in their Play zone, where it remains until it’s banished
+or removed from play by a game effect. Items can be exerted during the turn they’re played. A player can’t have more than 4 copies of an item
+with the same full name in their deck.
+
+**keyword ability**
+
+An ability or abilities represented by a short, bolded name that’s the same wherever the ability appears. Examples of keyword abilities include
+**Bodyguard**, **Challenger**, **Evasive**, **Reckless**, and **Rush**.
+
+**location**
+
+A card that lists “Location” on its classification line. When a player plays a location, they put it in their Play zone. Locations have a cost to play,
+a move cost to move a character to the location, and Willpower {W}. Locations can be dealt damage and can be challenged; when a location
+has damage equal to or greater than its Willpower {W} that location is banished. A location may have a Lore value {L}, which is how much lore
+its player gains at the start of their turn during the Set step. If a location has an activated ability, that ability can be used the same turn the
+location comes into play. A player may have multiple copies of a location with the same name in their deck but can’t have more than 4 copies
+with the same full name.
+
+**lore**
+
+The resource players race to gain as they play. The first player to reach 20 lore wins the game.
+
+**Lore value {L}**
+
+A card characteristic that indicates the amount of lore its player can gain from it each turn. On a character, this lore is gained by questing. On a
+location, this lore is gained at the start of the player’s turn during the Set step.
+
+**Main Phase**
+
+The second phase of the turn structure, when a player can take any of the Main Phase turn actions (see [3.3, “Main Phase”](#3.3.)).
+
+**move cost {M}**
+
+The cost to move one of your characters to one of your locations.
+
+**multiplayer game**
+
+A game played with three or more players.
+
+**name**
+
+A card’s name appears in large text above its classification line. On actions, items, and locations, the name is located in the center of the card.
+On characters, the name is located on the left of the card, across from its {S} and {W}. A character’s or location’s name and version together
+make up the card’s full name.
+
+**on top**
+
+When a card has 1 or more cards under it.
+
+**opponent**
+
+Anyone a player is playing against. Also known as opposing player.
+
+**opposing character**
+
+A character played by an opponent.
+
+**opposing player**
+
+Anyone a player is playing against. Also known as opponent.
+
+**passing the bag**
+
+The process in which multiple players with triggered abilities in the bag determine the order in which players resolve those abilities (see [6.7](#6.7.)).
+
+**phase**
+
+One of the three main parts of a turn. The phases of a player’s turn are the Beginning Phase, Main Phase, and End-of-Turn Phase.
+
+**play**
+
+The act of playing a card. A card can be played only from a player’s hand. If the card played is an action, the player reveals the card, pays its
+cost, puts it into play, resolves its effects, and then discards it. If the card played is a character, item, or location, the player reveals the card,
+pays its cost, and puts that card into play.
+
+**player**
+
+Anyone playing the game.
+
+**private zone**
+
+A zone where the cards aren’t publicly known. Players can’t look at them unless directed by a game rule (e.g., drawing a card) or an effect.
+Players can count the number of cards in a private zone at any time. While a private zone is revealed, it’s not considered private.
+
+**public zone**
+
+A zone where the cards are publicly known. Players can look at or count the cards in any public zone at any time.
+
+**quest**
+
+When a player exerts a character to gain lore equal to that character’s Lore value {L}. A character can’t quest the same turn it’s played.
+
+**ready**
+
+*verb.* To put a card in the ready position (upright). A player readies all of their exerted cards in the Ready step of their turn.
+
+*adjective.* A card that’s currently in the ready position.
+
+**Ready step**
+
+The first step of the Beginning Phase of a player’s turn, when effects that apply “during your turn” start applying and the active player readies
+all their exerted cards. Effects with the duration “until the start of your next turn” end. Effects that trigger “at the start of your turn” trigger.
+However, they wait until the Set step to start resolving.
+
+**reminder text**
+
+Italicized text following a keyword or other rules text and enclosed in parentheses. It’s not rules text and serves only as a memory aid.
+
+**replacement effect**
+
+An effect generated by some abilities that replaces one effect with another.
+
+**reveal**
+
+Showing the face of a card or cards from a private zone to all other players. The player can reveal cards only from the group of cards described
+in the effect. The revealed cards remain revealed for as long as the effect that caused them to be revealed is resolving. Being revealed doesn’t
+move cards from the zone they’re in.
+
+**self-replacement effect**
+
+An ability that has a replacement effect that partially or completely replaces its own ability or abilities.
+
+**sequential effect**
+
+An effect that requires a player to make a decision or pay a cost in order to resolve it. Such an effect is normally written as “[A] to [B], “[A] or
+[B],” or “[A]. If you do, [B].”
+
+**Set step**
+
+The second step of the Beginning Phase of a player’s turn, when characters that are in play are no longer drying and can quest, challenge, or
+{E} to pay costs for activated abilities or song cards. During this step, the active player gains lore from locations they have in play with a {L}
+characteristic. Effects that occur “At the start of your turn” and abilities that triggered during the Ready step are added to the bag, then all
+triggers are resolved.
+
+**shuffle**
+
+To randomize the order of cards in a deck.
+
+**simultaneous turns**
+
+A turn in some multiplayer formats, in which all players on the same team progress through the phases and steps of the game at the same
+time. Triggered abilities and effects are added to the bag by the team as a whole, and the team chooses the order they resolve in.
+
+**sing/singing**
+
+When a player {E} a character to pay an alternate cost to play a song. That character’s cost must be equal to or greater than the song’s ink cost.
+
+**skip**
+
+When a specific step or phase doesn’t happen.
+
+**song**
+
+A type of action that can be played by paying the song’s ink cost or by exerting a character or characters to sing it.
+
+**stack**
+
+*noun.* A number of cards set on top of each other, such as a character with Shift and the character it was played onto. When cards in a stack
+leave play, they all go to the same zone as the top card and are no longer considered to be in a stack.
+
+*verb.* To combine multiple instances of an effect. Keyword abilities that stack are followed by “+[N].”
+
+**starting hand**
+
+The initial 7 cards that a player draws at the start of the game, before they choose whether to alter their hand.
+
+**starting player**
+
+The player who takes the first turn of the game, determined randomly before the game begins. The starting player doesn’t draw on that turn.
+
+**static ability**
+
+An effect that could alter characteristics of a card, game rule, or game state. A static ability is continuously active, either for a fixed length of
+time or for as long as the card generating the effect is in play.
+
+**Strength {S}**
+The amount of damage a character deals in a challenge. A character’s Strength {S} may be referenced in abilities or effects.
+
+**take/took damage**
+
+Whenever damage is (or was) dealt to, put on, or moved to a character or location.
+
+**triggered ability**
+
+An ability that causes an effect to be added to the bag when a particular condition is met. Triggered abilities start with “When,” “Whenever,”
+“At the start of,” or “At the end of” and describe the game state that causes the abilities to trigger and the effects of the abilities. When an
+ability triggers, its effect is added to the bag to be resolved.
+
+**turn**
+
+The unit of time each player takes to complete the following three phases: Beginning Phase, Main Phase, and End-of-Turn Phase. Each player
+takes their turn before passing the turn to the next player.
+
+**turn action**
+
+An action that the game allows a player to take during the Main Phase of their turn. A player may take any number of turn actions on their turn,
+in any order. Turn actions include putting a card into the inkwell, playing a card, questing, challenging, moving a character to a location, and
+using activated abilities.
+
+**under**
+
+When a card has one or more cards on top of it. A card that’s under another card and in the Play zone isn’t considered to be in play. Any player
+can look at a faceup card that’s under another card at any time. No player can look at the front of a facedown card that’s under another card at
+any time, not even their own.
+
+**version**
+
+A descriptor that can differentiate cards with the same name for purposes building a deck. A character’s or location’s name and version
+together constitute the card’s full name.
+
+**Willpower {W}**
+
+How much damage it takes to banish a character or location.
+
+**zone**
+
+A physical or non-physical space used for gameplay purposes. Whether a zone is public or is private determines what information can be shared
+about the cards there. Each player’s zones are: deck, hand, play, inkwell, discard, and bag. All zones are considered separate from one another.
+
+[resources]: https://www.disneylorcana.com/en-US/resources

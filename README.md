@@ -57,7 +57,7 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-020526-EN.pdf) ([plain text](text/comprehensive-rules-en.txt))
+- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-020526-EN.pdf) ([plain text](text/comprehensive-rules-en.txt)) ([markdown](markdown/comprehensive-rules-en.md))
 - [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-DE-edited.pdf) ([plain text](text/comprehensive-rules-de.txt))
 - [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-FR-edited.pdf) ([plain text](text/comprehensive-rules-fr.txt))
 - [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-IT-edited.pdf) ([plain text](text/comprehensive-rules-it.txt))

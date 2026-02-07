@@ -101,7 +101,7 @@ class ResourcesHTMLParser(HTMLParser):
                                 )
                                 self.list_item = (
                                     f"[{{data}}]({md_link(pdf_file_path)})"
-                                    f" ([as text]({md_link(text_file_path)}))"
+                                    f" ([plain text]({md_link(text_file_path)}))"
                                 )
                                 self.pdf_files.append(
                                     (url, pdf_file_path, text_file_path)
@@ -194,7 +194,7 @@ class RuleFaqHTMLParser(HTMLParser):
                         )
                         self.item = (
                             f"[{{data}}]({md_link(pdf_file_path)})"
-                            f" ([as text]({md_link(text_file_path)}))"
+                            f" ([plain text]({md_link(text_file_path)}))"
                         )
                         self.pdf_files.append((url, pdf_file_path, text_file_path))
                         break

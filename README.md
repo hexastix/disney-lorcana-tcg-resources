@@ -57,10 +57,10 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-020526-EN.pdf) ([as text](text/comprehensive-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-DE-edited.pdf) ([as text](text/comprehensive-rules-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-FR-edited.pdf) ([as text](text/comprehensive-rules-fr.txt))
-- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-IT-edited.pdf) ([as text](text/comprehensive-rules-it.txt))
+- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-020526-EN.pdf) ([plain text](text/comprehensive-rules-en.txt))
+- [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-DE-edited.pdf) ([plain text](text/comprehensive-rules-de.txt))
+- [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-FR-edited.pdf) ([plain text](text/comprehensive-rules-fr.txt))
+- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-IT-edited.pdf) ([plain text](text/comprehensive-rules-it.txt))
 
 ### Disney Lorcana TCG FAQ
 
@@ -71,13 +71,13 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Disney%20Lorcana%20TCG%20Tournament%20Rules%20S2_09-Sep-25.pdf) ([as text](text/tournament-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/Season%202%20Turnierregeln%20090925-DE.pdf) ([as text](text/tournament-rules-de.txt))
-- [ITALIANO](files_disneylorcana_com/Season%202%20Tournament%20Rules%20090925%20update-Italian.pdf) ([as text](text/tournament-rules-it.txt))
+- [ENGLISH](files_disneylorcana_com/Disney%20Lorcana%20TCG%20Tournament%20Rules%20S2_09-Sep-25.pdf) ([plain text](text/tournament-rules-en.txt))
+- [DEUTSCH](files_disneylorcana_com/Season%202%20Turnierregeln%20090925-DE.pdf) ([plain text](text/tournament-rules-de.txt))
+- [ITALIANO](files_disneylorcana_com/Season%202%20Tournament%20Rules%20090925%20update-Italian.pdf) ([plain text](text/tournament-rules-it.txt))
 
 ### CORE Document - Lore Guide Resource
 
-- [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
+- [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([plain text](text/CORE-document-en.txt))
 
 ### Winterspell OP Kit Instructions
 
@@ -113,7 +113,7 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))
+- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([plain text](text/play-correction-guidelines-en.txt))
 
 ### Disney Lorcana TCG Deck Registration Sheet
 
@@ -151,17 +151,17 @@
 
 ### Diversity & Inclusion Policy
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
-- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf) ([as text](text/op-diversity-and-inclusion-policy-de.txt))
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
-- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
+- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf) ([plain text](text/op-diversity-and-inclusion-policy-en.txt))
+- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf) ([plain text](text/op-diversity-and-inclusion-policy-de.txt))
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf) ([plain text](text/op-diversity-and-inclusion-policy-fr.txt))
+- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf) ([plain text](text/op-diversity-and-inclusion-policy-it.txt))
 
 ### Community Code
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf) ([as text](text/community-code-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf) ([as text](text/community-code-de.txt))
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf) ([as text](text/community-code-fr.txt))
-- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf) ([as text](text/community-code-it.txt))
+- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf) ([plain text](text/community-code-en.txt))
+- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf) ([plain text](text/community-code-de.txt))
+- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf) ([plain text](text/community-code-fr.txt))
+- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf) ([plain text](text/community-code-it.txt))
 
 ### Replacement Policy
 
@@ -199,7 +199,7 @@
 
 ### 《泼墨第一章》常见问题
 
-- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf) ([as text](text/s1-set-notes-zh.txt))
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%EF%BC%9A%E3%80%8A%E6%B3%BC%E5%A2%A8%E7%AC%AC%E4%B8%80%E7%AB%A0%E3%80%8B%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf) ([plain text](text/s1-set-notes-zh.txt))
 
 ### 《洪源大涌现》常见问题
 
@@ -215,14 +215,14 @@
 
 ### 完整规则
 
-- [点击这里](files_disneylorcana_com/%E5%AE%8C%E6%95%B4%E8%A7%84%E5%88%99.pdf) ([as text](text/comprehensive-rules-zh.txt))
+- [点击这里](files_disneylorcana_com/%E5%AE%8C%E6%95%B4%E8%A7%84%E5%88%99.pdf) ([plain text](text/comprehensive-rules-zh.txt))
 
 
 ## 赛事规则和文档
 
 ### 比赛规则
 
-- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/tournament-rules-zh.txt))
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E4%B8%AD%E5%9B%BD%E5%8C%BA%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99v20241230.pdf) ([plain text](text/tournament-rules-zh.txt))
 
 ### 活动奖品盒规则
 
@@ -240,15 +240,15 @@
 
 ### 多样性和包容性方针
 
-- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%BB%84%E7%BB%87%E6%B8%B8%E6%88%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E5%92%8C%E5%8C%85%E5%AE%B9%E6%80%A7%E6%96%B9%E9%92%88v20241225.pdf) ([as text](text/op-diversity-and-inclusion-policy-zh.txt))
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%BB%84%E7%BB%87%E6%B8%B8%E6%88%8F%E5%A4%9A%E6%A0%B7%E6%80%A7%E5%92%8C%E5%8C%85%E5%AE%B9%E6%80%A7%E6%96%B9%E9%92%88v20241225.pdf) ([plain text](text/op-diversity-and-inclusion-policy-zh.txt))
 
 ### 社群规则
 
-- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%A4%BE%E7%BE%A4%E8%A7%84%E5%88%99v20241230.pdf) ([as text](text/community-code-zh.txt))
+- [点击这里](files_disneylorcana_com/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B4%9B%E5%8D%A1%E7%BA%B3%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E7%A4%BE%E7%BE%A4%E8%A7%84%E5%88%99v20241230.pdf) ([plain text](text/community-code-zh.txt))
 
 ### 纠正指南
 
-- [点击这里](files_disneylorcana_com/%E7%BA%A0%E6%AD%A3%E6%8C%87%E5%8D%97.pdf) ([as text](text/play-correction-guidelines-zh.txt))
+- [点击这里](files_disneylorcana_com/%E7%BA%A0%E6%AD%A3%E6%8C%87%E5%8D%97.pdf) ([plain text](text/play-correction-guidelines-zh.txt))
 
 
 ------
@@ -261,16 +261,16 @@
 
 ### 総合ルール
 
-[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney-Lorcana-Comprehensive-Rules_JP.pdf) ([as text](text/comprehensive-rules-jp.txt))
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney-Lorcana-Comprehensive-Rules_JP.pdf) ([plain text](text/comprehensive-rules-jp.txt))
 
 ### 「THE FIRST CHAPTER 物語のはじまり」 セットノート
 
-[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/s1_set_notes.pdf) ([as text](text/s1-set-notes-jp.txt))
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/s1_set_notes.pdf) ([plain text](text/s1-set-notes-jp.txt))
 
 ### プレイ修正指針
 
-[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Play_Correction_Guidelines_JP.pdf) ([as text](text/play-correction-guidelines-jp.txt))
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Play_Correction_Guidelines_JP.pdf) ([plain text](text/play-correction-guidelines-jp.txt))
 
 ### 日本語版イベントルール
 
-[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Tournament_Rules_JP.pdf) ([as text](text/tournament-rules-jp.txt))
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney_Lorcana_Tournament_Rules_JP.pdf) ([plain text](text/tournament-rules-jp.txt))

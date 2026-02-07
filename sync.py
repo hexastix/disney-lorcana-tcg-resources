@@ -62,6 +62,10 @@ class ResourcesHTMLParser(HTMLParser):
         "迪士尼洛卡纳集换式卡牌游戏：《泼墨第一章》常见问题.pdf": "s1-set-notes-zh.txt",
     }
 
+    MARKDOWN_FILE_NAMES = {
+        "Disney-Lorcana-Comprehensive-Rules-020526-EN.pdf": "comprehensive-rules-en.md",
+    }
+
     def __init__(self, readme_file, pdf_files):
         super().__init__()
 
@@ -103,6 +107,14 @@ class ResourcesHTMLParser(HTMLParser):
                                     f"[{{data}}]({md_link(pdf_file_path)})"
                                     f" ([plain text]({md_link(text_file_path)}))"
                                 )
+                                if pdf_file_path.name in self.MARKDOWN_FILE_NAMES:
+                                    md_file_path = pathlib.Path(
+                                        "markdown",
+                                        self.MARKDOWN_FILE_NAMES[pdf_file_path.name],
+                                    )
+                                    self.list_item += (
+                                        f" ([markdown]({md_link(md_file_path)}))"
+                                    )
                                 self.pdf_files.append(
                                     (url, pdf_file_path, text_file_path)
                                 )

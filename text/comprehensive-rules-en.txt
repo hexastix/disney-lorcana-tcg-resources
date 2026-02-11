@@ -1,5 +1,5 @@
                                     COMPREHENSIVE RULES
-                                                                    Version 2.0.0.
+                                                                     Version 2.0.1.
                                                               Effective February 5, 2026
 
 
@@ -212,7 +212,7 @@ disneylorcana.com
          1.7.6. If a player attempts a game action they couldn’t perform or begins a turn action they’re unable to complete fully, it’s an illegal
                   action. When an illegal action occurs, the action is undone, meaning the player reverses all actions they took until the state of the
                   game is returned to what it was before the illegal action or actions was performed, assuming the action is possible to reasonably
-                  undo (see 1.8.6.2). All payments are undone if applicable. Abilities that would have occurred because of the original action
+                  undo (see 1.7.6.2). All payments are undone if applicable. Abilities that would have occurred because of the original action
                   don’t happen.
               1.7.6.1. The player may attempt to redo what was attempted but in the correct way.
               1.7.6.2. A player may not undo any game actions that are impossible to fully undo, such as shuffling a deck or revealing a card.
@@ -278,7 +278,7 @@ disneylorcana.com
                1.9.1.4. Move – Taking off a number of damage counters from one character or location and placing them on another character or
                           location as a result of an effect that moved damage to them.
                1.9.1.5. Take – A character or location takes damage whenever damage is dealt to, put on, or moved to that character or location.
-          1.9.2. Some card text refers to a character or location that “is damaged,” “was damaged,” “is dealt damage,” or “was dealt damaged.”
+          1.9.2. Some card text refers to a character or location that “is damaged,” “was damaged,” “is dealt damage,” or “was dealt damage.”
                    These references mean the same as “takes damage” for cards printed with that text.
           1.9.3. When a character or location with damage leaves play for any reason, all damage counters on that character or location cease
                    to exist.
@@ -298,7 +298,7 @@ disneylorcana.com
                1.10.1.2. In the Limited format, each player’s deck must contain at least 35 cards for Draft or 40 cards for Sealed, may contain any
                           number of ink types, and may contain any number of cards with the same full name.
           1.10.2. Each player needs a method to track their lore totals. A player may use any reasonable method to do so that’s comfortable for
-                   and accessible to them. The lore-tracking method a player uses must always reflect the players current lore total during the
+                   and accessible to them. The lore-tracking method a player uses must always reflect the player’s current lore total during the
                    game. Such methods can include, but aren’t limited to, pen and paper, lore trackers, and the Disney Lorcana Trading Card Game
                    Companion app. Specific formats may identify what methods for tracking lore totals are allowed.
           1.10.3. Each player needs a method to track damage counters on characters or locations. A player may use any reasonable method to do
@@ -358,7 +358,7 @@ disneylorcana.com
               2.2.2.3. Third, each player who altered their hand by 1 or more cards shuffles their deck. Each player who shuffled their deck must
                        give an opposing player an opportunity to cut, shuffle, or shuffle and cut the deck.
          2.2.3. After each player completed the steps in 2.2.2.1 through 2.2.2.3, the game enters the In-Game stage and opens with the starting
-                 player’s Beginning Phase.
+                 player’s Start-of-Turn Phase.
     2.3. In-Game Stage
          2.3.1. In the In-Game stage, players play the game of Disney Lorcana.
          2.3.2. Each player, in turn order, takes their turn as described in section 3, “Turn Structure.”
@@ -833,7 +833,7 @@ disneylorcana.com
                   names Lucky for the effect and then reveals Lucky Dime from the top of their deck, that isn’t a match. Lucky Dime is then put back
                   on the top of that player’s deck.
               5.2.6.1. Some characters have two singular names in addition to their printed name. These characters have an ampersand (&) or
-                         something else that’s treated as an ampersand (see 5.6.2.3) between the two names listed on the name line. If an effect
+                         something else that’s treated as an ampersand (see 5.2.6.3) between the two names listed on the name line. If an effect
                          looks for a card or character with a specified name, the specified name must exactly match one of the names on the card.
               5.2.6.2. A character with multiple names is still a single character.
                          Example A: Flotsam & Jetsam – Entangling Eels is a character that has three names. The card is a character named “Flotsam,”
@@ -1546,9 +1546,9 @@ disneylorcana.com
                  cards any player has in play at any time. Players can rearrange their Play zones in any comfortable and/or convenient fashion,
                  provided that the overall layout is clear and understandable to all players. The status of cards in play can’t be hidden from
                  other players.
-             7.4.2.1. Facedown cards in play are considered to be private information, even if those cards were public information at one point.
-                        Players may count the number of facedown cards in play. Players can’t look at facedown cards unless a game rule or effect
-                        allows the player to do so. This is an exception to section 7.4.2.
+             7.4.2.1. Facedown cards in a player’s Play zone are considered to be private information, even if those cards were public information
+                        at one point. Players may count the number of facedown cards in a player’s Play zone. Players can’t look at facedown cards
+                        unless a game rule or effect allows the player to do so. This is an exception to section 7.4.2.
          7.4.3. Whenever 1 or more cards would leave play, they first check whether any abilities would trigger from them and/or others
                  leaving play with them. The triggered abilities “see” the other cards leaving the Play zone along with the source card of the
                  triggered ability.
@@ -1643,58 +1643,58 @@ disneylorcana.com
                   ability or action, it won’t get that keyword.
                   Example: If you have a character with Support and an effect gives that character Support, only the first instance of the keyword
                   applies. However, if the keywords were Resist +1 and Resist +2, the abilities would stack, and that character would have Resist +3.
+    8.2. Alert
+         8.2.1. The Alert keyword represents a static ability. Alert means “This character ignores the challenging restriction of Evasive.”
 
 
 
 
 disneylorcana.com
 ©Disney                                                                    37
-    8.2. Alert
-         8.2.1. The Alert keyword represents a static ability. Alert means “This character ignores the challenging restriction of Evasive.”
-         8.2.2. A character doesn’t gain Evasive from having the Alert keyword. They can still gain Evasive from another ability or effect.
+          8.2.2. A character doesn’t gain Evasive from having the Alert keyword. They can still gain Evasive from another ability or effect.
     8.3. Bodyguard
-         8.3.1. The Bodyguard keyword represents two abilities.
-         8.3.2. The first of these is a static ability that functions while the character is being played and creates a replacement effect. This ability
-                 means “This character may enter play with the exerted state rather than the ready state.”
-         8.3.3. The second is a static ability that creates a challenging restriction. This ability means “If an opponent would choose one of your
-                 characters to challenge, they must choose this character or another character with Bodyguard if able.”
+          8.3.1. The Bodyguard keyword represents two abilities.
+          8.3.2. The first of these is a static ability that functions while the character is being played. This ability means “This character may enter
+                  play with the exerted state rather than the ready state.”
+          8.3.3. The second is a static ability that creates a challenging restriction. This ability means “If an opponent would choose one of your
+                  characters to challenge, they must choose this character or another character with Bodyguard if able.”
     8.4. Boost
-         8.4.1. The Boost keyword represents an activated ability with a specified duration. Boost N {I} means “Once during your turn, you may
-                 pay N {I} to put the top card of your deck facedown under this card.”
-         8.4.2. No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
-         8.4.3. If a card is under another card, it’s not considered to be in play. Putting a card under another card with Boost doesn’t count as
-                 playing that card.
+          8.4.1. The Boost keyword represents an activated ability with a specified duration. Boost N {I} means “Once during your turn, you may
+                  pay N {I} to put the top card of your deck facedown under this card.”
+          8.4.2. No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
+          8.4.3. If a card is under another card, it’s not considered to be in play. Putting a card under another card with Boost doesn’t count as
+                  playing that card.
     8.5. Challenger
-         8.5.1. The Challenger keyword represents a static ability that functions while a character is challenging. Challenger +N means “While
-                 this character is challenging, they gain +N {S}.” Because this is a +N ability, it stacks with other Challenger effects.
-         8.5.2. A character with Challenger doesn’t gain +N {S} if they’re being challenged.
+          8.5.1. The Challenger keyword represents a static ability that functions while a character is challenging. Challenger +N means “While
+                  this character is challenging, they gain +N {S}.” Because this is a +N ability, it stacks with other Challenger effects.
+          8.5.2. A character with Challenger doesn’t gain +N {S} if they’re being challenged.
     8.6. Evasive
-         8.6.1. The Evasive keyword represents a static ability that creates a challenging restriction. Evasive means “This [Type] can’t be
-                 challenged except by a character with Evasive.”
+          8.6.1. The Evasive keyword represents a static ability that creates a challenging restriction. Evasive means “This [Type] can’t be
+                  challenged except by a character with Evasive.”
     8.7. Reckless
-         8.7.1. The Reckless keyword represents two static abilities.
-         8.7.2. The first ability means “This character can’t quest.”
-         8.7.3. The second ability means “You can’t declare the end of your turn if this character is ready and can challenge an opposing character
-                 or location.”
-         8.7.4. A player can still exert a character with Reckless to use abilities or sing songs if able.
+          8.7.1. The Reckless keyword represents two static abilities.
+          8.7.2. The first ability means “This character can’t quest.”
+          8.7.3. The second ability means “You can’t declare the end of your turn if this character is ready and can challenge an opposing character
+                  or location.”
+          8.7.4. A player can still exert a character with Reckless to use abilities or sing songs if able.
     8.8. Resist
-         8.8.1. The Resist keyword represents a static ability that modifies the amount of damage dealt to the card with the keyword. Resist +N
-                 means “Damage that would be dealt to this character or location is reduced by N.” Resist is a damage reduction (see 4.6.6.1).
-                 Because this is a +N ability, this stacks with other Resist effects.
-         8.8.2. If damage dealt to this character or location is reduced to 0, no damage is considered to have been dealt.
-         8.8.3. Damage put or moved onto a character with Resist isn’t affected by the ability.
+          8.8.1. The Resist keyword represents a static ability that modifies the amount of damage dealt to the card with the keyword. Resist +N
+                  means “Damage that would be dealt to this character or location is reduced by N.” Resist is a damage reduction (see 4.6.6.1).
+                  Because this is a +N ability, this stacks with other Resist effects.
+          8.8.2. If damage dealt to this character or location is reduced to 0, no damage is considered to have been dealt.
+          8.8.3. Damage put or moved onto a character with Resist isn’t affected by the ability.
     8.9. Rush
-         8.9.1. The Rush keyword represents a static ability. Rush means “This character can challenge as though they were in play at the
-                 beginning of your turn.”
+          8.9.1. The Rush keyword represents a static ability. Rush means “This character can challenge as though they were in play at the
+                  beginning of your turn.”
+    8.10. Shift
+          8.10.1. The Shift keyword represents a static ability of paying an alternate cost to play a character instead of paying the character’s ink
+                  cost. Shift means “If you have a character in play with the same name as this card, you may play this character by paying their
 
 
 
 
 disneylorcana.com
 ©Disney                                                                   38
-    8.10. Shift
-          8.10.1. The Shift keyword represents a static ability of paying an alternate cost to play a character instead of paying the character’s ink
-                  cost. Shift means “If you have a character in play with the same name as this card, you may play this character by paying their
                   Shift cost instead of their ink cost. If you do, put this card on top of another character you have in play with the same name.”
                   This is called shifting.
           8.10.2. If a shifted character is put on top of an exerted character, the shifted character enters play exerted.
@@ -1730,15 +1730,15 @@ disneylorcana.com
                   exceeds the cost listed for Sing Together, the character or characters can sing the song.
           8.12.3. Characters that have the triggered ability condition “Whenever this character sings a song” and are one of the characters singing
                   the song with Sing Together, the condition is met, and the triggered ability is added to the bag to resolve.
+    8.13. Support
+          8.13.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this character’s
+                  {S} to another chosen character’s {S} this turn.”
 
 
 
 
 disneylorcana.com
 ©Disney                                                                    39
-   8.13. Support
-         8.13.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this character’s
-                  {S} to another chosen character’s {S} this turn.”
    8.14. Vanish
          8.14.1. The Vanish keyword represents a triggered ability. Vanish means “When this character is chosen by an opponent as part of
                   resolving an action’s effect, banish this character.”
@@ -1769,46 +1769,44 @@ disneylorcana.com
 		9.3.2. If triggered abilities or effects are added to the bag by multiple players during a simultaneous turn, these triggered abilities or 		
 			           effects are added to the bag by the team as a whole, and the order in which they’re resolved is chosen by the team. Otherwise, 		
 			           resolving abilities and effects follows the rules listed in section 7.7, “Bag.”
-			 Example: Three players are members of the same team taking a simultaneous turn. During the Ready step of the Beginning Phase, all
+			 Example: Three players are members of the same team taking a simultaneous turn. During the Ready step of the Start-of-Turn Phase, all
 			           three players ready their cards at the same time. During the Set step, all three players gain lore from locations they have in play with
 			 a {L} characteristic and then add any effects or abilities that triggered during the Ready step to the bag at the same time. In the Draw
 			           step, all three players draw a card from their decks at the same time.
 			           After the game moves into the Main Phase, the three players continue with their simultaneous turn. The first player wants to put a card
 			           into their inkwell; the second wants to quest; and the third has decided to have one of their characters challenge an opposing
+			           character. The players can decide the order of these turn actions together, but each turn action must be completed in its entirety before
+			           the next player can act. During the End-of-Turn Phase, the players declare the end of their turn. All triggers are added to the bag at the
+			           same time and all “this turn” effects end at the same time.
 
 
 
 
 disneylorcana.com
 ©Disney                                                                    40
-			          character. The players can decide the order of these turn actions together, but each turn action must be completed in its entirety before
-			          the next player can act. During the End-of-Turn Phase, the players declare the end of their turn. All triggers are added to the bag at the
-			          same time and all “this turn” effects end at the same time.
-10. CASUAL GAME VARIANTS
-   10.1. General
-         10.1.1. This section contains optional rules for the use in casual game variants of Disney Lorcana. This section isn’t meant to
-                 be comprehensive.
-         10.1.2. All casual game variants follow the normal rules for Disney Lorcana except as defined in the variant's description. If the normal
-                 rules and the casual game variant rules ever contradict each other, follow the casual game variant rule when playing that
-                 specific variant.
-                 Example: In a normal game of Disney Lorcana, the starting hand size is 7. In a Pack Rush game of Disney Lorcana, the starting hand
-                 size is 5. When playing Pack Rush, use the starting hand size of 5 instead of 7.
-   10.2. Pack Rush
-         10.2.1. In Pack Rush, each player takes two unopened Disney Lorcana booster packs and shuffles them together to play one game. Pack
-                 Rush is considered a Limited format. Booster packs can be from any set for all players.
-             10.2.1.1. There's no minimum deck size. The deck size is determined by the total number of Disney Lorcana cards in the two
-                        booster packs.
-         10.2.2. Before shuffling the cards together, players take any marketing cards in the pack and set them aside. Before drawing opening
-                 hands, players take 2 of the marketing cards from the packs and put them into their inkwell. This means each player starts the
-                 game with 2 cards in their inkwell.
-             10.2.2.1. Marketing cards can’t be moved from the inkwell to any other zone.
-             10.2.2.2. Marketing cards can’t be chosen for effects.
-         10.2.3. The starting hand size for Pack Rush is 5.
-         10.2.4. When a player reaches 15 or more lore, they win the game.
-         10.2.5. When a player runs out of cards in their deck, they don’t lose the game. Instead, they shuffle the cards in their discard and place
-                 them facedown as their new deck.
-
-
+ 10. CASUAL GAME VARIANTS
+    10.1. General
+          10.1.1. This section contains optional rules for the use in casual game variants of Disney Lorcana. This section isn’t meant to
+                  be comprehensive.
+          10.1.2. All casual game variants follow the normal rules for Disney Lorcana except as defined in the variant's description. If the normal
+                  rules and the casual game variant rules ever contradict each other, follow the casual game variant rule when playing that
+                  specific variant.
+                  Example: In a normal game of Disney Lorcana, the starting hand size is 7. In a Pack Rush game of Disney Lorcana, the starting hand
+                  size is 5. When playing Pack Rush, use the starting hand size of 5 instead of 7.
+    10.2. Pack Rush
+          10.2.1. In Pack Rush, each player takes two unopened Disney Lorcana booster packs and shuffles them together to play one game. Pack
+                  Rush is considered a Limited format. Booster packs can be from any set for all players.
+              10.2.1.1. There's no minimum deck size. The deck size is determined by the total number of Disney Lorcana cards in the two
+                         booster packs.
+          10.2.2. Before shuffling the cards together, players take any marketing cards in the pack and set them aside. Before drawing opening
+                  hands, players take 2 of the marketing cards from the packs and put them into their inkwell. This means each player starts the
+                  game with 2 cards in their inkwell.
+              10.2.2.1. Marketing cards can’t be moved from the inkwell to any other zone.
+              10.2.2.2. Marketing cards can’t be chosen for effects.
+          10.2.3. The starting hand size for Pack Rush is 5.
+          10.2.4. When a player reaches 15 or more lore, they win the game.
+          10.2.5. When a player runs out of cards in their deck, they don’t lose the game. Instead, they shuffle the cards in their discard and place
+                  them facedown as their new deck.
 
 GLOSSARY
       ability
@@ -1820,16 +1818,16 @@ GLOSSARY
       action, game
       When a player does something in game that’s part of a normal turn, such as draw a card, exert a character, declare a challenging character,
       etc., it’s a game action. A game action is singular.
+      action, turn
+      One of a set of game actions with predefined processes that arrive at a specific outcome.
+      activate
+      To use an activated ability of a card.
 
 
 
 
 disneylorcana.com
 ©Disney                                                                   41
-     action, turn
-     One of a set of game actions with predefined processes that arrive at a specific outcome.
-     activate
-     To use an activated ability of a card.
      activated ability
      An ability that a player may use after paying its cost. An activated ability can’t be used if its cost can’t be paid. Activated abilities of items may
      be used during the turn the item is played.
@@ -1850,9 +1848,6 @@ disneylorcana.com
      When a character, item, or location is put from play into their player’s discard pile, either as a result of abilities or effects or—in the case of
      characters and locations—when the card has damage equal to or greater that its Willpower {W}. A character, item, or location put into their
      player’s discard this way is considered to be banished.
-     Beginning Phase
-     The first phase of the turn, in which a player resets their cards for the turn. This is when all effects that end at the start of the player’s turn end
-     and when effects that occur or begin at the start of their turn happen. The Beginning Phase has three steps: Ready, Set, and Draw.
      card type
      The type that each card has, such as character, action, item, or location. A card’s type determines the rules for how to play it.
      challenge
@@ -1864,12 +1859,6 @@ disneylorcana.com
      duration of the challenge.
      challenging/challenged player
      A challenging player is the player who declared a challenging character. A challenged player is the player whose character is challenged.
-
-
-
-
-disneylorcana.com
-©Disney                                                                     42
      character
      A card that has at least one of the classifications listed in 6.1.2.2 on its classification line and also has both {S} and {W} characteristics. A
      character that’s played is put into the Play zone and remains there until it’s banished or removed from play by a game effect. A player may have
@@ -1879,6 +1868,10 @@ disneylorcana.com
      the right of its ink type symbol.
      condition
      A game state that is checked to be true or false or met or unmet.
+
+
+disneylorcana.com
+©Disney                                                                    42
      conditional static ability
      A static ability that only applies if a condition within the text of that ability is true or false.
      continuous static ability
@@ -1909,19 +1902,20 @@ disneylorcana.com
      Also called the “discard pile.”
      verb. When a player chooses 1 or more cards from their hand and puts them into their discard. A player can discard only from their hand. If a
      player is instructed by the text of an ability or effect to discard their hand, the player can choose to discard a hand that has 0 cards in it.
+     draw
+     When a player takes the top card of their deck and puts that card into their hand. A player can draw only from their deck.
+     Draw step
+     The third step of the Start-of-Turn Phase of a player’s turn, when the player puts the top card of their deck into their hand. Once all effects
+     have been resolved and there are no more waiting to be added, the game moves into the Main Phase. On the first turn of the game, the active
+     player skips this step.
+     dry
+     A character that was in play at the start of its player’s current turn is considered to be dry.
+
 
 
 
 disneylorcana.com
 ©Disney                                                                    43
-     draw
-     When a player takes the top card of their deck and puts that card into their hand. A player can draw only from their deck.
-     Draw step
-     The third step of the Beginning Phase of a player’s turn, when the player puts the top card of their deck into their hand. Once all effects have
-     been resolved and there are no more waiting to be added, the game moves into the Main Phase. On the first turn of the game, the active
-     player skips this step.
-     dry
-     A character that was in play at the start of its player’s current turn is considered to be dry.
      drying
      A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or
      {E} to pay any cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect
@@ -1946,19 +1940,13 @@ disneylorcana.com
      floating triggered ability
      A triggered ability generated to exist for a specified duration.
      for free
-     An effect that allows a player to play a card or use an activated ability without having to pay its listed ink cost. A player who plays a card or uses
-     an activated ability for free must still pay any other costs.
+     A player who plays a card or uses an activated ability for free can’t choose any other alternate cost for playing the card or activating the ability.
+     An activated ability for free must still pay {E}.
      full name
      For cards that have a version in addition to a name, the combination of the two.
      game state check
      The check the game performs to verify a set of conditions and the required actions when one or more of those conditions are met. This check
      occurs at the end of each step, after each action or ability is finished resolving, and after each effect in the bag is finished resolving (see 1.8).
-
-
-
-
-disneylorcana.com
-©Disney                                                                    44
      hand
      The zone where cards drawn by a player are held.
      Illuminary icon
@@ -1966,6 +1954,12 @@ disneylorcana.com
      in a stack
      Two or more cards that are in play and in a single pile comprising a top card and all cards under it. If the top card in a stack moves to a specific
      zone, all cards under that card move to the same zone, and the cards are no longer considered to be in a stack.
+
+
+
+
+disneylorcana.com
+©Disney                                                                    44
      in play
      A card in the Play zone without any cards on top of it. If a card is under another card, it’s not considered to be in play. If a card is facedown,
      under another card, or in any zone other than the Play zone, it’s not considered to be in play.
@@ -1998,12 +1992,6 @@ disneylorcana.com
      its player gains at the start of their turn during the Set step. If a location has an activated ability, that ability can be used the same turn the
      location comes into play. A player may have multiple copies of a location with the same name in their deck but can’t have more than 4 copies
      with the same full name.
-
-
-
-
-disneylorcana.com
-©Disney                                                                     45
      lore
      The resource players race to gain as they play. The first player to reach 20 lore wins the game.
      Lore value {L}
@@ -2011,6 +1999,12 @@ disneylorcana.com
      location, this lore is gained at the start of the player’s turn during the Set step.
      Main Phase
      The second phase of the turn structure, when a player can take any of the Main Phase turn actions (see 3.3, “Main Phase”).
+
+
+
+
+disneylorcana.com
+©Disney                                                                    45
      move cost {M}
      The cost to move one of your characters to one of your locations.
      multiplayer game
@@ -2030,7 +2024,7 @@ disneylorcana.com
      passing the bag
      The process in which multiple players with triggered abilities in the bag determine the order in which players resolve those abilities (see 6.7).
      phase
-     One of the three main parts of a turn. The phases of a player’s turn are the Beginning Phase, Main Phase, and End-of-Turn Phase.
+     One of the three main parts of a turn. The phases of a player’s turn are the Start-of-Turn Phase, Main Phase, and End-of-Turn Phase.
      play
      The act of playing a card. A card can be played only from a player’s hand. If the card played is an action, the player reveals the card, pays its
      cost, puts it into play, resolves its effects, and then discards it. If the card played is a character, item, or location, the player reveals the card,
@@ -2042,21 +2036,19 @@ disneylorcana.com
      Players can count the number of cards in a private zone at any time. While a private zone is revealed, it’s not considered private.
      public zone
      A zone where the cards are publicly known. Players can look at or count the cards in any public zone at any time.
-
-
-
-
-disneylorcana.com
-©Disney                                                                    46
      quest
      When a player exerts a character to gain lore equal to that character’s Lore value {L}. A character can’t quest the same turn it’s played.
      ready
      verb. To put a card in the ready position (upright). A player readies all of their exerted cards in the Ready step of their turn.
      adjective. A card that’s currently in the ready position.
      Ready step
-     The first step of the Beginning Phase of a player’s turn, when effects that apply “during your turn” start applying and the active player readies
-     all their exerted cards. Effects with the duration “until the start of your next turn” end. Effects that trigger “at the start of your turn” trigger.
-     However, they wait until the Set step to start resolving.
+     The first step of the Start-of-Turn Phase of a player’s turn, when effects that apply “during your turn” start applying and the active player
+     readies all their exerted cards. Effects with the duration “until the start of your next turn” end. Effects that trigger “at the start of your turn”
+     trigger. However, they wait until the Set step to start resolving.
+
+
+disneylorcana.com
+©Disney                                                                     46
      reminder text
      Italicized text following a keyword or other rules text and enclosed in parentheses. It’s not rules text and serves only as a memory aid.
      replacement effect
@@ -2071,8 +2063,8 @@ disneylorcana.com
      An effect that requires a player to make a decision or pay a cost in order to resolve it. Such an effect is normally written as “[A] to [B], “[A] or
      [B],” or “[A]. If you do, [B].”
      Set step
-     The second step of the Beginning Phase of a player’s turn, when characters that are in play are no longer drying and can quest, challenge, or
-     {E} to pay costs for activated abilities or song cards. During this step, the active player gains lore from locations they have in play with a {L}
+     The second step of the Start-of-Turn Phase of a player’s turn, when characters that are in play are no longer drying and can quest, challenge,
+     or {E} to pay costs for activated abilities or song cards. During this step, the active player gains lore from locations they have in play with a {L}
      characteristic. Effects that occur “At the start of your turn” and abilities that triggered during the Ready step are added to the bag, then all
      triggers are resolved.
      shuffle
@@ -2086,18 +2078,21 @@ disneylorcana.com
      When a specific step or phase doesn’t happen.
      song
      A type of action that can be played by paying the song’s ink cost or by exerting a character or characters to sing it.
+     stack
+     noun. A number of cards set on top of each other, such as a character with Shift and the character it was played onto. When cards in a stack
+     leave play, they all go to the same zone as the top card and are no longer considered to be in a stack.
+     verb. To combine multiple instances of an effect. Keyword abilities that stack are followed by “+[N].”
+     Start-of-Turn Phase
+     The first phase of the turn, in which a player resets their cards for the turn. This is when all effects that end at the start of the player’s turn end
+     and when effects that occur or begin at the start of their turn happen. The Start-of-Turn Phase has three steps: Ready, Set, and Draw.
+     starting hand
+     The initial 7 cards that a player draws at the start of the game, before they choose whether to alter their hand.
 
 
 
 
 disneylorcana.com
-©Disney                                                                    47
-     stack
-     noun. A number of cards set on top of each other, such as a character with Shift and the character it was played onto. When cards in a stack
-     leave play, they all go to the same zone as the top card and are no longer considered to be in a stack.
-     verb. To combine multiple instances of an effect. Keyword abilities that stack are followed by “+[N].”
-     starting hand
-     The initial 7 cards that a player draws at the start of the game, before they choose whether to alter their hand.
+©Disney                                                                     47
      starting player
      The player who takes the first turn of the game, determined randomly before the game begins. The starting player doesn’t draw on that turn.
      static ability
@@ -2112,8 +2107,8 @@ disneylorcana.com
      “At the start of,” or “At the end of” and describe the game state that causes the abilities to trigger and the effects of the abilities. When an
      ability triggers, its effect is added to the bag to be resolved.
      turn
-     The unit of time each player takes to complete the following three phases: Beginning Phase, Main Phase, and End-of-Turn Phase. Each player
-     takes their turn before passing the turn to the next player.
+     The unit of time each player takes to complete the following three phases: Start-of-Turn Phase, Main Phase, and End-of-Turn Phase. Each
+     player takes their turn before passing the turn to the next player.
      turn action
      An action that the game allows a player to take during the Main Phase of their turn. A player may take any number of turn actions on their turn,
      in any order. Turn actions include putting a card into the inkwell, playing a card, questing, challenging, moving a character to a location, and

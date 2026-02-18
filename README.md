@@ -165,7 +165,7 @@
 
 ### Replacement Policy
 
-- [English](files_disneylorcana_com/DLC-replacement-policy-en_2024-9-9.pdf)
+- [English](files_disneylorcana_com/DLC-replacement-policy-en_2025-12-18.pdf)
 - [Deutsch](files_disneylorcana_com/DLC-replacement-policy-de_2024-9-9.pdf)
 - [Italiano](files_disneylorcana_com/DLC-replacement-policy-it_2024-9-9.pdf)
 

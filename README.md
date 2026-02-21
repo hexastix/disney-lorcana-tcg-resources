@@ -41,10 +41,10 @@
 
 ### Quick Start Rules
 
-- [ENGLISH](files_disneylorcana_com/Shimmering-Skies_Quick_Start_Book_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Himmel-Leuchten_Quick_Start_Rules_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Ciel-Scintillant_Quick_Start_Rules_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Cieli-Scintillanti_Quick_Start_Rules_IT.pdf)
+- [ENGLISH](files_disneylorcana_com/Whispers-in-the-Well_StarterDeckA_RULES_A.pdf)
+- [DEUTSCH](files_disneylorcana_com/Gefluster-aus-der-Tiefe_StarterDeckA_RULES_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Lueurs-dans-les-profondeurs_StarterDeckA_RULES_A_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/Sussurri-nel-Pozzo_StarterDeckA_RULES_IT.pdf)
 - [Español](files_disneylorcana_com/Shimmering%20Skies_Quick_Start_Rules_ES.pdf)
 
 ### Pack Rush Rules

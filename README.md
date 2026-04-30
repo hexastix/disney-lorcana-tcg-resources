@@ -79,6 +79,14 @@
 
 - [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
 
+### Wilds Unknown OP Kit Instructions
+
+- [English](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-EN.pdf)
+- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
+- [Français : à venir](https://www.disneylorcana.com/en-US/resources)
+- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OP%20Kit%20Instructions-IT.pdf)
+- [español](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-ES.pdf)
+
 ### Wilds Unknown Set Championship Instructions
 
 - [English](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf)

@@ -16,20 +16,27 @@
 
 ## Card Set Release Notes
 
-### Winterspell Release Notes
+### Wilds Unknown Set Notes
+
+- [English](files_disneylorcana_com/Wilds-Unknown_SetReleaseNotes_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Unbekannte-Wildneis_SetReleaseNotes_DE.pdf)
+- [Français](files_disneylorcana_com/Contrees-Inconnues_SetReleaseNotes_FR.pdf)
+- [Italiano](files_disneylorcana_com/Lande-Sconosciute_S12_SetReleaseNotes_IT.pdf)
+
+### Winterspell Set Notes
 
 - [English](files_disneylorcana_com/Winterspell_SetReleaseNotes_EN.pdf)
 - [Deutsch](files_disneylorcana_com/Winterspell_SetReleaseNotes_DE.pdf)
 - [Français](files_disneylorcana_com/Winterspell_SetReleaseNotes_FR.pdf)
 
-### Whispers in the Well Release Notes
+### Whispers in the Well Set Notes
 
 - [English](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes_English.pdf)
 - [Deutsch](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Deutsch.pdf)
 - [Français](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Fran%C3%A7ais.pdf)
 - [Italiano](files_disneylorcana_com/Whispers-in-the-Well_ReleaseNotes-Italiano.pdf)
 
-### Fabled Release Notes
+### Fabled Set Notes
 
 - [English](files_disneylorcana_com/Fabled_SetReleaseNotes_EN.pdf)
 - [DEUTSCH](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)

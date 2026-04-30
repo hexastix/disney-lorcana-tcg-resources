@@ -103,14 +103,6 @@
 - [Italiano](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-IT.pdf)
 - [español](files_disneylorcana_com/Whispers-in-the-Well_OP-Kit-Instructions-ES.pdf)
 
-### Whispers in the Well Set Championship Instructions
-
-- [English](files_disneylorcana_com/DCL_Whispers_OPChampionships_Event%20Instructions-English.pdf)
-- [Deutsch](files_disneylorcana_com/DCL_Gefluster_OPChampionships_Event%20Instructions-German.pdf)
-- [FRANÇAIS](files_disneylorcana_com/DCL_Lueurs_OPChampionships_Event%20Instructions-FR.pdf)
-- [Italiano](files_disneylorcana_com/DCL_Sussurri_OPChampionships_Event%20Instructions-Italian.pdf)
-- [Español](files_disneylorcana_com/DCL_Whispers_OPChampionships_Event%20Instructions-Spanish.pdf)
-
 ### Play Correction Guidelines
 
 - [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))

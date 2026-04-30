@@ -57,10 +57,10 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-020526-EN-Edited.pdf) ([as text](text/comprehensive-rules-en.txt))
+- [English](files_disneylorcana_com/CRUpdate_2.1.0_EN.pdf) ([as text](text/comprehensive-rules-en.txt))
 - [DEUTSCH](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-DE-edited.pdf) ([as text](text/comprehensive-rules-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/Disney-Lorcana-Regles-completes-2.0-FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
-- [ITALIANO](files_disneylorcana_com/Disney-Lorcana-Comprehensive-Rules-103125-IT-edited.pdf) ([as text](text/comprehensive-rules-it.txt))
+- [FRANÇAIS](files_disneylorcana_com/CRUpdate_2.1.0-FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
+- [ITALIANO](files_disneylorcana_com/CRUpdate_2.1.0-IT.pdf) ([as text](text/comprehensive-rules-it.txt))
 
 ### Disney Lorcana TCG FAQ
 

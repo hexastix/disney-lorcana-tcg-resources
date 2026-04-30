@@ -79,6 +79,14 @@
 
 - [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
 
+### Wilds Unknown Set Championship Instructions
+
+- [English](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf)
+- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
+- [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
+- [Español: Muy pronto](https://www.disneylorcana.com/en-US/resources)
+
 ### Winterspell OP Kit Instructions
 
 - [English](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_English.pdf)

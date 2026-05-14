@@ -85,6 +85,9 @@
 ### CORE Document - Lore Guide Resource
 
 - [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))
+- [Deutsch](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_DE.pdf)
+- [Français](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_FR.pdf)
+- [Italiano](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_IT.pdf)
 
 ### Wilds Unknown OP Kit Instructions
 

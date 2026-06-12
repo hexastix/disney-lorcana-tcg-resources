@@ -103,7 +103,7 @@
 - [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
 - [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
 - [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
-- [Español: Muy pronto](https://www.disneylorcana.com/en-US/resources)
+- [Español](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-Spanish.pdf)
 
 ### Winterspell OP Kit Instructions
 

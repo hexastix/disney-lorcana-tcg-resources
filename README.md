@@ -4,16 +4,6 @@
 *from https://www.disneylorcana.com/en-US/resources*
 
 
-## Player's Guide
-
-### Player's Guide
-
-- [English](cdn_ravensburger_com/lorcana/s1-playersguide-en.pdf)
-- [DEUTSCH](cdn_ravensburger_com/lorcana/s1-playersguide-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/s1-playersguide-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/s1-playersguide-it.pdf)
-
-
 ## Card Set Release Notes
 
 ### Wilds Unknown Set Notes
@@ -127,7 +117,7 @@
 
 ### Disney Lorcana TCG Deck Registration Sheet
 
-- [https://cdn.ravensburger.com/lorcana/op-constructed-decklist-registration-sheet](cdn_ravensburger_com/lorcana/op-constructed-decklist-registration-sheet.pdf)
+- [https://files.disneylorcana.com/OP_Constructed_Decklist_Registration-Sheet.pdf](files_disneylorcana_com/OP_Constructed_Decklist_Registration-Sheet.pdf)
 
 ### Results Slip
 
@@ -143,10 +133,10 @@
 
 ### Hobby Store Requirements
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/store-requirements-en.pdf)
-- [DEUTSCH](cdn_ravensburger_com/lorcana/store-requirements-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/store-requirements-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/store-requirements-it.pdf)
+- [ENGLISH](files_disneylorcana_com/Disney_lorcana_hobby_requirements_20230510_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/Lorcana_StoreRequirements_IT.pdf)
 
 ### Hobby Store Program Application Form
 
@@ -154,24 +144,24 @@
 
 ### Hobby Store Terms & Conditions
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/hsp-agreement-en.pdf)
-- [DEUTSCH](cdn_ravensburger_com/lorcana/hsp-agreement-de.pdf)
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/hsp-agreement-fr.pdf)
-- [ITALIANO](cdn_ravensburger_com/lorcana/hsp-agreement-it.pdf)
+- [ENGLISH](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_EN.pdf)
+- [DEUTSCH](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_FR.pdf)
+- [ITALIANO](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_IT.pdf)
 
 ### Diversity & Inclusion Policy
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-en.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
-- [Deutsch](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-de.pdf) ([as text](text/op-diversity-and-inclusion-policy-de.txt))
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-fr.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
-- [ITALIANO](cdn_ravensburger_com/lorcana/op-diversity-and-inclusion-policy-it.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
+- [ENGLISH](files_disneylorcana_com/op-diversity-and-inclusion-policy.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
+- [Deutsch](files_disneylorcana_com/op-diversity-and-inclusion-policy_DE.pdf) ([as text](text/op-diversity-and-inclusion-policy-de.txt))
+- [FRANÇAIS](files_disneylorcana_com/op-diversity-and-inclusion-policy_FR.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
+- [ITALIANO](files_disneylorcana_com/op-diversity-and-inclusion-policy_IT.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
 
 ### Community Code
 
-- [ENGLISH](cdn_ravensburger_com/lorcana/community-code-en.pdf) ([as text](text/community-code-en.txt))
-- [DEUTSCH](cdn_ravensburger_com/lorcana/community-code-de.pdf) ([as text](text/community-code-de.txt))
-- [FRANÇAIS](cdn_ravensburger_com/lorcana/community-code-fr.pdf) ([as text](text/community-code-fr.txt))
-- [ITALIANO](cdn_ravensburger_com/lorcana/community-code-it.pdf) ([as text](text/community-code-it.txt))
+- [ENGLISH](files_disneylorcana_com/community-code-en.pdf) ([as text](text/community-code-en.txt))
+- [DEUTSCH](files_disneylorcana_com/disney_lorcana_community_code_20230510_DE.pdf) ([as text](text/community-code-de.txt))
+- [FRANÇAIS](files_disneylorcana_com/disney_lorcana_community_code_20230510_FR.pdf) ([as text](text/community-code-fr.txt))
+- [ITALIANO](files_disneylorcana_com/disney_lorcana_community_code_20230510_IT.pdf) ([as text](text/community-code-it.txt))
 
 ### Replacement Policy
 

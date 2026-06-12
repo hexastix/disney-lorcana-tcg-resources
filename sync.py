@@ -28,7 +28,6 @@ def md_link(path):
 
 class ResourcesHTMLParser(HTMLParser):
     URL_PREFIXES = (
-        "https://cdn.ravensburger.com/lorcana/",
         "https://files.disneylorcana.com/",
     )
 
@@ -42,18 +41,18 @@ class ResourcesHTMLParser(HTMLParser):
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "play-correction-guidelines-en.txt",
         "Season 2 Tournament Rules 090925 update-Italian.pdf": "tournament-rules-it.txt",
         "Season 2 Turnierregeln 090925-DE.pdf": "tournament-rules-de.txt",
-        "community-code-de.pdf": "community-code-de.txt",
         "community-code-en.pdf": "community-code-en.txt",
-        "community-code-fr.pdf": "community-code-fr.txt",
-        "community-code-it.pdf": "community-code-it.txt",
-        "op-diversity-and-inclusion-policy-de.pdf": "op-diversity-and-inclusion-policy-de.txt",
-        "op-diversity-and-inclusion-policy-en.pdf": "op-diversity-and-inclusion-policy-en.txt",
-        "op-diversity-and-inclusion-policy-fr.pdf": "op-diversity-and-inclusion-policy-fr.txt",
-        "op-diversity-and-inclusion-policy-it.pdf": "op-diversity-and-inclusion-policy-it.txt",
         "s1-set-notes-de.pdf": "s1-set-notes-de.txt",
         "s1-set-notes-en.pdf": "s1-set-notes-en.txt",
         "s1-set-notes-fr.pdf": "s1-set-notes-fr.txt",
         "s1-set-notes-it.pdf": "s1-set-notes-it.txt",
+        "disney_lorcana_community_code_20230510_DE.pdf": "community-code-de.txt",
+        "disney_lorcana_community_code_20230510_FR.pdf": "community-code-fr.txt",
+        "disney_lorcana_community_code_20230510_IT.pdf": "community-code-it.txt",
+        "op-diversity-and-inclusion-policy.pdf": "op-diversity-and-inclusion-policy-en.txt",
+        "op-diversity-and-inclusion-policy_DE.pdf": "op-diversity-and-inclusion-policy-de.txt",
+        "op-diversity-and-inclusion-policy_FR.pdf": "op-diversity-and-inclusion-policy-fr.txt",
+        "op-diversity-and-inclusion-policy_IT.pdf": "op-diversity-and-inclusion-policy-it.txt",
         "完整规则.pdf": "comprehensive-rules-zh.txt",
         "纠正指南.pdf": "play-correction-guidelines-zh.txt",
         "迪士尼洛卡纳中国区比赛规则v20241230.pdf": "tournament-rules-zh.txt",

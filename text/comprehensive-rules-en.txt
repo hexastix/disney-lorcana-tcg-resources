@@ -228,7 +228,7 @@ disneylorcana.com
            1.8.1.1. If a player has 20 or more lore, that player wins the game.
            1.8.1.2. If a player’s turn ends with no cards in their deck, that player loses the game.
            1.8.1.3. In a multiplayer game, if a player is the last player remaining in the game, that player wins the game.
-           1.8.1.4. If a character or location has damage equal to or greater than its Willpower !, that character or location is banished. A character or
+           1.8.1.4. If a character or location has damage equal to or greater than its Willpower #, that character or location is banished. A character or
                        location banished as a result of taking damage from a character in a challenge since the last game state check or as a result of taking
                        damage from a character’s ability since the last game state check is considered banished by that character.
       1.8.2. Triggered abilities that occur as a result of a game state check are added to the bag when their condition is met but won’t resolve until after
@@ -236,9 +236,9 @@ disneylorcana.com
       1.8.3. After a game state check is completed, the game state check immediately occurs again. If no conditions are met during a game state check,
                 players then resolve any triggered abilities in the bag. Once all triggered abilities have been resolved from the bag and there are no further
                 conditions met from a game state check, the game continues.
-               Example A: A player has a Flounder – Voice of Reason in play, a character with 2 !. Their opponent plays Fire the Cannons!, an action with an
+               Example A: A player has a Flounder – Voice of Reason in play, a character with 2 #. Their opponent plays Fire the Cannons!, an action with an
                effect that reads, “Deal 2 damage to chosen character,” and chooses Flounder as the action’s effect resolves. Immediately after the action has
-               finished resolving, a game state check occurs. Flounder has 2 damage counters on him and 2 !. Flounder has damage equal to or greater than
+               finished resolving, a game state check occurs. Flounder has 2 damage counters on him and 2 #. Flounder has damage equal to or greater than
                his Willpower, meeting the condition in section 1.8.1.4 and is banished as a result. Another game state check occurs. No other conditions have
                been met, so the game continues.
                Example B: A player has a Pride Lands – Pride Rock and a Flounder – Voice of Reason in play. Pride Lands has an ability We Are All Connected
@@ -246,8 +246,8 @@ disneylorcana.com
 
 disneylorcana.com
 ©Disney                                                                      6
-               that reads, “Characters get +2 ! while here.” Flounder has 2 damage counters on him and is also at the location, giving him a total of 4 !. The
-               opponent has a Lumiere – Hotheaded Candelabra in play, a character with 7 #. During the opponents turn, Lumiere challenges Pride Lands,
+               that reads, “Characters get +2 # while here.” Flounder has 2 damage counters on him and is also at the location, giving him a total of 4 #. The
+               opponent has a Lumiere – Hotheaded Candelabra in play, a character with 7 $. During the opponents turn, Lumiere challenges Pride Lands,
                dealing 7 damage to the location. Once the challenge is over, a game state check occurs. Pride Lands has damage equal to or greater than its
                Willpower, meeting the condition in section 1.8.1.5 and is banished as a result. Once the first game state check is completed, another game state
                check occurs. Without Pride Lands in play, Flounder has damage equal to or greater than his Willpower, meeting the condition in section 1.8.1.4
@@ -298,7 +298,7 @@ disneylorcana.com
    1.11. Lore
          1.11.1. A player's lore total is the amount of lore they currently have in the game. A player’s lore total changes as they gain or lose lore. Each player
                   starts the game with 0 lore and can’t have less than that. If a player would lose lore while they have 0 lore, they don’t lose any.
-         1.11.2. Some characters and locations have a Lore value represented by ! on the card. A questing character with a Lore value causes that player to
+         1.11.2. Some characters and locations have a Lore value represented by % on the card. A questing character with a Lore value causes that player to
                   gain the amount of lore represented by the character’s Lore value. If a questing character doesn’t have a Lore value or their Lore value has
                   been reduced to 0, the player doesn’t gain any lore and their lore total doesn’t increase. A location with a Lore value causes that player to
                   gain the amount of lore represented by the location’s Lore value at the start of that player’s turn (see 3.2.2).
@@ -383,7 +383,7 @@ disneylorcana.com
         3.2.2. Set
             3.2.2.1. The active player’s characters that are in play are no longer “drying” and will be able to quest, challenge, or ! to pay costs for
                        activated abilities or song cards.
-            3.2.2.2. The active player gains lore from locations they have in play with a ! characteristic. This isn’t a triggered ability and doesn’t use
+            3.2.2.2. The active player gains lore from locations they have in play with a % characteristic. This isn’t a triggered ability and doesn’t use
                        the bag.
             3.2.2.3. The active player resolves any triggered abilities in the bag that were added during the Set step or the Ready step.
         3.2.3. Draw
@@ -437,7 +437,7 @@ disneylorcana.com
                    put a third card into their inkwell.
           4.2.3.2. Some effects allow a player to put a card directly into their inkwell. These effects aren’t counted toward the once-per-turn limit of the
                    turn action, and the card isn’t revealed as it’s put into the player’s inkwell.
-                   Example: Fishbone Quill is an item that has the ability Go Ahead and Sign, which reads, “! — Put any card from your hand into your
+                   Example: Fishbone Quill is an item that has the ability Go Ahead and Sign, which reads, “!— Put any card from your hand into your
                    inkwell facedown.” A player may use this ability as many times as they can pay its cost. Cards added to the inkwell this way
                    aren’t revealed.
  4.3. Play a Card
@@ -513,7 +513,7 @@ disneylorcana.com
           4.5.1.2. Second, the player checks for any limiters that prevent them from questing (e.g., they aren’t dry yet, they have Reckless, etc.) and
                    pays any costs required to quest with the declared character.
           4.5.1.3. Third, the player exerts the questing character.
-          4.5.1.4. Fourth, the player gains lore equal to the ! of the questing character. This marks the end of the process.
+          4.5.1.4. Fourth, the player gains lore equal to the % of the questing character. This marks the end of the process.
       4.5.2. Once the lore is gained by the questing player, the questing character has “quested.” Triggered abilities that were added to the bag during
              the process can now resolve.
       4.5.3. Once all effects have been resolved, the quest turn action is complete.
@@ -541,8 +541,8 @@ disneylorcana.com
              Challenge Damage step.
       4.6.6. Challenge Damage step
           4.6.6.1. First, calculate the total amount of damage dealt to each character in the challenge, taking into account any current effects that
-                   modify Strength # and damage. Apply Strength # increases and # decreases first, then damage increases and damage reductions.
-                   The resulting number is the final amount of damage that character deals. If a character’s # is negative, it counts as 0 # for the
+                   modify Strength $ and damage. Apply Strength $ increases and $ decreases first, then damage increases and damage reductions.
+                   The resulting number is the final amount of damage that character deals. If a character’s $ is negative, it counts as 0 $ for the
                    purpose of determining how much damage is dealt during the challenge.
           4.6.6.2. Second, all damage is dealt simultaneously. The challenging character deals damage to the character being challenged, and the
                    character being challenged deals damage to the challenging character. Place a number of damage counters equal to the damage dealt
@@ -559,8 +559,8 @@ disneylorcana.com
             4.6.8.1. When a challenging player would choose an exerted opposing character to challenge, the player chooses an opposing location to
                       challenge instead.
             4.6.8.2. Locations aren’t considered ready or exerted and can be challenged at any time during the Main Phase.
-            4.6.8.3. Locations don’t have a # characteristic and don’t deal damage to the challenging character during the Challenge Damage step.
-                      Locations have a ! characteristic and can be dealt damage during the Challenge Damage step.
+            4.6.8.3. Locations don’t have a $ characteristic and don’t deal damage to the challenging character during the Challenge Damage step.
+                      Locations have a # characteristic and can be dealt damage during the Challenge Damage step.
         4.6.9. If a character in a challenge is removed from the challenge for any reason, that challenge ends, following the process below.
             4.6.9.1. First, resolve any remaining triggered abilities in the bag.
             4.6.9.2. Then, effects that apply “while challenging” or “while being challenged” end and the challenge is over. Any abilities that occur “after
@@ -568,7 +568,7 @@ disneylorcana.com
                       Example A: The active player has a ready Stitch – New Dog in play, and an opponent has an exerted Milo Thatch – Clever Cartographer in
                       play. The active player announces Stitch is challenging and chooses Milo Thatch as the character being challenged. There are no
                       requirements or limiters to satisfy. The active player exerts Stitch. No effects trigger as a result of these declarations. Stitch and Milo
-                      Thatch deal damage equal to their Strength # to each other. The active player and the opponent each place damage counters on their
+                      Thatch deal damage equal to their Strength $ to each other. The active player and the opponent each place damage counters on their
                       character. A game state check is performed and no effects trigger from the check. The challenge is over.
 
 
@@ -596,7 +596,7 @@ disneylorcana.com
                     Example B: The active player declares Marshmallow – Persistent Guardian is challenging an opposing Cheshire Cat – Not All There.
                     Cheshire Cat’s ability Lose Something? reads, “When this character is challenged and banished, banish the challenging character.”
                     Marshmallow’s ability Durable reads, “When this character is banished in a challenge, you may return this card to your hand.”
-                    Marshmallow has 5 #, so he deals 5 damage to Cheshire Cat, who has 3 !. When the game state check is made, Cheshire Cat is
+                    Marshmallow has 5 $, so he deals 5 damage to Cheshire Cat, who has 3 #. When the game state check is made, Cheshire Cat is
                     banished. This triggers his ability, and the opponent adds it to the bag. The opponent resolves the ability’s effect, banishing Marshmallow.
                     Because the players haven’t reached the step of the challenge in which effects in the bag are resolved, they’re still in the challenge, and
                     the active player adds Marshmallow’s ability to the bag. The active player can then resolve it, returning Marshmallow to their hand. There
@@ -623,8 +623,8 @@ disneylorcana.com
 
 disneylorcana.com
 ©Disney                                                                     15
-                    Example C: The active player declares Rafiki – Mystical Fighter is challenging an opposing Shenzi – Hyena Pack Leader, who has 0 # and
-                    is at De Vil Manor – Cruella’s Estate. De Vil Manor has no abilities, but Shenzi’s ability I’ll Handle This gives her +3 # while she’s at a
+                    Example C: The active player declares Rafiki – Mystical Fighter is challenging an opposing Shenzi – Hyena Pack Leader, who has 0 $ and
+                    is at De Vil Manor – Cruella’s Estate. De Vil Manor has no abilities, but Shenzi’s ability I’ll Handle This gives her +3 $ while she’s at a
                     location. Rafiki’s ability Ancient Skills reads, “Whenever he challenges a Hyena character, this character takes no damage from the
                     challenge.” After requirements and limiters are checked and Rafiki is exerted, the active player adds this triggered ability to the bag. The
                     active player then resolves that effect. When the challenge proceeds to the Challenge Damage step, Rafiki won’t be dealt any damage.
@@ -769,7 +769,7 @@ disneylorcana.com
 
         5.2.1. Most parts of a card appear on all card types. Specific differences are noted in the entry for the relevant card type.
         5.2.2. Card Cost – The amount of ink needed to play the card.
-        5.2.3. Inkwell Symbol – If this swirl icon, ", is present around the card’s cost, the card can be put into its player’s inkwell. Cards in an inkwell
+        5.2.3. Inkwell Symbol – If this swirl icon, &, is present around the card’s cost, the card can be put into its player’s inkwell. Cards in an inkwell
                represent that player’s ink. Each card counts as 1 ".
         5.2.4. Art – The art isn’t used for gameplay.
         5.2.5. Ink Type – The ink type of the card, identified by the ink type symbol. The colored bar behind the card’s name reflects the associated color. A
@@ -798,10 +798,10 @@ disneylorcana.com
                 looks only at this line and ignores the version (see 5.3.6.1). The whole character or location name must be the same as the specified name to
                 be a match. A character’s or location’s name and version together constitute its full name.
                Example A: Tinker Bell – Peter Pan’s Ally has an ability called Loyal and Devoted that reads, “Your characters named Peter Pan gain Challenger
-               +1. (They get +1 # while challenging.)” If you have Peter Pan – Fearless Fighter and Peter Pan – Never Land Hero in play with this Tinker Bell,
+               +1. (They get +1 $ while challenging.)” If you have Peter Pan – Fearless Fighter and Peter Pan – Never Land Hero in play with this Tinker Bell,
                she gives both versions of Peter Pan Challenger +1.
-               Example B: The Sorcerer’s Hat has the activated ability Incredible Energy which reads, “!, 1 " — Name a card, then reveal the top card of
-               your deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.” If the active player names Lucky for the
+               Example B: The Sorcerer’s Hat has the activated ability Incredible Energy which reads, “!, 1 " — Name a card, then reveal the top card of your
+               deck. If it's the named card, put that card into your hand. Otherwise, put it on the top of your deck.” If the active player names Lucky for the
                effect and then reveals Lucky Dime from the top of their deck, that isn’t a match. Lucky Dime is then put back on the top of that player’s deck.
             5.2.6.1. Some characters have two singular names in addition to their printed name. These characters have an ampersand (&) or something else
                        that’s treated as an ampersand (see 5.2.6.3) between the two names listed on the name line. If an effect looks for a card or character
@@ -817,7 +817,7 @@ disneylorcana.com
                        gain 3 lore. Flotsam is then put back on the top of that player’s deck.
             5.2.6.3. One character, Chip ’n‘ Dale – Recovery Rangers, doesn’t have the ampersand (&) in the card’s name line but is treated as if it did.
         5.2.7. Classifications – Categories that identify some characteristics of the card and may be referenced in card rules.
-               Example: Hades – King of Olympus has an ability called Sinister Plot that reads, “This character gets +1 ! for each other Villain character you
+               Example: Hades – King of Olympus has an ability called Sinister Plot that reads, “This character gets +1 % for each other Villain character you
                have in play.” This ability references cards with the Villain classification.
         5.2.8. Rules Text – Any abilities, effects, and rules text the card has appear in this space, called the text box. Some abilities have a cost to use them.
                 Abilities can be keywords (see section 8) or have a story name. The story name is used for referencing the ability and isn’t used for gameplay.
@@ -855,7 +855,7 @@ disneylorcana.com
       5.3.2. Characters are generally played during a player’s Main Phase (see 3.3).
       5.3.3. Characters don’t list “Character” on their classification line. A card needs to have both characteristics outlined in 5.3.3.1 and 5.3.3.2 to be a
              character. If not, the card isn’t a character.
-          5.3.3.1. A character has a # value and a ! value.
+          5.3.3.1. A character has a $ value and a # value.
           5.3.3.2. A character has at least one of the following listed on the classification line: Alien, Ally, Broom, Captain, Colossus, Deity, Detective,
                    Dinosaur, Dragon, Dreamborn, Entangled, Fairy, Floodborn, Gargoyle, Ghost, Giant, Hero, Hunny, Hyena, Illusion, Inventor, King,
                    Knight, Madrigal, Mentor, Monster, Musketeer, Pirate, Prince, Princess, Puppy, Queen, Racer, Robot, Seven Dwarfs, Sorcerer,
@@ -866,10 +866,10 @@ disneylorcana.com
       5.3.6. Characters have additional parts on their cards.
           5.3.6.1. Version – A card’s version differentiates cards with the same name. A card’s version name applies in all zones. A character’s name and
                    version together constitute its full name.
-          5.3.6.2. Strength # – Primarily, how much damage this character deals in a challenge, though card effects can also reference this value. If a
-                   character would deal damage equal to its # and it has 0 or less #, it deals no damage.
-          5.3.6.3. Willpower ! – Damage on a character is persistent, which means it accumulates over the course of the game. If a character has
-                   damage equal to or higher than their !, they’re banished as a result of a game state check. Card effects can also reference this value.
+          5.3.6.2. Strength $ – Primarily, how much damage this character deals in a challenge, though card effects can also reference this value. If a
+                   character would deal damage equal to its $ and it has 0 or less $, it deals no damage.
+          5.3.6.3. Willpower # – Damage on a character is persistent, which means it accumulates over the course of the game. If a character has
+                   damage equal to or higher than their #, they’re banished as a result of a game state check. Card effects can also reference this value.
           5.3.6.4. Lore Value – How much lore their player gains when the character quests.
  5.4. Actions
       5.4.1. Actions are a type of card that enters play briefly to generate an immediate effect. An action card that’s in the Play zone is an action; in all
@@ -932,8 +932,8 @@ disneylorcana.com
              5.6.5.1. Version – A card’s version differentiates cards with the same name. A card’s version applies in all zones. A location’s name and version
                        together constitute its full name.
              5.6.5.2. Move Cost – The amount of ink needed to move a character to this location.
-             5.6.5.3. Willpower ! – Damage on a location is persistent, which means it accumulates over the course of the game. If a location has damage
-                       equal to or higher than its !, it’s banished as the result of a game state check. Locations don’t have a # characteristic and don’t deal
+             5.6.5.3. Willpower # – Damage on a location is persistent, which means it accumulates over the course of the game. If a location has damage
+                       equal to or higher than its #, it’s banished as the result of a game state check. Locations don’t have a $ characteristic and don’t deal
                        damage in a challenge.
              5.6.5.4. Lore Value – How much lore its player gains at the start of their turn during the Set step.
         5.6.6. If there are characters at a location and that location leaves play, the characters remain in play and are no longer at a location.
@@ -959,11 +959,11 @@ disneylorcana.com
         6.1.3. All choices for effects are made as the effect resolves. If resolving an effect allows a player to choose “up to” N of something, the player
                  can’t pick the same choice for more than one iteration of N. If the resolving effect includes multiple instances of the word “choose” or
                  “chosen,” then the same choice can be made for each instance. “Up to” includes 0 as a legal choice.
-                Example A: Painting the Roses Red is a song action that has the effect, “Up to 2 chosen characters get -1 # this turn. Draw a card.” The same
+                Example A: Painting the Roses Red is a song action that has the effect, “Up to 2 chosen characters get -1 $ this turn. Draw a card.” The same
                 character can’t be chosen twice. The card’s player could also choose 0 characters.
                 Example B: The Queen – Commanding Presence has an ability called Who Is the Fairest? that reads, “Whenever this character quests, chosen
-                opposing character gets -4 # this turn and chosen character gets +4 # this turn.” The same character can be chosen for both the -4 # and
-                the +4 # modifiers since the ability has two separate instances of the word “chosen.”
+                opposing character gets -4 $ this turn and chosen character gets +4 $ this turn.” The same character can be chosen for both the -4 $ and
+                the +4 $ modifiers since the ability has two separate instances of the word “chosen.”
              6.1.3.1. Some effects include requirements and/or limiters that influence what choices or selections can be made. A requirement sets criteria
                        that must be met in order for the effect to resolve, and a limiter sets restrictions on a requirement. As an effect resolves, it must meet
                        all such requirements without violating any limiters (see 6.7.3).
@@ -974,8 +974,8 @@ disneylorcana.com
 
   disneylorcana.com
   ©Disney                                                                          23
-                       Example B: “Banish chosen character with 5 or more #” is an effect with a choice requirement (chosen character) and a limiter (with 5
-                       or more #).
+                       Example B: “Banish chosen character with 5 or more $” is an effect with a choice requirement (chosen character) and a limiter (with 5
+                       or more $).
         6.1.4. If an effect contains the word “may,” the player whose ability generated the effect can choose whether they want it to happen as the effect
                 resolves. If the player chooses not to have it happen, that effect resolves with no effect, and no part of the “you may” sentence is performed.
                 If an ability or action has multiple effects separated by periods, and one of them contains the word “may,” the choice applies only to that
@@ -1002,7 +1002,7 @@ disneylorcana.com
         6.1.6. If an ability or effect refers to “another” or “other,” it refers to any card that effect or ability doesn’t originate from or one that wasn’t already
                 selected by the ability.
                Example: Mulan – Imperial Soldier has an ability called Lead by Example that reads, “During your turn, whenever this character banishes
-               another character in a challenge, your other characters get +1 ! this turn.” Mulan must banish a character other than herself, and she doesn’t
+               another character in a challenge, your other characters get +1 % this turn.” Mulan must banish a character other than herself, and she doesn’t
                gain the benefit of this ability herself because it applies only to your “other” characters.
         6.1.7. If an ability or effect instructs a player to play a card “for free” as a part of resolving that ability or effect, the player ignores all costs and
                 can’t choose to play that card by paying any other alternate cost (see 4.3.2.2). If playing a card this way causes any triggered abilities to
@@ -1083,24 +1083,24 @@ disneylorcana.com
             6.1.13.4. This Turn – An effect with this duration applies from the moment it's generated until that player’s End-of-Turn Phase, immediately prior
                       to the turn passing to the next player. Sometimes these effects have a condition or requirement to meet for the stated duration of “this
                       turn” to apply.
-                      Example: Good Job! is an action that has the effect, “Chosen character gets +1 ! this turn.” As soon as the action resolves the effect, the
-                      character gets the +1 ! for the rest of the turn. The character loses the +1 ! during the player’s End-of-Turn Phase.
+                      Example: Good Job! is an action that has the effect, “Chosen character gets +1 % this turn.” As soon as the action resolves the effect, the
+                      character gets the +1 % for the rest of the turn. The character loses the +1 % during the player’s End-of-Turn Phase.
             6.1.13.5. While – An ability with this duration applies only if the defined condition is true. If the defined condition is false, the ability doesn’t
                       apply. A variation of this duration, “while here,” can appear on locations.
                       Example A: Noi – Orphaned Thief has an ability called Hide and Seek that reads, “While you have an item in play, this character gains
                       Resist +1 and Ward. (Damage dealt to this character is reduced by 1. Opponents can't choose this character except to challenge.)” As long
                       as the player who has Noi in play also has an item in play, the ability applies. Once the item leaves play, Noi’s ability no longer applies.
-                      Example B: Pride Lands – Pride Rock has an ability called We Are All Connected that reads, “Characters get +2 ! while here.” If a
-                      character is at this location, they get the +2 !. If the location leaves play or the character moves to another location, the character
-                      immediately loses the Willpower ! gained from the ability.
+                      Example B: Pride Lands – Pride Rock has an ability called We Are All Connected that reads, “Characters get +2 # while here.” If a
+                      character is at this location, they get the +2 #. If the location leaves play or the character moves to another location, the character
+                      immediately loses the Willpower # gained from the ability.
             6.1.13.6. Some abilities and effects use a combination of the durations above. Such an ability or effect is active and functional only as long as all
                       durations apply and the conditions of those durations are true. If any of those durations don’t apply or any of their conditions are false,
                       the ability or effect doesn’t apply.
                       Example A: Jafar – Striking Illusionist has an ability called Power Beyond Measure that reads, “During your turn, while this character is
                       exerted, whenever you draw a card, gain 1 lore.” The triggered ability happens only if it’s the turn of the player who has Jafar in play and if
                       Jafar is exerted. If either condition is false—if Jafar is ready, for example—the triggered ability won’t happen and isn’t added to the bag.
-                      Example B: Thebes – The Big Olive is a location that has an ability called If You Can Make It Here°.°.°. . It reads, “During your turn,
-                      whenever a character banishes another character in a challenge while here, gain 2 lore.” The triggered ability happens only if it’s the turn
+                      Example B: Thebes – The Big Olive is a location that has an ability called If You Can Make It Here... . It reads, “During your turn, whenever
+                      a character banishes another character in a challenge while here, gain 2 lore.” The triggered ability happens only if it’s the turn
 
 
 
@@ -1156,7 +1156,7 @@ disneylorcana.com
           6.2.7.2. Delayed Triggered Abilities – Triggered abilities generated to resolve at a specific moment later in the game. This moment is specified
                      in the condition of the delayed triggered ability. The ability exists outside of the bag until that condition is met. When the condition is
                      met, the delayed triggered ability is added to the bag for resolution.
-                     Example: Candy Drift is an action that reads, “Draw a card. Chosen character of yours gets +5 # this turn. At the end of your turn,
+                     Example: Candy Drift is an action that reads, “Draw a card. Chosen character of yours gets +5 $ this turn. At the end of your turn,
                      banish them.” When the action resolves, it generates a delayed triggered ability: “At the end of your turn, banish them.” The triggered
                      ability exists outside of the bag until the step of the End-of-Turn Phase where end-of-turn triggered abilities occur (see 3.4.1.1). At that
                      point, the triggered ability is added to the bag and resolves.
@@ -1201,17 +1201,17 @@ disneylorcana.com
                       affected by the applied static ability but that entered play after the effect resolved aren’t affected. These kinds of effects normally
                       apply an ability or modifier to the affected cards on resolution.
                       Example: Kida – Protector of Atlantis has an ability called Perhaps We Can Save Our Future that reads, “When you play this character, all
-                      characters get -3 # until the start of your next turn.” When the triggered ability resolves, a static ability is generated that gives all
-                      characters -3 # until the start of the next turn. Because the effect applies to characters as it resolves, a character played after the static
+                      characters get -3 $ until the start of your next turn.” When the triggered ability resolves, a static ability is generated that gives all
+                      characters -3 $ until the start of the next turn. Because the effect applies to characters as it resolves, a character played after the static
                       ability was generated isn’t affected by the static ability.
             6.4.2.3. A continuous static ability generated from a card that’s in play affects all cards in play the ability can affect. These static abilities last
                       for as long as the card generating them is in play. If a card generating a static ability leaves play, its effect ends as soon as the card is
                       removed from the Play zone, and all affected cards lose the effect immediately. If a card that would be affected by a continuous static
                       ability generated from a card in play is played after that ability has resolved, the card has that ability’s effect as it comes into play.
                       Example: A player has Weight Set and Grumpy – Bad-Tempered in play. Weight Set has an ability called Training that reads, “Whenever
-                      you play a character with 4 # or more, you may pay 1 " to draw a card.” Grumpy has an ability called There's Trouble A-Brewin' that
-                      reads, “Your other Seven Dwarfs characters get +1 #.” The player plays Happy – Good-Natured, which has 3 #. Happy comes into play
-                      with the static ability from Grumpy applying to him and has a # value of 4. Because Happy is played with 4 #, the triggered ability on
+                      you play a character with 4 $ or more, you may pay 1 " to draw a card.” Grumpy has an ability called There's Trouble A-Brewin' that
+                      reads, “Your other Seven Dwarfs characters get +1 $.” The player plays Happy – Good-Natured, which has 3 $. Happy comes into play
+                      with the static ability from Grumpy applying to him and has a $ value of 4. Because Happy is played with 4 $, the triggered ability on
                       Weight Set occurs.
         6.4.3. For some static abilities, determining whether their effect applies depends on checking to see if a condition within the text of the ability is
                true or false. These abilities are known as conditional static abilities. To determine if a conditional static ability is active, identify the word
@@ -1247,8 +1247,8 @@ disneylorcana.com
       6.5.1. Some effects are considered replacement effects. These effects wait for the stated condition to occur and then partially or completely
               replace the event as it resolves.
           6.5.1.1. Abilities that include the word “instead” are the most common type of replacement effect.
-                    Example: Stolen Scimitar’s ability Slash reads, “! — Chosen character gets +1 # this turn. If a character named Aladdin is chosen, he
-                    gets +2 # instead.”
+                    Example: Stolen Scimitar’s ability Slash reads, “! — Chosen character gets +1 $ this turn. If a character named Aladdin is chosen, he
+                    gets +2 $ instead.”
       6.5.2. An event is the resolution of an effect as a whole. If an event contains multiple effects, all of those effects are considered to be part of the
               same event.
              Example: Let the Storm Rage On is a song that reads, “Deal 2 damage to chosen character. Draw a card.” While there are two effects in the
@@ -1256,10 +1256,10 @@ disneylorcana.com
              is completely replaced.
       6.5.3. For an event to be replaced, the replacement effect must exist and be able to apply to the event when it would happen. Replacement effects
               can’t replace an event that has already happened.
-             Example: Snuggly Duckling – Disreputable Pub has an ability called Routine Ruckus that reads, “Whenever a character with 3 # or more
-             challenges another character while here, gain 1 lore. If the challenging character has 6 # or more, gain 3 lore instead.” When a character
+             Example: Snuggly Duckling – Disreputable Pub has an ability called Routine Ruckus that reads, “Whenever a character with 3 $ or more
+             challenges another character while here, gain 1 lore. If the challenging character has 6 $ or more, gain 3 lore instead.” When a character
              challenges another character while at this location, the triggered ability is added to the bag and resolves. On resolution, the replacement
-             condition “If the challenging character has 6 # or more” is checked to see if it’s met. If the stated condition isn’t met, the replacement effect
+             condition “If the challenging character has 6 $ or more” is checked to see if it’s met. If the stated condition isn’t met, the replacement effect
              doesn’t happen, even if the stated condition would be true later in the challenge.
       6.5.4. When an event is replaced, it never happens. Instead, a modified event occurs. This modified event may trigger abilities or be affected by
               other replacement effects. Because the first event is replaced, abilities that would have triggered from it don’t.
@@ -1298,61 +1298,61 @@ disneylorcana.com
               Example: The active player has a Rapunzel – Ready for Adventure, a Flounder – Voice of Reason, and 2 copies of Heihei – Boat Snack in play.
               Rapunzel has a triggered ability called Act of Kindness that reads, “Whenever one of your characters is chosen for Support, until the start of
               your next turn, the next time they would be dealt damage they take no damage instead.” The active player quests with a Heihei and chooses to
-              add his # to Flounder’s # with Support, causing Rapunzel’s triggered ability to occur. The ability is added to and resolves from the bag,
+              add his $ to Flounder’s $ with Support, causing Rapunzel’s triggered ability to occur. The ability is added to and resolves from the bag,
               creating a replacement effect: The next time Flounder would be dealt damage, he takes no damage instead. The active player quests with the
-              other Heihei and chooses to add his # to Flounder’s # with Support. Rapunzel’s triggered ability is again added to and resolves from the bag,
+              other Heihei and chooses to add his $ to Flounder’s $ with Support. Rapunzel’s triggered ability is again added to and resolves from the bag,
               creating another instance of the same replacement effect.
               The active player exerts Flounder to challenge an opposing exerted character. During the Challenge Damage step, damage is dealt to each
-              character in the challenge, resulting in the following event: The challenged character deals damage equal to their # to Flounder. Flounder
+              character in the challenge, resulting in the following event: The challenged character deals damage equal to their $ to Flounder. Flounder
               would be dealt damage, so the active player attempts to apply the two instances of the same replacement effect. Because two or more
               instances of the same replacement effect can’t apply to the same event, the active player chooses one to apply, resulting in this event: The
               challenged opposing character deals no damage to Flounder. The remaining instance of the replacement effect can’t apply and ceases to exist.
  6.6. Ability Modifiers
-      6.6.1. Some abilities and effects can modify a characteristic of a character or location in play, such as # or !.
+      6.6.1. Some abilities and effects can modify a characteristic of a character or location in play, such as $ or %.
           6.6.1.1. A modifier applies to a card continuously, either for a fixed length of time or for as long as the card generating the modifier is in play.
                     Whenever a modifier applies to a card’s characteristic, that characteristic changes immediately. This process doesn’t use the bag (see
                     7.7, “Bag”).
           6.6.1.2. When multiple modifiers apply to a card’s characteristic, they don’t apply in any specific order but all combine to apply together. If a
                     new modifier would apply to a card’s characteristic, it combines with all other modifiers that apply to it.
                    Example A: The active player plays Grand Duke – Advisor to the King. He has an ability called Yes, Your Majesty that reads, “Your Prince,
-                   Princess, King, and Queen characters get +1 #.” The +1 # modifier generated by the ability’s effect applies immediately to the # of all
+                   Princess, King, and Queen characters get +1 $.” The +1 $ modifier generated by the ability’s effect applies immediately to the $ of all
                    characters the active player has in play with the Prince, Princess, King, and Queen classifications. If that player plays another character
-                   with one of these classifications while their Grand Duke is still in play, the new character enters play with the +1 # modifier applied and
+                   with one of these classifications while their Grand Duke is still in play, the new character enters play with the +1 $ modifier applied and
                    keeps that modification until the Grand Duke leaves play.
-                   Example B: The active player has a Heihei – Rambling Rooster in play with 2 # and 2 !. Heihei gets +1 # from an effect. Heihei now
-                   has 3 # and 2 !. Later in the turn, an additional effect gives Heihei -5 #. Heihei’s # is modified to be -2 #. A later effect gives Heihei
-                   +1 #, bringing him to -1 #. Each time a modifier applies to Heihei, all other modifiers that apply to him combine with it at the same time.
+                   Example B: The active player has a Heihei – Rambling Rooster in play with 2 $ and 2 #. Heihei gets +1 $ from an effect. Heihei now
+                   has 3 $ and 2 #. Later in the turn, an additional effect gives Heihei -5 $. Heihei’s $ is modified to be -2 $. A later effect gives Heihei
+                   +1 $, bringing him to -1 $. Each time a modifier applies to Heihei, all other modifiers that apply to him combine with it at the same time.
 
 
 
 disneylorcana.com
 ©Disney                                                                      31
-      6.6.2. If a character has a negative #, it deals no damage during challenges and counts as having a Strength of 0 except for the purpose of
-              applying modifiers to determine its # (see 6.6.1.2).
+      6.6.2. If a character has a negative $, it deals no damage during challenges and counts as having a Strength of 0 except for the purpose of
+              applying modifiers to determine its $ (see 6.6.1.2).
              Example: The active player has a Yokai – Scientific Supervillain and a Microbots in play. Yokai has a triggered ability called Technical Gain that
-             reads, “Whenever this character quests, draw a card for each opposing character with 0 #.” Microbots has a triggered ability called Inspired
-             Tech that reads, “When you play this item, chosen character gets -1 # this turn for each item named Microbots you have in play.” The opponent
-             has a character with 1 # and 1 ! in play. The active player plays a second Microbots. When resolving the triggered ability, the active player
-             chooses the opponent’s character, who immediately gets -2 # and now has -1 # and 1 !. The active player then quests with Yokai. Because
-             the opposing character’s # is negative, they count as having a # of 0 when resolving Yokai’s triggered ability, and the active player draws 1
-             card. Even though the character’s # counts as 0 for the purpose of resolving Yokai’s effect, it isn’t changed to 0; they still have a # of -1.
-      6.6.3. If a character or location has a negative Lore value !, it counts as having a Lore value of 0 except for the purpose of applying modifiers to
-              determine its ! (see 6.6.1.2).
-             Example: The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn has 4 ! and an
-             ability called One Last, Big Score that reads, “This character gets -1 ! for each card in your opponents’ hands.” Because the opponent has 5
+             reads, “Whenever this character quests, draw a card for each opposing character with 0 $.” Microbots has a triggered ability called Inspired
+             Tech that reads, “When you play this item, chosen character gets -1 $ this turn for each item named Microbots you have in play.” The opponent
+             has a character with 1 $ and 1 # in play. The active player plays a second Microbots. When resolving the triggered ability, the active player
+             chooses the opponent’s character, who immediately gets -2 $ and now has -1 $ and 1 #. The active player then quests with Yokai. Because
+             the opposing character’s $ is negative, they count as having a $ of 0 when resolving Yokai’s triggered ability, and the active player draws 1
+             card. Even though the character’s $ counts as 0 for the purpose of resolving Yokai’s effect, it isn’t changed to 0; they still have a $ of -1.
+      6.6.3. If a character or location has a negative Lore value %, it counts as having a Lore value of 0 except for the purpose of applying modifiers to
+              determine its % (see 6.6.1.2).
+             Example: The active player has a Flynn Rider – His Own Biggest Fan in play, and their opponent has 5 cards in their hand. Flynn has 4 % and an
+             ability called One Last, Big Score that reads, “This character gets -1 % for each card in your opponents’ hands.” Because the opponent has 5
              cards in their hand, a modifier of -5 applies to Flynn’s Lore value of 4 (-1 for each of the 5 cards). Flynn now has a new Lore value of -1. Because
              Flynn’s Lore value is negative, if the player exerts him to quest, Flynn counts as having a Lore value of 0 and the player gains 0 lore. This doesn’t
              change Flynn’s actual Lore value to 0, however. Flynn still has a Lore value of -1 until the number of cards in the opponent’s hand changes or
              another modifier is applied to his Lore value.
       6.6.4. If an effect says a characteristic “can’t be reduced below” a specified value, that characteristic’s value can’t be less than the specified value
               after modifiers to determine that characteristic’s value have been applied.
-              Example: The active player has an Elisa Maza – Transformed Gargoyle in play with 4 # and 4 !. She has a static ability called Forever Strong
-              that reads, “Your characters’ # can’t be reduced below their printed value.” Elisa gets -4 # until the end of her player’s turn from an effect.
-              After modifiers are applied, Elisa has a # value of 0, but because that value is less than her printed value, her # is 4. Later in the turn, Elisa
-              gets +1 # until the end of her player’s turn from another effect. After both modifiers are applied, Elisa has a # value of 1, but because this
-              modified # value is still lower than her printed value, her # is 4. Later in the turn, Elisa gets +4 # until the end of her player’s turn from one
-              last effect. After modifiers are applied, Elisa has a # value of 5. Since this modified # value isn’t lower than her printed # value of 4, Elisa
-              has 5 #.
+              Example: The active player has an Elisa Maza – Transformed Gargoyle in play with 4 $ and 4 #. She has a static ability called Forever Strong
+              that reads, “Your characters’ $ can’t be reduced below their printed value.” Elisa gets -4 $ until the end of her player’s turn from an effect.
+              After modifiers are applied, Elisa has a $ value of 0, but because that value is less than her printed value, her $ is 4. Later in the turn, Elisa
+              gets +1 $ until the end of her player’s turn from another effect. After both modifiers are applied, Elisa has a $ value of 1, but because this
+              modified $ value is still lower than her printed value, her $ is 4. Later in the turn, Elisa gets +4 $ until the end of her player’s turn from one
+              last effect. After modifiers are applied, Elisa has a $ value of 5. Since this modified $ value isn’t lower than her printed $ value of 4, Elisa
+              has 5 $.
  6.7. Resolving Cards and Effects
       6.7.1. To resolve a played card, the player takes the following actions immediately after the card is considered to have been “played” (see 4.3.3),
               dependent on the type of card being resolved.
@@ -1466,8 +1466,8 @@ disneylorcana.com
               order of cards in their decks during a game. Players can count the remaining cards in any player’s deck at any time.
       7.2.3. If cards are added to the top or bottom of a deck “in any order” and any of the cards were faceup, the order in which the faceup cards are
               added to the deck must be known by all players.
-             Example: A player has two shifted characters in play, each with 2 cards total in a stack and each with 2 #. Their opponent plays Under The Sea,
-             a song with an effect that reads, “Put all opposing characters with 2 # or less on the bottom of their players’ decks in any order.” The player
+             Example: A player has two shifted characters in play, each with 2 cards total in a stack and each with 2 $. Their opponent plays Under The Sea,
+             a song with an effect that reads, “Put all opposing characters with 2 $ or less on the bottom of their players’ decks in any order.” The player
              can freely order and mix the individual stacks of cards around before placing them on the bottom of the deck. Because all of these cards were
              faceup and thus known to all players, both the player and the opponent know the order the cards are placed in.
           7.2.3.1. If those faceup cards are in one or more stacks, and/or any of those stacks contain both faceup and facedown cards, any of the cards in
@@ -1581,8 +1581,8 @@ disneylorcana.com
         8.3.3. The second is a static ability that creates a challenging limiter. This ability means “If an opponent would choose one of your characters to
                 challenge, they must choose this character or another character with Bodyguard if able.”
    8.4. Boost
-        8.4.1. The Boost keyword represents an activated ability with a specified duration. Boost N " means “Once during your turn, you may pay N "
-                to put the top card of your deck facedown under this card.”
+        8.4.1. The Boost keyword represents an activated ability with a specified duration. Boost N " means “Once during your turn, you may pay N " to
+                put the top card of your deck facedown under this card.”
         8.4.2. No player can look at the front of a card that has been put facedown under another card at any time, not even their own.
         8.4.3. If a card is under another card, it’s not considered to be in play. Putting a card under another card with Boost doesn’t count as playing
                 that card.
@@ -1593,8 +1593,8 @@ disneylorcana.com
   ©Disney                                                                      37
  8.5. Challenger
        8.5.1. The Challenger keyword represents a static ability that functions while a character is challenging. Challenger +N means “While this
-               character is challenging, they get +N #.” Because this is a +N ability, it stacks with other Challenger effects.
-       8.5.2. A character with Challenger doesn’t gain +N # if they’re being challenged.
+               character is challenging, they get +N $.” Because this is a +N ability, it stacks with other Challenger effects.
+       8.5.2. A character with Challenger doesn’t gain +N $ if they’re being challenged.
  8.6. Evasive
        8.6.1. The Evasive keyword represents a static ability that creates a challenging limiter. Evasive means “This [Type] can’t be challenged except by
                a character with Evasive.”
@@ -1658,8 +1658,8 @@ disneylorcana.com
          8.12.3. Characters that have the triggered ability condition “Whenever this character sings a song” and are one of the characters singing the song
                  with Sing Together, the condition is met, and the triggered ability is added to the bag to resolve.
    8.13. Support
-         8.13.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this character’s # to
-                 another chosen character’s # this turn.”
+         8.13.1. The Support keyword represents a triggered ability. Support means “Whenever this character quests, you may add this character’s $ to
+                 another chosen character’s $ this turn.”
    8.14. Vanish
          8.14.1. The Vanish keyword represents a triggered ability. Vanish means “When this character is chosen by an opponent as part of resolving an
                  action’s effect, banish this character.”
@@ -1694,7 +1694,7 @@ disneylorcana.com
                  added to the bag by the team as a whole, and the order in which they’re resolved is chosen by the team. Otherwise, resolving abilities and
                  effects follows the rules listed in section 7.7, “Bag.”
                 Example: Three players are members of the same team taking a simultaneous turn. During the Ready step of the Start-of-Turn Phase, all three
-                players ready their cards at the same time. During the Set step, all three players gain lore from locations they have in play with a !
+                players ready their cards at the same time. During the Set step, all three players gain lore from locations they have in play with a %
                 characteristic and then add any effects or abilities that triggered during the Ready step to the bag at the same time. In the Draw step, all three
                 players draw a card from their decks at the same time.
                 After the game moves into the Main Phase, the three players continue with their simultaneous turn. The first player wants to put a card into their
@@ -1758,7 +1758,7 @@ Glossary
   ability is added to the bag.
   banish/banished
   When a character, item, or location is put from play into their player’s discard pile, either as a result of abilities or effects or—in the case of characters and
-  locations—when the card has damage equal to or greater that its Willpower !. A character, item, or location put into their player’s discard this way is
+  locations—when the card has damage equal to or greater that its Willpower #. A character, item, or location put into their player’s discard this way is
   considered to be banished.
   card type
   The type that each card has, such as character, action, item, or location. A card’s type determines the rules for how to play it.
@@ -1770,7 +1770,7 @@ disneylorcana.com
 ©Disney                                                                       41
   challenge
   When a player exerts one of their dry characters and chooses an exerted opposing character or an opposing location. Each character deals damage equal
-  to their Strength # to the other character or the location.
+  to their Strength $ to the other character or the location.
   challenging/challenged character
   A challenging character is the character declared by the active player to challenge an opposing character or location. A challenged character is the
   opposing character who is being challenged. Both the challenging and challenged characters are considered “in a challenge” for the duration of the
@@ -1778,7 +1778,7 @@ disneylorcana.com
   challenging/challenged player
   A challenging player is the player who declared a challenging character. A challenged player is the player whose character is challenged.
   character
-  A card that has at least one of the classifications listed in 5.3.3.2 on its classification line and also has both # and ! characteristics. A character that’s
+  A card that has at least one of the classifications listed in 5.3.3.2 on its classification line and also has both $ and # characteristics. A character that’s
   played is put into the Play zone and remains there until it’s banished or removed from play by a game effect. A player may have multiple copies of a
   character with the same name in their deck but can’t have more than 4 copies with the same full name.
   classification
@@ -1795,7 +1795,7 @@ disneylorcana.com
   What is required in order to play a card or use an activated ability. This may be an ink cost or an alternate cost such as exerting a character. An activated
   ability can’t be used if its full cost can’t be paid.
   damage
-  Damage on a character or location is represented by damage counters and counts against its Willpower !. Damage is dealt by characters in challenges
+  Damage on a character or location is represented by damage counters and counts against its Willpower #. Damage is dealt by characters in challenges
   and by some effects. When a card with damage moves from in play to any other zone, the damage ceases to exist.
   damage counter
   A counter put on a character or location card to show how much damage it has. A single damage counter normally represents 1 damage; any damage
@@ -1827,9 +1827,9 @@ disneylorcana.com
   dry
   A character that was in play at the start of its player’s current turn is considered to be dry.
   drying
-  A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or ! to pay any
-  cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect while the character is
-  drying. Drying characters may still be affected by card effects.
+  A character that was played after the start of its player’s current turn is considered to be drying. Drying characters can’t quest, challenge, or ! to pay
+  any cost. Non-activated abilities on drying characters, including abilities that trigger “When you play this character,” are still in effect while the character
+  is drying. Drying characters may still be affected by card effects.
   duration
   A specified length of in-game time that describes how long an ability or effect applies.
   effect
@@ -1851,7 +1851,7 @@ disneylorcana.com
   A triggered ability generated to exist for a specified duration.
   for free
   An effect that allows a player to play a card or use an activated ability without having to pay its listed ink cost. A player who plays a card or uses and
-  activated ability for free can’t choose any other alternate cost for playing the card or activating the ability. An activated ability for free must still pay !.
+  activated ability for free can’t choose any other alternate cost for playing the card or activating the ability. An activated ability for free must still pay #.
 
 
 disneylorcana.com
@@ -1894,7 +1894,7 @@ disneylorcana.com
   An ability or abilities represented by a short, bolded name that’s the same wherever the ability appears. Examples of keyword abilities include Bodyguard,
   Challenger, Evasive, Reckless, and Rush.
   limiter
-  Something that restricts the pool of options for an effect. For example, “Banish chosen character with 5 # or less” includes a limiter of "5 # or less" for
+  Something that restricts the pool of options for an effect. For example, “Banish chosen character with 5 $ or less” includes a limiter of "5 $ or less" for
   the "chosen character" requirement.
 
 
@@ -1902,24 +1902,24 @@ disneylorcana.com
 ©Disney                                                                       44
   location
   A card that lists “Location” on its classification line. When a player plays a location, they put it in their Play zone. Locations have a cost to play, a move
-  cost to move a character to the location, and Willpower !. Locations can be dealt damage and can be challenged; when a location has damage equal to
-  or greater than its Willpower ! that location is banished. A location may have a Lore value !, which is how much lore its player gains at the start of their
+  cost to move a character to the location, and Willpower #. Locations can be dealt damage and can be challenged; when a location has damage equal to
+  or greater than its Willpower # that location is banished. A location may have a Lore value %, which is how much lore its player gains at the start of their
   turn during the Set step. If a location has an activated ability, that ability can be used the same turn the location comes into play. A player may have
   multiple copies of a location with the same name in their deck but can’t have more than 4 copies with the same full name.
   lore
   The resource players race to gain as they play. The first player to reach 20 lore wins the game.
-  Lore value !
+  Lore value %
   A card characteristic that indicates the amount of lore its player can gain from it each turn. On a character, this lore is gained by questing. On a location,
   this lore is gained at the start of the player’s turn during the Set step.
   Main Phase
   The second phase of the turn structure, when a player can take any of the Main Phase turn actions (see 3.3, “Main Phase”).
-  move cost {M}
+  move cost '
   The cost to move one of your characters to one of your locations.
   multiplayer game
   A game played with three or more players.
   name
   A card’s name appears in large text above its classification line. On actions, items, and locations, the name is located in the center of the card. On
-  characters, the name is located on the left of the card, across from its # and !. A character’s or location’s name and version together make up the
+  characters, the name is located on the left of the card, across from its $ and #. A character’s or location’s name and version together make up the
   card’s full name.
   on top
   When a card has 1 or more cards under it.
@@ -1950,7 +1950,7 @@ disneylorcana.com
   public zone
   A zone where the cards are publicly known. Players can look at or count the cards in any public zone at any time.
   quest
-  When a player exerts a character to gain lore equal to that character’s Lore value !. A character can’t quest the same turn it’s played.
+  When a player exerts a character to gain lore equal to that character’s Lore value %. A character can’t quest the same turn it’s played.
   ready
   verb. To put a card in the ready position (upright). A player readies all of their exerted cards in the Ready step of their turn.
   adjective. A card that’s currently in the ready position.
@@ -1977,7 +1977,7 @@ disneylorcana.com
   “[A]. If you do, [B].”
   Set step
   The second step of the Start-of-Turn Phase of a player’s turn, when characters that are in play are no longer drying and can quest, challenge, or ! to pay
-  costs for activated abilities or song cards. During this step, the active player gains lore from locations they have in play with a ! characteristic. Effects
+  costs for activated abilities or song cards. During this step, the active player gains lore from locations they have in play with a % characteristic. Effects
   that occur “At the start of your turn” and abilities that triggered during the Ready step are added to the bag, then all triggers are resolved.
   shuffle
   To randomize the order of cards in a deck.
@@ -2008,8 +2008,8 @@ disneylorcana.com
   static ability
   An effect that could alter characteristics of a card, game rule, or game state. A static ability is continuously active, either for a fixed length of time or for
   as long as the card generating the effect is in play.
-  Strength #
-  The amount of damage a character deals in a challenge. A character’s Strength # may be referenced in abilities or effects.
+  Strength $
+  The amount of damage a character deals in a challenge. A character’s Strength $ may be referenced in abilities or effects.
   take/took damage
   Whenever damage is (or was) dealt to, put on, or moved to a character or location.
   triggered ability
@@ -2035,7 +2035,7 @@ disneylorcana.com
   version
   A descriptor that can differentiate cards with the same name for purposes of building a deck. A character’s or location’s name and version together
   constitute the card’s full name.
-  Willpower !
+  Willpower #
   How much damage it takes to banish a character or location.
   zone
   A physical or non-physical space used for gameplay purposes. Whether a zone is public or is private determines what information can be shared about the

@@ -568,7 +568,7 @@ disneylorcana.com
                      (ad esempio, non è ancora asciutto, ha Attaccabrighe, ecc.) e paga eventuali costi richiesti per andare all'avventura con il
                      personaggio dichiarato.
           4.5.1.3. Terzo, il giocatore impegna il personaggio che va all'avventura.
-          4.5.1.4. Quarto, il giocatore ottiene leggenda pari al ! del personaggio che ha mandato all'avventura. Questo segna la fine del processo.
+          4.5.1.4. Quarto, il giocatore ottiene leggenda pari al % del personaggio che ha mandato all'avventura. Questo segna la fine del processo.
       4.5.2. Una volta che il giocatore che va all'avventura ha ottenuto la leggenda, il personaggio mandato all'avventura è "andato all'avventura". Le
               abilità innescate che sono state aggiunte al sacchetto durante il processo possono ora essere risolte.
       4.5.3. Una volta risolti tutti gli effetti, l'azione di turno di andare all'avventura è completata.
@@ -845,7 +845,7 @@ disneylorcana.com
        5.2.1. La maggior parte delle parti di una carta appare su tutti i tipi di carta. Le differenze specifiche sono indicate nella voce relativa al tipo di carta
               in questione.
        5.2.2. Costo della carta – La quantità di inchiostro necessaria per giocare la carta.
-       5.2.3. Icona Calamaio – Se questa icona a forma di vortice, %, è presente intorno al costo della carta, quella carta può essere aggiunta al calamaio
+       5.2.3. Icona Calamaio – Se questa icona a forma di vortice, &, è presente intorno al costo della carta, quella carta può essere aggiunta al calamaio
               del suo giocatore. Le carte nel calamaio rappresentano l'inchiostro di quel giocatore. Ogni carta conta come 1 ".
        5.2.4. Illustrazione – L'illustrazione non influisce sullo svolgimento del gioco.
 
@@ -901,7 +901,7 @@ disneylorcana.com
 disneylorcana.com
 ©Disney                                                                        22
        5.2.7. Classificazioni – Categorie che identificano alcune caratteristiche della carta e che possono essere citate nelle regole della carta.
-              Esempio: Ade – Re dell'Olimpo ha un'abilità chiamata Piano Malvagio, che recita: "Questo personaggio riceve +1 ! per ogni altro personaggio
+              Esempio: Ade – Re dell'Olimpo ha un'abilità chiamata Piano Malvagio, che recita: "Questo personaggio riceve +1 % per ogni altro personaggio
               Cattivo che hai in gioco." Questa abilità fa riferimento alle carte con la classificazione Cattivo.
        5.2.8. Testo delle Regole – Tutte le abilità, gli effetti e il testo delle regole della carta appaiono in questo spazio, chiamato casella di testo. Alcune
                abilità hanno un costo per essere utilizzate. Le abilità possono essere parole chiave (vedere sezione 8) o avere un nome narrativo. Il nome
@@ -924,7 +924,7 @@ disneylorcana.com
 
 
 
-                            Comune Non comune Rara                Super Rara Leggendaria Epica             Incantata     Iconica       Promo
+                            Comune Non comune Rara                Super Rara Leggendaria Epica             Incantata      Iconica      Promo
 
 
 
@@ -1102,7 +1102,7 @@ disneylorcana.com
        6.1.6. Se un'abilità o un effetto fa riferimento a "un altro" o "altri", si riferisce a qualsiasi carta da cui non proviene l'effetto o l'abilità, oppure che
                non è stata già selezionata dall'abilità.
               Esempio: Mulan – Soldato Imperiale ha un'abilità chiamata Essere d'Esempio, che recita: "Durante il tuo turno, ogni volta che questo
-              personaggio esilia un altro personaggio in una sfida, i tuoi altri personaggi ricevono +1 ! per questo turno." Mulan deve esiliare un personaggio
+              personaggio esilia un altro personaggio in una sfida, i tuoi altri personaggi ricevono +1 % per questo turno." Mulan deve esiliare un personaggio
               diverso da sé stessa e non ottiene il beneficio di questa abilità perché si applica solo agli "altri" personaggi.
        6.1.7. Se un'abilità o un effetto istruisce un giocatore a giocare una carta "gratis" come parte della risoluzione dell'abilità o dell'effetto, il giocatore
                ignora tutti i costi e non può scegliere di giocare quella carta pagando qualunque altro costo alternativo (vedere 4.3.2.2). Se giocare una carta
@@ -1195,8 +1195,8 @@ disneylorcana.com
             6.1.13.4. Per questo turno – Un effetto con questa durata si applica dal momento in cui viene generato fino alla Fase Finale di quel giocatore,
                       immediatamente prima che il turno passi al giocatore successivo. A volte questi effetti hanno una condizione o un requisito da
                       soddisfare affinché la durata indicata di "per questo turno" si applichi.
-                      Esempio: Ben fatto! è un'azione che ha l'effetto "Un personaggio a tua scelta riceve +1 ! per questo turno". Non appena l'azione risolve il
-                      suo effetto, il personaggio ottiene +1 ! per il resto del turno. Il personaggio perde il +1 ! durante la Fase Finale del giocatore.
+                      Esempio: Ben fatto! è un'azione che ha l'effetto "Un personaggio a tua scelta riceve +1 % per questo turno". Non appena l'azione risolve il
+                      suo effetto, il personaggio ottiene +1 % per il resto del turno. Il personaggio perde il +1 % durante la Fase Finale del giocatore.
             6.1.13.5. Mentre – Un'abilità con questa durata si applica solo se la condizione definita è vera. Se la condizione definita è falsa, l'abilità non si
                       applica. Una variante di questa durata, "mentre si trova in questo luogo", può apparire nei luoghi.
                       Esempio A: Noi – Ladra Orfana ha un'abilità chiamata Nascondino che recita: "Mentre hai in gioco un oggetto, questo personaggio
@@ -1448,7 +1448,7 @@ disneylorcana.com
                risultato: il personaggio avversario sfidato non infligge alcun danno a Flounder. L'altra istanza dell'effetto sostitutivo non può essere applicata e
                cessa di esistere.
  6.6. Modificatori di Abilità
-      6.6.1. Alcune abilità ed effetti possono modificare le caratteristiche di un personaggio o di un luogo in gioco, come $ o !.
+      6.6.1. Alcune abilità ed effetti possono modificare le caratteristiche di un personaggio o di un luogo in gioco, come $ o %.
           6.6.1.1. Un modificatore si applica a una carta in modo continuativo, o per un periodo di tempo fisso oppure finché la carta che genera il
                       modificatore è in gioco. Ogni volta che un modificatore viene applicato alla caratteristica di una carta, quella caratteristica cambia
                       immediatamente. Questo processo non utilizza il sacchetto (vedere 7.7, "Sacchetto").
@@ -1478,10 +1478,10 @@ disneylorcana.com
              immediatamente -2 $ e ora ha -1 $ e 1 #. Il giocatore attivo quindi va all'avventura con Yokai. Poiché la $ del personaggio avversario è
              negativa, conta come se avesse $ pari a 0 quando viene risolta l'abilità innescata di Yokai, quindi il giocatore attivo pesca 1 carta. Anche se la
              $ del personaggio conta come 0 ai fini della risoluzione dell'effetto di Yokai, non viene in ogni caso portata a 0; corrisponde ancora a -1 $.
-      6.6.3. Se un personaggio o un luogo ha un valore di Leggenda !negativo, viene considerato come se avesse un valore di Leggenda pari a 0, tranne
-              che per l'applicazione dei modificatori per determinare il suo ! (vedere 6.6.1.2).
-             Esempio: Il giocatore attivo ha in gioco un Flynn Rider – Il Più Grande Fan di Se Stesso, e il suo avversario ha 5 carte in mano. Flynn ha 4 ! e
-             un'abilità chiamata Un Ultimo Grande Colpo, che recita: "Questo personaggio riceve -1 ! per ogni carta nella mano dei tuoi avversari." Poiché
+      6.6.3. Se un personaggio o un luogo ha un valore di Leggenda % negativo, viene considerato come se avesse un valore di Leggenda pari a 0, tranne
+              che per l'applicazione dei modificatori per determinare il suo % (vedere 6.6.1.2).
+             Esempio: Il giocatore attivo ha in gioco un Flynn Rider – Il Più Grande Fan di Se Stesso, e il suo avversario ha 5 carte in mano. Flynn ha 4 % e
+             un'abilità chiamata Un Ultimo Grande Colpo, che recita: "Questo personaggio riceve -1 % per ogni carta nella mano dei tuoi avversari." Poiché
              l'avversario ha 5 carte in mano, al valore di Leggenda di Flynn pari a 4 si applica un modificatore di -5 (-1 per ciascuna delle 5 carte). Flynn ora
              ha un nuovo valore di Leggenda pari a -1. Poiché il valore di Leggenda di Flynn è negativo, se il giocatore lo impegna per mandarlo all'avventura,
              Flynn conta come se avesse un valore di Leggenda pari a 0 e il giocatore ottiene quindi 0 leggenda. Tuttavia, questo non modifica il valore di
@@ -1890,7 +1890,7 @@ disneylorcana.com
                  delle abilità e degli effetti segue le regole elencate nella sezione 7.7, “Sacchetto”.
                 Esempio: Tre giocatori fanno parte della stessa squadra e svolgono un turno simultaneo. Durante il passaggio di Preparazione della Fase
                 Iniziale, tutti e tre i giocatori preparano le loro carte contemporaneamente. Durante il passaggio di Inizio Turno, tutti e tre i giocatori ottengono
-                leggenda dai luoghi con la caratteristica ! che hanno in gioco, e poi aggiungono contemporaneamente al sacchetto eventuali effetti o abilità
+                leggenda dai luoghi con la caratteristica % che hanno in gioco, e poi aggiungono contemporaneamente al sacchetto eventuali effetti o abilità
                 che si sono innescate durante il passaggio di Preparazione. Nel passaggio di Pesca, tutti e tre i giocatori pescano contemporaneamente una
                 carta dai propri mazzi.
                 Dopo che il gioco è passato alla Fase Principale, i tre giocatori continuano il loro turno contemporaneamente. Il primo giocatore vuole
@@ -2017,7 +2017,7 @@ disneylorcana.com
  un personaggio. Un’abilità attivata non può essere utilizzata se il suo costo totale non può essere pagato.
  costo alternativo
  Un costo che il giocatore attivo può scegliere di pagare per giocare una carta invece di pagare il costo in inchiostro di quella carta.
- costo di spostamento &
+ costo di spostamento '
  Il costo per spostare uno dei tuoi personaggi in uno dei tuoi luoghi.
  cumulare
  Combinare più istanze di un effetto. Le abilità con parola chiave che si cumulano sono seguite da “+[N]”.
@@ -2075,7 +2075,7 @@ disneylorcana.com
  gratis
  Un giocatore che gioca una carta o usa un’abilità attivata gratis non può scegliere nessun altro costo alternativo per giocare la carta o attivare l’abilità.
  Un’abilità attivata gratis deve comunque pagare un eventuale costo in !.
- icona calamaio %
+ icona calamaio &
  Un simbolo circolare presente intorno al costo di una carta se questa può essere inchiostrata o aggiunta al calamaio del suo giocatore e usata come
  inchiostro.
  Icona Illuminarium
@@ -2111,7 +2111,7 @@ disneylorcana.com
  luogo
  Una carta che riporta la dicitura “Luogo” nella sua riga di classificazione. Quando un giocatore gioca un luogo, lo mette nella sua zona di Gioco. I luoghi
  hanno un costo per essere giocati, un costo di spostamento per spostarvi un personaggio e Volontà #. I luoghi possono subire danni e possono essere
- sfidati; quando un luogo ha danno pari o superiore alla sua Volontà #, quel luogo viene esiliato. Un luogo può avere un valore di leggenda !, ovvero la
+ sfidati; quando un luogo ha danno pari o superiore alla sua Volontà #, quel luogo viene esiliato. Un luogo può avere un valore di leggenda %, ovvero la
  quantità di leggenda che il suo giocatore ottiene all’inizio del proprio turno durante il passaggio Inizio Turno. Se un luogo ha un’abilità attivata, tale abilità
  può essere utilizzata nello stesso turno in cui il luogo entra in gioco. Un giocatore può avere più copie di un luogo con lo stesso nome nel proprio mazzo, ma
  non può averne più di 4 copie con lo stesso nome completo.
@@ -2149,7 +2149,7 @@ disneylorcana.com
  passaggio di Inizio Turno
  Il secondo passaggio della Fase Iniziale del turno di un giocatore, quando i personaggi che sono in gioco si asciugano e possono andare all'avventura,
  sfidare o ! per pagare i costi delle abilità attivate o delle carte canzone. Durante questo passaggio, il giocatore attivo ottiene leggenda dai luoghi che ha
- in gioco con la caratteristica ! . Gli effetti che si verificano "All'inizio del tuo turno" e le abilità che si sono innescate durante il passaggio di Preparazione
+ in gioco con la caratteristica % . Gli effetti che si verificano "All'inizio del tuo turno" e le abilità che si sono innescate durante il passaggio di Preparazione
  vengono aggiunti al sacchetto, dopodiché tutte le abilità innescate vengono risolte.
  passaggio di Pesca
  Il terzo passaggio della Fase Iniziale di un giocatore, in cui il giocatore mette la prima carta del suo mazzo nella sua mano. Una volta che tutti gli effetti
@@ -2240,7 +2240,7 @@ disneylorcana.com
  Un turno in alcuni formati a più giocatori, in cui tutti i giocatori della stessa squadra avanzano contemporaneamente attraverso le fasi e i
  passaggi del gioco. Le abilità e gli effetti innescati vengono aggiunti al sacchetto dall’intera squadra, che ne sceglie anche l’ordine
  di risoluzione.
- valore di Leggenda !
+ valore di Leggenda %
  Una caratteristica della carta che indica la quantità di leggenda che il suo giocatore può ottenere da essa ogni turno. Su un personaggio, questa leggenda si
  ottiene andando all’avventura. Su un luogo, questa leggenda si ottiene all’inizio del turno del giocatore durante il passaggio di Inizio Turno.
  verifica dello stato di gioco

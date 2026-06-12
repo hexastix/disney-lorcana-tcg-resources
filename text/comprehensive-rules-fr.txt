@@ -797,7 +797,7 @@ disneylorcana.com
        5.2.1. La plupart des éléments composant une carte sont communs à toutes les cartes. Les différences propres à un type de cartes sont
               mentionnées dans la section consacrée au type de carte concerné.
        5.2.2. Coût de la carte : Le coût de la carte indique le nombre d’encres nécessaire pour jouer ladite carte.
-       5.2.3. Icône d’encre : Les cartes possédant le symbole tourbillonnant {C} autour de leur coût peuvent être encrées, c’est-à-dire placées dans la
+       5.2.3. Icône d’encre : Les cartes possédant le symbole tourbillonnant & autour de leur coût peuvent être encrées, c’est-à-dire placées dans la
               réserve d’encre de leur propriétaire. Les cartes placées dans une réserve d’encre représentent l'encre de ce joueur. Chaque carte compte
               pour 1 ".
        5.2.4. Illustration : L’illustration n’a pas d’impact sur les règles du jeu.
@@ -1208,16 +1208,16 @@ disneylorcana.com
                       subsistent hors du sac. Lorsque la condition de la capacité à déclenchement flottant est remplie, une instance de cette capacité
                       déclenchable est ajoutée dans le sac, en attente de résolution. Une fois cette durée écoulée, la capacité à déclenchement flottant
                       cesse d’exister.
-              Exemple : Voler aux Riches est une action ayant l’effet suivant : “Chaque fois que l’un de vos personnages est envoyé à l’aventure durant ce
-              tour, chaque adversaire perd 1 éclat de Lore.” Lorsque l’effet de Voler aux Riches se résout, il crée la capacité à déclenchement flottant définie
-              par la carte. Cette capacité existe jusqu’à la fin du tour. Lorsque son propriétaire envoie à l’aventure l’un de ses personnages durant ce tour, la
-              condition de la capacité à déclenchement flottant est remplie et une instance de cette capacité déclenchable est ajoutée dans le sac afin d’être
-              résolue. La capacité à déclenchement flottant continue à exister hors du sac jusqu’à la fin du tour, c’est-à-dire jusqu’au moment où la durée
-              déterminée de la condition expire.
+                      Exemple : Voler aux Riches est une action ayant l’effet suivant : “Chaque fois que l’un de vos personnages est envoyé à l’aventure durant
+                      ce tour, chaque adversaire perd 1 éclat de Lore.” Lorsque l’effet de Voler aux Riches se résout, il crée la capacité à déclenchement flottant
+                      définie par la carte. Cette capacité existe jusqu’à la fin du tour. Lorsque son propriétaire envoie à l’aventure l’un de ses personnages
+                      durant ce tour, la condition de la capacité à déclenchement flottant est remplie et une instance de cette capacité déclenchable est
+                      ajoutée dans le sac afin d’être résolue. La capacité à déclenchement flottant continue à exister hors du sac jusqu’à la fin du tour, c’est-à-
+                      dire jusqu’au moment où la durée déterminée de la condition expire.
 
 
 disneylorcana.com
-©Disney                                                                      31
+©Disney                                                                       31
           6.2.7.2. Capacités à Déclenchement Différé : Capacités déclenchées créées pour être résolues à un moment précis plus tard dans la partie. Ce
                      moment est spécifié dans la condition de la capacité à déclenchement différé. Ces capacités existent hors du sac jusqu’à ce que leur
                      condition soit remplie. Lorsque sa condition est remplie, la capacité à déclenchement différé est ajoutée dans le sac, en attente
@@ -1353,49 +1353,49 @@ disneylorcana.com
        6.5.7. Si plusieurs effets de substitution différents peuvent s'appliquer au même événement, le joueur dont les cartes ou les effets de carte sont
               affectés par ces substitutions suit les étapes indiquées ci-dessous :
            6.5.7.1. Premièrement, si un effet d’auto-substitution peut s’appliquer, choisissez-en un et passez à la section 6.5.7.2. Si aucun de ces effets ne
-                    peut s’appliquer, passez à l’étape suivante.
+                     peut s’appliquer, passez à l’étape suivante.
            6.5.7.2. Deuxièmement, si n’importe quel autre effet de substitution peut s’appliquer, choisissez-en un.
            6.5.7.3. Une fois l’effet de substitution choisi appliqué, un événement modifié se produit. Répétez ce processus, en tenant compte des autres
-                    effets de substitution pouvant s’appliquer à l’événement modifié, jusqu’à ce qu’aucun autre effet de substitution ne puisse s’appliquer.
-                    Exemple : Le joueur actif a en jeu Mine des sept nains et le joueur adverse a La Bête – Prêt à se sacrifier et Polochon – La voix de la raison
-                    en jeu. Mine des sept nains possède la capacité ‘Défense en montagne’ qui a l’effet suivant : “Durant votre tour, la première fois que vous
-                    déplacez un personnage sur ce lieu, vous pouvez choisir un personnage et lui infliger 1 dommage. Si le personnage déplacé est un
-                    Chevalier, infligez 2 dommages à la place.” La Bête – Prêt à se sacrifier possède la capacité ‘Protéger les autres’ qui a l’effet suivant : “Si
-                    des dommages sont infligés à l’un de vos autres personnages, placez-les sur ce personnage à la place.”
-                    Le joueur actif joue ensuite Dormeur – Chevalier amorphe, un personnage avec la classification Chevalier, et le déplace sur Mine des sept
-                    nains. Lorsque la capacité déclenchée du lieu se résout, le joueur actif choisit d’infliger des dommages à Polochon, ce qui entraîne
-                    l’événement suivant : infligez 1 dommage à Polochon – La voix de la raison. Les effets de substitution de Mine des sept nains et de La Bête
-                    peuvent s’appliquer à cet effet. Polochon est affecté, donc le joueur adverse suit les étapes décrites dans les sections 6.5.7.1 à 6.5.7.3.
-                    Premièrement, le joueur adverse vérifie s’il y a des effets d’auto-substitution. L’effet de Mine des sept nains “infligez 2 dommages à la
-                    place” est un effet d’auto-substitution qui peut s’appliquer, donc le joueur adverse le choisit et l’applique. En conséquence, l’événement
-                    modifié est : infligez 2 dommages à Polochon – La voix de la raison.
-                    Les étapes sont répétées et le joueur adverse vérifie s’il y a d’autres effets d’auto-substitution. N’en trouvant aucun, le joueur adverse
-                    passe à l’étape suivante et vérifie s’il y a d’autres effets de substitution. La Bête – Prêt à se sacrifier a un effet de substitution qui peut
-                    s’appliquer, donc le joueur adverse le choisit et l’applique, ce qui donne l’événement suivant : placez 2 dommages sur La Bête – Prêt à se
-                    sacrifier. Le joueur adverse répète les étapes, mais comme aucun effet de substitution ne peut s’appliquer, l’effet se résout et la
-                    partie continue.
+                     effets de substitution pouvant s’appliquer à l’événement modifié, jusqu’à ce qu’aucun autre effet de substitution ne puisse s’appliquer.
+                     Exemple : Le joueur actif a en jeu Mine des sept nains et le joueur adverse a La Bête – Prêt à se sacrifier et Polochon – La voix de la raison
+                     en jeu. Mine des sept nains possède la capacité ‘Défense en montagne’ qui a l’effet suivant : “Durant votre tour, la première fois que vous
+                     déplacez un personnage sur ce lieu, vous pouvez choisir un personnage et lui infliger 1 dommage. Si le personnage déplacé est un
+                     Chevalier, infligez 2 dommages à la place.” La Bête – Prêt à se sacrifier possède la capacité ‘Protéger les autres’ qui a l’effet suivant : “Si
+                     des dommages sont infligés à l’un de vos autres personnages, placez-les sur ce personnage à la place.”
+                     Le joueur actif joue ensuite Dormeur – Chevalier amorphe, un personnage avec la classification Chevalier, et le déplace sur Mine des sept
+                     nains. Lorsque la capacité déclenchée du lieu se résout, le joueur actif choisit d’infliger des dommages à Polochon, ce qui entraîne
+                     l’événement suivant : infligez 1 dommage à Polochon – La voix de la raison. Les effets de substitution de Mine des sept nains et de La Bête
+                     peuvent s’appliquer à cet effet. Polochon est affecté, donc le joueur adverse suit les étapes décrites dans les sections 6.5.7.1 à 6.5.7.3.
+                     Premièrement, le joueur adverse vérifie s’il y a des effets d’auto-substitution. L’effet de Mine des sept nains “infligez 2 dommages à la
+                     place” est un effet d’auto-substitution qui peut s’appliquer, donc le joueur adverse le choisit et l’applique. En conséquence, l’événement
+                     modifié est : infligez 2 dommages à Polochon – La voix de la raison.
+                     Les étapes sont répétées et le joueur adverse vérifie s’il y a d’autres effets d’auto-substitution. N’en trouvant aucun, le joueur adverse
+                     passe à l’étape suivante et vérifie s’il y a d’autres effets de substitution. La Bête – Prêt à se sacrifier a un effet de substitution qui peut
+                     s’appliquer, donc le joueur adverse le choisit et l’applique, ce qui donne l’événement suivant : placez 2 dommages sur La Bête – Prêt à se
+                     sacrifier. Le joueur adverse répète les étapes, mais comme aucun effet de substitution ne peut s’appliquer, l’effet se résout et la
+                     partie continue.
        6.5.8. Deux occurrences ou plus d’un même effet de substitution ne peuvent pas s’appliquer au même événement. Si plusieurs occurrences d’un
               même effet de substitution peuvent s’appliquer au même événement, le joueur dont les cartes ou les effets de cartes sont affectés par ces
               effets en choisit un à appliquer. Les autres cessent d’exister.
-                    Exemple : Le joueur actif a en jeu Raiponce – Parée pour l’aventure, Polochon – La voix de la raison et 2 exemplaires de Heihei – Picoreur
-                    de bateau. Raiponce possède la capacité déclenchable ‘Geste altruiste’ qui a l'effet suivant : “Chaque fois que l’un de vos personnages est
-                    choisi par la capacité Soutien, jusqu’au début de votre prochain tour, la prochaine fois que ce personnage-là devrait subir des dommages,
-                    il n’en subit aucun à la place.” Le joueur actif envoie Heihei à l’aventure et choisit d’ajouter sa $ à la $ de Polochon grâce à Soutien, ce
-                    qui déclenche la capacité de Raiponce. Cette capacité est ajoutée dans le sac et se résout, créant un effet de substitution : la prochaine
-                    fois que des dommages doivent être infligés à Polochon, il n’en subit aucun à la place. Le joueur actif envoie l’autre Heihei à l’aventure et
-                    choisit d’ajouter sa $ à la $ de Polochon grâce à Soutien. La capacité déclenchée de Raiponce est à nouveau ajoutée dans le sac et se
-                    résout, créant une autre occurrence du même effet de substitution.
-                    Le joueur actif épuise Polochon pour défier un personnage adverse épuisé. Pendant l’étape d’attribution des dommages, des dommages
-                    sont infligés à chaque personnage impliqué dans le défi, ce qui donne lieu à l’événement suivant : le personnage défié inflige des
-                    dommages égaux à sa $ à Polochon. Des dommages doivent être infligés à Polochon, donc le joueur actif tente d’appliquer les deux
-                    occurrences du même effet de substitution. Comme deux occurrences ou plus du même effet de substitution ne peuvent pas s’appliquer au
+               Exemple : Le joueur actif a en jeu Raiponce – Parée pour l’aventure, Polochon – La voix de la raison et 2 exemplaires de Heihei – Picoreur de
+               bateau. Raiponce possède la capacité déclenchable ‘Geste altruiste’ qui a l'effet suivant : “Chaque fois que l’un de vos personnages est choisi
+               par la capacité Soutien, jusqu’au début de votre prochain tour, la prochaine fois que ce personnage-là devrait subir des dommages, il n’en subit
+               aucun à la place.” Le joueur actif envoie Heihei à l’aventure et choisit d’ajouter sa $ à la $ de Polochon grâce à Soutien, ce qui déclenche la
+               capacité de Raiponce. Cette capacité est ajoutée dans le sac et se résout, créant un effet de substitution : la prochaine fois que des dommages
+               doivent être infligés à Polochon, il n’en subit aucun à la place. Le joueur actif envoie l’autre Heihei à l’aventure et choisit d’ajouter sa $ à la $
+               de Polochon grâce à Soutien. La capacité déclenchée de Raiponce est à nouveau ajoutée dans le sac et se résout, créant une autre occurrence
+               du même effet de substitution.
+               Le joueur actif épuise Polochon pour défier un personnage adverse épuisé. Pendant l’étape d’attribution des dommages, des dommages sont
+               infligés à chaque personnage impliqué dans le défi, ce qui donne lieu à l’événement suivant : le personnage défié inflige des dommages égaux à
+               sa $ à Polochon. Des dommages doivent être infligés à Polochon, donc le joueur actif tente d’appliquer les deux occurrences du même effet de
+               substitution. Comme deux occurrences ou plus du même effet de substitution ne peuvent pas s’appliquer au
 
 
 
 disneylorcana.com
 ©Disney                                                                       35
-                     même événement, le joueur actif en choisit une à appliquer, ce qui donne lieu à l’événement suivant : le personnage adverse défié n’inflige
-                     aucun dommage à Polochon. L’occurrence restante de l’effet de substitution ne peut pas s’appliquer et cesse d’exister.
+               même événement, le joueur actif en choisit une à appliquer, ce qui donne lieu à l’événement suivant : le personnage adverse défié n’inflige
+               aucun dommage à Polochon. L’occurrence restante de l’effet de substitution ne peut pas s’appliquer et cesse d’exister.
  6.6. Modificateurs de capacité
       6.6.1. Certaines capacités et effets peuvent modifier les caractéristiques d’un personnage ou d’un lieu en jeu, comme sa Force $ ou sa valeur de
               Lore %.
@@ -1968,7 +1968,7 @@ disneylorcana.com
 ©Disney                                                                     48
   Coût alternatif
   Un coût que le joueur actif peut choisir de payer pour jouer une carte au lieu de payer son coût en encre.
-  Coût de déplacement &
+  Coût de déplacement '
   Le coût de déplacement d’un de vos personnages vers l’un de vos lieux.
   Cumuler
   Le fait de combiner plusieurs instances d’un même effet. Les capacités à mots-clés qui sont cumulables sont suivies de “+[N]”.
@@ -2065,7 +2065,7 @@ disneylorcana.com
   ou qui active une capacité gratuitement doit toutefois payer les autres coûts éventuels.
   Icône de l’Illuminarium
   L’icône au dos des cartes Disney Lorcana standard.
-  Icône d’encre '
+  Icône d’encre &
   Le symbole tourbillonnant présent autour du coût de certaines cartes, indiquant que la carte peut être placée dans la réserve d’encre et utilisée comme
   encre.
   Jeton Dommage

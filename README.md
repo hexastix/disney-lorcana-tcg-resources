@@ -73,6 +73,12 @@
 - [ITALIANO](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
 - [Français](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-FR.pdf) ([as text](text/tournament-rules-fr.txt))
 
+### CCQ Event Term Sheet
+
+- [English](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-EN.pdf)
+- [FRANÇAIS](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-FR.pdf)
+- [Italiano](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-IT.pdf)
+
 ### CORE Document - Lore Guide Resource
 
 - [English](files_disneylorcana_com/CORE%20-%20Lore%20Guide%20Document.pdf) ([as text](text/CORE-document-en.txt))

@@ -68,9 +68,10 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Disney%20Lorcana%20TCG%20Tournament%20Rules%20S2_09-Sep-25.pdf) ([as text](text/tournament-rules-en.txt))
+- [ENGLISH](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-EN.pdf) ([as text](text/tournament-rules-en.txt))
 - [DEUTSCH](files_disneylorcana_com/Season%202%20Turnierregeln%20090925-DE.pdf) ([as text](text/tournament-rules-de.txt))
-- [ITALIANO](files_disneylorcana_com/Season%202%20Tournament%20Rules%20090925%20update-Italian.pdf) ([as text](text/tournament-rules-it.txt))
+- [ITALIANO](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
+- [Français](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-FR.pdf) ([as text](text/tournament-rules-fr.txt))
 
 ### CORE Document - Lore Guide Resource
 

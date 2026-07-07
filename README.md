@@ -76,7 +76,7 @@
 ### CCQ Event Term Sheet
 
 - [English](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-EN.pdf)
-- [Deutsch](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-DE.pdf) ([as text](text/tournament-rules-de.txt))
+- [Deutsch](files_disneylorcana_com/DLC-CCQ-Event%20Term-Sheet-DE.pdf)
 - [FRANÇAIS](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-FR.pdf)
 - [Italiano](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-IT.pdf)
 

@@ -73,6 +73,10 @@
 
 ## Event Rules and Documents
 
+### Attack of the Vine! OP Kit Instructions
+
+- [English](files_disneylorcana_com/Attack-of-the-Vine_OP-Kit-Instructions_EN.pdf)
+
 ### Tournament Rules
 
 - [ENGLISH](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-EN.pdf) ([as text](text/tournament-rules-en.txt))
@@ -109,14 +113,6 @@
 - [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
 - [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
 - [Español](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-Spanish.pdf)
-
-### Winterspell OP Kit Instructions
-
-- [English](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_English.pdf)
-- [Deutsch](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-German.pdf)
-- [Français](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-French.pdf)
-- [Italiano](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions-Italian.pdf)
-- [Español](files_disneylorcana_com/Winterspell_OP%20Kit%20Instructions_Spanish.pdf)
 
 ### Winterspell Set Championship Instructions
 

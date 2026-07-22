@@ -77,6 +77,10 @@
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine_OP-Kit-Instructions_EN.pdf)
 
+### Evergreen Collection Quest Organizer Instructions
+
+- [English](files_disneylorcana_com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf)
+
 ### Attack of the Vine! Set Championship Instructions
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine_Set-Championships_Event-Instructions_EN.pdf)

@@ -1,5 +1,5 @@
                                        Regole da Torneo
-                                        Valide dal 06/11/2026
+                                        Valide dal 14/07/2026
 
 
 
@@ -30,99 +30,99 @@ consultare il riepilogo degli aggiornamenti alla fine del documento.
 
 
                                                     1
-©Disney                                                                                    disneylorcana.com
-                                           CONTENUTI
+©Disney                                                                                       disneylorcana.com
+                                         CONTENUTI
 
-   1. DEFINIZIONI
+    1. DEFINIZIONI
 
-          1.1.        Tipi di Torneo
-          1.2.        Livelli di Torneo
-          1.3.        Formati di Torneo
+          1.1.       Tipi di Torneo
+          1.2.       Livelli di Torneo
+          1.3.       Formati di Torneo
 
-                    1.3.1.    Formati dei Tornei Constructed
-                    1.3.2.    Formati dei Tornei Limited
+                 1.3.1.     Formati dei Tornei Constructed
+                 1.3.2.     Formati dei Tornei Limited
 
-                          1.3.2.1.    Preconstructed
-                          1.3.2.2.    Sealed
-                          1.3.2.3.    Pack Rush
-                          1.3.2.4.    Draft
-          1.4.        Ruoli in un Torneo
-          1.5.        Giocatori Idonei e Organizzatori di Tornei
-          1.6.        Set Legali e Rotazione
-                    1.6.1.    Elenco delle Rotazioni
-                    1.6.2.    Carte Bandite
+                       1.3.2.1.    Preconstructed
+                       1.3.2.2.    Sealed
+                       1.3.2.3.    Pack Rush
+                       1.3.2.4.    Draft
+          1.4.     Ruoli in un Torneo
+          1.5.     Giocatori idonei e Responsabili di Torneo
+          1.6.     Set Legali e Rotazione
+                 1.6.1.    Elenco delle Rotazioni
+                 1.6.2.    Carte Bandite
 
-   2. RUOLI IN UN TORNEO
+    2. RUOLI IN UN TORNEO
 
-          2.1.        Organizzatore del Torneo
-          2.2.        Lore Guide Principale
-          2.3.        Lore Guides
-          2.4.        Refertista
-          2.5.        Giocatore
-          2.6.        Spettatore
-          2.7.        Rappresentante della Diretta
+          2.1.       Organizzatore del Torneo
+          2.2.       Lore Guide Principale
+          2.3.       Lore Guides
+          2.4.       Refertista
+          2.5.       Giocatore
+          2.6.       Spettatore
+          2.7.       Rappresentante della Diretta
 
-   3. OPERAZIONI
+    3. OPERAZIONI
 
-          3.1.        Numero Minimo di Giocatori
-          3.2.        Numero Minimo di Turni
-          3.3.        Struttura di un Match
-          3.4.        Procedure di un Match
-          3.5.        Sequenziamento Non Ordinato
-          3.6.        Pareggi Intenzionali e Concessioni
-          3.7.        Annullamenti
-                    3.7.1.    Idoneità e Limitazioni
-                    3.7.2.    Azioni Illegali ed Errori Regolistici
-                    3.7.3.    Esempi di Annullamenti Idonei
-                    3.7.4.    Esempi di Annullamenti Non Idonei
-          3.8.        Registrazione del Mazzo
+          3.1.     Numero Minimo di Giocatori
+          3.2.     Numero Minimo di Turni
+          3.3.     Struttura di un Match
+          3.4.     Procedure di un Match
+          3.5.     Sequenziamento Non Ordinato
+          3.6.     Pareggi Intenzionali e Concessioni
+          3.7.     Annullamenti
+                 3.7.1.    Idoneità e Limitazioni
+                 3.7.2.    Azioni Illegali ed Errori Regolistici
+                 3.7.3.    Esempi di Annullamenti Idonei
+                 3.7.4.    Esempi di Annullamenti Non Idonei
+          3.8.     Registrazione del Mazzo
 
-                                                 2
-©Disney                                                               disneylorcana.com
-          3.9.     Controlli del Mazzo
-          3.10.    Ritirarsi da un Torneo
-          3.11.    Accessori Approvati
-          3.12.    Tempo Aggiuntivo
+                                              2
+©Disney                                                            disneylorcana.com
+          3.9.      Controlli del Mazzo
+          3.10.     Ritirarsi da un Torneo
+          3.11.     Accessori Approvati
+          3.12.     Tempo Aggiuntivo
 
-   4. DIRETTA
+    4. DIRETTA
 
-          4.1.     Diritti dell'Operatore del Torneo
-          4.2.     Consenso all'Utilizzo dell'Immagine dei Giocatori
+          4.1.      Diritti dell'Operatore del Torneo
+          4.2.      Consenso all'Utilizzo dell'Immagine dei Giocatori
 
-   5. INFORMAZIONI E COMUNICAZIONE
+    5. INFORMAZIONI E COMUNICAZIONE
 
-          5.1.     Layout di Gioco
-          5.2.     Note e Tracciamento delle Informazioni
-          5.3.     Dispositivi Elettronici
-          5.4.     Informazioni Durante il Gioco
-          5.5.     Calamaio
-          5.6.     Denominazione e Descrizione delle Carte
+          5.1.      Layout di Gioco
+          5.2.      Note e Tracciamento delle Informazioni
+          5.3.      Dispositivi Elettronici
+          5.4.      Informazioni Durante il Gioco
+          5.5.      Calamaio
+          5.6.      Denominazione e Descrizione delle Carte
 
-   6. LIMITI DI TEMPO
+    6. LIMITI DI TEMPO
 
-          6.1.     Limiti di Tempo Generali di un Torneo
-          6.2.     Limiti di Tempo di un Torneo Limited
+          6.1.      Limiti di Tempo Generali di un Torneo
+          6.2.      Limiti di Tempo di un Torneo Limited
 
-   7. CONDOTTA DEL GIOCATORE
+    7. CONDOTTA DEL GIOCATORE
 
-          7.1.     Comportamenti Vietati
-          7.2.     Sponsor e Squadre
-          7.3.     Interviste e Altri Contenuti
+          7.1.      Comportamenti Vietati
+          7.2.      Sponsor e Squadre
+          7.3.      Interviste e Altri Contenuti
 
-   8. INFORMAZIONI DI VIAGGIO
+    8. INFORMAZIONI DI VIAGGIO
 
-          8.1.     Documentazione di Viaggio e Alloggi
-          8.2.     Sostituzioni/Riserve
+          8.1.      Documentazione di Viaggio e Alloggi
+          8.2.      Sostituzioni/Riserve
 
-   9. PREMI
+    9. PREMI
 
-          9.1.     Premi Vinti
-
-
+          9.1.      Premi Vinti
 
 
-                                              3
-©Disney                                                                disneylorcana.com
+
+
+                                               3
+©Disney                                                                 disneylorcana.com
 SEZIONE 1: DEFINIZIONI
 
 1.1 Tipi di Torneo
@@ -172,32 +172,32 @@ mazzi prima del torneo. Esistono due formati Construcred: Core e Infinity.
 
 
                                                    4
-©Disney                                                                                  disneylorcana.com
+©Disney                                                                                     disneylorcana.com
 1.3.1.1 Core Constructed
 
-   •      I mazzi Constructed devono contenere almeno 60 carte. Non c'è una dimensione massima
+    •     I mazzi Constructed devono contenere almeno 60 carte. Non c'è una dimensione massima
           del mazzo, ma un giocatore deve essere in grado di mescolare il proprio mazzo in modo
           tempestivo senza assistenza.
-   •      I mazzi Constructed non devono contenere carte di più di due tipi di inchiostro. Per
+    •     I mazzi Constructed non devono contenere carte di più di due tipi di inchiostro. Per
           esempio, se un mazzo contiene carte Ambra e Ametista, non può contenere carte
           Smeraldo, Rubino, Zaffiro o Acciaio. I mazzi possono contenere carte a doppio inchiostro
           purché contengano solo i due tipi di inchiostro presenti su quelle carte. Ad esempio, un
           mazzo Smeraldo e Rubino non può contenere una carta Smeraldo e Acciaio.
-   •      I mazzi Constructed non possono contenere più di 4 copie di una stessa carta identificata
+    •     I mazzi Constructed non possono contenere più di 4 copie di una stessa carta identificata
           dal suo nome completo in inglese. Per una carta personaggio o luogo, il nome completo è
           la combinazione del nome della carta e della sua versione. Pertanto, le carte con lo stesso
           nome ma nomi di versione diversi sono considerate carte distinte. Per esempio, un mazzo
           può contenere fino a 4 copie di Ariel – On Human Legs e fino a quattro copie di Ariel –
           Spectacular Singer.
 
-   •      In un torneo Core Constructed, i giocatori possono utilizzare solo carte che rientrano
+    •     In un torneo Core Constructed, i giocatori possono utilizzare solo carte che rientrano
           nell'attuale programma di rotazione per costruire i propri mazzi.
-   •      In un torneo Core Constructed, i giocatori non devono utilizzare carte bandite dal formato
+    •     In un torneo Core Constructed, i giocatori non devono utilizzare carte bandite dal formato
           Core Constructed. (Vedere 1.6.2 "Carte Bandite".)
 
 1.3.1.2 Infinity Constructed
 
-   •      I tornei Infinity Constructed seguono le stesse linee guida dei tornei Core Constructed, con
+    •     I tornei Infinity Constructed seguono le stesse linee guida dei tornei Core Constructed, con
           le seguenti eccezioni.
                o Nei tornei Infinity Constructed, i giocatori possono utilizzare qualsiasi carta di
                    qualsiasi set, purché rispettino le altre linee guida descritte al punto 1.3.1, "Formati
@@ -211,19 +211,18 @@ Il termine "Limited" descrive qualsiasi evento in cui i giocatori ricevono prodo
 TCG non aperti e devono costruire i loro mazzi sul posto durante il torneo. Esistono quattro formati
 Limited: Preconstructed, Sealed, Pack Rush e Draft.
 
-   •      I mazzi Limited nel formato Sealed devono contenere almeno 40 carte. I mazzi Limited nel
+    •     I mazzi Limited nel formato Sealed devono contenere almeno 40 carte. I mazzi Limited nel
           formato Draft devono contenere almeno 35 carte. Non c'è un limite massimo di carte per
           mazzo, anche se i mazzi sono limitati nel numero di carte dal pool di carte da cui sono
           costruiti.
 
 
-
                                                       5
-©Disney                                                                                    disneylorcana.com
-   •      I mazzi Limited non hanno restrizioni sul numero di tipi di inchiostro che possono
+©Disney                                                                                       disneylorcana.com
+    •     I mazzi Limited non hanno restrizioni sul numero di tipi di inchiostro che possono
           contenere.
 
-   •      I mazzi Limited possono contenere un qualsiasi numero di copie di ogni singola carta. Ad
+    •     I mazzi Limited possono contenere un qualsiasi numero di copie di ogni singola carta. Ad
           esempio, se un giocatore in un torneo Sealed trova 6 copie di Genie – The Ever Impressive,
           può giocare tutte e 6 le copie nel proprio mazzo.
 
@@ -269,8 +268,8 @@ Limited: Preconstructed, Sealed, Pack Rush e Draft.
 
 
 
-                                                     6
-©Disney                                                                                   disneylorcana.com
+                                                    6
+©Disney                                                                                       disneylorcana.com
           o   Il quantitativo minimo di bustine raccomandato per i tornei Draft è di quattro
               bustine per giocatore, prese dal set (o dai set) scelto dall’organizzatore. Ogni
               giocatore comincia con lo stesso numero di bustine di ciascuno dei set scelti.
@@ -279,20 +278,20 @@ Limited: Preconstructed, Sealed, Pack Rush e Draft.
               numero di persone in ciascun pod è a discrezione dell'organizzatore del torneo,
               anche se di solito è consigliabile seguire le linee guida riportate di seguito.
 
-                 ▪   Ogni pod dovrebbe avvicinarsi il più possibile a otto giocatori.
-                 ▪   Ogni pod dovrebbe avere almeno sei giocatori.
-                 ▪   Non ci dovrebbe essere più di un pod con un numero dispari di giocatori.
+                    Ogni pod dovrebbe avvicinarsi il più possibile a otto giocatori.
+                    Ogni pod dovrebbe avere almeno sei giocatori.
+                    Non ci dovrebbe essere più di un pod con un numero dispari di giocatori.
 
 
 
 
                                                 7
-©Disney                                                                              disneylorcana.com
+©Disney                                                                                 disneylorcana.com
           o   Seguendo queste linee guida, ecco le dimensioni raccomandate dei pod per tornei
               più piccoli.
 
                                  # di giocatori             Pod
-                                      6-11                 1 pod
+                                      6-11                1 pod
                                      12-14              1 pod da 6
                                                        1 pod da 6-8
                                         15-16           1 pod da 8
@@ -335,22 +334,22 @@ Limited: Preconstructed, Sealed, Pack Rush e Draft.
 
 
                                                   8
-©Disney                                                                               disneylorcana.com
+©Disney                                                                                  disneylorcana.com
           9
 ©Disney       disneylorcana.com
 1.4 Ruoli in un Torneo
 
 All’interno di un torneo possono esserci diversi ruoli:
 
-   •      Organizzatore del Torneo
-   •      Lore Guide Principale
-   •      Lore Guide
+    •     Organizzatore del Torneo
+    •     Lore Guide Principale
+    •     Lore Guide
 
-   •      Refertista
-   •      Giocatore
-   •      Spettatore
+    •     Refertista
+    •     Giocatore
+    •     Spettatore
 
-   •      Rappresentante della Diretta
+    •     Rappresentante della Diretta
 
 Tutti i ruoli di cui sopra, ad eccezione di Giocatore e Spettatore, sono considerati Responsabili di
 Torneo. Ai fini del presente documento, per "Lore Guide" si intende chiunque agisca in qualità di
@@ -360,20 +359,20 @@ Lore Guide Principale o Lore Guide semplice in quel torneo.
 
 Chiunque è idoneo a partecipare a qualsiasi torneo di Disney Lorcana TCG, a eccezione di:
 
-   •      Chiunque sia al momento bandito dal giocare agli eventi di Disney Lorcana TCG.
-   •      Qualsiasi Responsabile di Torneo per qualsiasi evento a cui partecipa (solo Competitivi e
+    •     Chiunque sia al momento bandito dal giocare agli eventi di Disney Lorcana TCG.
+    •     Qualsiasi Responsabile di Torneo per qualsiasi evento a cui partecipa (solo Competitivi e
           Premier Play); e
 
-   •      Chiunque sia specificatamente escluso dalla partecipazione dalle politiche Ravensburger
+    •     Chiunque sia specificatamente escluso dalla partecipazione dalle politiche Ravensburger
           North America Organized Play, che garantisce il fair play e la trasparenza, oltre a mitigare i
           conflitti di interesse all'interno degli eventi competitivi.
 
 Chiunque è idoneo a diventare un Responsabile di Torneo in un torneo di Disney Lorcana TCG,
 eccetto:
 
-   •      Chiunque sia al momento bandito dal giocare agli eventi di Disney Lorcana TCG e
+    •     Chiunque sia al momento bandito dal giocare agli eventi di Disney Lorcana TCG e
 
-   •      Chiunque abbia giocato in il torneo di cui vuole essere un Responsabile di Torneo, anche se
+    •     Chiunque abbia giocato in il torneo di cui vuole essere un Responsabile di Torneo, anche se
           quella persona ha lasciato il torneo.
 
 I Responsabili di torneo possono partecipare agli eventi di livello Base. Ai Responsabili di Torneo è
@@ -388,7 +387,7 @@ Limited sanzionati Disney Lorcana TCG immediatamente nei negozi di settore duran
 prerelease. Le versioni alternative e speciali delle carte, comprese le carte in anteprima e
 
                                                     10
-©Disney                                                                                   disneylorcana.com
+©Disney                                                                                      disneylorcana.com
 promozionali, diventano legali quando lo diventa il rispettivo set, indipendentemente dalla data di
 uscita delle carte stesse.
 
@@ -411,15 +410,15 @@ ruotano quando ruotano i rispettivi set.
 
 1.6.1 Elenco delle Rotazioni
 
-   •      Con l'uscita del Set 9, solo le carte uscite nel Set 5 e successivi sono diventate legali nel
+    •     Con l'uscita del Set 9, solo le carte uscite nel Set 5 e successivi sono diventate legali nel
           Core Constructed. I seguenti set sono stati rimossi dal Core Constructed:
 
               o   Set 1, 2, 3 e 4
 
-   •      Con l'uscita del Set 13, solo le carte pubblicate nel Set 9 e successivi saranno legali nel
+    •     Con l'uscita del Set 13, solo le carte pubblicate nel Set 9 e successivi saranno legali nel
           Core Constructed. I seguenti set non saranno più legali nel Core Constructed:
-             o Set 1, 2, 3 e 4 (già non legali)
-             o Set 5, 6, 7 e 8 (in uscita dalla rotazione)
+             o Set 1, 2, 3 e 4 (non legali in Core Constructed)
+             o Set 5, 6, 7 e 8 (in uscita dalla rotazione – non legali in Core Constructed)
 
 Ulteriori rotazioni saranno aggiunte nei futuri aggiornamenti delle Regole da Torneo. La rotazione
 dei set non si applica ai tornei Infinity Constructed.
@@ -429,18 +428,17 @@ dei set non si applica ai tornei Infinity Constructed.
 Le seguenti carte sono bandite dai tornei Core Constructed. Nota, tutte le carte sono elencate con
 i loro nomi in inglese:
 
-   •      Hiram Flaversham – Toymaker
-   •      Fortisphere
+    •     Nessuna carta attualmente vietata
 
 Le seguenti carte sono bandite dai tornei Infinity Constructed:
 
-   •      Hiram Flaversham – Toymaker
+    •     Hiram Flaversham – Toymaker
 
-Le carte bandite nei tornei Infinity Constructed saranno aggiunte a questa sezione.
+
 
 
                                                      11
-©Disney                                                                                    disneylorcana.com
+©Disney                                                                                       disneylorcana.com
 SEZIONE 2: RUOLI
 
 2.1 Organizzatore del Torneo
@@ -485,14 +483,13 @@ Lore Guide Principale. La decisione della Lore Guide Principale è definitiva.
 
 Nei tornei Competitivi e Premier Play, se un giocatore deve essere squalificato o comunque
 rimosso da un torneo, la Lore Guide Principale deve redigere un rapporto sull'incidente e inviarlo a
+Ravensburger tramite il modulo ufficiale Disney Lorcana TCG Tournament Disqualification Form,
+disponibile qui.
 
 
 
                                                     12
-©Disney                                                                                    disneylorcana.com
-Ravensburger tramite il modulo ufficiale Disney Lorcana TCG Tournament Disqualification Form,
-disponibile qui.
-
+©Disney                                                                                      disneylorcana.com
 La Lore Guide Principale può, in circostanze rare ed eccezionali, discostarsi dalle regole e dalle
 politiche specificate in questo documento e nella documentazione relativa alle regole da torneo.
 Solo la Lore Guide Principale ha l'autorità di apportare tali modifiche. Tali deviazioni dalle politiche
@@ -536,25 +533,24 @@ I giocatori dei tornei di Disney Lorcana TCG hanno le seguenti responsabilità.
 
     •     Arrivare puntuali al torneo e a tutti i match.
 
-
+    •     Portare con sé tutto il materiale necessario per il torneo, compreso un mazzo appropriato
+          per i tornei Constructed. Ciò può includere anche dadi, un tappetino da gioco, carta e
+          penna e bustine protettive non contrassegnate. (Vedere 3.11, "Accessori Approvati").
 
                                                      13
-©Disney                                                                                     disneylorcana.com
-   •      Portare con sé tutto il materiale necessario per il torneo, compreso un mazzo appropriato
-          per i tornei Constructed. Ciò può includere anche dadi, un tappetino da gioco, carta e
-          penna e bustine protettive non contrassegnate. (Vedere 3.10, "Accessori Approvati").
-   •      Per i tornei Constructed, sia Competitivi che Premier Play, inviare la lista del proprio mazzo
+©Disney                                                                                        disneylorcana.com
+    •     Per i tornei Constructed, sia Competitivi che Premier Play, inviare la lista del proprio mazzo
           tramite il metodo approvato e fornito dall'Organizzatore del Torneo.
 
-   •      Verificare che i risultati dei match siano riportati tempestivamente e accuratamente.
+    •     Verificare che i risultati dei match siano riportati tempestivamente e accuratamente.
 
-   •      Comunicare adeguatamente con il proprio avversario al meglio delle proprie capacità.
+    •     Comunicare adeguatamente con il proprio avversario al meglio delle proprie capacità.
 
-   •      Notificare tempestivamente ai Responsabili di Torneo qualsiasi violazione delle regole o
+    •     Notificare tempestivamente ai Responsabili di Torneo qualsiasi violazione delle regole o
           delle politiche osservata, sia durante le proprie partite che durante quelle di altri giocatori,
           non appena si verifica.
 
-   •      Rispettare le regole del presente documento, le Regole Complete di Disney Lorcana TCG e
+    •     Rispettare le regole del presente documento, le Regole Complete di Disney Lorcana TCG e
           le Linee Guida sulle Sanzioni di Gioco di Disney Lorcana TCG, nonché tutte le decisioni
           prese dalle Lore Guides.
 
@@ -587,13 +583,12 @@ ma non gli è permesso di offrire alcun consiglio strategico o di gioco.
 I Rappresentanti della Diretta sono responsabili della supervisione di tutta la copertura mediatica
 dell'evento e della produzione dei contenuti. Sono responsabili della gestione e della supervisione
 del feed ufficiale dell'evento, della registrazione delle partite e delle riprese dell'evento, delle
-
-                                                     14
-©Disney                                                                                    disneylorcana.com
 fotografie dei giocatori, dell'evento e del luogo, nonché della gestione di tutte le richieste di live
 streaming. I Rappresentanti della Diretta sono tenuti a seguire tutte le politiche descritte nella
 sezione 4, "Diretta".
 
+                                                     14
+©Disney                                                                                       disneylorcana.com
 I Rappresentanti della Diretta possono essere presenti nei tornei Base, Competitivi o Premier Play,
 ma sono più comuni a livello Premier Play.
 
@@ -638,25 +633,27 @@ Campionati di Set e gli eventi autorizzati dell'Organizzatore del Torneo, sono s
 requisito. Questo requisito non si applica agli eventi informali che non fanno parte di queste
 attività.
 
-                                                    15
-©Disney                                                                                   disneylorcana.com
 In ogni torneo classificato come Competitivo o superiore devono essere giocati almeno tre turni.
 
+
+
+
+                                                 15
+©Disney                                                                                   disneylorcana.com
 Ai tornei con più giocatori vengono aggiunti turni aggiuntivi per migliorare l'esperienza dei giocatori.
 In base al numero di giocatori nel primo turno, si consiglia il seguente numero di turni.
 
-                            Giocatori        Turni Svizzeri          Top Cut
+                             Giocatori         Turni Svizzeri        Top Cut
                                  8                   3              Nessuno
-                               9-16                  4                Top 4
-                              17-32                  5                Top 8
-                              33-64                  6                Top 8
-                              65-128                 7                Top 8
-                             129-226                 8                Top 8
-                               227+                  9                Top 8
+                               9-16                  4               Top 4
+                              17-32                  5               Top 8
+                              33-64                  6               Top 8
+                              65-128                 7               Top 8
+                             129-226                 8               Top 8
+                               227+                  9               Top 8
 Il Top Cut è richiesto solo per i tornei Competitivi e Premier Play.
 
 3.3 Struttura di un Incontro
-
 Tutti i tornei Disney Lorcana TCG devono seguire le linee guida sulla struttura delle partite elencate
 qui per ogni tipo di evento.
 
@@ -673,26 +670,28 @@ qui per ogni tipo di evento.
                   Three (Bo3) a seguire la struttura di gioco Premier Play.
     •     Premier Play
 
-             o   I tornei Premier Play di Disney Lorcana TCG si giocano utilizzando un formato Best-
-                 of-Three (Bo3). I giocatori disputeranno una serie di partite, fino a un massimo di
-                 tre, e il primo giocatore che vincerà due partite sarà dichiarato vincitore
-                 dell'incontro.
+             o    I tornei Premier Play di Disney Lorcana TCG si giocano utilizzando un formato Best-
+                  of-Three (Bo3). I giocatori disputeranno una serie di partite, fino a un massimo di
+                  tre, e il primo giocatore che vincerà due partite sarà dichiarato vincitore
+                  dell'incontro.
 
-             o   Perogni vittoria in un incontro vengono assegnati tre ( 3 ) punti incontro. Per ogni
-                 partita persa vengono assegnati zero (0) punti. Per ogni pareggio viene assegnato un
-                 (1) punto .
+              o   Perogni vittoria in un incontro vengono assegnati tre ( 3 ) punti incontro. Per ogni
+                  partita persa vengono assegnati zero (0) punti. Per ogni pareggio viene assegnato un
+                  (1) punto .
 
-                     ▪   Prima dell'inizio della partita e prima che sia stata compiuta qualsiasi
+                        Prima dell'inizio della partita e prima che sia stata compiuta qualsiasi
                          azione, i due giocatori devono decidere in modo casuale quale dei due avrà
                          la possibilità di giocare per primo o di pescare per primo.
 
+
+
                                                     16
-©Disney                                                                                   disneylorcana.com
+©Disney                                                                                      disneylorcana.com
                           •    È possibile utilizzare qualsiasi metodo concordato di comune
                                accordo, come lanciare dei dadi o lanciare una moneta. Se i
                                giocatori non riescono a concordare un metodo, sarà una Lore
                                Guide a decidere il metodo per la partita.
-                  ▪   Il giocatore che è stato designato per prendere la decisione sceglierà se
+                     Il giocatore che è stato designato per prendere la decisione sceglierà se
                       giocare per primo o se pescare per primo nella prima partita.
                            • La decisione di giocare per primo o pescare per primo nella prima
                                partita, o in qualsiasi partita di un incontro, deve essere presa prima
@@ -703,9 +702,9 @@ qui per ogni tipo di evento.
                               pescare per primo, si presume che giocherà per primo nella prima
                               partita.
 
-                  ▪   Il giocatore che gioca per primo in ogni partita non pesca una carta all'inizio
+                     Il giocatore che gioca per primo in ogni partita non pesca una carta all'inizio
                       del suo primo turno.
-                  ▪   Una volta completata una partita, il giocatore che ha perso l'ultima partita
+                     Una volta completata una partita, il giocatore che ha perso l'ultima partita
                       sceglie se giocare per primo o se pescare per primo nella partita successiva
                       dell'incontro.
 
@@ -713,7 +712,7 @@ qui per ogni tipo di evento.
               eliminazione diretta per i migliori giocatori dell'evento. Per i tabelloni a eliminazione
               diretta, le partite si giocano con il formato Best-of-Three (Bo3). Per aggiudicarsi la
               vittoria dell'incontro, un giocatore deve vincere due delle tre partite dell'incontro.
-                   ▪ Prima dell'inizio della partita e prima che sia stata compiuta alcuna azione,
+                    Prima dell'inizio della partita e prima che sia stata compiuta alcuna azione,
                        il giocatore che ha ottenuto il punteggio più alto nei turni svizzeri può
                        scegliere se giocare per primo o se pescare per primo nella prima partita.
                             • Una volta completata una partita, il giocatore che ha perso l'ultima
@@ -734,10 +733,10 @@ qui per ogni tipo di evento.
               partita di un incontro e il tempo a disposizione per il turno scade senza che vi sia un
 
                                                  17
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                   disneylorcana.com
                  vincitore nella procedura di fine round, l'incontro viene registrato come 1-0-1 a
                  favore del giocatore che ha vinto una partita.
-                     ▪ I tabelloni a eliminazione diretta possono avere procedure di fine turno
+                      I tabelloni a eliminazione diretta possono avere procedure di fine turno
                          diverse.
 
 3.4 Procedure di un Match
@@ -752,7 +751,8 @@ Pre-partita
 
              o   Per ogni partita di un incontro, ogni giocatore ha una sola opportunità di modificare
                  la propria mano prima che avvenga qualsiasi azione. Per una descrizione più
-                 dettagliata, consultare le Regole Complete di Disney Lorcana TCG, disponibili qui.
+                 dettagliata, consultare le Regole Complete di Disney Lorcana TCG, disponibili nella
+                 pagina delle risorse di Disney Lorcana TCG, qui.
 
     •     Conteggio delle pile
 
@@ -760,31 +760,33 @@ Pre-partita
                  numero esatto di carte nel proprio mazzo. Nei tornei Disney Lorcana TCG, il
                  conteggio delle pile è consentito alle seguenti condizioni.
 
-                     ▪   Deve essere effettuato prima di mescolare le carte.
-                     ▪   Può essere effettuato solo prima dell'inizio di ogni partita, non durante o
+                        Deve essere effettuato prima di mescolare le carte.
+                        Può essere effettuato solo prima dell'inizio di ogni partita, non durante o
                          dopo l'inizio del gioco. Il conteggio delle pile può essere effettuato solo una
                          volta per partita.
 
-                     ▪ Non deve essere utilizzato per manipolare il mazzo in alcun modo.
+                      Non deve essere utilizzato per manipolare il mazzo in alcun modo.
              o   Una volta che il giocatore ha terminato il conteggio delle pile per la partita che sta
                  per iniziare, deve mescolare il mazzo e dare all'avversario la possibilità di
                  mescolare ulteriormente il mazzo o di tagliarlo.
 
 Una volta completato questo processo, il primo giocatore inizia il suo primo turno. Non pescherà
 una carta durante la Fase Iniziale per questo turno. Per una descrizione più dettagliata, consultare
-le Regole Complete di Disney Lorcana TCG, disponibili qui.
+le Regole Complete di Disney Lorcana TCG, disponibili nella pagina delle risorse di Disney Lorcana
+TCG, qui.
 
 Fine della Partita
 
 Al termine di una partita, è responsabilità di entrambi i giocatori di verificare il risultato della partita
 e assicurarsi che sia riportato correttamente all'Organizzatore del Torneo utilizzando il metodo di
-registrazione approvato. Ciò può avvenire tramite moduli cartacei o piattaforme digitali come il
-Ravensburger Play Hub.
 
 
 
                                                     18
-©Disney                                                                                     disneylorcana.com
+©Disney                                                                                        disneylorcana.com
+registrazione approvato. Ciò può avvenire tramite moduli cartacei o piattaforme digitali come il
+Ravensburger Play Hub.
+
 Prima di inviare i risultati, i giocatori devono verificare che il vincitore e i risultati della partita (2-0-0,
 2-1-0, 1-1-1, 0-0-3) siano accurati. Entrambi i giocatori devono confermare la segnalazione con la
 Lore Guide o con l'Organizzatore del Torneo quando richiesto.
@@ -826,17 +828,17 @@ immediatamente alle procedure di fine partita, come segue.
 
 3.5 Sequenziamento Non Ordinato
 
+
+                                                      19
+©Disney                                                                                           disneylorcana.com
 I giocatori possono compiere una serie di azioni che, sebbene non nell'ordine corretto, portano allo
 stesso stato di gioco legale che si otterrebbe compiendo le azioni nell'ordine corretto. Tale
 sequenziamento non ordinato è consentito, con le seguenti restrizioni.
-
-                                                      19
-©Disney                                                                                        disneylorcana.com
-    •     Tutte le azioni intraprese devono essere legali.
-    •     Qualsiasi azione intrapresa fuori sequenza non può influenzare altre azioni in modi diversi a
-          seconda dell'ordine delle operazioni.
-    •     Questo approccio non può essere utilizzato per ottenere alcun tipo di informazione
-          dall'avversario.
+     • Tutte le azioni intraprese devono essere legali.
+     • Qualsiasi azione intrapresa fuori sequenza non può influenzare altre azioni in modi diversi a
+        seconda dell'ordine delle operazioni.
+     • Questo approccio non può essere utilizzato per ottenere alcun tipo di informazione
+        dall'avversario.
 
 Ad esempio, un giocatore che impegna il proprio calamaio prima di rivelare la carta che intende
 giocare con quell'inchiostro non sta tecnicamente seguendo l'ordine corretto, ma arriva comunque
@@ -874,13 +876,14 @@ Guide e segnalare l'incidente.
 
 I giocatori sono tenuti a prendere decisioni chiare, deliberate e intenzionali durante il gioco. Come
 politica standard, le mosse in Disney Lorcana TCG non possono essere annullate una volta
+
+
+                                                   20
+©Disney                                                                                      disneylorcana.com
 effettuate. Tuttavia, possono essere applicate eccezioni limitate in caso di errori involontari o di
 errori di destrezza. Queste eccezioni devono essere approvate da una Lore Guide e seguire tutte le
 linee guida descritte di seguito.
 
-
-                                                   20
-©Disney                                                                                   disneylorcana.com
 Un Annullamento è un'inversione completa dell'ultima mossa di un giocatore, che riporta lo stato
 di gioco a quello immediatamente precedente alla mossa, consentendo al giocatore di fare una
 scelta diversa o di intraprendere un'azione diversa.
@@ -924,20 +927,19 @@ un'informazione aggiuntiva ai fini della valutazione di un Annullamento.
 I giocatori non devono essere accelerare, pressare o costringere i propri avversari a giocare o
 compiere azioni nel tentativo di vincolarli a una decisione e negare un potenziale Annullamento.
 
+
+                                                   21
+©Disney                                                                                   disneylorcana.com
 3.7.2 Azioni Illegali ed Errori Regolistici
 
 Se una giocata comporta un'azione illegale (ad esempio, inchiostrare una carta che non può
 essere inchiostrata o scegliere un personaggio Protetto per un'azione), un Annullamento può
-
-
-                                                   21
-©Disney                                                                                 disneylorcana.com
 comunque essere appropriato, a condizione che tutti i criteri dell'Annullamento siano soddisfatti.
 In queste situazioni:
 
-   •      Il giocatore ha commesso un errore regolistico generale (PCG 2.4) e riceverà un
+    •     Il giocatore ha commesso un errore regolistico generale (PCG 2.4) e riceverà un
           avvertimento.
-   •      La Lore Guide può:
+    •     La Lore Guide può:
                o Consentire un Annullamento, oppure
                o Eseguire un Annullamento parziale e istruire il giocatore a continuare il gioco
                    utilizzando solo azioni legali.
@@ -947,15 +949,15 @@ In queste situazioni:
 Di seguito sono riportati alcuni esempi di casi in cui una Lore Guide può decidere di consentire un
 Annullamento:
 
-   •      Un giocatore sceglie un personaggio per un'azione e immediatamente dichiara di voler
+    •     Un giocatore sceglie un personaggio per un'azione e immediatamente dichiara di voler
           scegliere un personaggio diverso.
-   •      Un giocatore rivela una carta da inchiostrare e immediatamente dichiara di voler
+    •     Un giocatore rivela una carta da inchiostrare e immediatamente dichiara di voler
           inchiostrare una carta diversa.
-   •      Un giocatore dichiara una sfida contro un personaggio e cambia immediatamente idea
+    •     Un giocatore dichiara una sfida contro un personaggio e cambia immediatamente idea
           prima della risoluzione.
-   •      Un giocatore dichiara una sfida con più personaggi come gruppo, poi dice immediatamente
+    •     Un giocatore dichiara una sfida con più personaggi come gruppo, poi dice immediatamente
           che vuole invece andare all'avventura.
-   •      Un giocatore gioca Ecco Qua la Tempesta, che recita: "Infliggi 2 danni a un personaggio a
+    •     Un giocatore gioca Ecco Qua la Tempesta, che recita: "Infliggi 2 danni a un personaggio a
           tua scelta. Pesca una carta." Sceglie un Tockins - Vecchio Pendolo avversario per il danno,
           viene informato che è Protettoe richiede immediatamente un Annullamento, prima di
           pescare una carta.
@@ -965,22 +967,20 @@ Annullamento:
 Di seguito sono riportati alcuni esempi in cui una Lore Guide non deve autorizzare un
 Annullamento:
 
-   •      Un giocatore sceglie un personaggio per un'azione, risolve un effetto innescato che gli fa
+    •     Un giocatore sceglie un personaggio per un'azione, risolve un effetto innescato che gli fa
           pescare una carta e poi richiede un Annullamento dopo aver realizzato che il risultato gli
           era sfavorevole.
-   •      Un giocatore esegue più sfide separate in sequenza e poi chiede di annullarle tutte.
-   •      Un giocatore inchiostra una carta e passa il turno. Il suo avversario esegue un'azione e a
+    •     Un giocatore esegue più sfide separate in sequenza e poi chiede di annullarle tutte.
+    •     Un giocatore inchiostra una carta e passa il turno. Il suo avversario esegue un'azione e a
           quel punto il giocatore richiede di annullare la decisione di inchiostrare la sua carta.
 
 3.8 Registrazione del Mazzo
 
+                                                   22
+©Disney                                                                                    disneylorcana.com
 I giocatori che partecipano ai tornei Competitivi e Premier Play di Disney Lorcana TCG sono tenuti a
 registrare i propri mazzi.
 
-
-
-                                                   22
-©Disney                                                                                 disneylorcana.com
 Per i tornei Constructed, i giocatori devono inviare la lista del proprio mazzo tramite Ravensburger
 Play Hub o su una lista cartacea, seguendo le istruzioni dell'Organizzatore del Torneo.
 L'Organizzatore del Torneo comunicherà la scadenza per l'invio delle liste dei mazzi. Se non viene
@@ -1007,7 +1007,7 @@ nella pagina risorse di Disney Lorcana TCG, qui.
 
 
                                                     23
-©Disney                                                                                     disneylorcana.com
+©Disney                                                                                       disneylorcana.com
 3.9 Controllo dei Mazzi
 
 Le Lore Guides dei tornei Competitivi e Premier Play effettueranno Controlli dei Mazzi ove
@@ -1058,11 +1058,11 @@ Gli accessori approvati sono i seguenti.
 
 
                                                    24
-©Disney                                                                                  disneylorcana.com
+©Disney                                                                                     disneylorcana.com
              o   Tutti i tappetini devono essere puliti, appoggiati sul tavolo in modo piatto e non
                  devono interferire con il gioco.
 
-   •      Buste protettive
+    •     Buste protettive
              o Bustine protettive Disney Lorcana TCG con licenza ufficiale OPPURE qualsiasi
                  bustina protettiva che rispetti le linee guida riportate in questa sezione
              o Ogni bustina deve racchiudere interamente una singola carta.
@@ -1079,13 +1079,13 @@ Se le bustine protettive devono essere cambiate a causa di un problema non criti
 incontro, i Responsabili di Torneo possono consentire che il cambio avvenga tra una partita e l'altra
 o dopo che la conclusione dell'incontro in corso.
 
-   •      Dadi
+    •     Dadi
              o   Dadi Disney Lorcana TCG con licenza ufficiale OPPURE dadi che seguono le linee
                  guida di questa sezione
-             o   Dadi poliedrici senza marchio
-             o   Tutti i dadi devono essere in buone condizioni e avere numeri facilmente
+             o Dadi poliedrici senza marchio
+             o Tutti i dadi devono essere in buone condizioni e avere numeri facilmente
                  identificabili.
-   •      Contatori Leggenda
+    •     Contatori Leggenda
              o Contatori leggenda Disney Lorcana TCG con licenza ufficiale
              o Disney Lorcana Trading Card Game Companion app
              o È possibile utilizzare segnalini personalizzati, ma devono essere facilmente
@@ -1094,18 +1094,18 @@ o dopo che la conclusione dell'incontro in corso.
              o È possibile utilizzare metodi scritti per tenere traccia della leggenda, a condizione
                  che siano approvati in base alle linee guida riportate al punto 5.2, "Note e
                  Tracciamento delle Informazioni".
-   •      Deck Case e scatole portacarte
+    •     Deck Case e scatole portacarte
              o Deck Case e scatole portacarte Disney Lorcana TCG con licenza ufficiale OPPURE
                  deck case e scatole portacarte che rispettino le linee guida in questa sezione
              o È possibile utilizzare Deck Case e scatole portacarte per riporre i propri mazzi tra
                  una partita e l'altra, ma non durante il gioco, tranne che per accedere ad altri
                  accessori approvati.
-   •      Carte con Illustrazioni Modificate
+    •     Carte con Illustrazioni Modificate
              o Le carte che presentano qualsiasi tipo di modifica possono essere utilizzate solo
                  durante i tornei di livello Base. Queste carte non possono offrire alcun vantaggio
 
                                                    25
-©Disney                                                                                  disneylorcana.com
+©Disney                                                                                     disneylorcana.com
                 competitivo o strategico né includere riferimenti ad altri giochi di carte
                 collezionabili o contenuti inappropriati, come descritto in questa sezione.
             o   I tornei Competitivi e Premier Play consentono di usare solo carte Disney Lorcana
@@ -1154,7 +1154,7 @@ promozionali.
 SEZIONE 5: INFORMAZIONI E COMUNICAZIONE
 
                                                    26
-©Disney                                                                                  disneylorcana.com
+©Disney                                                                                     disneylorcana.com
 5.1 Layout di Gioco
 
 Durante tutti i tornei Disney Lorcana TCG, i giocatori sono tenuti a mantenere un layout di gioco
@@ -1202,7 +1202,7 @@ I giocatori non possono prendere o guardare appunti durante il Draft o durante l
 mazzo Limited.
 
                                                     27
-©Disney                                                                                    disneylorcana.com
+©Disney                                                                                       disneylorcana.com
 5.3 Dispositivi Elettronici
 
 L'uso di dispositivi elettronici come smartphone, tablet e smartwatch durante gli eventi di Disney
@@ -1217,7 +1217,6 @@ avvertimenti, perdita della partita o squalifica dal torneo a qualsiasi giocator
 queste linee guida o che tenti di nascondere l'uso di qualsiasi dispositivo.
 
 5.4 Informazioni Durante il Gioco
-
 In Disney Lorcana TCG esistono due tipi di informazione: pubblica e privata. Le informazioni sono
 considerate private se si trovano in una zona a faccia in giù. Sebbene la mano non sia una zona a
 faccia in giù, è considerata un'informazione privata dal tuo avversario. Le informazioni in qualsiasi
@@ -1252,7 +1251,7 @@ totale di leggenda dopo la modifica della leggenda per quel giocatore. Ciò gara
 
 
                                                  28
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                   disneylorcana.com
 i giocatori comprendano appieno il punteggio attuale della leggenda e che eventuali discrepanze
 possano essere individuate e risolte il prima possibile, probabilmente con l'aiuto di una Lore
 Guide.
@@ -1302,7 +1301,7 @@ a risolvere eventuali incertezze con l'aiuto della Lore Guide.
 
 
                                                    29
-©Disney                                                                                   disneylorcana.com
+©Disney                                                                                      disneylorcana.com
 SEZIONE 6: LIMITI DI TEMPO
 
 6.1 Limiti di Tempo Generali
@@ -1348,7 +1347,7 @@ sono i seguenti.
     •     2 carte rimanenti: 3 secondi
 
                                                     30
-©Disney                                                                                    disneylorcana.com
+©Disney                                                                                       disneylorcana.com
 Per le scelte di Draft, i giocatori possono esaminare le loro carte per 30 secondi dopo l'apertura
 della prima bustina, con un aumento di 15 secondi dopo ogni bustina successivo.
 
@@ -1357,7 +1356,6 @@ della prima bustina, con un aumento di 15 secondi dopo ogni bustina successivo.
 SEZIONE 7: COMPORTAMENTO DEI GIOCATORI
 
 7.1 Comportamenti Vietati
-
 Al fine di garantire un ambiente sicuro, equo e inclusivo per tutti i giocatori, i seguenti
 comportamenti sono severamente vietati in tutti gli eventi Disney Lorcana TCG,
 indipendentemente dalla loro portata o da dove si trovino.
@@ -1369,14 +1367,14 @@ indipendentemente dalla loro portata o da dove si trovino.
           di giocatori, ospiti, Responsabili di Torneo, Lore Guides, spettatori o pubblico.
     •     Collusione, compreso l'accordo di manipolare i risultati delle partite o dividersi i premi.
                o La divisione dei premi può essere consentita nei tornei di livello Base e Competitivi,
-                  purché vengano seguite le seguenti linee guida:
-                      ▪ Tutti i giocatori rimasti devono accettare volontariamente la divisione
-                      ▪ La divisione deve essere segnalata a un Responsabile di Torneo prima di
-                          procedere
-                      ▪ L'accordo non deve comportare alcuna discussione o offerta relativa al
-                          risultato della partita (ad esempio, "Se ti arrendi, dividerò il premio con te").
+                   purché vengano seguite le seguenti linee guida:
+                        Tutti i giocatori rimasti devono accettare volontariamente la divisione
+                        La divisione deve essere segnalata a un Responsabile di Torneo prima di
+                           procedere
+                        L'accordo non deve comportare alcuna discussione o offerta relativa al
+                           risultato della partita (ad esempio, "Se ti arrendi, dividerò il premio con te").
                o I Responsabili di Torneo si riservano il diritto di rifiutare qualsiasi richiesta di
-                  divisione del premio.
+                   divisione del premio.
     •     Molestie, comprese molestie sessuali, linguaggio discriminatorio, intimidazioni e qualsiasi
           comportamento che faccia sentire gli altri insicuri, sgraditi o a disagio.
 
@@ -1396,17 +1394,17 @@ squadre in qualsiasi evento di Disney Lorcana TCG. Un Organizzatore del Tornei p
 qualsiasi proposta di sponsorizzazione di un giocatore rappresentato a un evento.
 
                                                      31
-©Disney                                                                                    disneylorcana.com
+©Disney                                                                                        disneylorcana.com
 Gli sponsor o le squadre coinvolti nell'uso, nel consumo o nella promozione di quanto segue sono
 severamente vietati:
 
-   •      Gioco d'azzardo
-   •      Droghe
-   •      Pornografia
-   •      Armi da fuoco
-   •      Alcol
-   •      Tabacco o cannabis
-   •      Attività illegali
+    •     Gioco d'azzardo
+    •     Droghe
+    •     Pornografia
+    •     Armi da fuoco
+    •     Alcol
+    •     Tabacco o cannabis
+    •     Attività illegali
 
 7.3 Interviste e Altri Contenuti
 
@@ -1427,9 +1425,9 @@ I giocatori non possono rifiutare di essere trasmessi come parte di una partita 
 Durante la partecipazione a interviste, partite in primo piano o altri contenuti, l'abbigliamento dei
 giocatori deve seguire queste linee guida.
 
-   •      L'abbigliamento deve essere ordinato, pulito e appropriato per la trasmissione.
-   •      I giocatori devono evitare abbigliamento casual come pigiami, indumenti strappati, ecc.
-   •      I giocatori non devono indossare abiti che includano o promuovano:
+    •     L'abbigliamento deve essere ordinato, pulito e appropriato per la trasmissione.
+    •     I giocatori devono evitare abbigliamento casual come pigiami, indumenti strappati, ecc.
+    •     I giocatori non devono indossare abiti che includano o promuovano:
                o Gesti offensivi o inappropriati
                o Riferimenti ad alcol, tabacco o droghe
                o Discorsi di incitamento all'odio o messaggi discriminatori
@@ -1444,7 +1442,7 @@ trasmissione.
 
 
                                                   32
-©Disney                                                                                 disneylorcana.com
+©Disney                                                                                    disneylorcana.com
 SEZIONE 8: INFORMAZIONI DI VIAGGIO
 
 8.1 Documentazione di Viaggio e Alloggi
@@ -1494,7 +1492,7 @@ torneo. Per avere diritto ai premi, i giocatori devono:
 
 
                                                      33
-©Disney                                                                                    disneylorcana.com
+©Disney                                                                                       disneylorcana.com
 A discrezione dell'Organizzatore del Torneo, un giocatore può essere considerato rinunciatario del
 premio se viene squalificato o dichiarato non idoneo o se non risponde all'Organizzatore del
 Torneo o non presenta la documentazione richiesta entro il termine stabilito dall'Organizzatore del
@@ -1504,4 +1502,4 @@ Torneo, che deve essere entro 90 giorni dalla conclusione dell'evento.
 
 
                                                 34
-©Disney                                                                              disneylorcana.com
+©Disney                                                                                disneylorcana.com

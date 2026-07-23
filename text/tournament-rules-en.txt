@@ -1,5 +1,5 @@
                                      Tournament Rules
-                                        Effective 06/11/2026
+                                       Effective 07/14/2026
 
 
 
@@ -13,12 +13,12 @@ All tournament participants agree to abide by the rules outlined in this documen
 may be taken if these rules aren’t followed. Other applicable documents that all participants must
 follow are available at the Disney Lorcana TCG Resources page, here. These documents include:
 
-   •      Disney Lorcana TCG Comprehensive Rules
-   •      Disney Lorcana TCG Play Correction Guidelines
-   •      Disney Lorcana TCG Organized Play Diversity & Inclusion Policy
-   •      Disney Lorcana TCG Community Code
+    •     Disney Lorcana TCG Comprehensive Rules
+    •     Disney Lorcana TCG Play Correction Guidelines
+    •     Disney Lorcana TCG Organized Play Diversity & Inclusion Policy
+    •     Disney Lorcana TCG Community Code
 
-   •      We welcome constructive feedback and suggestions regarding this document. Please
+    •     We welcome constructive feedback and suggestions regarding this document. Please
           contact us at LorcanaOP@ravensburger.com to provide yours.
 
 For a list of revisions to this document since its last publication, see the Update Summary at the
@@ -28,80 +28,80 @@ end of this document.
 
 
                                                   1
-©Disney                                                                               disneylorcana.com
-                                      CONTENTS
+©Disney                                                                                  disneylorcana.com
+                                       CONTENTS
 
-   1. TOURNAMENT DEFINITIONS
-         1.1.    Tournament Types
-         1.2.    Tournament Levels
-         1.3.    Tournament Formats
-               1.3.1.     Constructed Tournament Formats
-               1.3.2.     Limited Tournament Formats
-                     1.3.2.1.       Preconstructed
-                     1.3.2.2.       Sealed
-                     1.3.2.3.       Pack Rush
-                     1.3.2.4.       Draft
-         1.4.    Tournament Roles
-         1.5.    Eligible Players and Tournament Organizers
-         1.6.    Set Legality and Rotation
-               1.6.1.     Rotation List
-               1.6.2.     Banned Cards
-   2. TOURNAMENT ROLES
-         2.1.    Tournament Organizer
-         2.2.    Lead Lore Guide
-         2.3.    Lore Guides
-         2.4.    Scorekeeper
-         2.5.    Player
-         2.6.    Spectator
-         2.7.    Broadcast Representative
-   3. TOURNAMENT OPERATIONS
-         3.1.    Player Minimums
-         3.2.    Round Minimums
-         3.3.    Match Structure
-         3.4.    Match Procedure
-         3.5.    Out-of-Order Sequencing
-         3.6.    Intentional Draws and Concessions
-         3.7.    Takebacks
-               3.7.1.     Eligibility and Limitations
-               3.7.2.     Illegal Actions and Rules Errors
-               3.7.3.     Examples of Eligible Takebacks
-               3.7.4.     Examples of Ineligible Takebacks
-         3.8.    Deck Registration
-         3.9.    Deck Checks
-         3.10.   Dropping from a Tournament
-         3.11.   Approved Accessories
-         3.12.   Time Extensions
+    1. TOURNAMENT DEFINITIONS
+          1.1.    Tournament Types
+          1.2.    Tournament Levels
+          1.3.    Tournament Formats
+                1.3.1.     Constructed Tournament Formats
+                1.3.2.     Limited Tournament Formats
+                      1.3.2.1.       Preconstructed
+                      1.3.2.2.       Sealed
+                      1.3.2.3.       Pack Rush
+                      1.3.2.4.       Draft
+          1.4.    Tournament Roles
+          1.5.    Eligible Players and Tournament Officials
+          1.6.    Set Legality and Rotation
+                1.6.1.     Rotation List
+                1.6.2.     Banned Cards
+    2. TOURNAMENT ROLES
+          2.1.    Tournament Organizer
+          2.2.    Lead Lore Guide
+          2.3.    Lore Guides
+          2.4.    Scorekeeper
+          2.5.    Player
+          2.6.    Spectator
+          2.7.    Broadcast Representative
+    3. TOURNAMENT OPERATIONS
+          3.1.    Player Minimums
+          3.2.    Round Minimums
+          3.3.    Match Structure
+          3.4.    Match Procedure
+          3.5.    Out-of-Order Sequencing
+          3.6.    Intentional Draws and Concessions
+          3.7.    Takebacks
+                3.7.1.     Eligibility and Limitations
+                3.7.2.     Illegal Actions and Rules Errors
+                3.7.3.     Examples of Eligible Takebacks
+                3.7.4.     Examples of Ineligible Takebacks
+          3.8.    Deck Registration
+          3.9.    Deck Checks
+          3.10.   Dropping from a Tournament
+          3.11.   Approved Accessories
+          3.12.   Time Extensions
 
-                                           2
+                                            2
 ©Disney                                                       disneylorcana.com
-   4. BROADCAST
-         4.1.     Tournament Operator Rights
-         4.2.     Player Likeness Consent
-   5. INFORMATION AND COMMUNICATION
-         5.1.     Game Layout
-         5.2.     Notes and Information Tracking
-         5.3.     Electronic Devices
-         5.4.     In-Game Information
-         5.5.     Inkwell
-         5.6.     Card Naming and Descriptions
-   6. TIME LIMITS
-         6.1.     General Tournament Time Limits
-         6.2.     Limited Tournament Time Limits
-   7. PLAYER CONDUCT
-         7.1.     Prohibited Conduct
-         7.2.     Sponsors and Teams
-         7.3.     Interviews and Other Content
-   8. TRAVEL INFORMATION
-         8.1.     Travel Documentation and Accommodations
-         8.2.     Player Replacements/Alternates
-   9. PRIZING
-         9.1.     Prizing Earned
+    4. BROADCAST
+          4.1.     Tournament Operator Rights
+          4.2.     Player Likeness Consent
+    5. INFORMATION AND COMMUNICATION
+          5.1.     Game Layout
+          5.2.     Notes and Information Tracking
+          5.3.     Electronic Devices
+          5.4.     In-Game Information
+          5.5.     Inkwell
+          5.6.     Card Naming and Descriptions
+    6. TIME LIMITS
+          6.1.     General Tournament Time Limits
+          6.2.     Limited Tournament Time Limits
+    7. PLAYER CONDUCT
+          7.1.     Prohibited Conduct
+          7.2.     Sponsors and Teams
+          7.3.     Interviews and Other Content
+    8. TRAVEL INFORMATION
+          8.1.     Travel Documentation and Accommodations
+          8.2.     Player Replacements/Alternates
+    9. PRIZING
+          9.1.     Prizing Earned
 
 
 
 
-                                         3
-©Disney                                                     disneylorcana.com
+                                          3
+©Disney                                                      disneylorcana.com
 SECTION 1: TOURNAMENT DEFINITIONS
 
 1.1 Tournament Types
@@ -152,29 +152,29 @@ tournament. There are two Constructed formats: Core and Infinity.
 
 
                                                   4
-©Disney                                                                               disneylorcana.com
+©Disney                                                                                  disneylorcana.com
 1.3.1.1 Core Constructed
 
-   •      Constructed decks must contain at least 60 cards. There’s no maximum deck size, but a
+    •     Constructed decks must contain at least 60 cards. There’s no maximum deck size, but a
           player must be able to shuffle their deck in a timely manner without assistance.
-   •      Constructed decks must not contain cards from more than two ink types. For example, if a
+    •     Constructed decks must not contain cards from more than two ink types. For example, if a
           deck contains Amber and Amethyst cards, it must not contain any Emerald, Ruby,
           Sapphire, or Steel cards. Decks may contain dual-ink cards as long as they contain only the
           two ink types on those cards. For example, an Emerald and Ruby deck can’t contain a card
           that’s Emerald and Steel.
-   •      Constructed decks must not contain more than 4 of a single card as identified by its full
+    •     Constructed decks must not contain more than 4 of a single card as identified by its full
           English card name. For a character or location card, its full name is the combination of the
           card’s name and its version. Thus, cards with the same name but different version names
           are considered distinct cards. For example, a deck may contain up to 4 copies of Ariel – On
           Human Legs as well as up to 4 copies of Ariel – Spectacular Singer.
-   •      In a Core Constructed tournament, players may use only cards that are within the current
+    •     In a Core Constructed tournament, players may use only cards that are within the current
           rotation schedule to build their decks.
-   •      In a Core Constructed tournament, players must not use any cards that are banned from
+    •     In a Core Constructed tournament, players must not use any cards that are banned from
           the Core Constructed format. (See 1.6.2 “Banned Cards.”)
 
 1.3.1.2 Infinity Constructed
 
-   •      Infinity Constructed tournaments follow the same guidelines as Core Constructed
+    •     Infinity Constructed tournaments follow the same guidelines as Core Constructed
           tournaments with the following exceptions.
                o In Infinity Constructed tournaments, players may use any cards from any set as long
                    as they follow the other guidelines outlined in 1.3.1, “Constructed Tournament
@@ -188,11 +188,11 @@ tournament. There are two Constructed formats: Core and Infinity.
 product and are expected to build their decks on-site during the tournament. There are four Limited
 formats: Preconstructed, Sealed, Pack Rush, and Draft.
 
-   •      Limited decks in Sealed must contain at least 40 cards. Limited decks in Draft must contain
+    •     Limited decks in Sealed must contain at least 40 cards. Limited decks in Draft must contain
           at least 35 cards. There’s no maximum deck size, although decks are limited in size by the
           card pool they’re built from.
-   •      Limited decks aren’t restricted in how many ink types they may contain.
-   •      Limited decks may contain any number of copies of any individual card. For example, if a
+    •     Limited decks aren’t restricted in how many ink types they may contain.
+    •     Limited decks may contain any number of copies of any individual card. For example, if a
           player in a Sealed tournament opens 6 copies of Genie – The Ever Impressive, they may play
           all 6 in their deck.
 
@@ -200,7 +200,7 @@ formats: Preconstructed, Sealed, Pack Rush, and Draft.
 
 
                                                    5
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                   disneylorcana.com
            o     In a Preconstructed tournament, players are provided with a random
                  preconstructed single-player deck from the set or sets chosen for the tournament.
                  At the Tournament Organizer’s discretion, players may add cards from or exchange
@@ -241,14 +241,14 @@ formats: Preconstructed, Sealed, Pack Rush, and Draft.
            o     Players are seated in random groups called pods. The number of people in each
                  pod is at the discretion of the Tournament Organizer, although the guidelines here
                  should usually be followed.
-                      ▪ Each pod should have as close to eight players as possible.
-                      ▪ Each pod should have at least six players.
-                      ▪ There should be no more than one pod with an uneven number of players.
+                      Each pod should have as close to eight players as possible.
+                      Each pod should have at least six players.
+                      There should be no more than one pod with an uneven number of players.
 
 
 
                                                    6
-©Disney                                                                               disneylorcana.com
+©Disney                                                                                  disneylorcana.com
           o   Following these guidelines, here are the recommended pod sizes for smaller
               tournaments.
 
@@ -294,18 +294,18 @@ formats: Preconstructed, Sealed, Pack Rush, and Draft.
 
 
                                                 7
-©Disney                                                                             disneylorcana.com
+©Disney                                                                                disneylorcana.com
 1.4 Tournament Roles
 
 Tournaments may have multiple roles represented:
 
-   •      Tournament Organizer
-   •      Lead Lore Guide
-   •      Lore Guide
-   •      Scorekeeper
-   •      Player
-   •      Spectator
-   •      Broadcast Representative
+    •     Tournament Organizer
+    •     Lead Lore Guide
+    •     Lore Guide
+    •     Scorekeeper
+    •     Player
+    •     Spectator
+    •     Broadcast Representative
 
 All the above roles except Player and Spectator are considered Tournament Officials. For purposes
 of this document, “Lore Guide” refers to anyone acting as Lead Lore Guide or Lore Guide in that
@@ -315,17 +315,17 @@ tournament.
 
 Anyone is eligible to play in any Disney Lorcana TCG tournament, except:
 
-   •      Anyone currently banned from playing in Disney Lorcana TCG events;
-   •      Any Tournament Official for any event they’re a part of (Competitive and Premier Play only);
+    •     Anyone currently banned from playing in Disney Lorcana TCG events;
+    •     Any Tournament Official for any event they’re a part of (Competitive and Premier Play only);
           and
-   •      Anyone specifically prohibited from participation by Ravensburger North America
+    •     Anyone specifically prohibited from participation by Ravensburger North America
           Organized Play policy, which ensures fair play and transparency as well as mitigating
           conflicts of interest within competitive events.
 
 Anyone is eligible to serve as a Tournament Official for a Disney Lorcana TCG tournament, except:
 
-   •      Anyone currently banned from playing in Disney Lorcana TCG events and
-   •      Anyone who has played in the tournament that they want to be a Tournament Official for,
+    •     Anyone currently banned from playing in Disney Lorcana TCG events and
+    •     Anyone who has played in the tournament that they want to be a Tournament Official for,
           even if that person has dropped out of the tournament.
 
 Tournament Officials are allowed to participate in Entry-level events. Tournament Officials are
@@ -344,7 +344,7 @@ set does, regardless of when they’re released.
 
 
                                                    8
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                   disneylorcana.com
 To maintain a dynamic and balanced competition circuit, Core Constructed tournaments will
 follow a rotation schedule that phases out older sets in a structured cadence.
 
@@ -366,8 +366,8 @@ respective sets do.
              o Sets 1, 2, 3, and 4
     •     With the release of Set 13, only cards released in Set 9 and later will be legal to use in Core
           Constructed. The following sets won’t be legal in Core Constructed:
-             o Sets 1, 2, 3, and 4 (already not legal)
-             o Sets 5, 6, 7, and 8 (rotating out)
+             o Sets 1, 2, 3, and 4 (not legal in Core Constructed)
+             o Sets 5, 6, 7, and 8 (rotating out – not legal in Core Constructed)
 Additional rotations will be added in future updates to the Tournament Rules. Set rotation doesn’t
 apply to Infinity Constructed tournaments.
 
@@ -375,14 +375,11 @@ apply to Infinity Constructed tournaments.
 
 The following cards are banned in Core Constructed Tournaments:
 
-    •     Hiram Flaversham – Toymaker
-    •     Fortisphere
+    •     No current banned cards
 
 The following cards are banned in Infinity Constructed Tournaments:
 
     •     Hiram Flaversham - Toymaker
-
-Cards that are banned in Infinity Constructed Tournaments will be added to this section.
 
 
 
@@ -393,11 +390,12 @@ SECTION 2: TOURNAMENT ROLES
 The Tournament Organizer for a Disney Lorcana TCG Tournament is responsible for several tasks,
 including but not limited to the following.
 
-
-                                                     9
-©Disney                                                                                    disneylorcana.com
     •     Obtaining permission from Ravensburger to operate the tournament.
     •     Providing and furnishing a sufficient site to operate the tournament.
+
+
+                                                     9
+©Disney                                                                                      disneylorcana.com
     •     Promoting the tournament to ensure sufficient attendance.
     •     Advertising the tournament type and format for player preparation.
     •     Acquiring sufficient staff for the tournament (e.g., Lore Guides and Scorekeepers).
@@ -441,14 +439,15 @@ if a card or other game element is inadvertently destroyed or damaged during a m
 situation, the Lead Lore Guide may allow the use of a clearly identified proxy, which the Lead Lore
 Guide will supply and approve. Only Lead Lore Guides may issue proxies.
 
-
-                                                   10
-©Disney                                                                                  disneylorcana.com
 2.3 Lore Guides
 
+
+
+                                                   10
+©Disney                                                                                     disneylorcana.com
 Lore Guides are responsible for assisting players with rules questions and resolving errors made
 during play. They’re expected to be impartial and to avoid assisting players with in-game strategy.
-Lore Guide’s shouldn’t prevent play mistakes from happening but instead should pause a match
+Lore Guides shouldn’t prevent play mistakes from happening but instead should pause a match
 only if an illegal action is taken or if a situation requires de-escalation. Lore Guides should hold
 themselves to a high standard of sporting behavior and should exemplify this to players and
 spectators whenever serving as a tournament official.
@@ -466,20 +465,20 @@ determining the appropriate action.
 
 Players in Disney Lorcana TCG tournaments have the following responsibilities.
 
-   •      Always being respectful and courteous toward Tournament Officials, other players, and
+    •     Always being respectful and courteous toward Tournament Officials, other players, and
           spectators.
-   •      Always refraining from unsporting conduct.
-   •      Arriving for the tournament and for all matches punctually.
-   •      Supplying all required tournament materials, including an appropriate deck for Constructed
+    •     Always refraining from unsporting conduct.
+    •     Arriving for the tournament and for all matches punctually.
+    •     Supplying all required tournament materials, including an appropriate deck for Constructed
           tournaments. This can also include dice, a playmat, pen and paper, and non-marked card
-          sleeves. (See 3.10, “Approved Accessories.”)
-   •      For Competitive and Premier Play Constructed tournaments, submitting their deck list via
+          sleeves. (See 3.11, “Approved Accessories.”)
+    •     For Competitive and Premier Play Constructed tournaments, submitting their deck list via
           the approved method given by the Tournament Organizer.
-   •      Verifying that their match results are reported promptly and accurately.
-   •      Properly communicating with their opponent to the best of their ability.
-   •      Promptly notifying Tournament Officials of any rules or policy violations observed, whether
+    •     Verifying that their match results are reported promptly and accurately.
+    •     Properly communicating with their opponent to the best of their ability.
+    •     Promptly notifying Tournament Officials of any rules or policy violations observed, whether
           during their own matches or another player's matches as they occur.
-   •      Abiding by the rules of this document, the Disney Lorcana TCG Comprehensive Rules, and
+    •     Abiding by the rules of this document, the Disney Lorcana TCG Comprehensive Rules, and
           the Disney Lorcana TCG Play Correction Guidelines as well as by all rulings made by Lore
           Guides.
 
@@ -487,15 +486,13 @@ Any assistance given by a Lore Guide does not remove these responsibilities.
 
 2.6 Spectator
 
-
-
-
-                                                   11
-©Disney                                                                                disneylorcana.com
 Spectators are expected to allow Disney Lorcana TCG tournaments to proceed unaffected by their
 observation. Any person present at a Disney Lorcana TCG event who isn’t a Tournament Official or
 actively participating in an in-progress match is considered a Spectator.
 
+
+                                                   11
+©Disney                                                                                   disneylorcana.com
 Spectators are expected to remain silent and unobtrusive while matches proceed. If a spectator
 observes a rule violation, they should ask the players to pause their game while the spectator
 notifies a Lore Guide. The spectator shouldn’t reveal any details of the perceived violation to the
@@ -538,13 +535,14 @@ SECTION 3: TOURNAMENT OPERATIONS
 
 In order for a tournament to qualify as an official Disney Lorcana TCG tournament, a minimum of
 eight players must participate. The tournament is no longer formally approved by Ravensburger
-
-
-                                                   12
-©Disney                                                                                  disneylorcana.com
 and should be reported as canceled if at least eight participants aren’t present and prepared to
 compete.
 
+
+
+
+                                                   12
+©Disney                                                                                     disneylorcana.com
 Only officially recognized Ravensburger-approved tournaments, such as Prerelease events, Set
 Championships, and authorized Tournament Organizer events, are subject to this requirement.
 This requirement doesn’t apply to informal events that aren’t part of these activities.
@@ -571,9 +569,9 @@ on the number of players in the first round, the following number of rounds are 
                               9-16               4               Top 4
                              17-32               5               Top 8
                              33-64               6               Top 8
-                             65-128              7               Top 8
-                            129-226              8               Top 8
-                              227+               9               Top 8
+                            65-128               7               Top 8
+                           129-226               8               Top 8
+                             227+                9               Top 8
 Top Cut is required only for Competitive and Premier Play tournaments.
 
 3.3 Match Structure
@@ -581,97 +579,95 @@ Top Cut is required only for Competitive and Premier Play tournaments.
 Any Disney Lorcana TCG tournaments must follow the Match Structure guidelines listed here for
 each type of event.
 
-   •      Entry-level and Competitive Play
+    •     Entry-level and Competitive Play
               o Disney Lorcana TCG Entry-level and Competitive tournaments may use a variety of
                   Match Structures for their events. These match structures are decided by the
                   Tournament Organizer. Ravensburger encourages all Competitive events with 64
                   players or more to use the Premier Play Match Structure below.
-
-
-
+              o Note that some events, such as Set Championships, may have additional
+                  requirements for Match Structure in order to be considered a formally approved
+                  Ravensburger tournament.
+              o Any Entry-level and Competitive-level tournaments that use a Best-of-Three (Bo3)
+                  format are encouraged to follow the Premier Play Match Structure.
 
                                                 13
-©Disney                                                                              disneylorcana.com
-             o   Note that some events, such as Set Championships, may have additional
-                 requirements for Match Structure in order to be considered a formally approved
-                 Ravensburger tournament.
-             o Any Entry-level and Competitive-level tournaments that use a Best-of-Three (Bo3)
-                 format are encouraged to follow the Premier Play Match Structure.
-   •      Premier Play
+©Disney                                                                               disneylorcana.com
+    •     Premier Play
              o Disney Lorcana TCG Premier Play tournaments are played using a Best-of-Three
                  (Bo3) format. Players will play a series of games, up to a maximum of three, with the
                  first player winning two games determined as the winner of the match.
              o Three (3) match points are awarded for each match victory. Zero (0) match points
                  are awarded for each match loss. One (1) match point is awarded for each match
                  draw.
-                      ▪ Prior to the match beginning and before any action has occurred in the
+                       Prior to the match beginning and before any action has occurred in the
                           match, the two players in the match must randomly decide which player has
                           the choice of playing first or drawing first.
                               • Any mutually agreed upon method may be used, such as rolling dice
-                                  or flipping a coin. If players can’t agree on a method, a Lore Guide
-                                  will decide the method for the match.
-                      ▪ The player who has been determined to make the decision will choose
+                                   or flipping a coin. If players can’t agree on a method, a Lore Guide
+                                   will decide the method for the match.
+                       The player who has been determined to make the decision will choose
                           whether to play first or draw first in game one.
                               • The decision to play first or draw first in either game one or any game
-                                  in a match must be made before either player sees their opening
-                                  hand for that game.
-                             •    If a player is unable to decide whether to play first or draw first,
-                                  they’re presumed to be playing first in game one.
-                     ▪ The player who plays first in each game doesn’t draw a card at the start of
-                         their first turn.
-                     ▪ Once a game is completed, the player who lost the most recent game
-                         chooses whether to play first or draw in the next game of the match.
-             o   In Disney Lorcana TCG Premier Play tournaments, there may be Single Elimination
+                                   in a match must be made before either player sees their opening
+                                   hand for that game.
+                              • If a player is unable to decide whether to play first or draw first,
+                                   they’re presumed to be playing first in game one.
+                       The player who plays first in each game doesn’t draw a card at the start of
+                          their first turn.
+                       Once a game is completed, the player who lost the most recent game
+                          chooses whether to play first or draw in the next game of the match.
+             o In Disney Lorcana TCG Premier Play tournaments, there may be Single Elimination
                  brackets for top players at the event. For Single Elimination brackets, matches are
                  played using a Best-of-Three (Bo3) format. To be awarded a victory for the match, a
                  player must win two of the three games of the match.
-                     ▪ Prior to the match beginning, and before any action has occurred in the
-                         match, the player who’s seeded higher from the Swiss Rounds has the
-                         choice of playing first or drawing first in game one.
-                             • Once a game is completed, the player who lost the most recent
-                                  game chooses whether to play or draw first in the next game of the
-                                  match.
-                             •   The decision to play or draw in each game must be made before
-                                 either player sees their opening hand for each game.
-
-                                                   14
-©Disney                                                                                 disneylorcana.com
-                             •    If a player is unable to decide, they’re presumed to be playing first in
-                                  the next game.
-             o   Matches are recorded by the number of games won-lost-drawn. Any mutually
+                       Prior to the match beginning, and before any action has occurred in the
+                          match, the player who’s seeded higher from the Swiss Rounds has the
+                          choice of playing first or drawing first in game one.
+                              • Once a game is completed, the player who lost the most recent
+                                   game chooses whether to play or draw first in the next game of the
+                                   match.
+                              • The decision to play or draw in each game must be made before
+                                   either player sees their opening hand for each game.
+                              • If a player is unable to decide, they’re presumed to be playing first in
+                                   the next game.
+             o Matches are recorded by the number of games won-lost-drawn. Any mutually
                  agreed upon draw games or unfinished games are recorded as draws in the match.
                  For example, a match where a player wins two games in a row is recorded as 2-0-0.
+
+                                                   14
+©Disney                                                                                    disneylorcana.com
                  If a player wins one game of a match and time runs out in the round with no winner
                  in the End-of-Round procedure, the match is recorded as 1-0-1 in favor of the player
                  who won one game.
-                      ▪ Single-Elimination brackets may have different End-of-Round procedures.
+                       Single-Elimination brackets may have different End-of-Round procedures.
 
 3.4 Match Procedure
 
 Pregame
 
-   •      Before a game begins, players first decide which player is to choose whether to play first or
+    •     Before a game begins, players first decide which player is to choose whether to play first or
           draw first, as described in section 3.3. Each player shuffles their deck. Then, each player
           offers their deck to their opponent, who then has the opportunity to shuffle the deck further
           or cut the deck. Once this is completed, each player draws their opening 7-card hand.
               o For every game of a match, each player has one opportunity to alter their hand
                   before any action has occurred. For a more detailed breakdown, see the Disney
-                  Lorcana TCG Comprehensive Rules, found here.
-   •      Pile Counting
+                  Lorcana TCG Comprehensive Rules on the Disney Lorcana TCG Resources page,
+                  here.
+    •     Pile Counting
               o Pile Counting is a method some players use to verify the exact card count in their
                   deck. In Disney Lorcana TCG tournaments, Pile Counting is permitted under the
                   following conditions.
-                       ▪ It must be done prior to shuffling.
-                       ▪ It may be done only before the start of each game, not during or after
+                        It must be done prior to shuffling.
+                        It may be done only before the start of each game, not during or after
                           gameplay has started. Pile Counting may be done only once per game.
-                       ▪ It must not be used to manipulate the deck in any way.
+                        It must not be used to manipulate the deck in any way.
               o Once the player finishes the pile count for the game that is about to begin, they
                   must shuffle their deck and give their opponent a chance to shuffle the deck further
                   or cut the deck.
 
 Once this process has been completed, the first player begins their first turn. They won’t draw a
 card during their Start of Turn Phase for this turn. For a more detailed breakdown, see the Disney
-Lorcana TCG Comprehensive Rules, found here.
+Lorcana TCG Comprehensive Rules on the Disney Lorcana TCG Resources page, here.
 
 End of Match
 
@@ -680,14 +676,14 @@ make sure that it’s appropriately reported to the Tournament Organizer using t
 reporting method. This could be physical result slips or digital platforms such as the Ravensburger
 Play Hub.
 
-
-
-                                                    15
-©Disney                                                                                   disneylorcana.com
 Before submitting results, players must verify that the winner and the match outcomes (2-0-0, 2-1-
 0, 1-1-1, 0-0-3) are accurate. Both players must confirm the report with the Lore Guide or
 Tournament Organizer when requested.
 
+
+
+                                                   15
+©Disney                                                                                    disneylorcana.com
 The Tournament Organizer must be notified right away of any disputes or missing reports. Players
 who don’t accurately report a match's result could cause disruptions to the tournament. Penalties
 for inaccurate reporting, including a match loss or disqualification, may be issued.
@@ -695,20 +691,20 @@ for inaccurate reporting, including a match loss or disqualification, may be iss
 When time is called in a round, any games still in progress will immediately proceed to the end-of-
 match procedure, as follows.
 
-   •      The active player finishes their turn. This is known as turn 0 and doesn’t count toward the
+    •     The active player finishes their turn. This is known as turn 0 and doesn’t count toward the
           five total turns remaining in the game.
-   •      After that turn, there are five total turns remaining in the game.
-   •      Regardless of which player’s turn it is, every turn taken after the turn in which time was
+    •     After that turn, there are five total turns remaining in the game.
+    •     Regardless of which player’s turn it is, every turn taken after the turn in which time was
           called in a round counts toward the five-turn total. This often converts to two turns for the
           active player when time is called and three turns for the inactive player.
-   •      If the game ends during these turns, the match is reported following the normal rules.
-   •      If neither player has won the game at the end of turn five and one player has more game
+    •     If the game ends during these turns, the match is reported following the normal rules.
+    •     If neither player has won the game at the end of turn five and one player has more game
           wins than the other, the player with the higher number wins the match. Unfinished games
           are recorded as draws.
-   •      Swiss Rounds: If neither player has won the game at the end of turn five, award match
+    •     Swiss Rounds: If neither player has won the game at the end of turn five, award match
           points as described in 3.3, “Match Structure.” The match is a draw if, at the end of turn five,
           neither player has won any games or if players have won an equal number of games.
-   •      Single-Elimination Rounds: When time is called in the round, if a player has more game
+    •     Single-Elimination Rounds: When time is called in the round, if a player has more game
           wins than their opponent, they win the match. If both players are tied for game wins, they
           play five additional turns. A new game may be started to complete these five additional
           turns if one isn’t in progress. If neither player has won the game at the end of turn five and
@@ -724,17 +720,16 @@ game state as taking the actions in the correct order would have led to. Such ou
 sequencing is allowed, with the following restrictions.
     • All actions taken must be legal.
     • Any action taken out of order can’t affect other actions in different ways depending on the
-        order of operations.
+       order of operations.
     • This can’t be used to gain any kind of information from the opponent.
 
-
-
-                                                    16
-©Disney                                                                                   disneylorcana.com
 For example, a player exerting in their inkwell before revealing the card they intend to play with that
 ink isn’t technically following the correct order, but they still arrive at the same legal state of the
 card being played. However, if a player has an effect in play that reads, “At the start of your turn,
 discard a card” and they draw their card for that turn and then try to discard that card, out-of-order-
+
+                                                    16
+©Disney                                                                                     disneylorcana.com
 sequencing doesn’t apply. This is because the action of discarding a card would affect a different
 set of cards depending on the order of the actions. In this case, corrective action may be
 appropriate.
@@ -772,19 +767,20 @@ take a different action.
 
 A play may consist of:
 
-   •      A single action (e.g., challenging with a character), or
-   •      A batch of several actions performed as part of a single declared Out-of-Order Sequence
+    •     A single action (e.g., challenging with a character), or
+    •     A batch of several actions performed as part of a single declared Out-of-Order Sequence
           (e.g., questing with multiple characters at the same time).
 
 During a Takeback, the entirety of such a declared sequence is considered one play.
 
-
-                                                  17
-©Disney                                                                                disneylorcana.com
 3.7.1 Eligibility and Limitations
 
     •     A Takeback may apply only to the most recent play made by the player during their turn.
     •     A play can’t be taken back if any subsequent play or action has occurred.
+
+
+                                                  17
+©Disney                                                                                   disneylorcana.com
     •     Takebacks are never automatic and must be authorized by a Lore Guide.
     •     Players must not perform Takebacks without Lore Guide approval.
 
@@ -827,16 +823,15 @@ The following are examples of when a Lore Guide may decide a Takeback is allowed
     •     A player chooses a character for an action and immediately says they want to choose a
           different character instead.
     •     A player reveals a card to ink and immediately says they want to ink a different card instead.
-
+    •     A player declares a challenge against one character and immediately changes their mind
+          before resolution.
+    •     A player declares a challenge with multiple characters as a group, then immediately says
+          they want to quest instead.
 
 
                                                    18
-©Disney                                                                                   disneylorcana.com
-   •      A player declares a challenge against one character and immediately changes their mind
-          before resolution.
-   •      A player declares a challenge with multiple characters as a group, then immediately says
-          they want to quest instead.
-   •      A player plays Let the Storm Rage On, which reads “Deal 2 damage to chosen character.
+©Disney                                                                                      disneylorcana.com
+    •     A player plays Let the Storm Rage On, which reads “Deal 2 damage to chosen character.
           Draw a card.” They choose an opposing Cogsworth – Grandfather Clock for the damage, is
           informed he has Ward, and immediately requests a Takeback, before drawing a card.
 
@@ -844,11 +839,11 @@ The following are examples of when a Lore Guide may decide a Takeback is allowed
 
 The following are examples where a Lore Guide must not authorize a Takeback:
 
-   •      A player chooses a character for an action, resolves a triggered effect that draws a card,
+    •     A player chooses a character for an action, resolves a triggered effect that draws a card,
           and then requests a Takeback after realizing the outcome was unfavorable.
-   •      A player performs multiple separate challenges sequentially and then requests to undo all
+    •     A player performs multiple separate challenges sequentially and then requests to undo all
           of them.
-   •      A player inks a card and passes the turn. Their opponent takes an action, and the player
+    •     A player inks a card and passes the turn. Their opponent takes an action, and the player
           then requests to undo the inking decision.
 
 3.8 Deck Registration
@@ -878,8 +873,8 @@ page, here.
 
 
 
-                                                   19
-©Disney                                                                                 disneylorcana.com
+                                                  19
+©Disney                                                                                   disneylorcana.com
 3.9 Deck Checks
 
 Lore Guides at Competitive and Premier Play tournaments will perform Deck Checks where
@@ -921,16 +916,16 @@ tournament for failing to comply with such a request.
 
 Approved accessories are as follows.
 
-   •      Playmats
+    •     Playmats
               o Officially licensed Disney Lorcana TCG Playmats OR any Playmats that follow the
                  guidelines in this section
               o All playmats must be clean, rest flat on the table, and not interfere with gameplay.
-   •      Deck Sleeves
+    •     Deck Sleeves
 
 
 
-                                                   20
-©Disney                                                                                disneylorcana.com
+                                                  20
+©Disney                                                                                   disneylorcana.com
              o   Officially licensed Disney Lorcana TCG Deck Sleeves OR any Deck Sleeves that
                  follow the guidelines in this section
              o   Each sleeve must enclose a single card entirely.
@@ -947,25 +942,25 @@ If sleeves need to be changed for a non-urgent issue that is found during a matc
 Officials may allow the change to be made between games or after the current match has
 concluded.
 
-   •      Dice
-             o   Officially licensed Disney Lorcana TCG Dice OR Dice that follow the guidelines in
-                 this section
-             o Non-branded, polyhedral dice
-             o All dice must be in good condition and have easily identifiable numbers.
-   •      Lore Counters
-             o Officially licensed Disney Lorcana TCG Lore Counters
-             o Disney Lorcana Trading Card Game Companion app
-             o Custom Lore Counters may be used but must be an easily identifiable object and
-                 can’t be deceptive or confusing to players or Tournament Officials.
-             o Written methods may be used to track Lore, provided they’re approved using the
-                 guidelines in 5.2, “Notes and Information Tracking.”
-   •      Deck Cases and Storage Boxes
-             o Officially licensed Disney Lorcana TCG Deck Cases and Storage Boxes OR Deck
-                 Cases and Storage Boxes that follow the guidelines in this section
-             o Deck Cases and Storage Boxes may be used to store decks between games or
-                 matches but must not be used while gameplay is in progress, except to access
-                 another approved accessory.
-   •      Altered Artwork Cards
+    •     Dice
+             o    Officially licensed Disney Lorcana TCG Dice OR Dice that follow the guidelines in
+                  this section
+              o Non-branded, polyhedral dice
+              o All dice must be in good condition and have easily identifiable numbers.
+    •     Lore Counters
+              o Officially licensed Disney Lorcana TCG Lore Counters
+              o Disney Lorcana Trading Card Game Companion app
+              o Custom Lore Counters may be used but must be an easily identifiable object and
+                  can’t be deceptive or confusing to players or Tournament Officials.
+              o Written methods may be used to track Lore, provided they’re approved using the
+                  guidelines in 5.2, “Notes and Information Tracking.”
+    •     Deck Cases and Storage Boxes
+              o Officially licensed Disney Lorcana TCG Deck Cases and Storage Boxes OR Deck
+                  Cases and Storage Boxes that follow the guidelines in this section
+              o Deck Cases and Storage Boxes may be used to store decks between games or
+                  matches but must not be used while gameplay is in progress, except to access
+                  another approved accessory.
+    •     Altered Artwork Cards
               o Cards that feature any sort of alteration on the card may be used only during Entry-
                   level tournaments. These cards can’t offer any competitive or strategic advantage
                   or include references to other trading card games or any unsuitable content,
@@ -977,7 +972,7 @@ concluded.
 3.12 Time Extensions
 
                                                   21
-©Disney                                                                                 disneylorcana.com
+©Disney                                                                                   disneylorcana.com
 If a Tournament Official pauses a match for more than 1 minute while the round is being played,
 they should issue a time extension equal to the time the match was paused. For Deck Checks, the
 time extension should equal the time it took to perform the check plus 3 minutes.
@@ -1017,19 +1012,18 @@ SECTION 5: INFORMATION AND COMMUNICATION
 During all Disney Lorcana TCG tournaments, players are required to maintain a clear and
 consistent Game Layout to support fair play and clarity for both players and Tournament Officials.
 
-   •      Characters, items, and locations must be positioned in front of the player’s inkwell from the
+    •     Characters, items, and locations must be positioned in front of the player’s inkwell from the
           opponent’s perspective. Characters that have moved to locations should be clearly
           identified as at the location they’ve moved to.
-   •      A player’s inkwell isn’t required to be placed close to the edge of the table; it may be
+    •     A player’s inkwell isn’t required to be placed close to the edge of the table; it may be
           positioned to the left, right, or further back in the play area, as long as characters, items and
           locations are always positioned in front of the inkwell.
 
 
 
-
                                                      22
-©Disney                                                                                    disneylorcana.com
-   •      Game Layout must remain clear and unambiguous throughout the game and not disrupt
+©Disney                                                                                       disneylorcana.com
+    •     Game Layout must remain clear and unambiguous throughout the game and not disrupt
           gameplay or lead to any uncertainty about the game’s current state.
 
 As long as the Game Layout is clear and understandable to all players and Tournament Officials,
@@ -1078,7 +1072,7 @@ considered private if it exists in any facedown zone. Although the hand isn’t 
 
 
                                                   23
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                    disneylorcana.com
 considered private information from your opponent. Information in any other zone is considered
 public.
 
@@ -1127,7 +1121,7 @@ other; the same must also be true for exerted cards in that player’s inkwell.
 
 
                                                   24
-©Disney                                                                                 disneylorcana.com
+©Disney                                                                                    disneylorcana.com
 A player must leave cards that they put into their inkwell faceup during the turn they were put there.
 When that turn ends, the player must turn those cards (and any other faceup cards in their inkwell)
 facedown.
@@ -1146,10 +1140,10 @@ immediately. Lore Guides have the final authority on whether a description is sp
 satisfy the ability’s requirements. Players are encouraged to resolve any uncertainties with the Lore
 Guide's assistance.
 
-   •      Acceptable
+    •     Acceptable
              o “Stitch” or “The character that lets you exert characters you play that cost 2 or
                 less ink”
-   •      Unacceptable
+    •     Unacceptable
              o “That one card with the guitar on it” or “The blue card”
 
 
@@ -1177,7 +1171,7 @@ previous round would have ended shouldn’t be issued penalties for late arrival
 
 
                                                   25
-©Disney                                                                                 disneylorcana.com
+©Disney                                                                                    disneylorcana.com
 The time limits for deck construction and registration, if being used, at Competitive or Premier Play
 events are as follows.
 
@@ -1209,6 +1203,7 @@ increasing by 15 seconds after each subsequent pack.
 SECTION 7: PLAYER CONDUCT
 
 7.1 Prohibited Conduct
+
 To ensure a safe, fair, and inclusive environment for all players, the following conduct is strictly
 prohibited at all Disney Lorcana TCG events, regardless of scale or setting.
 
@@ -1218,18 +1213,18 @@ prohibited at all Disney Lorcana TCG events, regardless of scale or setting.
     •     Unsporting conduct, including disrespectful or disruptive behavior toward players, guests,
           Tournament Officials, Lore Guides, spectators, or the public.
     •     Collusion, including agreeing to manipulate match outcomes or share prizes.
-              o Prize Splitting may be allowed at Entry-level and Competitive tournaments so long
+             o Prize Splitting may be allowed at Entry-level and Competitive tournaments so long
                  as the following guidelines are followed:
-                      ▪ All remaining players must voluntarily agree to the split
+                       All remaining players must voluntarily agree to the split
 
 
                                                    26
-©Disney                                                                                  disneylorcana.com
-                     ▪   The split must be reported to the Tournament Official before splitting
-                     ▪   The agreement must not involve any discussion or offer related to match
+©Disney                                                                                     disneylorcana.com
+                        The split must be reported to the Tournament Official before splitting
+                        The agreement must not involve any discussion or offer related to match
                          outcome (e.g., “If you concede, I’ll split the prize with you”).
              o Tournament Officials reserve the right to deny any Prize Split requests.
-   •      Harassment, including sexual harassment, discriminatory language, intimidation, and any
+    •     Harassment, including sexual harassment, discriminatory language, intimidation, and any
           behavior that makes others feel unsafe, unwelcome, or uncomfortable.
 
 Violations of this policy may result in penalties ranging from warnings to removal from the event
@@ -1240,6 +1235,7 @@ For more information on Prohibited Conduct, see the Disney Lorcana TCG Play Corr
 Guidelines, available at the Disney Lorcana TCG Resources page, found here.
 
 7.2 Sponsors and Teams
+
 Sponsors or teams of players are subject to prior approval and a discretionary evaluation by the
 Tournament Organizer to be allowed to be represented as sponsors or teams at any Disney
 Lorcana TCG event. A Tournament Organizer may reject any proposed sponsorship of a player
@@ -1248,13 +1244,13 @@ being represented at an event.
 Sponsors or teams involved in the use, consumption, or promotion of the following are strictly
 prohibited:
 
-   •      Gambling
-   •      Drugs
-   •      Pornography
-   •      Firearms
-   •      Alcohol
-   •      Tobacco or cannabis
-   •      Unlawful activity
+    •     Gambling
+    •     Drugs
+    •     Pornography
+    •     Firearms
+    •     Alcohol
+    •     Tobacco or cannabis
+    •     Unlawful activity
 
 7.3 Interviews and Other Content
 
@@ -1272,15 +1268,15 @@ Organizer.
 
 
                                                  27
-©Disney                                                                                disneylorcana.com
+©Disney                                                                                  disneylorcana.com
 Players can’t decline being broadcast as part of a featured match.
 
 During participation in interviews, featured matches, or other content, player attire must follow
 these guidelines.
 
-   •      Clothing must be neat, clean, and appropriate for broadcast.
-   •      Players should avoid casual attire such as pajamas, torn clothing, etc.
-   •      Players must not wear clothing that includes or promotes:
+    •     Clothing must be neat, clean, and appropriate for broadcast.
+    •     Players should avoid casual attire such as pajamas, torn clothing, etc.
+    •     Players must not wear clothing that includes or promotes:
               o Offensive or inappropriate gestures
               o Alcohol, tobacco, or drug references
               o Hate speech or discriminatory messages
@@ -1295,7 +1291,6 @@ Final discretion on clothing rests with the Tournament Organizer or Broadcast Re
 SECTION 8: TRAVEL INFORMATION
 
 8.1 Travel Documentation and Accommodations
-
 Players are solely responsible for obtaining and maintaining any and all travel documentation
 necessary to attend and participate in Disney Lorcana TCG events, including passports, travel
 permits, and entry visas. It’s the player’s obligation to ensure these documents are valid and
@@ -1321,7 +1316,7 @@ Organizer may replace them with an alternate player. The alternate is given the 
 
 
                                                  28
-©Disney                                                                               disneylorcana.com
+©Disney                                                                                  disneylorcana.com
 Travel Accommodations, current position in a tournament, and/or the prizing linked to that player’s
 current placement.
 
@@ -1334,11 +1329,11 @@ SECTION 9: PRIZING
 Prizes awarded at Disney Lorcana TCG tournaments are contingent upon adherence to all
 tournament rules. To be eligible for prizing, players must:
 
-   •      Meet all eligibility conditions and any additional restrictions specified by the Tournament
+    •     Meet all eligibility conditions and any additional restrictions specified by the Tournament
           Organizer;
-   •      Abide by all event regulations, guidelines, and conduct policies during participation in the
+    •     Abide by all event regulations, guidelines, and conduct policies during participation in the
           event; and
-   •      Fill out any necessary documentation as requested by the Tournament Organizer (such as
+    •     Fill out any necessary documentation as requested by the Tournament Organizer (such as
           waivers or identification).
 
 At the Tournament Organizer’s discretion, a player may be considered to have forfeited their prizing
@@ -1350,4 +1345,4 @@ days of the event’s conclusion.
 
 
                                                    29
-©Disney                                                                                 disneylorcana.com
+©Disney                                                                                    disneylorcana.com

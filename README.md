@@ -87,10 +87,10 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-EN.pdf) ([as text](text/tournament-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-DE.pdf) ([as text](text/tournament-rules-de.txt))
-- [ITALIANO](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
-- [Français](files_disneylorcana_com/Tournament-Rules-6.11.2026_Update-FR.pdf) ([as text](text/tournament-rules-fr.txt))
+- [ENGLISH](files_disneylorcana_com/Tournament-Rules-7.14.2026_Update_EN.pdf) ([as text](text/tournament-rules-en.txt))
+- [DEUTSCH](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-DE.pdf) ([as text](text/tournament-rules-de.txt))
+- [ITALIANO](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
+- [Français](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-FR.pdf) ([as text](text/tournament-rules-fr.txt))
 
 ### CCQ Event Term Sheet
 

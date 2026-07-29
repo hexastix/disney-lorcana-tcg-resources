@@ -4,6 +4,17 @@
 *from https://www.disneylorcana.com/en-US/resources*
 
 
+## [Format Coconut] Rules and Documents
+
+### [Format Coconut] Rules
+
+- [English](files_disneylorcana_com/FormatCoconut_Rules.pdf)
+
+### [Format Coconut] Beta Coconut Cards List
+
+- [English](files_disneylorcana_com/FormatCoconut_BetaCoconutCards.pdf)
+
+
 ## Card Set Release Notes
 
 ### Attack of the Vine! Set Notes

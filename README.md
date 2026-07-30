@@ -88,13 +88,32 @@
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine_OP-Kit-Instructions_EN.pdf)
 
+### Attack of the Vine! Set Championship Instructions
+
+- [English](files_disneylorcana_com/Attack-of-the-Vine_Set-Championships_Event-Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Attack-of-the-Vine_OPChampionships_Event%20Instructions-DE.pdf)
+- [Français](files_disneylorcana_com/Attack-of-the-Vine_OPChampionships_Event%20Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/Attack-of-the-Vine_OPChampionships_Event%20Instructions-IT.pdf)
+
 ### Evergreen Collection Quest Organizer Instructions
 
 - [English](files_disneylorcana_com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf)
 
-### Attack of the Vine! Set Championship Instructions
+### Wilds Unknown Set Championship Instructions
 
-- [English](files_disneylorcana_com/Attack-of-the-Vine_Set-Championships_Event-Instructions_EN.pdf)
+- [English](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf)
+- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
+- [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
+- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
+- [Español](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-Spanish.pdf)
+
+### Wilds Unknown OP Kit Instructions
+
+- [English](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-EN.pdf)
+- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
+- [Français : à venir](https://www.disneylorcana.com/en-US/resources)
+- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OP%20Kit%20Instructions-IT.pdf)
+- [español](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-ES.pdf)
 
 ### Tournament Rules
 
@@ -116,22 +135,6 @@
 - [Deutsch](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_DE.pdf)
 - [Français](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_FR.pdf)
 - [Italiano](files_disneylorcana_com/Disney%20Lorcana%20CORE_2026_IT.pdf)
-
-### Wilds Unknown OP Kit Instructions
-
-- [English](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-EN.pdf)
-- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
-- [Français : à venir](https://www.disneylorcana.com/en-US/resources)
-- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OP%20Kit%20Instructions-IT.pdf)
-- [español](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-ES.pdf)
-
-### Wilds Unknown Set Championship Instructions
-
-- [English](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf)
-- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
-- [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
-- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
-- [Español](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-Spanish.pdf)
 
 ### Play Correction Guidelines
 

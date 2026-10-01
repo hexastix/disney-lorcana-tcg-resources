@@ -95,10 +95,6 @@
 - [Français](files_disneylorcana_com/Attack-of-the-Vine_OPChampionships_Event%20Instructions-FR.pdf)
 - [Italiano](files_disneylorcana_com/Attack-of-the-Vine_OPChampionships_Event%20Instructions-IT.pdf)
 
-### Evergreen Collection Quest Organizer Instructions
-
-- [English](files_disneylorcana_com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf)
-
 ### Wilds Unknown Set Championship Instructions
 
 - [English](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-EN.pdf)
@@ -152,6 +148,16 @@
 - [Italiano](files_disneylorcana_com/RAV_ResultsSlip_A4_IT.pdf)
 - [Español](files_disneylorcana_com/RAV_ResultsSlip_A4_ES.pdf)
 - [English A4 Size](files_disneylorcana_com/RAV_ResultsSlip_A4_EN.pdf)
+
+### Disneyland Paris Collection Quest
+
+- [ENGLISH](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_EN.pdf)
+- [GERMAN](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_DE%20%281%29.pdf)
+- [ITALIAN](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_IT_r3.pdf)
+
+### Evergreen Collection Quest Organizer Instructions
+
+- [English](files_disneylorcana_com/Evergreen%20Collection%20Quest%20Organizer%20Instructions.pdf)
 
 
 ## Policies

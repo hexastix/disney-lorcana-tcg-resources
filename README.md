@@ -84,6 +84,13 @@
 
 ## Event Rules and Documents
 
+### Hyperia City OP Kit Instructions
+
+- [English](files_disneylorcana_com/Hyperia_OP%20Kit%20Instructions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Hyperia_OP%20Kit%20Instructions_DE.pdf)
+- [Français](files_disneylorcana_com/Hyperia_OP%20Kit%20Instructions_FR.pdf)
+- [Italiano](files_disneylorcana_com/Hyperia_OP%20Kit%20Instructions_IT.pdf)
+
 ### Attack of the Vine! OP Kit Instructions
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine_OP-Kit-Instructions_EN.pdf)
@@ -102,14 +109,6 @@
 - [FRANÇAIS](files_disneylorcana_com/Contrees%20Inconnues_OPChampionships_Event%20Instructions-FR.pdf)
 - [Italiano](files_disneylorcana_com/Lande-Sconosciute_OPChampionships_Event%20Instructions-IT.pdf)
 - [Español](files_disneylorcana_com/Wilds-Unknown_OPChampionships_Event%20Instructions-Spanish.pdf)
-
-### Wilds Unknown OP Kit Instructions
-
-- [English](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-EN.pdf)
-- [Deutsch: kommt bald](https://www.disneylorcana.com/en-US/resources)
-- [Français : à venir](https://www.disneylorcana.com/en-US/resources)
-- [Italiano](files_disneylorcana_com/Lande-Sconosciute_OP%20Kit%20Instructions-IT.pdf)
-- [español](files_disneylorcana_com/Wilds-Unknown_OP%20Kit%20Instructions-ES.pdf)
 
 ### Tournament Rules
 

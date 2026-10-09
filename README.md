@@ -72,7 +72,7 @@
 
 ### Comprehensive Rules
 
-- [English](files_disneylorcana_com/Comprehensive-Rules_2.2.0-EN.pdf) ([as text](text/comprehensive-rules-en.txt))
+- [English](files_disneylorcana_com/CRUpdate_EN_Oct-2026.pdf) ([as text](text/comprehensive-rules-en.txt))
 - [DEUTSCH](files_disneylorcana_com/CRUpdate_2.2.0_DE.pdf) ([as text](text/comprehensive-rules-de.txt))
 - [FRANÇAIS](files_disneylorcana_com/CRUpdate_2.2.0-FR.pdf) ([as text](text/comprehensive-rules-fr.txt))
 - [ITALIANO](files_disneylorcana_com/CRUpdate_2.2.0-IT.pdf) ([as text](text/comprehensive-rules-it.txt))

@@ -33,10 +33,10 @@ class ResourcesHTMLParser(HTMLParser):
 
     TEXT_FILE_NAMES = {
         "CORE - Lore Guide Document.pdf": "CORE-document-en.txt",
-        "CRUpdate_2.2.0-FR.pdf": "comprehensive-rules-fr.txt",
-        "CRUpdate_2.2.0-IT.pdf": "comprehensive-rules-it.txt",
-        "CRUpdate_2.2.0_DE.pdf": "comprehensive-rules-de.txt",
+        "CRUpdate_DE_Okt-2026.pdf": "comprehensive-rules-de.txt",
         "CRUpdate_EN_Oct-2026.pdf": "comprehensive-rules-en.txt",
+        "CRUpdate_FR_Oct-2026.pdf": "comprehensive-rules-fr.txt",
+        "CRUpdate_IT_Oct-2026.pdf": "comprehensive-rules-it.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf": "play-correction-guidelines-en.txt",
         "Tournament-Rules-14.7.2026_Update-DE.pdf": "tournament-rules-de.txt",
         "Tournament-Rules-14.7.2026_Update-FR.pdf": "tournament-rules-fr.txt",

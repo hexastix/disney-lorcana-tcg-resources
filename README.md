@@ -290,7 +290,9 @@
 
 ### 総合ルール
 
-[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney-Lorcana-Comprehensive-Rules_JP.pdf) ([as text](text/comprehensive-rules-jp.txt))
+[ダウンロード](takaratomy_co_jp/products/disneylorcana/common/pdf/Disney-Lorcana-Comprehensive-Rules_JP_261009.pdf) ([as text](text/comprehensive-rules-jp.txt))
+
+### 総合ルール
 
 ### 「THE FIRST CHAPTER 物語のはじまり」 セットノート
 

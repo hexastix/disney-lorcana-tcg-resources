@@ -143,7 +143,7 @@ class ResourcesHTMLParser(HTMLParser):
 
 class RuleFaqHTMLParser(HTMLParser):
     TEXT_FILE_NAMES = {
-        "Disney-Lorcana-Comprehensive-Rules_JP.pdf": "comprehensive-rules-jp.txt",
+        "Disney-Lorcana-Comprehensive-Rules_JP_261009.pdf": "comprehensive-rules-jp.txt",
         "Disney_Lorcana_Play_Correction_Guidelines_JP.pdf": "play-correction-guidelines-jp.txt",
         "Disney_Lorcana_Tournament_Rules_JP.pdf": "tournament-rules-jp.txt",
         "s1_set_notes.pdf": "s1-set-notes-jp.txt",
@@ -185,13 +185,17 @@ class RuleFaqHTMLParser(HTMLParser):
                         assert self.item is None
                         url = f"https://takaratomy.co.jp{attr_value}"
                         pdf_file_path = url_to_path(url).with_suffix(".pdf")
-                        text_file_path = pathlib.Path(
-                            "text", self.TEXT_FILE_NAMES[pdf_file_path.name]
-                        )
-                        self.item = (
-                            f"[{{data}}]({md_link(pdf_file_path)})"
-                            f" ([as text]({md_link(text_file_path)}))"
-                        )
+                        if pdf_file_path.name in self.TEXT_FILE_NAMES:
+                            text_file_path = pathlib.Path(
+                                "text", self.TEXT_FILE_NAMES[pdf_file_path.name]
+                            )
+                            self.item = (
+                                f"[{{data}}]({md_link(pdf_file_path)})"
+                                f" ([as text]({md_link(text_file_path)}))"
+                            )
+                        else:
+                            text_file_path = None
+                            self.list_item = f"[{{data}}]({md_link(pdf_file_path)})"
                         self.pdf_files.append((url, pdf_file_path, text_file_path))
                         break
 

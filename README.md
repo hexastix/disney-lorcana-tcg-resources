@@ -17,6 +17,13 @@
 
 ## Card Set Release Notes
 
+### Hyperia City Set Notes
+
+- [English](files_disneylorcana_com/Hyperia-set-notes_EN.pdf)
+- [Deutsch](files_disneylorcana_com/Hyperia-set-notes_DE.pdf)
+- [FRANÇAIS](files_disneylorcana_com/Hyperia-set-notes_FR.pdf)
+- [Italiano](files_disneylorcana_com/Hyperia-set-notes_IT.pdf)
+
 ### Attack of the Vine! Set Notes
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf)

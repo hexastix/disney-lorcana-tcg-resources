@@ -4,6 +4,13 @@
 *from https://www.disneylorcana.com/en-US/resources*
 
 
+## Ravensburger Play Hub Tiers
+
+### RPH Tiers and FAQ
+
+- [English](https://www.disneylorcana.com/en-US/resources/rph-tiers)
+
+
 ## [Format Coconut] Rules and Documents
 
 ### [Format Coconut] Rules

@@ -50,6 +50,106 @@ class ResourcesHTMLParser(HTMLParser):
         "op-diversity-and-inclusion-policy_DE.pdf": "op-diversity-and-inclusion-policy-de.txt",
         "op-diversity-and-inclusion-policy_FR.pdf": "op-diversity-and-inclusion-policy-fr.txt",
         "op-diversity-and-inclusion-policy_IT.pdf": "op-diversity-and-inclusion-policy-it.txt",
+    }
+
+    def __init__(self, readme_file, pdf_files):
+        super().__init__()
+
+        self.readme_file = readme_file
+        self.pdf_files = pdf_files
+
+        self.in_faq_section = False
+        self.in_faq_block_title = False
+        self.in_accordion_button = False
+        self.in_accordion_header = False
+        self.document_name = None
+        self.list_item = None
+
+    def handle_starttag(self, tag, attrs):
+        if self.in_faq_section:
+            if tag == "h2":
+                if self.in_accordion_button:
+                    assert not self.in_accordion_header
+                    self.in_accordion_header = True
+                for attr_name, attr_value in attrs:
+                    if attr_name == "class" and "faq-block-title" in attr_value:
+                        assert not self.in_faq_block_title
+                        self.in_faq_block_title = True
+                        break
+
+            elif tag == "button":
+                for attr_name, attr_value in attrs:
+                    if attr_name == "class" and attr_value == "accordion-button":
+                        assert not self.in_accordion_button
+                        self.in_accordion_button = True
+                        break
+
+            elif tag == "a":
+                for attr_name, attr_value in attrs:
+                    if attr_name == "href":
+                        assert self.list_item is None
+                        if attr_value.startswith(self.URL_PREFIXES):
+                            url = attr_value
+                            pdf_file_path = url_to_path(url).with_suffix(".pdf")
+                            if pdf_file_path.name in self.TEXT_FILE_NAMES:
+                                text_file_path = pathlib.Path(
+                                    "text", self.TEXT_FILE_NAMES[pdf_file_path.name]
+                                )
+                                self.list_item = (
+                                    f"[{{data}}]({md_link(pdf_file_path)})"
+                                    f" ([as text]({md_link(text_file_path)}))"
+                                )
+                                self.pdf_files.append(
+                                    (url, pdf_file_path, text_file_path)
+                                )
+                            else:
+                                self.list_item = f"[{{data}}]({md_link(pdf_file_path)})"
+                                self.pdf_files.append((url, pdf_file_path, None))
+                        else:
+                            self.list_item = f"[{{data}}]({attr_value})"
+                        break
+
+        elif tag == "flynt-component":
+            for attr_name, attr_value in attrs:
+                if attr_name == "name" and "FAQ" in attr_value:
+                    self.in_faq_section = True
+                    break
+
+    def handle_data(self, data):
+        if self.in_faq_block_title:
+            print(f"\n\n## {data}", file=self.readme_file)
+
+        elif self.in_accordion_header:
+            self.document_name = data
+            print(f"\n### {data}\n", file=self.readme_file)
+
+        elif self.list_item is not None:
+            print(
+                f"- {self.list_item.format(data=data.strip())}",
+                file=self.readme_file,
+            )
+
+    def handle_endtag(self, tag):
+        if tag == "flynt-component":
+            self.in_faq_section = False
+
+        elif tag == "h2":
+            self.in_faq_block_title = False
+            self.in_accordion_header = False
+
+        elif tag == "button":
+            self.in_accordion_button = False
+
+        elif tag == "a":
+            self.list_item = None
+
+
+class LegacyResourcesHTMLParser(HTMLParser):
+    URL_PREFIXES = (
+        "https://files.disneylorcana.com/",
+    )
+
+    TEXT_FILE_NAMES = {
         "完整规则.pdf": "comprehensive-rules-zh.txt",
         "纠正指南.pdf": "play-correction-guidelines-zh.txt",
         "迪士尼洛卡纳中国区比赛规则v20241230.pdf": "tournament-rules-zh.txt",
@@ -283,7 +383,7 @@ def main():
 
         contents = fetch_html_contents(url)
 
-        parser = ResourcesHTMLParser(readme_file, pdf_files)
+        parser = LegacyResourcesHTMLParser(readme_file, pdf_files)
         parser.feed(contents)
 
         print("\n\n------", file=readme_file)

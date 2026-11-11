@@ -8,7 +8,10 @@
 
 ### RPH Tiers and FAQ
 
-- [English](https://www.disneylorcana.com/en-US/resources/rph-tiers)
+- [English](https://disneylorcana.com/en/information-on-ravensburger-play-hub-tiers-and-faq/)
+- [Deutsch](https://disneylorcana.com/de/information-on-ravensburger-play-hub-tiers-and-faq/)
+- [Français](https://disneylorcana.com/fr/information-on-ravensburger-play-hub-tiers-and-faq/)
+- [Italiano](https://disneylorcana.com/it/information-on-ravensburger-play-hub-tiers-and-faq/)
 
 
 ## [Format Coconut] Rules and Documents
@@ -28,14 +31,14 @@
 
 - [English](files_disneylorcana_com/Hyperia-set-notes_EN.pdf)
 - [Deutsch](files_disneylorcana_com/Hyperia-set-notes_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Hyperia-set-notes_FR.pdf)
+- [Français](files_disneylorcana_com/Hyperia-set-notes_FR.pdf)
 - [Italiano](files_disneylorcana_com/Hyperia-set-notes_IT.pdf)
 
 ### Attack of the Vine! Set Notes
 
 - [English](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes_EN.pdf)
 - [Deutsch](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes-DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes-FR.pdf)
+- [Français](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes-FR.pdf)
 - [Italiano](files_disneylorcana_com/Attack-of-the-Vine-Set-Release-Notes-IT.pdf)
 
 ### Wilds Unknown Set Notes
@@ -61,19 +64,19 @@
 ### Fabled Set Notes
 
 - [English](files_disneylorcana_com/Fabled_SetReleaseNotes_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Fabuleux_SetReleaseNotes_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Leggende_SetReleaseNotes_IT.pdf)
+- [Deutsch](files_disneylorcana_com/Mythen_SetReleaseNotes_DE.pdf)
+- [Français](files_disneylorcana_com/Fabuleux_SetReleaseNotes_FR.pdf)
+- [Italiano](files_disneylorcana_com/Leggende_SetReleaseNotes_IT.pdf)
 
 
 ## Game Rules and Documents
 
 ### Quick Start Rules
 
-- [ENGLISH](files_disneylorcana_com/Whispers-in-the-Well_StarterDeckA_RULES_A.pdf)
-- [DEUTSCH](files_disneylorcana_com/Gefluster-aus-der-Tiefe_StarterDeckA_RULES_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Lueurs-dans-les-profondeurs_StarterDeckA_RULES_A_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Sussurri-nel-Pozzo_StarterDeckA_RULES_IT.pdf)
+- [English](files_disneylorcana_com/Whispers-in-the-Well_StarterDeckA_RULES_A.pdf)
+- [Deutsch](files_disneylorcana_com/Gefluster-aus-der-Tiefe_StarterDeckA_RULES_DE.pdf)
+- [Français](files_disneylorcana_com/Lueurs-dans-les-profondeurs_StarterDeckA_RULES_A_FR.pdf)
+- [Italiano](files_disneylorcana_com/Sussurri-nel-Pozzo_StarterDeckA_RULES_IT.pdf)
 - [Español](files_disneylorcana_com/Shimmering%20Skies_Quick_Start_Rules_ES.pdf)
 
 ### Pack Rush Rules
@@ -87,9 +90,9 @@
 ### Comprehensive Rules
 
 - [English](files_disneylorcana_com/CRUpdate_EN_Oct-2026.pdf) ([as text](text/comprehensive-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/CRUpdate_DE_Okt-2026.pdf) ([as text](text/comprehensive-rules-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/CRUpdate_FR_Oct-2026.pdf) ([as text](text/comprehensive-rules-fr.txt))
-- [ITALIANO](files_disneylorcana_com/CRUpdate_IT_Oct-2026.pdf) ([as text](text/comprehensive-rules-it.txt))
+- [Deutsch](files_disneylorcana_com/CRUpdate_DE_Okt-2026.pdf) ([as text](text/comprehensive-rules-de.txt))
+- [Français](files_disneylorcana_com/CRUpdate_FR_Oct-2026.pdf) ([as text](text/comprehensive-rules-fr.txt))
+- [Italiano](files_disneylorcana_com/CRUpdate_IT_Oct-2026.pdf) ([as text](text/comprehensive-rules-it.txt))
 
 ### Disney Lorcana TCG FAQ
 
@@ -109,7 +112,7 @@
 
 - [English](files_disneylorcana_com/Hyperia_SetChamps_EN.pdf)
 - [Deutsch](files_disneylorcana_com/Hyperia_SetChamps_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/Hyperia_SetChamps_FR.pdf)
+- [Français](files_disneylorcana_com/Hyperia_SetChamps_FR.pdf)
 - [Italiano](files_disneylorcana_com/Hyperia_SetChamps_IT.pdf)
 
 ### Attack of the Vine! OP Kit Instructions
@@ -125,16 +128,16 @@
 
 ### Tournament Rules
 
-- [ENGLISH](files_disneylorcana_com/Tournament-Rules-7.14.2026_Update_EN.pdf) ([as text](text/tournament-rules-en.txt))
-- [DEUTSCH](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-DE.pdf) ([as text](text/tournament-rules-de.txt))
-- [ITALIANO](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
+- [English](files_disneylorcana_com/Tournament-Rules-7.14.2026_Update_EN.pdf) ([as text](text/tournament-rules-en.txt))
+- [Deutsch](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-DE.pdf) ([as text](text/tournament-rules-de.txt))
 - [Français](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-FR.pdf) ([as text](text/tournament-rules-fr.txt))
+- [Italiano](files_disneylorcana_com/Tournament-Rules-14.7.2026_Update-IT.pdf) ([as text](text/tournament-rules-it.txt))
 
 ### CCQ Event Term Sheet
 
 - [English](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-EN.pdf)
 - [Deutsch](files_disneylorcana_com/DLC-CCQ-Event%20Term-Sheet-DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-FR.pdf)
+- [Français](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-FR.pdf)
 - [Italiano](files_disneylorcana_com/DLC-CCQ-Event-Term-Sheet-IT.pdf)
 
 ### CORE Document - Lore Guide Resource
@@ -146,26 +149,26 @@
 
 ### Play Correction Guidelines
 
-- [ENGLISH](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))
+- [English](files_disneylorcana_com/Disney_Lorcana_Play_Correction_Guidelines_052124update.pdf) ([as text](text/play-correction-guidelines-en.txt))
 
 ### Disney Lorcana TCG Deck Registration Sheet
 
-- [https://files.disneylorcana.com/OP_Constructed_Decklist_Registration-Sheet.pdf](files_disneylorcana_com/OP_Constructed_Decklist_Registration-Sheet.pdf)
+- [English](files_disneylorcana_com/OP_Constructed_Decklist_Registration-Sheet.pdf)
 
 ### Results Slip
 
 - [English](files_disneylorcana_com/RAV_ResultsSlip_8.5x11_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/RAV_ResultsSlip_A4_DE.pdf)
+- [Deutsch](files_disneylorcana_com/RAV_ResultsSlip_A4_DE.pdf)
 - [Français](files_disneylorcana_com/RAV_ResultsSlip_A4_FR.pdf)
 - [Italiano](files_disneylorcana_com/RAV_ResultsSlip_A4_IT.pdf)
 - [Español](files_disneylorcana_com/RAV_ResultsSlip_A4_ES.pdf)
 - [English A4 Size](files_disneylorcana_com/RAV_ResultsSlip_A4_EN.pdf)
 
-### Disneyland Paris Collection Quest
+### Disney Paris Collection Quest
 
-- [ENGLISH](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_EN.pdf)
-- [GERMAN](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_DE%20%281%29.pdf)
-- [ITALIAN](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_IT_r3.pdf)
+- [English](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_EN.pdf)
+- [Deutsch](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_DE%20%281%29.pdf)
+- [Italiano](files_disneylorcana_com/DLC_Collection_Quest_Paris_148x210mm_IT_r3.pdf)
 
 ### Evergreen Collection Quest Organizer Instructions
 
@@ -176,35 +179,35 @@
 
 ### Hobby Store Requirements
 
-- [ENGLISH](files_disneylorcana_com/Disney_lorcana_hobby_requirements_20230510_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/Lorcana_StoreRequirements_IT.pdf)
+- [English](files_disneylorcana_com/Disney_lorcana_hobby_requirements_20230510_EN.pdf)
+- [Deutsch](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_DE.pdf)
+- [Français](files_disneylorcana_com/disney_lorcana_hobby_requirements_20230510_FR.pdf)
+- [Italiano](files_disneylorcana_com/Lorcana_StoreRequirements_IT.pdf)
 
 ### Hobby Store Program Application Form
 
-- [Ravensburger Play Hub](https://www.ravensburgerplay.com)
+- [Ravensburger Play Hub](https://www.ravensburgerplay.com/)
 
 ### Hobby Store Terms & Conditions
 
-- [ENGLISH](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_EN.pdf)
-- [DEUTSCH](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_DE.pdf)
-- [FRANÇAIS](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_FR.pdf)
-- [ITALIANO](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_IT.pdf)
+- [English](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_EN.pdf)
+- [Deutsch](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_DE.pdf)
+- [Français](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_FR.pdf)
+- [Italiano](files_disneylorcana_com/DLC_OP_HSP_Terms_Conditions_IT.pdf)
 
 ### Diversity & Inclusion Policy
 
-- [ENGLISH](files_disneylorcana_com/op-diversity-and-inclusion-policy.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
+- [English](files_disneylorcana_com/op-diversity-and-inclusion-policy.pdf) ([as text](text/op-diversity-and-inclusion-policy-en.txt))
 - [Deutsch](files_disneylorcana_com/op-diversity-and-inclusion-policy_DE.pdf) ([as text](text/op-diversity-and-inclusion-policy-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/op-diversity-and-inclusion-policy_FR.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
-- [ITALIANO](files_disneylorcana_com/op-diversity-and-inclusion-policy_IT.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
+- [Français](files_disneylorcana_com/op-diversity-and-inclusion-policy_FR.pdf) ([as text](text/op-diversity-and-inclusion-policy-fr.txt))
+- [Italiano](files_disneylorcana_com/op-diversity-and-inclusion-policy_IT.pdf) ([as text](text/op-diversity-and-inclusion-policy-it.txt))
 
 ### Community Code
 
-- [ENGLISH](files_disneylorcana_com/community-code-en.pdf) ([as text](text/community-code-en.txt))
-- [DEUTSCH](files_disneylorcana_com/disney_lorcana_community_code_20230510_DE.pdf) ([as text](text/community-code-de.txt))
-- [FRANÇAIS](files_disneylorcana_com/disney_lorcana_community_code_20230510_FR.pdf) ([as text](text/community-code-fr.txt))
-- [ITALIANO](files_disneylorcana_com/disney_lorcana_community_code_20230510_IT.pdf) ([as text](text/community-code-it.txt))
+- [English](files_disneylorcana_com/community-code-en.pdf) ([as text](text/community-code-en.txt))
+- [Deutsch](files_disneylorcana_com/disney_lorcana_community_code_20230510_DE.pdf) ([as text](text/community-code-de.txt))
+- [Français](files_disneylorcana_com/disney_lorcana_community_code_20230510_FR.pdf) ([as text](text/community-code-fr.txt))
+- [Italiano](files_disneylorcana_com/disney_lorcana_community_code_20230510_IT.pdf) ([as text](text/community-code-it.txt))
 
 ### Replacement Policy
 
